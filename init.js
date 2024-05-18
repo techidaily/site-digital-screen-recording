@@ -8,9 +8,9 @@ const fs = require('fs');
 const path = require('path');
 
 // ------------------------------------------------------------------------------------------- 以下内容需要自己替换
-const subSiteAuthor = 'Nova';
-const subSiteKeywords = `` + ','; // 关键字，多个关键字用逗号分隔
-const indexNowKey = 'ec9c9516ea82433086d979e16e1960e0'; // 替换为你的API密钥
+const subSiteAuthor = 'Princess Diana';
+const subSiteKeywords = `screen-recording,screen-capture,video-screen-grab,desktop-recording,screen-video-capture,screen-mirroring-recording,on-screen-recording,screen-activity-recording,remote-screen-capture,screen-sharing-recording,digital-screen-recording,visual-screen-recording,video-capture` + ','; // 关键字，多个关键字用逗号分隔
+const indexNowKey = '4a3c02cbfa6349e69e49ca8af290c6de'; // 替换为你的API密钥
 
 
 
