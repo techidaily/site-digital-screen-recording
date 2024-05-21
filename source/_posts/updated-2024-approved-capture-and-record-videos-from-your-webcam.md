@@ -515,3 +515,4 @@ In this article, we have provided some software to record the video from the web
 <li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-oppo-a78-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of Oppo A78 using Video Repair Utility on Mac?</u></a></li>
 </ul></div>
 
+

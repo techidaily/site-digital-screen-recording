@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Methods for Amending Silent OBS Recordings"
-date: 2024-05-18T16:24:29.473Z
-updated: 2024-05-19T16:24:29.473Z
+date: 2024-05-20T05:09:38.559Z
+updated: 2024-05-21T05:09:38.559Z
 tags: 
   - screen-recording
   - ai video
@@ -554,4 +554,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Motorola Defy 2 | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Vivo V27 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

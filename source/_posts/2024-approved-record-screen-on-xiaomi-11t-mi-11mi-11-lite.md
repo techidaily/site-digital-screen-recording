@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Record Screen on Xiaomi 11T/ Mi 11/Mi 11 Lite\""
-date: 2024-05-18T16:01:46.505Z
-updated: 2024-05-19T16:01:46.505Z
+date: 2024-05-20T05:08:49.662Z
+updated: 2024-05-21T05:08:49.662Z
 tags: 
   - screen-recording
   - ai video
@@ -580,4 +580,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://howto.techidaily.com/xiaomi-redmi-13c-5g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi 13C 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Xiaomi Redmi 13C | Dr.fone</u></a></li>
 </ul></div>
+
 

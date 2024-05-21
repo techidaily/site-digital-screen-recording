@@ -685,3 +685,4 @@ Follow @Max Wales
 <li><a href="https://sound-optimizing.techidaily.com/foundations-of-lexisaudioscript-your-first-steps-into-audio-editing/"><u>Foundations of LexisAudioScript Your First Steps Into Audio Editing</u></a></li>
 </ul></div>
 
+

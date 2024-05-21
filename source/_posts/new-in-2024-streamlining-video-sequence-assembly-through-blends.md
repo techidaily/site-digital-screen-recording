@@ -484,3 +484,4 @@ Follow @Max Wales
 <li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-sony-xperia-5-v-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Sony Xperia 5 V Quickly | Dr.fone</u></a></li>
 </ul></div>
 
+

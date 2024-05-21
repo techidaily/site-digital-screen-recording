@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Essential FBX Techniques for Capturing Games"
-date: 2024-05-18T16:18:51.810Z
-updated: 2024-05-19T16:18:51.810Z
+date: 2024-05-20T05:09:26.785Z
+updated: 2024-05-21T05:09:26.785Z
 tags: 
   - screen-recording
   - ai video
@@ -517,4 +517,5 @@ If you are looking for a screen recorder that is specifically designed to captur
 <li><a href="https://ai-voice-clone.techidaily.com/in-2024-what-is-an-ai-presentation-maker/"><u>In 2024, What Is an AI Presentation Maker?</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-vivo-y200-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Vivo Y200 | Dr.fone</u></a></li>
 </ul></div>
+
 

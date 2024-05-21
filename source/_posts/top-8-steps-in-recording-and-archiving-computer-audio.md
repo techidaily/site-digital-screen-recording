@@ -1,7 +1,7 @@
 ---
 title: "Top 8 Steps in Recording and Archiving Computer Audio"
-date: 2024-05-18T16:15:34.877Z
-updated: 2024-05-19T16:15:34.877Z
+date: 2024-05-20T05:09:19.831Z
+updated: 2024-05-21T05:09:19.831Z
 tags: 
   - screen-recording
   - ai video
@@ -800,4 +800,5 @@ This article highlights the various methods that can be used to record pc sound 
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-oppo-find-n3-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Oppo Find N3 PIN Code/Pattern Lock/Password</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-samsung-galaxy-f14-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Samsung Galaxy F14 5G Lock Screen Password?</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Advanced Setup  Setting up an Elapsed Time Display in OBS for 2024\""
-date: 2024-05-18T16:07:12.233Z
-updated: 2024-05-19T16:07:12.233Z
+date: 2024-05-20T05:09:01.044Z
+updated: 2024-05-21T05:09:01.044Z
 tags: 
   - screen-recording
   - ai video
@@ -253,4 +253,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://video-creation-software.techidaily.com/updated-top-10-free-whiteboard-video-makers-for-windows-and-mac/"><u>Updated Top 10 Free Whiteboard Video Makers for Windows and Mac</u></a></li>
 <li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Lava Blaze 2 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

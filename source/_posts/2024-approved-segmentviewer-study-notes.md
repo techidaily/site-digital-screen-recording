@@ -270,3 +270,4 @@ SplitCam as a free video record is great to say the least. However, it fails to 
 <li><a href="https://review-topics.techidaily.com/how-to-unlock-the-lock-screen-on-my-itel-a05s-by-drfone-android-unlock-android-unlock/"><u>How to Unlock the Lock Screen on my Itel A05s</u></a></li>
 </ul></div>
 
+

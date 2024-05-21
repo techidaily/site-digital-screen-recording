@@ -410,3 +410,4 @@ Follow @Max Wales
 <li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-animate-your-designs-with-canva-gif/"><u>Updated 2024 Approved How to Animate Your Designs With Canva GIF</u></a></li>
 </ul></div>
 
+

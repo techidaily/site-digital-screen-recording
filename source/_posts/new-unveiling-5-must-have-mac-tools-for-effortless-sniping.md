@@ -272,3 +272,4 @@ For macOS 10.12 or later
 <li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-spark-20c-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Spark 20C?</u></a></li>
 </ul></div>
 
+

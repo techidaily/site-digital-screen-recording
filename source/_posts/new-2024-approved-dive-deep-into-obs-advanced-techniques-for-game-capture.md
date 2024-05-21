@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Dive Deep Into OBS  Advanced Techniques for Game Capture\""
-date: 2024-05-18T16:26:09.499Z
-updated: 2024-05-19T16:26:09.499Z
+date: 2024-05-20T05:09:42.159Z
+updated: 2024-05-21T05:09:42.159Z
 tags: 
   - screen-recording
   - ai video
@@ -386,4 +386,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://sound-tweaking.techidaily.com/how-to-make-your-voice-deeper-with-filmora/"><u>How to Make Your Voice Deeper With Filmora?</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-v30t-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Realme V30T to Outlook | Dr.fone</u></a></li>
 </ul></div>
+
 

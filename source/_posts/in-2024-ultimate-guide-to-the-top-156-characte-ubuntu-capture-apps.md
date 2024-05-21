@@ -717,3 +717,4 @@ Assuming you at any point need to record your screen on Ubuntu Linux, there are 
 <li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-xiaomi-redmi-k70-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Xiaomi Redmi K70</u></a></li>
 </ul></div>
 
+

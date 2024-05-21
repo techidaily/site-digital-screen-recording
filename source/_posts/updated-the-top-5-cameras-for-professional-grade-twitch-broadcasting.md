@@ -755,3 +755,4 @@ Follow @Max Wales
 <li><a href="https://ai-editing-video.techidaily.com/how-to-use-face-tracking-in-after-effects-to-make-your-videos-pop-for-2024/"><u>How To Use Face Tracking In After Effects To Make Your Videos Pop for 2024</u></a></li>
 </ul></div>
 
+

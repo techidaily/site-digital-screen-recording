@@ -326,3 +326,4 @@ So form the above discussion it can be concluded that OBS for screen recording c
 <li><a href="https://techidaily.com/how-do-i-reset-my-vivo-t2-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Vivo T2 5G Phone without technical knowledge? | Dr.fone</u></a></li>
 </ul></div>
 
+

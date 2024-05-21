@@ -1,7 +1,7 @@
 ---
 title: "Complete Guide to CamStudio Screencap Mastery"
-date: 2024-05-18T16:24:50.428Z
-updated: 2024-05-19T16:24:50.428Z
+date: 2024-05-20T05:09:39.623Z
+updated: 2024-05-21T05:09:39.623Z
 tags: 
   - screen-recording
   - ai video
@@ -217,4 +217,5 @@ CamStudio is an open-source screen recorder, and it is suitable for regular scre
 <li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-itel-s23plus-by-drfone-android/"><u>How to Show Wi-Fi Password on Itel S23+</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-vivo-v27-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Vivo V27</u></a></li>
 </ul></div>
+
 

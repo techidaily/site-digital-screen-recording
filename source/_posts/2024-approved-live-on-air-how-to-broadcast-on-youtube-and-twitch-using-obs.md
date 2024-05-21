@@ -183,3 +183,4 @@ OBS is an open-source [video recorder](https://tools.techidaily.com/wondershare/
 <li><a href="https://iphone-transfer.techidaily.com/how-to-transfersync-notes-from-apple-iphone-6-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer/Sync Notes from Apple iPhone 6 to iPad | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Fixing the Full-Screen Freeze in OBS\""
-date: 2024-05-18T16:18:52.617Z
-updated: 2024-05-19T16:18:52.617Z
+date: 2024-05-20T05:09:26.811Z
+updated: 2024-05-21T05:09:26.811Z
 tags: 
   - screen-recording
   - ai video
@@ -285,4 +285,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-most-reliable-mp3-converters-for-mac-users/"><u>New 2024 Approved The Most Reliable MP3 Converters for Mac Users</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-samsung-galaxy-xcover-7-by-fonelab-android-recover-music/"><u>How to restore wiped music on Samsung Galaxy XCover 7</u></a></li>
 </ul></div>
+
 

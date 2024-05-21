@@ -1,7 +1,7 @@
 ---
 title: "\"Avoiding Pitfalls in Low-Light Portrait Photography for 2024\""
-date: 2024-05-18T16:22:26.874Z
-updated: 2024-05-19T16:22:26.874Z
+date: 2024-05-20T05:09:34.590Z
+updated: 2024-05-21T05:09:34.590Z
 tags: 
   - screen-recording
   - ai video
@@ -221,4 +221,5 @@ You should use your camera in manual mode. Besides, utilizing long camera shutte
 <li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-vivo-y02t-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Vivo Y02T to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-15-pro-drfone-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone 15 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

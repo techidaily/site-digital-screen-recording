@@ -620,3 +620,4 @@ Follow @Richard Bennett
 <li><a href="https://activate-lock.techidaily.com/how-to-remove-the-activation-lock-on-your-ipad-and-iphone-8-plus-without-apple-account-by-drfone-ios/"><u>How to Remove the Activation Lock On your iPad and iPhone 8 Plus without Apple Account</u></a></li>
 </ul></div>
 
+

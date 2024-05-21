@@ -266,3 +266,4 @@ ShareX is great if you want to capture screenshots of your current screen as wel
 <li><a href="https://fix-guide.techidaily.com/reasons-for-infinix-note-30-5g-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Infinix Note 30 5G Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
 </ul></div>
 
+

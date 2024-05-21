@@ -533,3 +533,4 @@ Follow @Max Wales
 <li><a href="https://voice-adjusting.techidaily.com/mastering-dynamic-volume-control-in-final-cut-pro-x-an-introduction-to-automatic-audio-ducking/"><u>Mastering Dynamic Volume Control in Final Cut Pro X An Introduction to Automatic Audio Ducking</u></a></li>
 </ul></div>
 
+

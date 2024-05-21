@@ -1,7 +1,7 @@
 ---
 title: "How to Record Gameplay on PS4"
-date: 2024-05-18T16:01:09.334Z
-updated: 2024-05-19T16:01:09.334Z
+date: 2024-05-20T05:08:48.003Z
+updated: 2024-05-21T05:08:48.003Z
 tags: 
   - screen-recording
   - ai video
@@ -390,4 +390,5 @@ Hopefully, you have understood how to record videos on PS4\. If your gameplay is
 <li><a href="https://iphone-location.techidaily.com/quick-steps-to-change-weather-location-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>Quick Steps to Change Weather Location on Apple iPhone 11 Pro | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-tecno-spark-10-pro-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Tecno Spark 10 Pro</u></a></li>
 </ul></div>
+
 

@@ -519,3 +519,4 @@ Follow @Richard Bennett
 <li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-infinix-hot-40-pro-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Infinix Hot 40 Pro</u></a></li>
 </ul></div>
 
+

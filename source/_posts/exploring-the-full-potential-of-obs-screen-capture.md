@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Full Potential of OBS Screen Capture"
-date: 2024-05-18T16:01:24.376Z
-updated: 2024-05-19T16:01:24.376Z
+date: 2024-05-20T05:08:48.521Z
+updated: 2024-05-21T05:08:48.521Z
 tags: 
   - screen-recording
   - ai video
@@ -521,4 +521,5 @@ OBS is a splendid application to make web-based recordings happen and stream cat
 <li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-discovering-the-top-5-audio-mixers-perfect-for-mac-users/"><u>Updated In 2024, Discovering the Top 5 Audio Mixers Perfect for Mac Users</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-s23-tactical-edition-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Samsung Galaxy S23 Tactical Edition Phone without Any Data Loss</u></a></li>
 </ul></div>
+
 

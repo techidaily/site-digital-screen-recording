@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Scaling Back OBS Video Bandwidth"
-date: 2024-05-18T16:15:39.995Z
-updated: 2024-05-19T16:15:39.995Z
+date: 2024-05-20T05:09:20.015Z
+updated: 2024-05-21T05:09:20.015Z
 tags: 
   - screen-recording
   - ai video
@@ -255,4 +255,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://activate-lock.techidaily.com/easy-fixes-how-to-recover-forgotten-icloud-password-on-your-iphone-xr-by-drfone-ios/"><u>Easy Fixes How To Recover Forgotten iCloud Password On your iPhone XR</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Vivo S18 Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 

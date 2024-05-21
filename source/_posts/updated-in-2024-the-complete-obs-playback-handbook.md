@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, The Complete OBS Playback Handbook"
-date: 2024-05-18T16:06:59.710Z
-updated: 2024-05-19T16:06:59.710Z
+date: 2024-05-20T05:09:00.663Z
+updated: 2024-05-21T05:09:00.663Z
 tags: 
   - screen-recording
   - ai video
@@ -413,4 +413,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://voice-adjusting.techidaily.com/in-2024-sonic-innovation-unleashed-navigating-through-the-seventh-wave-of-audio-manipulation/"><u>In 2024, Sonic Innovation Unleashed Navigating Through the Seventh Wave of Audio Manipulation</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-the-best-video-editing-apps-for-those-new-to-video-editing/"><u>Updated 2024 Approved The Best Video Editing Apps for Those New to Video Editing</u></a></li>
 </ul></div>
+
 

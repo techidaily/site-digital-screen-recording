@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Reconnecting Sound Tracks to OBS Broadcasts\""
-date: 2024-05-18T16:10:37.924Z
-updated: 2024-05-19T16:10:37.924Z
+date: 2024-05-20T05:09:08.147Z
+updated: 2024-05-21T05:09:08.147Z
 tags: 
   - screen-recording
   - ai video
@@ -585,4 +585,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://ai-vdieo-software.techidaily.com/new-change-video-speed-easily-best-free-and-paid-tools-for-pc-mac-and-online/"><u>New Change Video Speed Easily Best Free and Paid Tools for PC, Mac, and Online</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-on-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working On Apple iPhone XS Max</u></a></li>
 </ul></div>
+
 

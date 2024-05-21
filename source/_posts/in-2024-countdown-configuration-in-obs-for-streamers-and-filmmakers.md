@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Countdown Configuration in OBS for Streamers and Filmmakers"
-date: 2024-05-18T16:16:55.041Z
-updated: 2024-05-19T16:16:55.041Z
+date: 2024-05-20T05:09:22.522Z
+updated: 2024-05-21T05:09:22.522Z
 tags: 
   - screen-recording
   - ai video
@@ -262,4 +262,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://pokemon-go-android.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Realme 12+ 5G | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-realme-10t-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Realme 10T 5G in 3 Ways | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -399,3 +399,4 @@ Hopefully, you have understood how to record videos on PS4\. If your gameplay is
 <li><a href="https://animation-videos.techidaily.com/how-to-guide-secret-shortcut-to-adobe-animate-character-tutorial/"><u>How-To Guide Secret Shortcut to Adobe Animate Character Tutorial</u></a></li>
 </ul></div>
 
+

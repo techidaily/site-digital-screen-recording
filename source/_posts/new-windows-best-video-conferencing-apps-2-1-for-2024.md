@@ -667,3 +667,4 @@ Follow @Richard Bennett
 <li><a href="https://ai-video-editing.techidaily.com/mastering-opencv-object-tracking-a-comprehensive-guide-for-beginners-and-experts/"><u>Mastering OpenCV Object Tracking A Comprehensive Guide for Beginners and Experts</u></a></li>
 </ul></div>
 
+

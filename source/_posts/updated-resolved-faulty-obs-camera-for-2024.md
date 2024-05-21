@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Resolved  Faulty OBS Camera for 2024\""
-date: 2024-05-18T16:24:16.180Z
-updated: 2024-05-19T16:24:16.180Z
+date: 2024-05-20T05:09:38.058Z
+updated: 2024-05-21T05:09:38.058Z
 tags: 
   - screen-recording
   - ai video
@@ -267,4 +267,5 @@ OBS Studio is especially popular in the gaming community since it helps you crea
 <li><a href="https://video-ai-editor.techidaily.com/2024-approved-sony-vegas-too-expensive-affordable-alternatives-for-windows/"><u>2024 Approved Sony Vegas Too Expensive? Affordable Alternatives for Windows</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/new-mastering-audio-visualization-creating-waveforms-and-enhancing-with-animations-in-adobe-premiere-pro/"><u>New Mastering Audio Visualization Creating Waveforms & Enhancing with Animations in Adobe Premiere Pro</u></a></li>
 </ul></div>
+
 

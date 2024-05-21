@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Inbuilt Camera Functions to Capture Screens on Huawei's Mate/P Series Phones for 2024"
-date: 2024-05-18T16:05:37.624Z
-updated: 2024-05-19T16:05:37.624Z
+date: 2024-05-20T05:08:57.496Z
+updated: 2024-05-21T05:08:57.496Z
 tags: 
   - screen-recording
   - ai video
@@ -415,4 +415,5 @@ Follow @Max Wales
 <li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-tecno-phantom-v-fold-by-drfone-android/"><u>Full Guide to Unlock Your Tecno Phantom V Fold</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Honor X7b | Dr.fone</u></a></li>
 </ul></div>
+
 

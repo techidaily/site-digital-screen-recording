@@ -511,3 +511,4 @@ If you are a Mac user, QuickTime player screen recording with audio is available
 <li><a href="https://audio-shaping.techidaily.com/in-2024-enhancing-accessibility-documenting-computer-audio-in-audacity/"><u>In 2024, Enhancing Accessibility Documenting Computer Audio in Audacity</u></a></li>
 </ul></div>
 
+

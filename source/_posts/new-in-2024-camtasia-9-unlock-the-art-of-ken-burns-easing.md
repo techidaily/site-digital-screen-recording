@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Camtasia 9  Unlock the Art of Ken Burns Easing\""
-date: 2024-05-18T16:21:39.759Z
-updated: 2024-05-19T16:21:39.759Z
+date: 2024-05-20T05:09:32.614Z
+updated: 2024-05-21T05:09:32.614Z
 tags: 
   - screen-recording
   - ai video
@@ -340,4 +340,5 @@ Follow @Max Wales
 <li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-best-8-ar-apps-for-android-and-ios-help-you-see-the-world-of-ar/"><u>Updated 2024 Approved Best 8 AR Apps for Android and iOS | Help You See the World of AR</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-realme-gt-neo-5-se-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Realme GT Neo 5 SE</u></a></li>
 </ul></div>
+
 

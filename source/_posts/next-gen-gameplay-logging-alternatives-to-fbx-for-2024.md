@@ -566,3 +566,4 @@ If you are facing FBX recorder not working issue or you are not satisfied with t
 <li><a href="https://voice-adjusting.techidaily.com/from-raw-tape-to-polished-production-advanced-techniques-using-sony-vegas-pro/"><u>From Raw Tape to Polished Production Advanced Techniques Using Sony Vegas Pro</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Fixing OBS's Full-Screen Freeze Up\""
-date: 2024-05-18T16:07:31.931Z
-updated: 2024-05-19T16:07:31.931Z
+date: 2024-05-20T05:09:01.690Z
+updated: 2024-05-21T05:09:01.690Z
 tags: 
   - screen-recording
   - ai video
@@ -260,4 +260,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://change-location.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/data-retrieval-tool-restore-lost-data-from-galaxy-a15-5g-by-fonelab-android-recover-data/"><u>Data Retrieval tool – restore lost data from Galaxy A15 5G</u></a></li>
 </ul></div>
+
 

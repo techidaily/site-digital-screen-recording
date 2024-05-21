@@ -489,3 +489,4 @@ For macOS 10.12 or later
 <li><a href="https://ai-editing-video.techidaily.com/5-tried-and-true-methods-to-gif-making/"><u>5 Tried-And-True Methods to GIF Making</u></a></li>
 </ul></div>
 
+

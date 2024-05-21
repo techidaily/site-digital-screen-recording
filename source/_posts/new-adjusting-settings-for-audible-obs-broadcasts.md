@@ -1,7 +1,7 @@
 ---
 title: "[New] Adjusting Settings for Audible OBS Broadcasts"
-date: 2024-05-18T16:25:14.145Z
-updated: 2024-05-19T16:25:14.145Z
+date: 2024-05-20T05:09:40.384Z
+updated: 2024-05-21T05:09:40.384Z
 tags: 
   - screen-recording
   - ai video
@@ -563,4 +563,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://iphone-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-6s-plus-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone 6s Plus without Passcode or Face ID | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-iphone-14-pro-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock on iPhone 14 Pro or iPad?</u></a></li>
 </ul></div>
+
 

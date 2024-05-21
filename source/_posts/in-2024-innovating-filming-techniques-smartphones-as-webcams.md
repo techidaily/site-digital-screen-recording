@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Innovating Filming Techniques  Smartphones as Webcams\""
-date: 2024-05-18T16:01:41.922Z
-updated: 2024-05-19T16:01:41.922Z
+date: 2024-05-20T05:08:49.516Z
+updated: 2024-05-21T05:08:49.516Z
 tags: 
   - screen-recording
   - ai video
@@ -609,4 +609,5 @@ Follow @Max Wales
 <li><a href="https://ai-driven-video-production.techidaily.com/updated-linux-premiere-pro-alternatives-10-top-picks/"><u>Updated Linux Premiere Pro Alternatives 10 Top Picks</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-vivo-y02t-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Vivo Y02T FRP Without Computer</u></a></li>
 </ul></div>
+
 

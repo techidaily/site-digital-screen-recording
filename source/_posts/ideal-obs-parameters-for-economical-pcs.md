@@ -1,7 +1,7 @@
 ---
 title: "Ideal OBS Parameters for Economical PCs"
-date: 2024-05-18T16:14:44.294Z
-updated: 2024-05-19T16:14:44.294Z
+date: 2024-05-20T05:09:17.752Z
+updated: 2024-05-21T05:09:17.752Z
 tags: 
   - screen-recording
   - ai video
@@ -247,4 +247,5 @@ There may be a lot of other software which serve the same purpose but the best o
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Realme 11 Pro | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-factory-reset-vivo-y200e-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo Y200e 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
 </ul></div>
+
 

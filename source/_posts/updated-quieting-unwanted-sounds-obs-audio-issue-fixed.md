@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Quieting Unwanted Sounds  OBS Audio Issue Fixed\""
-date: 2024-05-18T16:10:30.856Z
-updated: 2024-05-19T16:10:30.856Z
+date: 2024-05-20T05:09:07.908Z
+updated: 2024-05-21T05:09:07.908Z
 tags: 
   - screen-recording
   - ai video
@@ -573,4 +573,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-oppo-f25-pro-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Oppo F25 Pro 5G to iPod | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-apple-iphone-x-mirror-to-pc-top-apps-you-must-know-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone X Mirror to PC? Top Apps You Must Know | Dr.fone</u></a></li>
 </ul></div>
+
 

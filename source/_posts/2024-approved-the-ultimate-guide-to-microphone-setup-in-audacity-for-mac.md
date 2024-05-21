@@ -288,3 +288,4 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 <li><a href="https://voice-adjusting.techidaily.com/new-top-7-audio-recording-tools-beyond-audacity-mobile-edition/"><u>New Top 7 Audio Recording Tools Beyond Audacity - Mobile Edition</u></a></li>
 </ul></div>
 
+

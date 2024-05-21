@@ -371,3 +371,4 @@ Follow @Ollie Mattison
 <li><a href="https://video-content-creator.techidaily.com/new-the-vertical-video-revolution-one-simple-trick-to-resize-for-social-media/"><u>New The Vertical Video Revolution One Simple Trick to Resize for Social Media</u></a></li>
 </ul></div>
 
+

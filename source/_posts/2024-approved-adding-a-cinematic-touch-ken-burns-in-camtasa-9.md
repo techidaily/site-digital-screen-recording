@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Adding a Cinematic Touch  Ken Burns in Camtasa 9\""
-date: 2024-05-18T16:03:40.607Z
-updated: 2024-05-19T16:03:40.607Z
+date: 2024-05-20T05:08:53.326Z
+updated: 2024-05-21T05:08:53.326Z
 tags: 
   - screen-recording
   - ai video
@@ -378,4 +378,5 @@ Follow @Max Wales
 <li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-zte-nubia-z60-ultra-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on ZTE Nubia Z60 Ultra to Protect Your Individual Information</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-oppo-find-n3-flip-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Oppo Find N3 Flip Device</u></a></li>
 </ul></div>
+
 

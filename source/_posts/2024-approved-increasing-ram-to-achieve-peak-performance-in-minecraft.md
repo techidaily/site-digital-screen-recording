@@ -610,3 +610,4 @@ Follow @Ollie Mattison
 <li><a href="https://video-content-creator.techidaily.com/new-resize-like-a-pro-the-1-tip-for-vertical-social-media-videos/"><u>New Resize Like a Pro The #1 Tip for Vertical Social Media Videos</u></a></li>
 </ul></div>
 
+

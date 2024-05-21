@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  In-Depth Guide  OBS for Gamers\""
-date: 2024-05-18T16:05:37.356Z
-updated: 2024-05-19T16:05:37.356Z
+date: 2024-05-20T05:08:57.488Z
+updated: 2024-05-21T05:08:57.488Z
 tags: 
   - screen-recording
   - ai video
@@ -402,4 +402,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-x50iplus-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of X50i+?</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-15-plus-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your iPhone 15 Plus Lock Screen with Notifications?</u></a></li>
 </ul></div>
+
 

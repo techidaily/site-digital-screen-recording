@@ -245,3 +245,4 @@ CamStudio is an open-source screen recorder, and it is suitable for regular scre
 <li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-infinix-smart-7-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Infinix Smart 7</u></a></li>
 </ul></div>
 
+

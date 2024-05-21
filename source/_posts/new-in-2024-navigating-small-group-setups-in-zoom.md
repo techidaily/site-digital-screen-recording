@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Navigating Small Group Setups in Zoom"
-date: 2024-05-18T16:03:48.999Z
-updated: 2024-05-19T16:03:48.999Z
+date: 2024-05-20T05:08:53.637Z
+updated: 2024-05-21T05:08:53.637Z
 tags: 
   - screen-recording
   - ai video
@@ -506,4 +506,5 @@ Follow @Richard Bennett
 <li><a href="https://ai-editing-video.techidaily.com/8-free-photo-collage-with-music-video-maker-for-2024/"><u>8 Free Photo Collage with Music Video Maker for 2024</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-15-camera-shake-preset-for-premiere-pro-to-add-camera-shake-with-simple-keyframes-each-preset-is-editable-with-easy-steps-make-your-vi/"><u>Updated 2024 Approved 15 Camera Shake Preset for Premiere Pro to Add Camera Shake with Simple Keyframes. Each Preset Is Editable with Easy Steps. Make Your Video Shocking and Impressive with These Camera Shake Effects</u></a></li>
 </ul></div>
+
 

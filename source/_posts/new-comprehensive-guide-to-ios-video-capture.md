@@ -635,3 +635,4 @@ Detailed tutorials provided by the official channel
 <li><a href="https://smart-video-editing.techidaily.com/new-in-2024-unlocking-ideal-image-proportions-calculation-and-adjustment-tips/"><u>New In 2024, Unlocking Ideal Image Proportions Calculation and Adjustment Tips</u></a></li>
 </ul></div>
 
+

@@ -254,3 +254,4 @@ ShareX is great if you want to capture screenshots of your current screen as wel
 <li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-a-slideshow-gif/"><u>New How to Create a Slideshow GIF?</u></a></li>
 </ul></div>
 
+

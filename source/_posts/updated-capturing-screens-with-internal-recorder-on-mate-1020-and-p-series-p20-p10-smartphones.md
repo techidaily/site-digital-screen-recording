@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Capturing Screens with Internal Recorder on Mate 10/20 & P Series (P20, P10) Smartphones"
-date: 2024-05-18T16:11:02.257Z
-updated: 2024-05-19T16:11:02.257Z
+date: 2024-05-20T05:09:09.026Z
+updated: 2024-05-21T05:09:09.026Z
 tags: 
   - screen-recording
   - ai video
@@ -390,4 +390,5 @@ Follow @Max Wales
 <li><a href="https://sound-optimizing.techidaily.com/2024-approved-the-ultimate-fix-it-manual-strategies-and-methods-for-correcting-deformed-audio/"><u>2024 Approved The Ultimate Fix-It Manual Strategies and Methods for Correcting Deformed Audio</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Oppo A38? | Dr.fone</u></a></li>
 </ul></div>
+
 

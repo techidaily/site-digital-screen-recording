@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Step-by-Step Guide to Audacity Audio Capture on Mac\""
-date: 2024-05-18T16:18:14.219Z
-updated: 2024-05-19T16:18:14.219Z
+date: 2024-05-20T05:09:25.587Z
+updated: 2024-05-21T05:09:25.587Z
 tags: 
   - screen-recording
   - ai video
@@ -276,4 +276,5 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 <li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-androids-best-face-to-face-apps-the-ultimate-list/"><u>Updated 2024 Approved Androids Best Face-to-Face Apps The Ultimate List</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/virtual-identity-studio-top-free-online-face-creation-tools/"><u>Virtual Identity Studio Top Free Online Face Creation Tools</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Full Page Screen Capture  How to Capture Screenshots of a Full Page?\""
-date: 2024-05-18T16:10:06.227Z
-updated: 2024-05-19T16:10:06.227Z
+date: 2024-05-20T05:09:07.146Z
+updated: 2024-05-21T05:09:07.146Z
 tags: 
   - screen-recording
   - ai video
@@ -544,4 +544,5 @@ Follow @Max Wales
 <li><a href="https://ai-vdieo-software.techidaily.com/new-free-security-camera-software-reviews-top-10-options/"><u>New Free Security Camera Software Reviews Top 10 Options</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-xiaomi-redmi-12-by-drfone-android/"><u>How to Show Wi-Fi Password on Xiaomi Redmi 12</u></a></li>
 </ul></div>
+
 

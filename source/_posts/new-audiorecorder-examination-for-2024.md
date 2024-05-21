@@ -270,3 +270,4 @@ Summarizing the story up, it is of no doubt how extremely basic and easy the UI 
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-infinix-note-30i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Infinix Note 30i? | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Brighten Up Your Gameplay  Tips to Fix a Black Screen on OBS\""
-date: 2024-05-18T16:22:17.087Z
-updated: 2024-05-19T16:22:17.087Z
+date: 2024-05-20T05:09:33.988Z
+updated: 2024-05-21T05:09:33.988Z
 tags: 
   - screen-recording
   - ai video
@@ -249,4 +249,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://ai-driven-video-production.techidaily.com/new-facebook-video-aspect-ratios-101-a-beginners-guide-to-perfection-for-2024/"><u>New Facebook Video Aspect Ratios 101 A Beginners Guide to Perfection for 2024</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-nokia-c32-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Nokia C32 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
 </ul></div>
+
 

@@ -469,3 +469,4 @@ Alternatively, if you have specific needs for on-screen recordings, such as the 
 <li><a href="https://audio-shaping.techidaily.com/updated-a-guide-to-mixing-sound-and-picture-in-quicktime-format/"><u>Updated A Guide to Mixing Sound and Picture in QuickTime Format</u></a></li>
 </ul></div>
 
+

@@ -483,3 +483,4 @@ If you are a Mac user, QuickTime player screen recording with audio is available
 <li><a href="https://activate-lock.techidaily.com/how-to-fix-ipad-or-iphone-15-stuck-on-activation-lock-by-drfone-ios/"><u>How to Fix iPad or iPhone 15 Stuck On Activation Lock?</u></a></li>
 </ul></div>
 
+

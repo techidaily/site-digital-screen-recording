@@ -648,3 +648,4 @@ You can record MOV file on Windows as well as Mac when you have the recorder tha
 <li><a href="https://audio-editing.techidaily.com/in-2024-find-scary-sound-effect/"><u>In 2024, Find Scary Sound Effect</u></a></li>
 </ul></div>
 
+

@@ -241,3 +241,4 @@ SplitCam as a free video record is great to say the least. However, it fails to 
 <li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-data-from-nubia-red-magic-8s-pro-by-fonelab-android-recover-data/"><u>Easy steps to recover deleted data from Nubia Red Magic 8S Pro</u></a></li>
 </ul></div>
 
+

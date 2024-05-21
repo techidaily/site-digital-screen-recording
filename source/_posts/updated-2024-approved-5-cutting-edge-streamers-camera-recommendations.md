@@ -782,3 +782,4 @@ Follow @Max Wales
 <li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-xr-to-other-iphone-12-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone XR to other iPhone 12 devices? | Dr.fone</u></a></li>
 </ul></div>
 
+

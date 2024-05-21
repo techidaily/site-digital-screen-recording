@@ -1,7 +1,7 @@
 ---
 title: "[New] OBS Screen Recorder Review"
-date: 2024-05-18T16:21:54.088Z
-updated: 2024-05-19T16:21:54.088Z
+date: 2024-05-20T05:09:33.150Z
+updated: 2024-05-21T05:09:33.150Z
 tags: 
   - screen-recording
   - ai video
@@ -518,4 +518,5 @@ OBS is a splendid application to make web-based recordings happen and stream cat
 <li><a href="https://ai-vdieo-software.techidaily.com/new-adobe-premiere-pros-secret-weapons-top-15-plugins-you-need-free-and-paid/"><u>New Adobe Premiere Pros Secret Weapons Top 15 Plugins You Need (Free & Paid)</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/2024-approved-how-to-apply-video-filters/"><u>2024 Approved How to Apply Video Filters</u></a></li>
 </ul></div>
+
 

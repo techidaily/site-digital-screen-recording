@@ -1145,3 +1145,4 @@ Follow @Max Wales
 <li><a href="https://video-ai-editor.techidaily.com/the-science-behind-instagram-video-dimensions-aspect-ratios-uncovered/"><u>The Science Behind Instagram Video Dimensions Aspect Ratios Uncovered</u></a></li>
 </ul></div>
 
+

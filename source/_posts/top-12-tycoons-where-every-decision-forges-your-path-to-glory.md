@@ -1,7 +1,7 @@
 ---
 title: "\"Top 12 Tycoons - Where Every Decision Forges Your Path to Glory\""
-date: 2024-05-18T16:07:04.872Z
-updated: 2024-05-19T16:07:04.872Z
+date: 2024-05-20T05:09:00.830Z
+updated: 2024-05-21T05:09:00.830Z
 tags: 
   - screen-recording
   - ai video
@@ -824,4 +824,5 @@ Follow @Ollie Mattison
 <li><a href="https://sound-tweaking.techidaily.com/new-in-2024-the-soundsmiths-playbook-speeding-up-and-lowering-the-notes-in-adobe-rush/"><u>New In 2024, The Soundsmiths Playbook Speeding Up and Lowering the Notes in Adobe Rush</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/2024-approved-the-ultimate-guide-to-jump-cuts-in-fcpx-best-practices/"><u>2024 Approved The Ultimate Guide to Jump Cuts in FCPX Best Practices</u></a></li>
 </ul></div>
+
 

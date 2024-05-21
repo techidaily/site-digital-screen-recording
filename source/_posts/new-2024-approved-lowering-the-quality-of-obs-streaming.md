@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Lowering the Quality of OBS Streaming\""
-date: 2024-05-18T16:06:13.493Z
-updated: 2024-05-19T16:06:13.493Z
+date: 2024-05-20T05:08:58.868Z
+updated: 2024-05-21T05:08:58.868Z
 tags: 
   - screen-recording
   - ai video
@@ -320,4 +320,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-xiaomi-redmi-k70-pro-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Xiaomi Redmi K70 Pro to iPad Easily | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-s18-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo S18 Phone FRP Lock</u></a></li>
 </ul></div>
+
 

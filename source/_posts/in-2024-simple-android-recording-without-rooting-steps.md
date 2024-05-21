@@ -480,3 +480,4 @@ Follow @Max Wales
 <li><a href="https://howto.techidaily.com/infinix-hot-40i-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Hot 40i Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -752,3 +752,4 @@ Follow @Richard Bennett
 <li><a href="https://ai-video-editing.techidaily.com/in-2024-discover-how-you-can-use-vectorscope-to-adjust-luminance-color-grading-and-more-in-your-video-editing-projects/"><u>In 2024, Discover How You Can Use Vectorscope to Adjust Luminance, Color Grading, and More in Your Video Editing Projects</u></a></li>
 </ul></div>
 
+

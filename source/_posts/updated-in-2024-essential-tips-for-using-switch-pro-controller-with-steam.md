@@ -490,3 +490,4 @@ Follow @Ollie Mattison
 <li><a href="https://smart-video-editing.techidaily.com/updated-the-ultimate-beginners-guide-to-hd-video-pixel-dimensions/"><u>Updated The Ultimate Beginners Guide to HD Video Pixel Dimensions</u></a></li>
 </ul></div>
 
+

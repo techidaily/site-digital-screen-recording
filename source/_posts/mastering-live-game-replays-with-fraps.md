@@ -1,7 +1,7 @@
 ---
 title: "Mastering Live Game Replays with Fraps"
-date: 2024-05-18T16:06:34.825Z
-updated: 2024-05-19T16:06:34.825Z
+date: 2024-05-20T05:08:59.864Z
+updated: 2024-05-21T05:08:59.864Z
 tags: 
   - screen-recording
   - ai video
@@ -399,4 +399,5 @@ If you're already using Fraps for benchmarking or simply keeping track of framer
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Realme Narzo 60x 5G? | Dr.fone</u></a></li>
 <li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Honor 70 Lite 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

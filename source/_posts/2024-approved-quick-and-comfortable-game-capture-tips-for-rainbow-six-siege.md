@@ -497,3 +497,4 @@ If you love to play on Steam platform and you want to record your Steam gameplay
 <li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-crop-a-video-in-windows-media-player/"><u>Updated In 2024, How to Crop a Video in Windows Media Player</u></a></li>
 </ul></div>
 
+

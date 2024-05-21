@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Silence Issue  Fixing Audio Absence in OBS\""
-date: 2024-05-18T16:09:56.501Z
-updated: 2024-05-19T16:09:56.501Z
+date: 2024-05-20T05:09:06.851Z
+updated: 2024-05-21T05:09:06.851Z
 tags: 
   - screen-recording
   - ai video
@@ -584,4 +584,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://ai-vdieo-software.techidaily.com/what-you-need-to-know-before-converting-your-mp3s-to-mp4s/"><u>What You Need to Know Before Converting Your MP3s to MP4s</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
 </ul></div>
+
 

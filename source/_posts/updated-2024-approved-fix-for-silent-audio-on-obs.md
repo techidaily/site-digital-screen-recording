@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Fix for Silent Audio on OBS\""
-date: 2024-05-18T16:14:53.985Z
-updated: 2024-05-19T16:14:53.985Z
+date: 2024-05-20T05:09:18.053Z
+updated: 2024-05-21T05:09:18.053Z
 tags: 
   - screen-recording
   - ai video
@@ -567,4 +567,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://sound-tweaking.techidaily.com/where-can-i-find-crowd-cheering-effect-in-2024/"><u>Where Can I Find Crowd Cheering Effect, In 2024</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, Pokémon Go Cooldown Chart On Apple iPhone SE (2022) | Dr.fone</u></a></li>
 </ul></div>
+
 

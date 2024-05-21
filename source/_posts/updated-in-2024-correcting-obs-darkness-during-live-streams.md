@@ -278,3 +278,4 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://phone-solutions.techidaily.com/how-to-add-digital-signature-to-a-pdf-v12-document-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to add digital signature to a PDF v1.2 document</u></a></li>
 </ul></div>
 
+

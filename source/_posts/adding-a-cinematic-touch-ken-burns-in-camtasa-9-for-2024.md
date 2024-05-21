@@ -1,7 +1,7 @@
 ---
 title: "\"Adding a Cinematic Touch  Ken Burns in Camtasa 9 for 2024\""
-date: 2024-05-18T16:18:19.054Z
-updated: 2024-05-19T16:18:19.054Z
+date: 2024-05-20T05:09:25.737Z
+updated: 2024-05-21T05:09:25.737Z
 tags: 
   - screen-recording
   - ai video
@@ -331,4 +331,5 @@ Follow @Max Wales
 <li><a href="https://unlock-android.techidaily.com/how-to-reset-a-vivo-y200e-5g-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Vivo Y200e 5G Phone that is Locked?</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/best-8-augmented-reality-video-games/"><u>Best 8 Augmented Reality Video Games</u></a></li>
 </ul></div>
+
 

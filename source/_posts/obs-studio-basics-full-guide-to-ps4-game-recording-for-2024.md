@@ -1,7 +1,7 @@
 ---
 title: "\"Obs Studio Basics - Full Guide to PS4 Game Recording for 2024\""
-date: 2024-05-18T16:22:47.389Z
-updated: 2024-05-19T16:22:47.389Z
+date: 2024-05-20T05:09:35.276Z
+updated: 2024-05-21T05:09:35.276Z
 tags: 
   - screen-recording
   - ai video
@@ -364,4 +364,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://ai-video-tools.techidaily.com/updated-break-free-from-format-restrictions-chromecast-streaming-for-all-videos-for-2024/"><u>Updated Break Free From Format Restrictions Chromecast Streaming for All Videos for 2024</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

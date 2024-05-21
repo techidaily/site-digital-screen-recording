@@ -433,3 +433,4 @@ Screen recording and streaming may be used for an almost unlimited variety of re
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-lava-blaze-2-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Lava Blaze 2 5G to Samsung Phone | Dr.fone</u></a></li>
 </ul></div>
 
+

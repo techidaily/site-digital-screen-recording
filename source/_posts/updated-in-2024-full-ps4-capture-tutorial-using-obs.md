@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Full PS4 Capture Tutorial Using OBS"
-date: 2024-05-18T16:24:44.301Z
-updated: 2024-05-19T16:24:44.301Z
+date: 2024-05-20T05:09:39.437Z
+updated: 2024-05-21T05:09:39.437Z
 tags: 
   - screen-recording
   - ai video
@@ -363,4 +363,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://animation-videos.techidaily.com/what-is-a-gif/"><u>What Is A GIF</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-huawei-p60-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Huawei P60 Pattern Lock Screen</u></a></li>
 </ul></div>
+
 

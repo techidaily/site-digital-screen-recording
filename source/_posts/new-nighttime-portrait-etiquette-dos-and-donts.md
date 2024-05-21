@@ -184,3 +184,4 @@ You should use your camera in manual mode. Besides, utilizing long camera shutte
 <li><a href="https://blog-min.techidaily.com/how-to-restore-iphone-8-plus-from-backup-when-itunes-backup-is-corrupt-or-not-compatible-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore iPhone 8 Plus from Backup when iTunes Backup is Corrupt or not compatible | Stellar</u></a></li>
 </ul></div>
 
+

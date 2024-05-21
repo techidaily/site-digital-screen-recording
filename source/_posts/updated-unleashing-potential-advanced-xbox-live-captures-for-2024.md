@@ -609,3 +609,4 @@ Hopefully, you have understood how to record screen with Xbox game bar directly.
 <li><a href="https://ai-video-editing.techidaily.com/easy-ways-to-add-text-overlay-to-video-for-2024/"><u>Easy Ways to Add Text Overlay to Video for 2024</u></a></li>
 </ul></div>
 
+

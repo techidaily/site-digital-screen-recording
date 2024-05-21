@@ -1,7 +1,7 @@
 ---
 title: "\"[New] OBS Timer Mastery  Building a Custom Countdown Timer\""
-date: 2024-05-18T16:16:26.124Z
-updated: 2024-05-19T16:16:26.124Z
+date: 2024-05-20T05:09:21.532Z
+updated: 2024-05-21T05:09:21.532Z
 tags: 
   - screen-recording
   - ai video
@@ -258,4 +258,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://sound-optimizing.techidaily.com/new-capturing-perfect-sound-a-comprehensive-guide-for-advanced-mac-users/"><u>New Capturing Perfect Sound A Comprehensive Guide for Advanced Mac Users</u></a></li>
 <li><a href="https://review-topics.techidaily.com/identify-malfunctioning-your-drivers-with-windows-device-manager-on-windows-11107-by-drivereasy-guide/"><u>Identify malfunctioning your drivers with Windows Device Manager on Windows 11/10/7</u></a></li>
 </ul></div>
+
 

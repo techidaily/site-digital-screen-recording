@@ -691,3 +691,4 @@ Follow @Max Wales
 <li><a href="https://howto.techidaily.com/how-to-resolve-lava-blaze-2-pro-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Lava Blaze 2 Pro Screen Not Working | Dr.fone</u></a></li>
 </ul></div>
 
+

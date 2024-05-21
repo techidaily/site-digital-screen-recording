@@ -584,3 +584,4 @@ Hopefully, you have understood how to record screen with Xbox game bar directly.
 <li><a href="https://bypass-frp.techidaily.com/itel-s23-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Itel S23 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
 </ul></div>
 
+

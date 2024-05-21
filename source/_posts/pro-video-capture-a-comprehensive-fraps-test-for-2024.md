@@ -1,7 +1,7 @@
 ---
 title: "\"Pro Video Capture  A Comprehensive Fraps Test for 2024\""
-date: 2024-05-18T16:04:59.848Z
-updated: 2024-05-19T16:04:59.848Z
+date: 2024-05-20T05:08:56.254Z
+updated: 2024-05-21T05:08:56.254Z
 tags: 
   - screen-recording
   - ai video
@@ -352,4 +352,5 @@ If you're already using Fraps for benchmarking or simply keeping track of framer
 <li><a href="https://animation-videos.techidaily.com/new-in-2024-animate-pictures-in-canva/"><u>New In 2024, Animate Pictures in Canva</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-vivo-x100-pro-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Vivo X100 Pro to Apple TV | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -215,3 +215,4 @@ You should use your camera in manual mode. Besides, utilizing long camera shutte
 <li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-lava-blaze-2-pro-with-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of Lava Blaze 2 Pro with Video Repair Utility on Mac?</u></a></li>
 </ul></div>
 
+

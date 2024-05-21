@@ -220,3 +220,4 @@ If you want to record your webcam video, MyCam serves the purpose perfectly. But
 <li><a href="https://smart-video-creator.techidaily.com/new-resize-like-a-pro-the-top-technique-for-vertical-video-success/"><u>New Resize Like a Pro The Top Technique for Vertical Video Success</u></a></li>
 </ul></div>
 
+

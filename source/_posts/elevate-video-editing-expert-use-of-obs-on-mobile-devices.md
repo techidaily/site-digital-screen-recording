@@ -1,7 +1,7 @@
 ---
 title: "\"Elevate Video Editing  Expert Use of OBS on Mobile Devices\""
-date: 2024-05-18T16:14:23.270Z
-updated: 2024-05-19T16:14:23.270Z
+date: 2024-05-20T05:09:16.167Z
+updated: 2024-05-21T05:09:16.167Z
 tags: 
   - screen-recording
   - ai video
@@ -557,4 +557,5 @@ OBS Studio is a popular application among gamers, professional trainers, and int
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Lava Blaze Pro 5G | Dr.fone</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/2024-approved-the-ultimate-guide-to-b2b-video-marketing/"><u>2024 Approved The Ultimate Guide to B2B Video Marketing</u></a></li>
 </ul></div>
+
 

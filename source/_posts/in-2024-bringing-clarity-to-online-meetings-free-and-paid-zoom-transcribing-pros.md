@@ -617,3 +617,4 @@ Follow @Richard Bennett
 <li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Huawei P60 | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "Minimizing Motion Blur with OBS Adjustments"
-date: 2024-05-18T16:22:44.414Z
-updated: 2024-05-19T16:22:44.414Z
+date: 2024-05-20T05:09:35.135Z
+updated: 2024-05-21T05:09:35.135Z
 tags: 
   - screen-recording
   - ai video
@@ -305,4 +305,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Huawei Nova Y71 | Dr.fone</u></a></li>
 <li><a href="https://voice-adjusting.techidaily.com/in-2024-exploring-exceptional-background-melodies-for-video-content-creation/"><u>In 2024, Exploring Exceptional Background Melodies for Video Content Creation</u></a></li>
 </ul></div>
+
 

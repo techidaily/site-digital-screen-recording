@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  How to Make a Ken Burns Effect in Camtasia 9?\""
-date: 2024-05-18T16:06:44.287Z
-updated: 2024-05-19T16:06:44.287Z
+date: 2024-05-20T05:09:00.146Z
+updated: 2024-05-21T05:09:00.146Z
 tags: 
   - screen-recording
   - ai video
@@ -368,4 +368,5 @@ Follow @Max Wales
 <li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Oppo F25 Pro 5G | Dr.fone</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/new-the-user-friendly-guide-to-voice-alteration-using-audacitys-features/"><u>New The User-Friendly Guide to Voice Alteration Using Audacitys Features</u></a></li>
 </ul></div>
+
 

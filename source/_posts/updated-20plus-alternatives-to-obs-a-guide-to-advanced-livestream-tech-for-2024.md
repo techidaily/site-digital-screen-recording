@@ -1047,3 +1047,4 @@ If you are not satisfied with OBS Studio due to its complicated user interface, 
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-asus-rog-phone-7-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Asus ROG Phone 7 to Any iOS Devices | Dr.fone</u></a></li>
 </ul></div>
 
+

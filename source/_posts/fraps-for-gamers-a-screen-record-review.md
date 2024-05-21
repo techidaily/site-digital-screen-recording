@@ -1,7 +1,7 @@
 ---
 title: "\"Fraps for Gamers  A Screen Record Review\""
-date: 2024-05-18T16:07:57.339Z
-updated: 2024-05-19T16:07:57.339Z
+date: 2024-05-20T05:09:02.548Z
+updated: 2024-05-21T05:09:02.548Z
 tags: 
   - screen-recording
   - ai video
@@ -363,4 +363,5 @@ If you're already using Fraps for benchmarking or simply keeping track of framer
 <li><a href="https://activate-lock.techidaily.com/full-guide-to-apple-iphone-xr-icloud-bypass-by-drfone-ios/"><u>Full guide to Apple iPhone XR iCloud Bypass</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/2024-approved-8-types-of-explainer-videos-with-best-examples/"><u>2024 Approved 8 Types of Explainer Videos with Best Examples</u></a></li>
 </ul></div>
+
 

@@ -645,3 +645,4 @@ Follow @Richard Bennett
 <li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-samsung-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Samsung on Mac</u></a></li>
 </ul></div>
 
+

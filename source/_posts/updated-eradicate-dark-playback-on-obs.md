@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Eradicate Dark Playback on OBS"
-date: 2024-05-18T16:10:59.268Z
-updated: 2024-05-19T16:10:59.268Z
+date: 2024-05-20T05:09:08.904Z
+updated: 2024-05-21T05:09:08.904Z
 tags: 
   - screen-recording
   - ai video
@@ -264,4 +264,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://apple-account.techidaily.com/in-2024-troubleshooting-error-connecting-to-the-apple-id-server-on-apple-iphone-11-pro-by-drfone-ios/"><u>In 2024, Troubleshooting Error Connecting to the Apple ID Server On Apple iPhone 11 Pro</u></a></li>
 <li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-samsung-galaxy-a23-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Samsung Galaxy A23 5G Isnt Compatible | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -467,3 +467,4 @@ The methods that we have discussed here are quite simple and you will get some v
 <li><a href="https://fix-guide.techidaily.com/how-to-resolve-xiaomi-redmi-note-12-proplus-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Xiaomi Redmi Note 12 Pro+ 5G Screen Not Working | Dr.fone</u></a></li>
 </ul></div>
 
+

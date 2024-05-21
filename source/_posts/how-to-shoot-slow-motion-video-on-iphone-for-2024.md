@@ -1,7 +1,7 @@
 ---
 title: "How to Shoot Slow Motion Video on iPhone for 2024"
-date: 2024-05-18T16:00:37.373Z
-updated: 2024-05-19T16:00:37.373Z
+date: 2024-05-20T05:08:47.032Z
+updated: 2024-05-21T05:08:47.032Z
 tags: 
   - screen-recording
   - ai video
@@ -512,4 +512,5 @@ iPhone offers various easy-to-use and creative tools and apps for producing inno
 <li><a href="https://ai-video-tools.techidaily.com/new-the-ultimate-guide-to-blurring-faces-in-photos-and-videos-free-resources-for-2024/"><u>New The Ultimate Guide to Blurring Faces in Photos and Videos (Free Resources) for 2024</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-video-invitation-apps-that-will-make-your-event-unforgettable-for-2024/"><u>Updated Video Invitation Apps That Will Make Your Event Unforgettable for 2024</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Bring Footage Together  Ken Burns Technique for Camtasa Users\""
-date: 2024-05-18T16:15:19.657Z
-updated: 2024-05-19T16:15:19.657Z
+date: 2024-05-20T05:09:18.920Z
+updated: 2024-05-21T05:09:18.920Z
 tags: 
   - screen-recording
   - ai video
@@ -365,4 +365,5 @@ Follow @Max Wales
 <li><a href="https://howto.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-nokia-c300-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Nokia C300 | Dr.fone</u></a></li>
 <li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-beat-the-code-blockade-innovative-ways-to-harvest-mp4-audio/"><u>Updated In 2024, Beat the Code Blockade Innovative Ways to Harvest MP4 Audio</u></a></li>
 </ul></div>
+
 

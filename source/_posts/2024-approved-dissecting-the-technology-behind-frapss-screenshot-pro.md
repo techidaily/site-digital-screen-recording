@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Dissecting the Technology Behind Fraps's Screenshot Pro\""
-date: 2024-05-18T16:23:47.953Z
-updated: 2024-05-19T16:23:47.953Z
+date: 2024-05-20T05:09:37.103Z
+updated: 2024-05-21T05:09:37.103Z
 tags: 
   - screen-recording
   - ai video
@@ -390,4 +390,5 @@ If you're already using Fraps for benchmarking or simply keeping track of framer
 <li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-rapid-rhythm-adjustment-simplified-audio-pace-tweaking-strategies/"><u>Updated In 2024, Rapid Rhythm Adjustment Simplified Audio Pace Tweaking Strategies</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/new-transform-low-res-videos-into-hd-masterpieces-with-these-tools-for-2024/"><u>New Transform Low-Res Videos Into HD Masterpieces with These Tools for 2024</u></a></li>
 </ul></div>
+
 

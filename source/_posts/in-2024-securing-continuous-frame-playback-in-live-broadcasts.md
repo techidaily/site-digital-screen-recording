@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Securing Continuous Frame Playback in Live Broadcasts"
-date: 2024-05-18T16:13:39.483Z
-updated: 2024-05-19T16:13:39.483Z
+date: 2024-05-20T05:09:14.812Z
+updated: 2024-05-21T05:09:14.812Z
 tags: 
   - screen-recording
   - ai video
@@ -573,4 +573,5 @@ OBS drop frame is probably the most common issue reported by OBS users. Whenever
 <li><a href="https://audio-shaping.techidaily.com/new-is-phase-alignment-essential-for-reducing-auditory-masking/"><u>New Is Phase Alignment Essential for Reducing Auditory Masking?</u></a></li>
 <li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-best-practices-for-soundless-video-creation-on-windows-platform/"><u>New 2024 Approved Best Practices for Soundless Video Creation on Windows Platform</u></a></li>
 </ul></div>
+
 

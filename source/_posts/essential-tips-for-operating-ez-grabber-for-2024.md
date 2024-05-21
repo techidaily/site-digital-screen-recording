@@ -335,3 +335,4 @@ Where you were facing problems recording videos on your screen and could not cho
 <li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-x50-gt-by-fonelab-android-recover-photos/"><u>How to get back lost photos from X50 GT.</u></a></li>
 </ul></div>
 
+

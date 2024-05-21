@@ -1,7 +1,7 @@
 ---
 title: "Reviving OBS Sound Capture Steps for 2024"
-date: 2024-05-18T16:24:07.790Z
-updated: 2024-05-19T16:24:07.790Z
+date: 2024-05-20T05:09:37.745Z
+updated: 2024-05-21T05:09:37.745Z
 tags: 
   - screen-recording
   - ai video
@@ -554,4 +554,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-the-ultimate-list-of-free-avi-video-rotators-for-all-devices/"><u>New 2024 Approved The Ultimate List of Free AVI Video Rotators for All Devices</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/new-2024-approved-determining-aspect-ratio-a-step-by-step-guide/"><u>New 2024 Approved Determining Aspect Ratio A Step-by-Step Guide</u></a></li>
 </ul></div>
+
 

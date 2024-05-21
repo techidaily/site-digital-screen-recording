@@ -167,3 +167,4 @@ You should use your camera in manual mode. Besides, utilizing long camera shutte
 <li><a href="https://ai-video-apps.techidaily.com/new-compressor-in-fcpx-a-beginners-guide-to-efficient-video-encoding-for-2024/"><u>New Compressor in FCPX A Beginners Guide to Efficient Video Encoding for 2024</u></a></li>
 </ul></div>
 
+

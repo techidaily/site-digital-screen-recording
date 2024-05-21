@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, MC Base Planning  Essentials & Examples\""
-date: 2024-05-18T16:08:00.588Z
-updated: 2024-05-19T16:08:00.588Z
+date: 2024-05-20T05:09:02.631Z
+updated: 2024-05-21T05:09:02.631Z
 tags: 
   - screen-recording
   - ai video
@@ -342,4 +342,5 @@ Follow @Ollie Mattison
 <li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-from-apple-iphone-15-pro-by-drfone-ios/"><u>How To Remove the Two Factor Authentication From Apple iPhone 15 Pro</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/transfer-your-apple-iphone-8-plus-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>Transfer your Apple iPhone 8 Plus Apps to New iPhone | Dr.fone</u></a></li>
 </ul></div>
+
 

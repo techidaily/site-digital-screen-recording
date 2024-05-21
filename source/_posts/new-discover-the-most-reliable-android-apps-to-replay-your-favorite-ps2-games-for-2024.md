@@ -557,3 +557,4 @@ For macOS 10.12 or later
 <li><a href="https://easy-unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-oppo-a78-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Oppo A78 Pattern Lock Screen</u></a></li>
 </ul></div>
 
+

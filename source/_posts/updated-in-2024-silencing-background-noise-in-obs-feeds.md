@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Silencing Background Noise in OBS Feeds"
-date: 2024-05-18T16:10:03.249Z
-updated: 2024-05-19T16:10:03.249Z
+date: 2024-05-20T05:09:07.060Z
+updated: 2024-05-21T05:09:07.060Z
 tags: 
   - screen-recording
   - ai video
@@ -569,4 +569,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-12-pro-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 12 Pro Max Without iTunes? | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Infinix Note 30? | Dr.fone</u></a></li>
 </ul></div>
+
 

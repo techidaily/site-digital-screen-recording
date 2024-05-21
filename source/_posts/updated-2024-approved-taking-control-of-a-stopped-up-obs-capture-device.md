@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Taking Control of a Stopped-Up OBS Capture Device\""
-date: 2024-05-18T16:26:16.223Z
-updated: 2024-05-19T16:26:16.223Z
+date: 2024-05-20T05:09:42.352Z
+updated: 2024-05-21T05:09:42.352Z
 tags: 
   - screen-recording
   - ai video
@@ -276,4 +276,5 @@ OBS Studio is especially popular in the gaming community since it helps you crea
 <li><a href="https://activate-lock.techidaily.com/how-to-remove-iphone-13-pro-max-activation-lock-by-drfone-ios/"><u>How to Remove iPhone 13 Pro Max Activation Lock</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-motorola-moto-g73-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Motorola Moto G73 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

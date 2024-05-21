@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Clip Composition  Blending Modes Techniques\""
-date: 2024-05-18T16:04:41.878Z
-updated: 2024-05-19T16:04:41.878Z
+date: 2024-05-20T05:08:55.702Z
+updated: 2024-05-21T05:08:55.702Z
 tags: 
   - screen-recording
   - ai video
@@ -461,4 +461,5 @@ Follow @Max Wales
 <li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-asus-rog-phone-8-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Asus ROG Phone 8 Phone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/the-complete-guide-to-oppo-reno-10-pro-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Oppo Reno 10 Pro 5G FRP Bypass Everything You Need to Know</u></a></li>
 </ul></div>
+
 

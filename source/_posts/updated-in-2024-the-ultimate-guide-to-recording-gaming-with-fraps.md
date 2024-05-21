@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, The Ultimate Guide to Recording Gaming with Fraps"
-date: 2024-05-18T16:18:49.379Z
-updated: 2024-05-19T16:18:49.379Z
+date: 2024-05-20T05:09:26.717Z
+updated: 2024-05-21T05:09:26.717Z
 tags: 
   - screen-recording
   - ai video
@@ -338,4 +338,5 @@ If you're already using Fraps for benchmarking or simply keeping track of framer
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-access-your-iphone-6s-plus-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Access Your iPhone 6s Plus When You Forget the Passcode? | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Asus ROG Phone 8 | Dr.fone</u></a></li>
 </ul></div>
+
 

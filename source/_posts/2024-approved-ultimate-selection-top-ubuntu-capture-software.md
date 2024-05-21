@@ -753,3 +753,4 @@ Assuming you at any point need to record your screen on Ubuntu Linux, there are 
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-lenovo-thinkphone-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Lenovo ThinkPhone Phones? | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -494,3 +494,4 @@ If you are looking for a proper platform to record my voice online without insta
 <li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Lava Yuva 2 Pro? | Dr.fone</u></a></li>
 </ul></div>
 
+

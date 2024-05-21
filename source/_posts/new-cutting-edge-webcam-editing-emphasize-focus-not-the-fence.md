@@ -509,3 +509,4 @@ Follow @Max Wales
 <li><a href="https://animation-videos.techidaily.com/updated-2024-approved-how-to-animate-image-on-scroll-and-text-on-scroll/"><u>Updated 2024 Approved How to Animate Image on Scroll and Text on Scroll?</u></a></li>
 </ul></div>
 
+

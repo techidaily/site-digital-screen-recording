@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Optimal Screen Recorder Tools on Ubuntu"
-date: 2024-05-18T16:00:01.045Z
-updated: 2024-05-19T16:00:01.045Z
+date: 2024-05-20T05:08:45.921Z
+updated: 2024-05-21T05:08:45.921Z
 tags: 
   - screen-recording
   - ai video
@@ -690,4 +690,5 @@ Assuming you at any point need to record your screen on Ubuntu Linux, there are 
 <li><a href="https://ai-video.techidaily.com/2024-approved-translate-any-hindi-video-into-english-with-ai/"><u>2024 Approved Translate Any Hindi Video Into English With AI</u></a></li>
 <li><a href="https://review-topics.techidaily.com/recover-your-music-after-honor-100-has-been-deleted-by-fonelab-android-recover-music/"><u>Recover your music after Honor 100 has been deleted</u></a></li>
 </ul></div>
+
 

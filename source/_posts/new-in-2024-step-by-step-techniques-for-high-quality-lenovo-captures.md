@@ -531,3 +531,4 @@ The easiest method for screen capture on Lenovo is to utilize the key combinatio
 <li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-word-2007-document-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How do i sign a Word 2007 document electronically</u></a></li>
 </ul></div>
 
+

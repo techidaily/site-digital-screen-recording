@@ -267,3 +267,4 @@ Summarizing the story up, it is of no doubt how extremely basic and easy the UI 
 <li><a href="https://video-creation-software.techidaily.com/new-user-friendly-video-editing-tools-for-starters/"><u>New User-Friendly Video Editing Tools for Starters</u></a></li>
 </ul></div>
 
+

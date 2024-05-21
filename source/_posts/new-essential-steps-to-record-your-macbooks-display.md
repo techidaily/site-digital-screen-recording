@@ -383,3 +383,4 @@ There may be other tools and screen recorders in the market available for your M
 <li><a href="https://ai-editing-video.techidaily.com/how-to-use-speed-ramping-to-create-a-footage/"><u>How to Use Speed Ramping to Create a Footage</u></a></li>
 </ul></div>
 
+

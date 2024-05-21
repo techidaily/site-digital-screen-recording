@@ -1,7 +1,7 @@
 ---
 title: "[New] File Sharing Solutions Beyond ShareX"
-date: 2024-05-18T16:24:33.270Z
-updated: 2024-05-19T16:24:33.270Z
+date: 2024-05-20T05:09:38.686Z
+updated: 2024-05-21T05:09:38.686Z
 tags: 
   - screen-recording
   - ai video
@@ -263,4 +263,5 @@ ShareX is great if you want to capture screenshots of your current screen as wel
 <li><a href="https://ios-unlock.techidaily.com/in-2024-apple-iphone-6-plus-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>In 2024, Apple iPhone 6 Plus Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For OnePlus 11R | Dr.fone</u></a></li>
 </ul></div>
+
 

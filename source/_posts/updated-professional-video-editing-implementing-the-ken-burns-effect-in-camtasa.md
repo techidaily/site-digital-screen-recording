@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Professional Video Editing  Implementing the Ken Burns Effect in Camtasa\""
-date: 2024-05-18T16:05:49.782Z
-updated: 2024-05-19T16:05:49.782Z
+date: 2024-05-20T05:08:57.971Z
+updated: 2024-05-21T05:08:57.971Z
 tags: 
   - screen-recording
   - ai video
@@ -352,4 +352,5 @@ Follow @Max Wales
 <li><a href="https://unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-xiaomi-14-pro-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Xiaomi 14 Pro</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-the-ultimate-guide-to-pc-intro-makers-online-vs-offline/"><u>Updated 2024 Approved The Ultimate Guide to PC Intro Makers Online vs Offline</u></a></li>
 </ul></div>
+
 

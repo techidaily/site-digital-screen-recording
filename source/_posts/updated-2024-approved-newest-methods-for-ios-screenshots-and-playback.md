@@ -457,3 +457,4 @@ Follow @Shanoon Cox
 <li><a href="https://ai-editing-video.techidaily.com/here-are-the-steps-to-crop-a-video-in-sony-vegas-pro-step-1-click-on-import-and-import-the-video-to-be-edited-click-on-it-and-drag-drop-to-timeline/"><u>Here Are the Steps to Crop a Video in Sony Vegas Pro Step 1 Click on Import and Import the Video to Be Edited. Click on It and Drag-Drop to Timeline</u></a></li>
 </ul></div>
 
+

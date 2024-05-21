@@ -188,3 +188,4 @@ OBS is an open-source [video recorder](https://tools.techidaily.com/wondershare/
 <li><a href="https://smart-video-editing.techidaily.com/updated-the-science-of-thumbnails-youtube-image-size-format-and-conversion-hacks/"><u>Updated The Science of Thumbnails YouTube Image Size, Format, and Conversion Hacks</u></a></li>
 </ul></div>
 
+

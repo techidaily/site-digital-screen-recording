@@ -672,3 +672,4 @@ You can record MOV file on Windows as well as Mac when you have the recorder tha
 <li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-asus-rog-phone-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
 </ul></div>
 
+

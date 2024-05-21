@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Practical Demonstrations  Creating and Configuring Timer Modules in OBS\""
-date: 2024-05-18T16:10:20.571Z
-updated: 2024-05-19T16:10:20.571Z
+date: 2024-05-20T05:09:07.598Z
+updated: 2024-05-21T05:09:07.598Z
 tags: 
   - screen-recording
   - ai video
@@ -254,4 +254,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-samsung-galaxy-a14-4g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Samsung Galaxy A14 4G Location | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-infinix-note-30-vip-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Infinix Note 30 VIP Phone</u></a></li>
 </ul></div>
+
 

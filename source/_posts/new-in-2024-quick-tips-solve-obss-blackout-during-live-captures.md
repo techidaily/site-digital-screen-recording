@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Quick Tips  Solve OBS's Blackout During Live Captures\""
-date: 2024-05-18T16:15:46.476Z
-updated: 2024-05-19T16:15:46.476Z
+date: 2024-05-20T05:09:20.224Z
+updated: 2024-05-21T05:09:20.224Z
 tags: 
   - screen-recording
   - ai video
@@ -292,4 +292,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-lava-yuva-3-pro-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Lava Yuva 3 Pro Device</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-sony-xperia-5-v-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Sony Xperia 5 V | Dr.fone</u></a></li>
 </ul></div>
+
 

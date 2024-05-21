@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Record Audio with Audacity on Mac"
-date: 2024-05-18T16:00:51.141Z
-updated: 2024-05-19T16:00:51.141Z
+date: 2024-05-20T05:08:47.414Z
+updated: 2024-05-21T05:08:47.414Z
 tags: 
   - screen-recording
   - ai video
@@ -264,4 +264,5 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 <li><a href="https://unlock-android.techidaily.com/how-to-change-honor-x50i-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Honor X50i Lock Screen Clock in Seconds</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-sound-design-excellence-applying-audio-ducking-methods-in-powerdirector-for-non-intrusive-volume-reduction/"><u>Updated 2024 Approved Sound Design Excellence Applying Audio Ducking Methods in PowerDirector for Non-Intrusive Volume Reduction</u></a></li>
 </ul></div>
+
 

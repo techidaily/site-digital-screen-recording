@@ -576,3 +576,4 @@ The article above is very detailed and is full of information for any soul who a
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-animate-designs-with-canva-gif/"><u>In 2024, How to Animate Designs With Canva GIF</u></a></li>
 </ul></div>
 
+

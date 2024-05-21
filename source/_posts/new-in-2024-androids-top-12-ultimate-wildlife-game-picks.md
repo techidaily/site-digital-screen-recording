@@ -1014,3 +1014,4 @@ Follow @Richard Bennett
 <li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-infinix-hot-30i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Infinix Hot 30i | Dr.fone</u></a></li>
 </ul></div>
 
+

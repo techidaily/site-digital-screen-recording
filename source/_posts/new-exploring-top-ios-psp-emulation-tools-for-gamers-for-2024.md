@@ -426,3 +426,4 @@ For macOS 10.12 or later
 <li><a href="https://animation-videos.techidaily.com/new-how-to-animate-image-on-scroll-for-2024/"><u>New How to Animate Image on Scroll for 2024</u></a></li>
 </ul></div>
 
+

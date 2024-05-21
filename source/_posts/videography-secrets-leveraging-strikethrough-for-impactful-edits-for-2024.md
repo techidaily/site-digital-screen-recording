@@ -1,7 +1,7 @@
 ---
 title: "\"Videography Secrets  Leveraging Strikethrough for Impactful Edits for 2024\""
-date: 2024-05-18T16:10:48.752Z
-updated: 2024-05-19T16:10:48.752Z
+date: 2024-05-20T05:09:08.551Z
+updated: 2024-05-21T05:09:08.551Z
 tags: 
   - screen-recording
   - ai video
@@ -487,4 +487,5 @@ Follow @Max Wales
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-apple-iphone-7-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>In 2024, How to Make the Most of Your Apple iPhone 7 Lock Screen with Notifications? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-tecno-pova-5-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Tecno Pova 5 to PC- Detailed Steps | Dr.fone</u></a></li>
 </ul></div>
+
 

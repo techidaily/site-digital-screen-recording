@@ -291,3 +291,4 @@ ShareX is great if you want to capture screenshots of your current screen as wel
 <li><a href="https://ios-location-track.techidaily.com/ways-to-stop-parent-tracking-your-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>Ways to stop parent tracking your Apple iPhone 13 Pro | Dr.fone</u></a></li>
 </ul></div>
 
+

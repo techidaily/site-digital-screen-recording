@@ -523,3 +523,4 @@ League of Legends is a high-end game and you cannot let recording in the backgro
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-tecno-spark-10c-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Tecno Spark 10C</u></a></li>
 </ul></div>
 
+

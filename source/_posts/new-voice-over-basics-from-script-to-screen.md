@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Voice-Over Basics  From Script to Screen\""
-date: 2024-05-18T16:20:46.237Z
-updated: 2024-05-19T16:20:46.237Z
+date: 2024-05-20T05:09:30.892Z
+updated: 2024-05-21T05:09:30.892Z
 tags: 
   - screen-recording
   - ai video
@@ -462,4 +462,5 @@ Recording voice over for videos is no more a magic. We have illustrated all the 
 <li><a href="https://ai-vdieo-software.techidaily.com/updated-best-vsdc-video-editor-alternatives-for-macos-users/"><u>Updated Best VSDC Video Editor Alternatives for macOS Users</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/mastering-the-art-of-integrating-high-quality-audio-into-mp4-films/"><u>Mastering the Art of Integrating High-Quality Audio Into MP4 Films</u></a></li>
 </ul></div>
+
 

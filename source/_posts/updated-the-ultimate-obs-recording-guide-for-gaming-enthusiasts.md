@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Ultimate OBS Recording Guide for Gaming Enthusiasts"
-date: 2024-05-18T16:24:39.483Z
-updated: 2024-05-19T16:24:39.483Z
+date: 2024-05-20T05:09:38.925Z
+updated: 2024-05-21T05:09:38.925Z
 tags: 
   - screen-recording
   - ai video
@@ -383,4 +383,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://video-creation-software.techidaily.com/updated-the-animators-handbook-stop-motion-studio-and-beyond-for-2024/"><u>Updated The Animators Handbook Stop Motion Studio and Beyond for 2024</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Samsung Galaxy A34 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

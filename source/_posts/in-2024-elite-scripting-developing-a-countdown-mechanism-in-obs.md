@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Elite Scripting  Developing a Countdown Mechanism in OBS\""
-date: 2024-05-18T16:00:48.448Z
-updated: 2024-05-19T16:00:48.448Z
+date: 2024-05-20T05:08:47.363Z
+updated: 2024-05-21T05:08:47.363Z
 tags: 
   - screen-recording
   - ai video
@@ -254,4 +254,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://fix-guide.techidaily.com/reasons-for-oneplus-11-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for OnePlus 11 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-samsung-galaxy-f15-5g-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Samsung Galaxy F15 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

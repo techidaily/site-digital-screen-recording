@@ -834,3 +834,4 @@ This article highlights the various methods that can be used to record pc sound 
 <li><a href="https://ai-editing-video.techidaily.com/new-demystifying-the-vectorscope-a-comprehensive-guide-for-premiere-pro-color-correction/"><u>New Demystifying the Vectorscope A Comprehensive Guide for Premiere Pro Color Correction</u></a></li>
 </ul></div>
 
+

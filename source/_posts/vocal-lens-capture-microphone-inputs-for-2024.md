@@ -1,7 +1,7 @@
 ---
 title: "\"Vocal Lens Capture  Microphone Inputs for 2024\""
-date: 2024-05-18T16:12:00.291Z
-updated: 2024-05-19T16:12:00.291Z
+date: 2024-05-20T05:09:11.215Z
+updated: 2024-05-21T05:09:11.215Z
 tags: 
   - screen-recording
   - ai video
@@ -768,4 +768,5 @@ This article highlights the various methods that can be used to record pc sound 
 <li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-samsung-galaxy-a54-5g-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Samsung Galaxy A54 5G</u></a></li>
 <li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-essential-iphone-audio-recorders-discover-the-top-10/"><u>Updated 2024 Approved Essential iPhone Audio Recorders Discover the Top 10</u></a></li>
 </ul></div>
+
 

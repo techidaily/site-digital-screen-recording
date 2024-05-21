@@ -1,7 +1,7 @@
 ---
 title: "How to Record a Video Presentation Using Adobe Captivate"
-date: 2024-05-18T16:01:09.602Z
-updated: 2024-05-19T16:01:09.602Z
+date: 2024-05-20T05:08:48.005Z
+updated: 2024-05-21T05:08:48.005Z
 tags: 
   - screen-recording
   - ai video
@@ -386,4 +386,5 @@ Follow @Max Wales
 <li><a href="https://ai-driven-video-production.techidaily.com/updated-stabilize-your-videos-for-free-8-best-online-tools-and-a-step-by-step-guide/"><u>Updated Stabilize Your Videos for Free 8 Best Online Tools and a Step-by-Step Guide</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Tecno Spark Go (2023) | Dr.fone</u></a></li>
 </ul></div>
+
 

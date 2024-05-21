@@ -279,3 +279,4 @@ If you want to record high-end games, ShadowPlay is ideal as it does not affect 
 <li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-google-pixel-8-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve  deleted photos on Google Pixel 8</u></a></li>
 </ul></div>
 
+

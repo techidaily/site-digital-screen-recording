@@ -488,3 +488,4 @@ For macOS 10.12 or later
 <li><a href="https://video-content-creator.techidaily.com/updated-in-2024-how-to-make-a-motion-blur-effect-with-final-cut-pro/"><u>Updated In 2024, How to Make a Motion Blur Effect with Final Cut Pro?</u></a></li>
 </ul></div>
 
+

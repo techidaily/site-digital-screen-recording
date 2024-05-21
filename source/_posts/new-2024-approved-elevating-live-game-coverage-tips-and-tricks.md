@@ -638,3 +638,4 @@ A catch card is a gadget that can be associated with a PC to record on-screen co
 <li><a href="https://ai-vdieo-software.techidaily.com/final-cut-pro-tutorial-changing-aspect-ratio-for-social-media-and-more/"><u>Final Cut Pro Tutorial Changing Aspect Ratio for Social Media and More</u></a></li>
 </ul></div>
 
+

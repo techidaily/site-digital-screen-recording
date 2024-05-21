@@ -570,3 +570,4 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://ai-video-apps.techidaily.com/new-protect-your-creative-assets-a-quick-guide-to-saving-fcp-projects-for-2024/"><u>New Protect Your Creative Assets A Quick Guide to Saving FCP Projects for 2024</u></a></li>
 </ul></div>
 
+

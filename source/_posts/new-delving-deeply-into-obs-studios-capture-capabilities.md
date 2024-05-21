@@ -1,7 +1,7 @@
 ---
 title: "[New] Delving Deeply Into OBS Studio's Capture Capabilities"
-date: 2024-05-18T16:20:08.082Z
-updated: 2024-05-19T16:20:08.082Z
+date: 2024-05-20T05:09:29.608Z
+updated: 2024-05-21T05:09:29.608Z
 tags: 
   - screen-recording
   - ai video
@@ -527,4 +527,5 @@ OBS is a splendid application to make web-based recordings happen and stream cat
 <li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-realme-11x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Realme 11X 5G | Dr.fone</u></a></li>
 <li><a href="https://audio-editing.techidaily.com/ultimate-voice-communication-applications-for-gaming-community-2023-edition/"><u>Ultimate Voice Communication Applications for Gaming Community - 2023 Edition</u></a></li>
 </ul></div>
+
 

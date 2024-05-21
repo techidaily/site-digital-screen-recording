@@ -1,7 +1,7 @@
 ---
 title: "\"Avoiding Obscured Games  Fixes for OBS Black Screen Issues for 2024\""
-date: 2024-05-18T16:20:25.197Z
-updated: 2024-05-19T16:20:25.197Z
+date: 2024-05-20T05:09:30.147Z
+updated: 2024-05-21T05:09:30.147Z
 tags: 
   - screen-recording
   - ai video
@@ -242,4 +242,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-poco-c51-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Poco C51 | Dr.fone</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/2024-approved-premiere-pro-system-essentials-what-you-need-to-know-before-you-start/"><u>2024 Approved Premiere Pro System Essentials What You Need to Know Before You Start</u></a></li>
 </ul></div>
+
 

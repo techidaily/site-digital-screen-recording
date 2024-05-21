@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Recordings to Live  Streaming on YouTube & Twitch with OBS\""
-date: 2024-05-18T16:02:14.356Z
-updated: 2024-05-19T16:02:14.356Z
+date: 2024-05-20T05:08:50.546Z
+updated: 2024-05-21T05:08:50.546Z
 tags: 
   - screen-recording
   - ai video
@@ -187,4 +187,5 @@ OBS is an open-source [video recorder](https://tools.techidaily.com/wondershare/
 <li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-quicktime-video-editing-made-easy-top-10-free-tools/"><u>New 2024 Approved QuickTime Video Editing Made Easy Top 10 Free Tools</u></a></li>
 <li><a href="https://voice-adjusting.techidaily.com/new-podcast-editing-101-how-to-edit-a-podcast-for-2024/"><u>New Podcast Editing 101 How to Edit a Podcast for 2024</u></a></li>
 </ul></div>
+
 

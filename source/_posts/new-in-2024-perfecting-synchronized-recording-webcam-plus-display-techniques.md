@@ -354,3 +354,4 @@ Follow @Max Wales
 <li><a href="https://animation-videos.techidaily.com/updated-how-to-cartoonize-photo-photoshop-in-simple-steps/"><u>Updated How to Cartoonize Photo Photoshop in Simple Steps</u></a></li>
 </ul></div>
 
+

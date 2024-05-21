@@ -1,7 +1,7 @@
 ---
 title: "\"In-Depth Skype Audio Capture Guide with OBS Software\""
-date: 2024-05-18T16:23:46.050Z
-updated: 2024-05-19T16:23:46.050Z
+date: 2024-05-20T05:09:36.994Z
+updated: 2024-05-21T05:09:36.994Z
 tags: 
   - screen-recording
   - ai video
@@ -354,4 +354,5 @@ So form the above discussion it can be concluded that OBS for screen recording c
 <li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Xiaomi Redmi Note 13 5G? | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-lava-yuva-2-by-fonelab-android-recover-messages/"><u>How to recover old messages from your Lava Yuva 2</u></a></li>
 </ul></div>
+
 

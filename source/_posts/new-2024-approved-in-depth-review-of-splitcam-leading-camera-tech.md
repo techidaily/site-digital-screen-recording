@@ -243,3 +243,4 @@ SplitCam as a free video record is great to say the least. However, it fails to 
 <li><a href="https://techidaily.com/how-to-reset-a-tecno-spark-20-proplus-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Tecno Spark 20 Pro+ Phone That Is Locked | Dr.fone</u></a></li>
 </ul></div>
 
+

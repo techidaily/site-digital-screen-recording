@@ -1263,3 +1263,4 @@ Follow @Richard Bennett
 <li><a href="https://android-unlock.techidaily.com/best-sony-xperia-5-v-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Sony Xperia 5 V Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
 </ul></div>
 
+

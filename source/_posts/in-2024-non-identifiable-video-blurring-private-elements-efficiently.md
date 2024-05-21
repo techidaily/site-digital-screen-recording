@@ -511,3 +511,4 @@ Follow @Max Wales
 <li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-itel-a70-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Itel A70 to PC? | Dr.fone</u></a></li>
 </ul></div>
 
+

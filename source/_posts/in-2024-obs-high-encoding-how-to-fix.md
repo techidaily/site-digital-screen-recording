@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, OBS High Encoding - How to Fix\""
-date: 2024-05-18T16:06:51.030Z
-updated: 2024-05-19T16:06:51.030Z
+date: 2024-05-20T05:09:00.380Z
+updated: 2024-05-21T05:09:00.380Z
 tags: 
   - screen-recording
   - ai video
@@ -286,4 +286,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Nokia C02 | Dr.fone</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/register-online-for-2024/"><u>Register | Online for 2024</u></a></li>
 </ul></div>
+
 

@@ -191,3 +191,4 @@ The easiest way to record the screen on your Android device is by using the inbu
 <li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-your-drivers-with-windows-device-manager-on-windows-11107-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning your drivers with Windows Device Manager on Windows 11/10/7</u></a></li>
 </ul></div>
 
+

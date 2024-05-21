@@ -659,3 +659,4 @@ You may choose any of these recorders from the list above to help you capture HD
 <li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-honor-magic-6-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Honor Magic 6</u></a></li>
 </ul></div>
 
+

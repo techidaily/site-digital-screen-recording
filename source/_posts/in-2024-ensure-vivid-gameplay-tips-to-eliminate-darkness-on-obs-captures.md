@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Ensure Vivid Gameplay  Tips to Eliminate Darkness on OBS Captures\""
-date: 2024-05-18T16:11:52.156Z
-updated: 2024-05-19T16:11:52.156Z
+date: 2024-05-20T05:09:10.939Z
+updated: 2024-05-21T05:09:10.939Z
 tags: 
   - screen-recording
   - ai video
@@ -256,4 +256,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Lava Yuva 2 Pro? | Dr.fone</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-samsung-galaxy-xcover-7-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
 </ul></div>
+
 

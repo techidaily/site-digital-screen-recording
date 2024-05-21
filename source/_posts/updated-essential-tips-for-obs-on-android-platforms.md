@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Essential Tips for OBS on Android Platforms"
-date: 2024-05-18T16:20:04.276Z
-updated: 2024-05-19T16:20:04.276Z
+date: 2024-05-20T05:09:29.468Z
+updated: 2024-05-21T05:09:29.468Z
 tags: 
   - screen-recording
   - ai video
@@ -535,4 +535,5 @@ OBS Studio is a popular application among gamers, professional trainers, and int
 <li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Tecno Camon 20 | Dr.fone</u></a></li>
 <li><a href="https://voice-adjusting.techidaily.com/new-in-2024-harmonic-pinnacle-identifying-exceptional-music-for-visual-sequences/"><u>New In 2024, Harmonic Pinnacle Identifying Exceptional Music for Visual Sequences</u></a></li>
 </ul></div>
+
 

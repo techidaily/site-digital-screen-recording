@@ -1,7 +1,7 @@
 ---
 title: "Documenting Digital Dialogues"
-date: 2024-05-18T16:21:50.843Z
-updated: 2024-05-19T16:21:50.843Z
+date: 2024-05-20T05:09:32.973Z
+updated: 2024-05-21T05:09:32.973Z
 tags: 
   - screen-recording
   - ai video
@@ -450,4 +450,5 @@ The answer to the question "Can you record a Google hangout?" is yes. You can us
 <li><a href="https://ai-video-tools.techidaily.com/updated-motion-detection-made-easy-best-apps-for-mobile-devices/"><u>Updated Motion Detection Made Easy Best Apps for Mobile Devices</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-realme-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Realme</u></a></li>
 </ul></div>
+
 

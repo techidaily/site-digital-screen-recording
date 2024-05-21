@@ -342,3 +342,4 @@ Unlike OBS, which only offers a few recording options, Filmora includes all of t
 <li><a href="https://smart-video-creator.techidaily.com/the-art-of-lower-thirds-elevating-your-videos-in-final-cut-pro-x/"><u>The Art of Lower Thirds Elevating Your Videos in Final Cut Pro X</u></a></li>
 </ul></div>
 
+

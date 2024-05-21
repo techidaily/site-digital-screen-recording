@@ -237,3 +237,4 @@ If you want to record your webcam video, MyCam serves the purpose perfectly. But
 <li><a href="https://video-ai-editor.techidaily.com/updated-the-ultimate-fcpx-freebie-list-10-plugins-to-elevate-your-workflow/"><u>Updated The Ultimate FCPX Freebie List 10 Plugins to Elevate Your Workflow</u></a></li>
 </ul></div>
 
+

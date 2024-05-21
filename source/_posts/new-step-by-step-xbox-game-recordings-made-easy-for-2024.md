@@ -623,3 +623,4 @@ Hopefully, you have understood how to record screen with Xbox game bar directly.
 <li><a href="https://animation-videos.techidaily.com/updated-samples-of-cartoon-character-face-to-inspire-you-for-2024/"><u>Updated Samples of Cartoon Character Face to Inspire You for 2024</u></a></li>
 </ul></div>
 
+

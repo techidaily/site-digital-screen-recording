@@ -526,3 +526,4 @@ For macOS 10.12 or later
 <li><a href="https://ai-vdieo-software.techidaily.com/updated-avs-video-editor-for-mac-video-editing-tool-for-mac-mountain-lion-included/"><u>Updated AVS Video Editor for Mac Video Editing Tool for Mac (Mountain Lion Included)</u></a></li>
 </ul></div>
 
+

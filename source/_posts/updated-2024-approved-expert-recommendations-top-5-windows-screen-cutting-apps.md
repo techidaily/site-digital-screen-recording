@@ -504,3 +504,4 @@ For macOS 10.12 or later
 <li><a href="https://techidaily.com/is-your-infinix-smart-8-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Infinix Smart 8 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
 </ul></div>
 
+

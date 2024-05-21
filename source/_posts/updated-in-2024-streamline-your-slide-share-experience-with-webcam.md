@@ -565,3 +565,4 @@ Hopefully, you have understood how do you record a PowerPoint with a webcam. You
 <li><a href="https://screen-mirror.techidaily.com/how-to-screen-share-mac-to-apple-iphone-6-plus-drfone-by-drfone-ios/"><u>How to Screen Share Mac to Apple iPhone 6 Plus? | Dr.fone</u></a></li>
 </ul></div>
 
+

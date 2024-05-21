@@ -1,7 +1,7 @@
 ---
 title: "\"[New] How-To Guide  Advanced Techniques for Skype Screenshots via OBS\""
-date: 2024-05-18T16:24:02.391Z
-updated: 2024-05-19T16:24:02.391Z
+date: 2024-05-20T05:09:37.545Z
+updated: 2024-05-21T05:09:37.545Z
 tags: 
   - screen-recording
   - ai video
@@ -327,4 +327,5 @@ So form the above discussion it can be concluded that OBS for screen recording c
 <li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-unlock-apple-iphone-6-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Apple iPhone 6 without Passcode or Face ID</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-tecno-spark-10-pro-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Tecno Spark 10 Pro Screen to PC Using WiFi | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Dissecting the Technology Behind Fraps's Screenshot Pro for 2024"
-date: 2024-05-18T16:20:33.303Z
-updated: 2024-05-19T16:20:33.303Z
+date: 2024-05-20T05:09:30.387Z
+updated: 2024-05-21T05:09:30.387Z
 tags: 
   - screen-recording
   - ai video
@@ -342,4 +342,5 @@ If you're already using Fraps for benchmarking or simply keeping track of framer
 <li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Motorola Razr 40 Ultra | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-top-10-picks-for-flawless-slow-motion-video-generation-for-2024/"><u>Updated Top 10 Picks for Flawless Slow Motion Video Generation for 2024</u></a></li>
 </ul></div>
+
 

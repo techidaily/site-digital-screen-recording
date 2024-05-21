@@ -1,7 +1,7 @@
 ---
 title: "Epic Martial Arts Arcade Classics Revisited for 2024"
-date: 2024-05-18T16:19:11.673Z
-updated: 2024-05-19T16:19:11.673Z
+date: 2024-05-20T05:09:27.395Z
+updated: 2024-05-21T05:09:27.395Z
 tags: 
   - screen-recording
   - ai video
@@ -308,4 +308,5 @@ Follow @Richard Bennett
 <li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-moto-g14-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Moto G14</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/2024-approved-the-ultimate-fcp-voice-over-guide-quick-start-tips/"><u>2024 Approved The Ultimate FCP Voice Over Guide Quick Start Tips</u></a></li>
 </ul></div>
+
 

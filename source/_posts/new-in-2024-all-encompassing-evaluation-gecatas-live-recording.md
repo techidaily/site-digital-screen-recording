@@ -310,3 +310,4 @@ There are many different types of game recording software for Windows available,
 <li><a href="https://phone-solutions.techidaily.com/can-i-view-avchd-mts-files-on-htc-u23-pro-by-aiseesoft-video-converter-play-mts-on-android/"><u>Can I view AVCHD .mts files on HTC U23 Pro?</u></a></li>
 </ul></div>
 
+

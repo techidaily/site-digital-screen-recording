@@ -1,7 +1,7 @@
 ---
 title: "[New] Decreasing OBS Stream Quality for 2024"
-date: 2024-05-18T16:12:32.454Z
-updated: 2024-05-19T16:12:32.454Z
+date: 2024-05-20T05:09:12.286Z
+updated: 2024-05-21T05:09:12.286Z
 tags: 
   - screen-recording
   - ai video
@@ -251,4 +251,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://voice-adjusting.techidaily.com/syncing-audiovisual-elements-adding-soundtracks-to-video-in-adobe-premiere-for-2024/"><u>Syncing Audiovisual Elements Adding Soundtracks to Video in Adobe Premiere for 2024</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-12-mini-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>How To Unlock iPhone 12 mini Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Professional Gamers Showcase - Live Recording in OBS\""
-date: 2024-05-18T16:23:00.959Z
-updated: 2024-05-19T16:23:00.959Z
+date: 2024-05-20T05:09:35.695Z
+updated: 2024-05-21T05:09:35.695Z
 tags: 
   - screen-recording
   - ai video
@@ -384,4 +384,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://apple-account.techidaily.com/how-to-change-your-apple-iphone-7-apple-id-on-macbook-by-drfone-ios/"><u>How To Change Your Apple iPhone 7 Apple ID on MacBook</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-9-oppo-find-x6-pro-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Oppo Find X6 Pro Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
 </ul></div>
+
 

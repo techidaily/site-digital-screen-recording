@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Warrior's Echoes  Celebrating Ghost of Tsushima Analogues\""
-date: 2024-05-18T16:24:09.140Z
-updated: 2024-05-19T16:24:09.140Z
+date: 2024-05-20T05:09:37.811Z
+updated: 2024-05-21T05:09:37.811Z
 tags: 
   - screen-recording
   - ai video
@@ -588,4 +588,5 @@ Follow @Ollie Mattison
 <li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-gopro-video-editing-software-for-pc-quik-and-its-competitors/"><u>New 2024 Approved GoPro Video Editing Software for PC Quik and Its Competitors</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-samsung-galaxy-a05s-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Samsung Galaxy A05s Step-by-Step Solutions | Dr.fone</u></a></li>
 </ul></div>
+
 

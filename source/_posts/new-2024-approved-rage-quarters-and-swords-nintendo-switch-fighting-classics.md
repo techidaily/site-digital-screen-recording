@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Rage Quarters & Swords  Nintendo Switch Fighting Classics\""
-date: 2024-05-18T16:17:22.541Z
-updated: 2024-05-19T16:17:22.541Z
+date: 2024-05-20T05:09:23.493Z
+updated: 2024-05-21T05:09:23.493Z
 tags: 
   - screen-recording
   - ai video
@@ -747,4 +747,5 @@ For macOS 10.12 or later
 <li><a href="https://ai-video-editing.techidaily.com/new-powerpoint-slideshow-icon-slide-sorter-view-icon-slideshow-icon-powerpoint-slide-show-view-icon-for-2024/"><u>New Powerpoint Slideshow Icon, Slide Sorter View Icon, Slideshow Icon Powerpoint, Slide Show View Icon for 2024</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/updated-expert-picks-the-best-video-editing-software-for-mac-in/"><u>Updated Expert Picks The Best Video Editing Software for Mac In</u></a></li>
 </ul></div>
+
 

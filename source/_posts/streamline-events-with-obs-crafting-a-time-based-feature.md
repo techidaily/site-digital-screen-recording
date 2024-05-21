@@ -1,7 +1,7 @@
 ---
 title: "\"Streamline Events with OBS  Crafting a Time-Based Feature\""
-date: 2024-05-18T16:01:25.184Z
-updated: 2024-05-19T16:01:25.184Z
+date: 2024-05-20T05:08:48.552Z
+updated: 2024-05-21T05:08:48.552Z
 tags: 
   - screen-recording
   - ai video
@@ -255,4 +255,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-meizu-21-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Meizu 21 Without Them Knowing? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/xiaomi-data-retrieval-tool-restore-lost-data-from-xiaomi-redmi-note-12-pro-4g-by-fonelab-android-recover-data/"><u>Xiaomi Data Retrieval tool – restore lost data from Xiaomi Redmi Note 12 Pro 4G</u></a></li>
 </ul></div>
+
 

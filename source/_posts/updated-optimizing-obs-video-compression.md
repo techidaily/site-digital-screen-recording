@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Optimizing OBS Video Compression"
-date: 2024-05-18T16:20:28.182Z
-updated: 2024-05-19T16:20:28.182Z
+date: 2024-05-20T05:09:30.241Z
+updated: 2024-05-21T05:09:30.241Z
 tags: 
   - screen-recording
   - ai video
@@ -285,4 +285,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Vivo S17 Pro? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/updated-unlock-youtube-music-the-ultimate-audio-download-tutorial/"><u>Updated Unlock YouTube Music The Ultimate Audio Download Tutorial</u></a></li>
 </ul></div>
+
 

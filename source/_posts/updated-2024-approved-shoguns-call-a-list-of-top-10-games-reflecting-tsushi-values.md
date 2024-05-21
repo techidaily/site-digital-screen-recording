@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Shogun's Call  A List of Top 10 Games Reflecting Tsushi Values\""
-date: 2024-05-18T16:06:15.646Z
-updated: 2024-05-19T16:06:15.646Z
+date: 2024-05-20T05:08:58.940Z
+updated: 2024-05-21T05:08:58.940Z
 tags: 
   - screen-recording
   - ai video
@@ -617,4 +617,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-a-wedding-is-one-of-the-exciting-parts-that-will-happen-in-your-life-its-not-that-easy-to-plan-a-wedding-theres-a-lot-to-be-consider-l/"><u>Updated 2024 Approved A Wedding Is One of the Exciting Parts that Will Happen in Your Life. Its Not that Easy to Plan a Wedding, Theres a Lot to Be Consider Like Wedding Dress, Food, Venue, Videographer Etc</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-the-tiktok-aspect-ratio-blueprint-success-strategies/"><u>Updated 2024 Approved The TikTok Aspect Ratio Blueprint Success Strategies</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "Zoom Webinar Basics for Beginners & Those New to Virtual Events"
-date: 2024-05-18T16:03:54.941Z
-updated: 2024-05-19T16:03:54.941Z
+date: 2024-05-20T05:08:53.856Z
+updated: 2024-05-21T05:08:53.856Z
 tags: 
   - screen-recording
   - ai video
@@ -559,4 +559,5 @@ Follow @Richard Bennett
 <li><a href="https://techidaily.com/remove-the-lock-of-nokia-g22-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Nokia G22</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-8-drfone-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On Apple iPhone 8 | Dr.fone</u></a></li>
 </ul></div>
+
 

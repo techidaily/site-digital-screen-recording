@@ -1,7 +1,7 @@
 ---
 title: "Expert Guide to Leveraging OBS in Android for 2024"
-date: 2024-05-18T16:00:50.063Z
-updated: 2024-05-19T16:00:50.063Z
+date: 2024-05-20T05:08:47.388Z
+updated: 2024-05-21T05:08:47.388Z
 tags: 
   - screen-recording
   - ai video
@@ -504,4 +504,5 @@ OBS Studio is a popular application among gamers, professional trainers, and int
 <li><a href="https://ios-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Apple iPhone XS Max | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-how-to-use-rule-of-thirds-in-video/"><u>Updated How to Use Rule of Thirds in Video</u></a></li>
 </ul></div>
+
 

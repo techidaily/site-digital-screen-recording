@@ -1,7 +1,7 @@
 ---
 title: "[New] Enhancing OBS on a Thrifty Computer for 2024"
-date: 2024-05-18T16:23:05.566Z
-updated: 2024-05-19T16:23:05.566Z
+date: 2024-05-20T05:09:35.830Z
+updated: 2024-05-21T05:09:35.830Z
 tags: 
   - screen-recording
   - ai video
@@ -243,4 +243,5 @@ There may be a lot of other software which serve the same purpose but the best o
 <li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-your-disabled-iphone-15-pro-without-itunes-in-5-ways-by-drfone-ios/"><u>In 2024, Unlock Your Disabled iPhone 15 Pro Without iTunes in 5 Ways</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Samsung Galaxy F04? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -386,3 +386,4 @@ Follow @Max Wales
 <li><a href="https://pokemon-go-android.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Honor X50 GT? | Dr.fone</u></a></li>
 </ul></div>
 
+

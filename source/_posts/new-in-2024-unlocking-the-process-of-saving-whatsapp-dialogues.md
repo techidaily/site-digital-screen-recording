@@ -483,3 +483,4 @@ Hopefully, you have understood how to record WhatsApp video call on your device.
 <li><a href="https://video-creation-software.techidaily.com/new-mastering-image-cropping-in-fcpx-advanced-techniques/"><u>New Mastering Image Cropping in FCPX Advanced Techniques</u></a></li>
 </ul></div>
 
+

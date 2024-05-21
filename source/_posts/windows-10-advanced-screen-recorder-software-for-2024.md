@@ -573,3 +573,4 @@ If you are confused if you should install Screen Recorder Pro to record your scr
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-infinix-hot-30-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Infinix Hot 30 5G to Latest Samsung | Dr.fone</u></a></li>
 </ul></div>
 
+

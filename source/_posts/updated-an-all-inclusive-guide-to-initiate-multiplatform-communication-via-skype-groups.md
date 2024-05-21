@@ -696,3 +696,4 @@ Follow @Richard Bennett
 <li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Motorola Defy 2 | Dr.fone</u></a></li>
 </ul></div>
 
+

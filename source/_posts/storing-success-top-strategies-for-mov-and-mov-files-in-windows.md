@@ -674,3 +674,4 @@ You can record MOV file on Windows as well as Mac when you have the recorder tha
 <li><a href="https://ai-editing-video.techidaily.com/add-selective-color-effect-to-your-videos-using-filmora/"><u>Add Selective Color Effect to Your Videos Using Filmora</u></a></li>
 </ul></div>
 
+

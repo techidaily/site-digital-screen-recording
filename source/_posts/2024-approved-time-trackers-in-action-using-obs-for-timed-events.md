@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Time Trackers in Action  Using OBS for Timed Events\""
-date: 2024-05-18T16:00:39.260Z
-updated: 2024-05-19T16:00:39.260Z
+date: 2024-05-20T05:08:47.079Z
+updated: 2024-05-21T05:08:47.079Z
 tags: 
   - screen-recording
   - ai video
@@ -247,4 +247,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://video-creation-software.techidaily.com/updated-in-2024-is-videopad-the-right-video-editor-for-you-our-expert-review/"><u>Updated In 2024, Is Videopad the Right Video Editor for You? Our Expert Review</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-vivo-v29e-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Vivo V29e Device</u></a></li>
 </ul></div>
+
 

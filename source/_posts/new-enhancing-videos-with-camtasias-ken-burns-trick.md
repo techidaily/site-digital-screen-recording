@@ -1,7 +1,7 @@
 ---
 title: "[New] Enhancing Videos with Camtasia's Ken Burns Trick"
-date: 2024-05-18T16:18:15.561Z
-updated: 2024-05-19T16:18:15.561Z
+date: 2024-05-20T05:09:25.621Z
+updated: 2024-05-21T05:09:25.621Z
 tags: 
   - screen-recording
   - ai video
@@ -333,4 +333,5 @@ Follow @Max Wales
 <li><a href="https://fix-guide.techidaily.com/how-to-change-honor-x9a-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Honor X9a Location on Skout | Dr.fone</u></a></li>
 <li><a href="https://video-ai-editor.techidaily.com/in-2024-mkvtoolnix-for-macos-a-beginners-guide-to-video-editing/"><u>In 2024, MKVtoolnix for macOS A Beginners Guide to Video Editing</u></a></li>
 </ul></div>
+
 

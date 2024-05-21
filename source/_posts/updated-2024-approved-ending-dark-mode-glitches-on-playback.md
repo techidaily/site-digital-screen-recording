@@ -273,3 +273,4 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Tecno Spark 10 Pro | Dr.fone</u></a></li>
 </ul></div>
 
+

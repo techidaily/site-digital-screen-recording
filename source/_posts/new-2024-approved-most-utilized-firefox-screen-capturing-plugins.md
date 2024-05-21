@@ -681,3 +681,4 @@ Assuming you need to record the substance when perusing sites utilizing Firefox,
 <li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Lava Yuva 2? | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -519,3 +519,4 @@ For macOS 10.12 or later
 <li><a href="https://audio-shaping.techidaily.com/updated-the-newcomers-manual-to-lexis-sound-wave-processor/"><u>Updated The Newcomers Manual to Lexis Sound-Wave Processor</u></a></li>
 </ul></div>
 
+

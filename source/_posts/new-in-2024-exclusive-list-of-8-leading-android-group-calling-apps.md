@@ -724,3 +724,4 @@ Follow @Richard Bennett
 <li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-nokia-xr21-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Nokia XR21 to Other Android devices | Dr.fone</u></a></li>
 </ul></div>
 
+

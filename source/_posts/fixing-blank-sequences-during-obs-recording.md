@@ -1,7 +1,7 @@
 ---
 title: "Fixing Blank Sequences During OBS Recording"
-date: 2024-05-18T16:04:55.527Z
-updated: 2024-05-19T16:04:55.527Z
+date: 2024-05-20T05:08:56.094Z
+updated: 2024-05-21T05:08:56.094Z
 tags: 
   - screen-recording
   - ai video
@@ -603,4 +603,5 @@ OBS drop frame is probably the most common issue reported by OBS users. Whenever
 <li><a href="https://sound-optimizing.techidaily.com/new-zoom-voice-transformation-hacks-top-6-tips-to-spice-up-your-speech-and-spark-laughter-for-2024/"><u>New Zoom Voice Transformation Hacks Top 6 Tips to Spice Up Your Speech and Spark Laughter for 2024</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-infinix-smart-8-hd-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Infinix Smart 8 HD Screen | Dr.fone</u></a></li>
 </ul></div>
+
 

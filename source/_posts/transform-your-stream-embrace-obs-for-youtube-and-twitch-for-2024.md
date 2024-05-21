@@ -198,3 +198,4 @@ OBS is an open-source [video recorder](https://tools.techidaily.com/wondershare/
 <li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-final-cut-pro-tutorial-fading-in-and-out-of-audio-like-a-pro/"><u>New In 2024, Final Cut Pro Tutorial Fading In and Out of Audio Like a Pro</u></a></li>
 </ul></div>
 
+

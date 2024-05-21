@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Mastering Camtasia  Ken Burns Technique Unveiled\""
-date: 2024-05-18T16:25:01.409Z
-updated: 2024-05-19T16:25:01.409Z
+date: 2024-05-20T05:09:39.971Z
+updated: 2024-05-21T05:09:39.971Z
 tags: 
   - screen-recording
   - ai video
@@ -333,4 +333,5 @@ Follow @Max Wales
 <li><a href="https://video-content-creator.techidaily.com/new-professional-grade-video-editing-on-mac-adobe-premiere-pro-for-2024/"><u>New Professional-Grade Video Editing on Mac Adobe Premiere Pro for 2024</u></a></li>
 <li><a href="https://review-topics.techidaily.com/recover-deleted-iphone-13-whatsapp-attachments-on-mac-and-windows-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Recover Deleted iPhone 13 WhatsApp Attachments on Mac and Windows | Stellar</u></a></li>
 </ul></div>
+
 

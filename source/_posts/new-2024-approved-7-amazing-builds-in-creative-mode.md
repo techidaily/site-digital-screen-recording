@@ -347,3 +347,4 @@ Follow @Shanoon Cox
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-xiaomi-redmi-12-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Xiaomi Redmi 12 5G to New Phone | Dr.fone</u></a></li>
 </ul></div>
 
+

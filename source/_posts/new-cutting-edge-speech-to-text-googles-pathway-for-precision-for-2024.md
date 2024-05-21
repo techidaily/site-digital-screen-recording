@@ -261,3 +261,4 @@ Yes. Google Translate is a free speech to text service available for Windows, iO
 <li><a href="https://phone-solutions.techidaily.com/can-i-recover-my-data-if-my-iphone-6-screen-turns-black-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Can I recover my data if my iPhone 6 screen turns black? | Stellar</u></a></li>
 </ul></div>
 
+

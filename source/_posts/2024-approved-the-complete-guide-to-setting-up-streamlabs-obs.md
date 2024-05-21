@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Complete Guide to Setting Up Streamlabs OBS\""
-date: 2024-05-18T16:23:33.325Z
-updated: 2024-05-19T16:23:33.325Z
+date: 2024-05-20T05:09:36.633Z
+updated: 2024-05-21T05:09:36.633Z
 tags: 
   - screen-recording
   - ai video
@@ -334,4 +334,5 @@ While using Streamlabs, most of the templates available are nothing more than st
 <li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-on-apple-iphone-14-pro-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons On Apple iPhone 14 Pro? Find the Best Solution Here</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-things-you-must-know-for-screen-mirroring-apple-iphone-6-drfone-by-drfone-ios/"><u>In 2024, Things You Must Know for Screen Mirroring Apple iPhone 6 | Dr.fone</u></a></li>
 </ul></div>
+
 

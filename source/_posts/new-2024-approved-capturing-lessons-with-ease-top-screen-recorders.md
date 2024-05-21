@@ -900,3 +900,4 @@ To record online teaching all you have to do is install one of the applications 
 <li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-6-plus-to-the-previous-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 6 Plus to the Previous iOS Version? | Dr.fone</u></a></li>
 </ul></div>
 
+

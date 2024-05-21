@@ -493,3 +493,4 @@ If you are a Mac user, QuickTime player screen recording with audio is available
 <li><a href="https://screen-mirror.techidaily.com/how-sony-xperia-1-v-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Sony Xperia 1 V Mirror Screen to PC? | Dr.fone</u></a></li>
 </ul></div>
 
+

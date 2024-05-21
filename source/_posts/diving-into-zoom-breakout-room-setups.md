@@ -1,7 +1,7 @@
 ---
 title: "Diving Into Zoom Breakout Room Setups"
-date: 2024-05-18T15:59:39.643Z
-updated: 2024-05-19T15:59:39.643Z
+date: 2024-05-20T05:08:45.187Z
+updated: 2024-05-21T05:08:45.187Z
 tags: 
   - screen-recording
   - ai video
@@ -518,4 +518,5 @@ Follow @Richard Bennett
 <li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-infinix-smart-8-hd-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Infinix Smart 8 HD Phone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-realme-11-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Realme 11 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
 </ul></div>
+
 

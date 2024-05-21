@@ -501,3 +501,4 @@ The easiest method for screen capture on Lenovo is to utilize the key combinatio
 <li><a href="https://fix-guide.techidaily.com/how-to-resolve-samsung-galaxy-s23-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Samsung Galaxy S23 Screen Not Working | Dr.fone</u></a></li>
 </ul></div>
 
+

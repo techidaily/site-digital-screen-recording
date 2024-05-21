@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Restoring Sound Linkage in OBS Broadcasts"
-date: 2024-05-18T16:16:43.734Z
-updated: 2024-05-19T16:16:43.734Z
+date: 2024-05-20T05:09:22.130Z
+updated: 2024-05-21T05:09:22.130Z
 tags: 
   - screen-recording
   - ai video
@@ -579,4 +579,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-sony-xperia-5-v-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Sony Xperia 5 V without Them Knowing | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-se-2022-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone SE (2022) to an Older iOS System Version? | Dr.fone</u></a></li>
 </ul></div>
+
 

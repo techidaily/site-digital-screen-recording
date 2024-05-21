@@ -1,7 +1,7 @@
 ---
 title: "\"Taming High-Bit Rate in OBS\""
-date: 2024-05-18T16:17:12.574Z
-updated: 2024-05-19T16:17:12.574Z
+date: 2024-05-20T05:09:23.139Z
+updated: 2024-05-21T05:09:23.139Z
 tags: 
   - screen-recording
   - ai video
@@ -256,4 +256,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://pokemon-go-android.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Honor Magic 6 | Dr.fone</u></a></li>
 <li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-quickclip-editor/"><u>Updated In 2024, QuickClip Editor</u></a></li>
 </ul></div>
+
 

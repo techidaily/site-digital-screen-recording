@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Reviving the Full Screen in OBS"
-date: 2024-05-18T16:07:16.541Z
-updated: 2024-05-19T16:07:16.541Z
+date: 2024-05-20T05:09:01.178Z
+updated: 2024-05-21T05:09:01.178Z
 tags: 
   - screen-recording
   - ai video
@@ -315,4 +315,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-apple-iphone-8-when-phone-is-broken-drfone-by-drfone-ios/"><u>In 2024, How to Turn Off Find My Apple iPhone 8 when Phone is Broken? | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/vivo-y28-5g-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y28 5G Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
 </ul></div>
+
 

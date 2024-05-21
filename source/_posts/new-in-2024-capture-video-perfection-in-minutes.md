@@ -850,3 +850,4 @@ Often such a situation arises in front of us where we want to screen record apar
 <li><a href="https://techidaily.com/hard-reset-infinix-smart-8-hd-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Infinix Smart 8 HD in 3 Efficient Ways | Dr.fone</u></a></li>
 </ul></div>
 
+

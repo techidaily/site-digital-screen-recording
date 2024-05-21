@@ -1,7 +1,7 @@
 ---
 title: "\"Practical Demonstrations  Creating and Configuring Timer Modules in OBS for 2024\""
-date: 2024-05-18T16:09:16.987Z
-updated: 2024-05-19T16:09:16.987Z
+date: 2024-05-20T05:09:05.610Z
+updated: 2024-05-21T05:09:05.610Z
 tags: 
   - screen-recording
   - ai video
@@ -253,4 +253,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-nokia-c300-by-drfone-android/"><u>Three Ways to Sim Unlock Nokia C300</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-infinix-zero-30-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Infinix Zero 30 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
 </ul></div>
+
 

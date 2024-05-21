@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Resolved  Inaccessible Full Screen OBS\""
-date: 2024-05-18T16:20:36.804Z
-updated: 2024-05-19T16:20:36.804Z
+date: 2024-05-20T05:09:30.517Z
+updated: 2024-05-21T05:09:30.517Z
 tags: 
   - screen-recording
   - ai video
@@ -299,4 +299,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-iphone-14-pro-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock iPhone 14 Pro without Passcode or Face ID</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-nokia-c300-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Nokia C300 | Dr.fone</u></a></li>
 </ul></div>
+
 

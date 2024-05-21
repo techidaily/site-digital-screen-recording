@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Composition Magic with Blend Modes Techniques"
-date: 2024-05-18T16:12:42.992Z
-updated: 2024-05-19T16:12:42.992Z
+date: 2024-05-20T05:09:12.610Z
+updated: 2024-05-21T05:09:12.610Z
 tags: 
   - screen-recording
   - ai video
@@ -462,4 +462,5 @@ Follow @Max Wales
 <li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-free-online-glitch-effect-software-the-best-options-for-designers/"><u>Updated In 2024, Free Online Glitch Effect Software The Best Options for Designers</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-vivo-t2-pro-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Vivo T2 Pro 5G Quickly? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -524,3 +524,4 @@ The easiest method for screen capture on Lenovo is to utilize the key combinatio
 <li><a href="https://fix-guide.techidaily.com/reasons-for-infinix-smart-7-hd-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Infinix Smart 7 HD Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
 </ul></div>
 
+

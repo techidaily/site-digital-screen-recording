@@ -1,7 +1,7 @@
 ---
 title: "\"Choreographed Battle  Top 5 Martial Arts Video Game List for 2024\""
-date: 2024-05-18T16:15:20.194Z
-updated: 2024-05-19T16:15:20.194Z
+date: 2024-05-20T05:09:18.953Z
+updated: 2024-05-21T05:09:18.953Z
 tags: 
   - screen-recording
   - ai video
@@ -277,4 +277,5 @@ Follow @Richard Bennett
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-11-pro-max-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 11 Pro Max Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-apple-iphone-13-pro-max-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 13 Pro Max Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
 </ul></div>
+
 

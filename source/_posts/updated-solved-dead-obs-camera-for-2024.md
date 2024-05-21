@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Solved  Dead OBS Camera for 2024\""
-date: 2024-05-18T16:10:55.485Z
-updated: 2024-05-19T16:10:55.485Z
+date: 2024-05-20T05:09:08.776Z
+updated: 2024-05-21T05:09:08.776Z
 tags: 
   - screen-recording
   - ai video
@@ -262,4 +262,5 @@ OBS Studio is especially popular in the gaming community since it helps you crea
 <li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-motorola-moto-g14-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Motorola Moto G14 | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-zte-by-drfone-android/"><u>How to Bypass FRP from ZTE?</u></a></li>
 </ul></div>
+
 

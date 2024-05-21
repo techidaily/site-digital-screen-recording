@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Successful Patch  OBS Full Screen Functionality\""
-date: 2024-05-18T16:13:31.050Z
-updated: 2024-05-19T16:13:31.050Z
+date: 2024-05-20T05:09:14.575Z
+updated: 2024-05-21T05:09:14.575Z
 tags: 
   - screen-recording
   - ai video
@@ -255,4 +255,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-lava-agni-2-5g-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Lava Agni 2 5G PC | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-motorola-moto-g24-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Motorola Moto G24 Lock Screen Clock in Seconds</u></a></li>
 </ul></div>
+
 

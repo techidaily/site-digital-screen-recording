@@ -562,3 +562,4 @@ Since Bandicam doesn't have a Mac adaptation, you need to find a Bandicam for Ma
 <li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v20-document-with-electronic-signature-service-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v2.0 document with electronic signature service</u></a></li>
 </ul></div>
 
+

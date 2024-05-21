@@ -525,3 +525,4 @@ Hopefully, you have understood how to record WhatsApp video call on your device.
 <li><a href="https://techidaily.com/undeleted-lost-videos-from-zte-by-fonelab-android-recover-video/"><u>Undeleted lost videos from ZTE</u></a></li>
 </ul></div>
 
+

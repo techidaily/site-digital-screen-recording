@@ -655,3 +655,4 @@ Follow @Max Wales
 <li><a href="https://ai-video-tools.techidaily.com/new-youtube-video-aesthetics-the-role-of-aspect-ratio-in-storytelling/"><u>New YouTube Video Aesthetics The Role of Aspect Ratio in Storytelling</u></a></li>
 </ul></div>
 
+

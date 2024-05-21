@@ -832,3 +832,4 @@ Follow @Max Wales
 <li><a href="https://ai-editing-video.techidaily.com/easy-steps-to-make-glitch-effect-with-filmora/"><u>Easy Steps to Make Glitch Effect with Filmora</u></a></li>
 </ul></div>
 
+

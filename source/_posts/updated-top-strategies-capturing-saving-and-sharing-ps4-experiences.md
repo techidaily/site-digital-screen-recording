@@ -401,3 +401,4 @@ Hopefully, you have understood how to record videos on PS4\. If your gameplay is
 <li><a href="https://audio-shaping.techidaily.com/updated-tailoring-sound-techniques-for-altering-audio-speed-and-pitch-in-adobe-rush/"><u>Updated Tailoring Sound Techniques for Altering Audio Speed & Pitch in Adobe Rush</u></a></li>
 </ul></div>
 
+

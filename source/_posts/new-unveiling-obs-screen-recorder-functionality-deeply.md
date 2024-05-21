@@ -1,7 +1,7 @@
 ---
 title: "[New] Unveiling OBS Screen Recorder Functionality Deeply"
-date: 2024-05-18T16:08:20.734Z
-updated: 2024-05-19T16:08:20.734Z
+date: 2024-05-20T05:09:03.338Z
+updated: 2024-05-21T05:09:03.338Z
 tags: 
   - screen-recording
   - ai video
@@ -528,4 +528,5 @@ OBS is a splendid application to make web-based recordings happen and stream cat
 <li><a href="https://android-location-track.techidaily.com/3-ways-to-track-tecno-spark-10-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Tecno Spark 10 Pro without Them Knowing | Dr.fone</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-deep-dive-into-the-technological-framework-of-sound-forge/"><u>Updated 2024 Approved Deep Dive Into the Technological Framework of Sound Forge</u></a></li>
 </ul></div>
+
 

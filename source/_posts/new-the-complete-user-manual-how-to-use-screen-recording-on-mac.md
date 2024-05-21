@@ -1132,3 +1132,4 @@ To record video on Mac, you need a screen recorder. There are free and premium r
 <li><a href="https://ai-video-editing.techidaily.com/new-how-to-diy-vhs-overlay-in-after-effects/"><u>New How to DIY VHS Overlay in After Effects?</u></a></li>
 </ul></div>
 
+

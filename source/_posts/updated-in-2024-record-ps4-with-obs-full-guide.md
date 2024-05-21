@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Record PS4 with OBS Full Guide"
-date: 2024-05-18T16:07:35.168Z
-updated: 2024-05-19T16:07:35.168Z
+date: 2024-05-20T05:09:01.808Z
+updated: 2024-05-21T05:09:01.808Z
 tags: 
   - screen-recording
   - ai video
@@ -367,4 +367,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://techidaily.com/how-to-get-out-of-dfu-mode-on-apple-iphone-6-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on Apple iPhone 6? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-no-downloads-needed-10-free-online-video-compressor-options/"><u>Updated In 2024, No Downloads Needed 10 Free Online Video Compressor Options</u></a></li>
 </ul></div>
+
 

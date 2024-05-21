@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Fix OBS Black Screen Game Capture for 2024"
-date: 2024-05-18T16:09:02.363Z
-updated: 2024-05-19T16:09:02.363Z
+date: 2024-05-20T05:09:05.127Z
+updated: 2024-05-21T05:09:05.127Z
 tags: 
   - screen-recording
   - ai video
@@ -261,4 +261,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://audio-shaping.techidaily.com/essential-free-resources-for-aspiring-guitarists-a-collection-of-background-images-and-tunes/"><u>Essential Free Resources for Aspiring Guitarists A Collection of Background Images and Tunes</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-honor-x50-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Honor X50 | Dr.fone</u></a></li>
 </ul></div>
+
 

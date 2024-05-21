@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Correcting OBS Darkness During Live Streams"
-date: 2024-05-18T16:16:25.040Z
-updated: 2024-05-19T16:16:25.040Z
+date: 2024-05-20T05:09:21.497Z
+updated: 2024-05-21T05:09:21.497Z
 tags: 
   - screen-recording
   - ai video
@@ -278,4 +278,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-top-rated-android-apps-on-google-play-store/"><u>Updated 2024 Approved Top-Rated Android Apps on Google Play Store</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-resolve-lava-blaze-2-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Lava Blaze 2 Screen Not Working | Dr.fone</u></a></li>
 </ul></div>
+
 

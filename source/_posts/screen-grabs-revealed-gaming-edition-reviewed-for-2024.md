@@ -389,3 +389,4 @@ If you're already using Fraps for benchmarking or simply keeping track of framer
 <li><a href="https://animation-videos.techidaily.com/how-to-create-a-gif-with-sound/"><u>How to Create A GIF with Sound?</u></a></li>
 </ul></div>
 
+

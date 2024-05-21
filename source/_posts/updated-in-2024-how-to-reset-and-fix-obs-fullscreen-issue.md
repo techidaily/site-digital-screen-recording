@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, How to Reset and Fix OBS Fullscreen Issue"
-date: 2024-05-18T16:10:18.939Z
-updated: 2024-05-19T16:10:18.939Z
+date: 2024-05-20T05:09:07.554Z
+updated: 2024-05-21T05:09:07.554Z
 tags: 
   - screen-recording
   - ai video
@@ -274,4 +274,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-zte-nubia-z60-ultra-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-apple-iphone-14-plus-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 14 Plus With Forgotten Passcode Different Methods You Can Try</u></a></li>
 </ul></div>
+
 

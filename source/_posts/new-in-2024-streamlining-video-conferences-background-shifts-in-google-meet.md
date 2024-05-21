@@ -623,3 +623,4 @@ Follow @Richard Bennett
 <li><a href="https://techidaily.com/how-to-easily-hard-reset-my-samsung-galaxy-a05s-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Samsung Galaxy A05s | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -273,3 +273,4 @@ If you want to record high-end games, ShadowPlay is ideal as it does not affect 
 <li><a href="https://android-unlock.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-vivo-y77t-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Vivo Y77t</u></a></li>
 </ul></div>
 
+

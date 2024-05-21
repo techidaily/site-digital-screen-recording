@@ -979,3 +979,4 @@ Follow @Richard Bennett
 <li><a href="https://ai-vdieo-software.techidaily.com/changing-the-shape-of-your-video-aspect-ratio-in-fcp-explained/"><u>Changing the Shape of Your Video Aspect Ratio in FCP Explained</u></a></li>
 </ul></div>
 
+

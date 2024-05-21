@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Taming High-Bit Rate in OBS\""
-date: 2024-05-18T16:23:16.442Z
-updated: 2024-05-19T16:23:16.442Z
+date: 2024-05-20T05:09:36.142Z
+updated: 2024-05-21T05:09:36.142Z
 tags: 
   - screen-recording
   - ai video
@@ -248,4 +248,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://video-creation-software.techidaily.com/new-2024-approved-mac-video-editing-made-easy-with-mkvtoolnix-2023-update/"><u>New 2024 Approved Mac Video Editing Made Easy with MKVtoolnix 2023 Update</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Infinix GT 10 Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 

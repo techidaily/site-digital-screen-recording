@@ -728,3 +728,4 @@ Depending on the device you are using, you have to follow the specific method on
 <li><a href="https://ai-video-editing.techidaily.com/updated-how-to-create-custom-lower-thirds-in-filmora-for-2024/"><u>Updated How to Create Custom Lower Thirds in Filmora for 2024</u></a></li>
 </ul></div>
 
+

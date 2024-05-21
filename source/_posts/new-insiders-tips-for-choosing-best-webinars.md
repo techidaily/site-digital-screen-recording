@@ -1244,3 +1244,4 @@ Follow @Max Wales
 <li><a href="https://phone-solutions.techidaily.com/does-xiaomi-redmi-13c-5g-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does Xiaomi Redmi 13C 5G has native HEVC support?</u></a></li>
 </ul></div>
 
+

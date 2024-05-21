@@ -549,3 +549,4 @@ For macOS 10.12 or later
 <li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-oppo-a2-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Oppo A2 Screen | Dr.fone</u></a></li>
 </ul></div>
 
+

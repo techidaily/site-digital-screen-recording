@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Unfreezing Frozen OBS Stream Input\""
-date: 2024-05-18T16:25:26.488Z
-updated: 2024-05-19T16:25:26.488Z
+date: 2024-05-20T05:09:40.751Z
+updated: 2024-05-21T05:09:40.751Z
 tags: 
   - screen-recording
   - ai video
@@ -245,4 +245,5 @@ OBS Studio is especially popular in the gaming community since it helps you crea
 <li><a href="https://audio-editing.techidaily.com/new-the-ultimate-list-of-websites-to-unwind-and-find-peace-in-your-virtual-journey-for-2024/"><u>New The Ultimate List of Websites to Unwind and Find Peace in Your Virtual Journey for 2024</u></a></li>
 <li><a href="https://sound-optimizing.techidaily.com/2024-approved-audio-anonymization-in-multimedia-a-step-by-step-approach-updated/"><u>2024 Approved Audio Anonymization in Multimedia A Step-by-Step Approach (Updated)</u></a></li>
 </ul></div>
+
 

@@ -417,3 +417,4 @@ Follow @Max Wales
 <li><a href="https://ios-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>What Legendaries Are In Pokemon Platinum On Apple iPhone XR? | Dr.fone</u></a></li>
 </ul></div>
 
+

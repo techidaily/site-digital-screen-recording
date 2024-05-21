@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Obs Full-Screen No More Problem\""
-date: 2024-05-18T16:20:01.543Z
-updated: 2024-05-19T16:20:01.543Z
+date: 2024-05-20T05:09:29.393Z
+updated: 2024-05-21T05:09:29.393Z
 tags: 
   - screen-recording
   - ai video
@@ -279,4 +279,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-vivo-g2-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Vivo G2 | Dr.fone</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/updated-the-dos-and-donts-of-converting-mp3-files-to-mp4-videos-for-2024/"><u>Updated The Dos and Donts of Converting MP3 Files to MP4 Videos for 2024</u></a></li>
 </ul></div>
+
 

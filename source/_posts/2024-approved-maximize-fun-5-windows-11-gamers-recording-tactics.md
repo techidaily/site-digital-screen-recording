@@ -438,3 +438,4 @@ We have answered your question on how to record gameplay on PC Windows 10\. You 
 <li><a href="https://techidaily.com/undelete-lost-photos-from-tecno-spark-20-proplus-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Tecno Spark 20 Pro+.</u></a></li>
 </ul></div>
 
+

@@ -556,3 +556,4 @@ Follow @Richard Bennett
 <li><a href="https://techidaily.com/how-to-reset-itel-a70-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Itel A70 Without the Home Button | Dr.fone</u></a></li>
 </ul></div>
 
+

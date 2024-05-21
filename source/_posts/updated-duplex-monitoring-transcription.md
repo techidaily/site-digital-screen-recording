@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Duplex Monitoring Transcription"
-date: 2024-05-18T16:22:11.372Z
-updated: 2024-05-19T16:22:11.372Z
+date: 2024-05-20T05:09:33.800Z
+updated: 2024-05-21T05:09:33.800Z
 tags: 
   - screen-recording
   - ai video
@@ -421,4 +421,5 @@ Follow @Max Wales
 <li><a href="https://android-location-track.techidaily.com/how-to-track-xiaomi-14-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Xiaomi 14 Location without Installing Software? | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-apple-iphone-14-pro-max-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your Apple iPhone 14 Pro Max Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
 </ul></div>
+
 

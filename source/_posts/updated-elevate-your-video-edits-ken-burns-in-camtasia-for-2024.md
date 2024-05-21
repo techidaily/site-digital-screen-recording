@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Elevate Your Video Edits  Ken Burns in Camtasia for 2024\""
-date: 2024-05-18T16:24:27.301Z
-updated: 2024-05-19T16:24:27.301Z
+date: 2024-05-20T05:09:38.481Z
+updated: 2024-05-21T05:09:38.481Z
 tags: 
   - screen-recording
   - ai video
@@ -373,4 +373,5 @@ Follow @Max Wales
 <li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-infinix-note-30-vip-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Infinix Note 30 VIP.</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Lava Yuva 3 | Dr.fone</u></a></li>
 </ul></div>
+
 

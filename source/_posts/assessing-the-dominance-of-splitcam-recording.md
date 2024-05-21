@@ -232,3 +232,4 @@ SplitCam as a free video record is great to say the least. However, it fails to 
 <li><a href="https://video-ai-editor.techidaily.com/new-fcpx-video-editing-how-to-crop-and-resize-images-like-a-pro/"><u>New FCPX Video Editing How to Crop and Resize Images Like a Pro</u></a></li>
 </ul></div>
 
+

@@ -393,3 +393,4 @@ In order to record the full screen of your computer, you will need a screen reco
 <li><a href="https://audio-editing.techidaily.com/tech-tip-turning-off-your-mic-in-zoom-conferences-across-platforms/"><u>Tech Tip Turning Off Your Mic in Zoom Conferences Across Platforms</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "Record & Share Every Victory in OBS for 2024"
-date: 2024-05-18T16:02:01.345Z
-updated: 2024-05-19T16:02:01.345Z
+date: 2024-05-20T05:08:50.160Z
+updated: 2024-05-21T05:08:50.160Z
 tags: 
   - screen-recording
   - ai video
@@ -390,4 +390,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://video-content-creator.techidaily.com/updated-in-2024-unleash-your-creativity-the-top-5-avchd-video-editing-software/"><u>Updated In 2024, Unleash Your Creativity The Top 5 AVCHD Video Editing Software</u></a></li>
 <li><a href="https://video-ai-editor.techidaily.com/make-a-lasting-impression-best-video-resume-creators-with-templates/"><u>Make a Lasting Impression Best Video Resume Creators with Templates</u></a></li>
 </ul></div>
+
 

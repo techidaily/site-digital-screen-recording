@@ -1,7 +1,7 @@
 ---
 title: "Excellent Screen Capture Apps for Linux Enthusiasts"
-date: 2024-05-18T16:13:17.251Z
-updated: 2024-05-19T16:13:17.251Z
+date: 2024-05-20T05:09:13.806Z
+updated: 2024-05-21T05:09:13.806Z
 tags: 
   - screen-recording
   - ai video
@@ -578,4 +578,5 @@ Follow @Liza Brown
 <li><a href="https://video-creation-software.techidaily.com/new-2024-approved-transform-your-videos-top-mobile-editing-apps-for-iphone-and-android-users/"><u>New 2024 Approved Transform Your Videos Top Mobile Editing Apps for iPhone and Android Users</u></a></li>
 <li><a href="https://techidaily.com/your-complete-guide-to-reset-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

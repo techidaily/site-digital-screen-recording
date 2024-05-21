@@ -409,3 +409,4 @@ In order to record the full screen of your computer, you will need a screen reco
 <li><a href="https://ai-driven-video-production.techidaily.com/times-running-out-learn-to-add-a-countdown-timer-in-fcpx-now/"><u>Times Running Out! Learn to Add a Countdown Timer in FCPX Now</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Excellent Screenshot & Videography Solutions  Ubuntu Edition\""
-date: 2024-05-18T16:05:26.020Z
-updated: 2024-05-19T16:05:26.020Z
+date: 2024-05-20T05:08:57.062Z
+updated: 2024-05-21T05:08:57.062Z
 tags: 
   - screen-recording
   - ai video
@@ -717,4 +717,5 @@ Assuming you at any point need to record your screen on Ubuntu Linux, there are 
 <li><a href="https://sound-tweaking.techidaily.com/new-enhance-your-speaking-style-with-av-voice-changers-a-comprehensive-guide/"><u>New Enhance Your Speaking Style with AV Voice Changers A Comprehensive Guide</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-samsung-galaxy-a14-5g-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Samsung Galaxy A14 5G</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "Top 10 PS5 External Hard Drives"
-date: 2024-05-18T16:17:59.909Z
-updated: 2024-05-19T16:17:59.909Z
+date: 2024-05-20T05:09:25.092Z
+updated: 2024-05-21T05:09:25.092Z
 tags: 
   - screen-recording
   - ai video
@@ -558,4 +558,5 @@ Follow @Ollie Mattison
 <li><a href="https://audio-editing.techidaily.com/2024-approved-step-by-step-getting-audacity-running-on-your-ubuntu-system/"><u>2024 Approved Step-by-Step Getting Audacity Running on Your Ubuntu System</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-a-detailed-guide-to-do-color-correction-in-obs/"><u>In 2024, A Detailed Guide to Do Color Correction in OBS</u></a></li>
 </ul></div>
+
 

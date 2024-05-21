@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Pull Off Professional Video Edits with Ken Burns Effect"
-date: 2024-05-18T16:01:19.269Z
-updated: 2024-05-19T16:01:19.269Z
+date: 2024-05-20T05:08:48.356Z
+updated: 2024-05-21T05:08:48.356Z
 tags: 
   - screen-recording
   - ai video
@@ -327,4 +327,5 @@ Follow @Max Wales
 <li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-y100i-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Vivo Y100i | Dr.fone</u></a></li>
 <li><a href="https://voice-adjusting.techidaily.com/updated-less-loud-more-effective-a-comprehensive-overview-of-audio-cleanup-in-premiere-pro/"><u>Updated Less Loud, More Effective A Comprehensive Overview of Audio Cleanup in Premiere Pro</u></a></li>
 </ul></div>
+
 

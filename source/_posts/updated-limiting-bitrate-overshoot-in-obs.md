@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Limiting Bitrate Overshoot in OBS"
-date: 2024-05-18T16:12:15.736Z
-updated: 2024-05-19T16:12:15.736Z
+date: 2024-05-20T05:09:11.729Z
+updated: 2024-05-21T05:09:11.729Z
 tags: 
   - screen-recording
   - ai video
@@ -300,4 +300,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://ai-video-editing.techidaily.com/new-in-2024-create-your-face-zoom-tiktok-now/"><u>New In 2024, Create Your Face Zoom TikTok Now</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-top-5-free-online-tone-generator-tools/"><u>New 2024 Approved Top 5 Free Online Tone Generator Tools</u></a></li>
 </ul></div>
+
 

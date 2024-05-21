@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Optimizing PS4 Games for Live Capture in OBS"
-date: 2024-05-18T16:06:51.301Z
-updated: 2024-05-19T16:06:51.301Z
+date: 2024-05-20T05:09:00.393Z
+updated: 2024-05-21T05:09:00.393Z
 tags: 
   - screen-recording
   - ai video
@@ -354,4 +354,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On OnePlus 12R | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-oppo-a18-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Oppo A18 Unlock Without Password</u></a></li>
 </ul></div>
+
 

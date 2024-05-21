@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Re-Establishing OBS Audio Recording Capabilities\""
-date: 2024-05-18T16:19:06.732Z
-updated: 2024-05-19T16:19:06.732Z
+date: 2024-05-20T05:09:27.244Z
+updated: 2024-05-21T05:09:27.244Z
 tags: 
   - screen-recording
   - ai video
@@ -550,4 +550,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://blog-min.techidaily.com/how-to-erase-private-data-from-iphone-6-plus-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From iPhone 6 Plus | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-vivo-s17t-easily-by-drfone-android/"><u>In 2024, How To Unlock a Vivo S17t Easily?</u></a></li>
 </ul></div>
+
 

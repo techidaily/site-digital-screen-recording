@@ -1,7 +1,7 @@
 ---
 title: "Crucial Techniques for Documenting LOL Wars"
-date: 2024-05-18T16:13:50.620Z
-updated: 2024-05-19T16:13:50.620Z
+date: 2024-05-20T05:09:15.146Z
+updated: 2024-05-21T05:09:15.146Z
 tags: 
   - screen-recording
   - ai video
@@ -525,4 +525,5 @@ League of Legends is a high-end game and you cannot let recording in the backgro
 <li><a href="https://tools.techidaily.com/aiseesoft-total-video-converter-for-win/"><u>Aiseesoft Total Video Converter for Windows</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Samsung Galaxy S24+? | Dr.fone</u></a></li>
 </ul></div>
+
 

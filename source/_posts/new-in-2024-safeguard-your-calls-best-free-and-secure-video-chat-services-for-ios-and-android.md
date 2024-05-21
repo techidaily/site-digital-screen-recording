@@ -882,3 +882,4 @@ Follow @Richard Bennett
 <li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-samsung-galaxy-s23-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Samsung Galaxy S23 password or pattern lock</u></a></li>
 </ul></div>
 
+

@@ -700,3 +700,4 @@ Gameplay recording, for instance, Minecraft should be possible effectively utili
 <li><a href="https://howto.techidaily.com/how-to-resolve-nubia-red-magic-8s-pro-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Nubia Red Magic 8S Pro Screen Not Working | Dr.fone</u></a></li>
 </ul></div>
 
+

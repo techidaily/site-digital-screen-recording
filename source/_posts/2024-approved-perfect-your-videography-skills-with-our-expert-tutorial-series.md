@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Perfect Your Videography Skills with Our Expert Tutorial Series\""
-date: 2024-05-18T16:24:06.975Z
-updated: 2024-05-19T16:24:06.975Z
+date: 2024-05-20T05:09:37.724Z
+updated: 2024-05-21T05:09:37.724Z
 tags: 
   - screen-recording
   - ai video
@@ -779,4 +779,5 @@ Follow @Max Wales
 <li><a href="https://iphone-unlock.techidaily.com/iphone-xs-max-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>iPhone XS Max Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
 <li><a href="https://video-ai-editor.techidaily.com/camtasia-essentials-how-to-adjust-video-speed-with-ease/"><u>Camtasia Essentials How to Adjust Video Speed with Ease</u></a></li>
 </ul></div>
+
 

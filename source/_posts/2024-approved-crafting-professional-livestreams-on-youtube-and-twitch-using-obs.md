@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Crafting Professional Livestreams on YouTube and Twitch Using OBS\""
-date: 2024-05-18T16:19:32.509Z
-updated: 2024-05-19T16:19:32.509Z
+date: 2024-05-20T05:09:28.133Z
+updated: 2024-05-21T05:09:28.133Z
 tags: 
   - screen-recording
   - ai video
@@ -160,4 +160,5 @@ OBS is an open-source [video recorder](https://tools.techidaily.com/wondershare/
 <li><a href="https://ai-video-editing.techidaily.com/video-inspiration-for-birthday-slideshow/"><u>Video Inspiration for Birthday Slideshow</u></a></li>
 <li><a href="https://techidaily.com/three-solutions-to-hard-reset-nubia-z50-ultra-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Nubia Z50 Ultra? | Dr.fone</u></a></li>
 </ul></div>
+
 

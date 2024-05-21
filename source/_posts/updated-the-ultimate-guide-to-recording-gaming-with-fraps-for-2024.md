@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Ultimate Guide to Recording Gaming with Fraps for 2024"
-date: 2024-05-18T16:22:54.167Z
-updated: 2024-05-19T16:22:54.167Z
+date: 2024-05-20T05:09:35.461Z
+updated: 2024-05-21T05:09:35.461Z
 tags: 
   - screen-recording
   - ai video
@@ -381,4 +381,5 @@ If you're already using Fraps for benchmarking or simply keeping track of framer
 <li><a href="https://ai-video-apps.techidaily.com/new-nikon-video-post-production-tips-and-tricks-for-perfect-edits/"><u>New Nikon Video Post-Production Tips and Tricks for Perfect Edits</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/top-gif-accelerators-online-and-mobile-solutions/"><u>Top GIF Accelerators Online and Mobile Solutions</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Streamlining Screen Captures on Mi 11 Lite"
-date: 2024-05-18T16:10:47.139Z
-updated: 2024-05-19T16:10:47.139Z
+date: 2024-05-20T05:09:08.494Z
+updated: 2024-05-21T05:09:08.494Z
 tags: 
   - screen-recording
   - ai video
@@ -565,4 +565,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-sony-xperia-1-v-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Sony Xperia 1 V Android SIM Unlock APK</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/new-in-2024-unleash-your-creativity-top-chromebook-video-editor-apps/"><u>New In 2024, Unleash Your Creativity Top Chromebook Video Editor Apps</u></a></li>
 </ul></div>
+
 

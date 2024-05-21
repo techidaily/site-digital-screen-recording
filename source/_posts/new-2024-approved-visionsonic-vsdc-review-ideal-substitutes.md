@@ -308,3 +308,4 @@ There may be a lot of other similar applications like VSDC on the internet out t
 <li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-infinix-smart-8-plus-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Infinix Smart 8 Plus Phone Now with These Tips</u></a></li>
 </ul></div>
 
+

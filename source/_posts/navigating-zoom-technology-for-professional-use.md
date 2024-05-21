@@ -816,3 +816,4 @@ Follow @Richard Bennett
 <li><a href="https://techidaily.com/how-do-i-reset-my-infinix-smart-7-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Infinix Smart 7 Phone without technical knowledge? | Dr.fone</u></a></li>
 </ul></div>
 
+

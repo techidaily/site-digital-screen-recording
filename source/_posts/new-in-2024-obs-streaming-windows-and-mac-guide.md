@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, OBS Streaming [Windows and Mac Guide]"
-date: 2024-05-18T16:18:29.015Z
-updated: 2024-05-19T16:18:29.015Z
+date: 2024-05-20T05:09:26.068Z
+updated: 2024-05-21T05:09:26.068Z
 tags: 
   - screen-recording
   - ai video
@@ -388,4 +388,5 @@ While the information in this tutorial provides some fundamental concepts, the o
 <li><a href="https://animation-videos.techidaily.com/new-2024-approved-10-cartoon-characters-that-should-top-your-list/"><u>New 2024 Approved 10 Cartoon Characters That Should Top Your List</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-avi-editor-for-windows-11108187-easily-edit-avi-files-on-pc/"><u>In 2024, AVI Editor for Windows 11/10/8.1/8/7 Easily Edit AVI Files on PC</u></a></li>
 </ul></div>
+
 

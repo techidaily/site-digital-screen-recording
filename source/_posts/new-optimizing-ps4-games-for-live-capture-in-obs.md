@@ -1,7 +1,7 @@
 ---
 title: "[New] Optimizing PS4 Games for Live Capture in OBS"
-date: 2024-05-18T16:14:08.547Z
-updated: 2024-05-19T16:14:08.547Z
+date: 2024-05-20T05:09:15.693Z
+updated: 2024-05-21T05:09:15.693Z
 tags: 
   - screen-recording
   - ai video
@@ -359,4 +359,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://audio-editing.techidaily.com/in-depth-analysis-of-sound-purification-with-adobe-audition-tools/"><u>In-Depth Analysis of Sound Purification with Adobe Audition Tools</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/new-unleash-the-80s-adding-vhs-flair-to-your-fcp-projects-for-2024/"><u>New Unleash the 80S Adding VHS Flair to Your FCP Projects for 2024</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] A Beginner's Journey Into Gameplay Capturing with OBS"
-date: 2024-05-18T16:03:55.749Z
-updated: 2024-05-19T16:03:55.749Z
+date: 2024-05-20T05:08:53.907Z
+updated: 2024-05-21T05:08:53.907Z
 tags: 
   - screen-recording
   - ai video
@@ -414,4 +414,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://smart-video-creator.techidaily.com/2024-approved-download-the-best-video-editor-for-mac-splice-video-editor/"><u>2024 Approved Download the Best Video Editor for Mac Splice Video Editor</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-camon-20-pro-5g-by-fonelab-android-recover-data/"><u>How to recover lost data from Camon 20 Pro 5G?</u></a></li>
 </ul></div>
+
 

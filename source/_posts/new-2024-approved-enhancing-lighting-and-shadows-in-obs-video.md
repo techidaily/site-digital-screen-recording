@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Enhancing Lighting and Shadows in OBS Video\""
-date: 2024-05-18T16:18:42.877Z
-updated: 2024-05-19T16:18:42.877Z
+date: 2024-05-20T05:09:26.534Z
+updated: 2024-05-21T05:09:26.534Z
 tags: 
   - screen-recording
   - ai video
@@ -288,4 +288,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://voice-adjusting.techidaily.com/new-in-2024-compiling-echoes-and-ambiances-key-sites-for-podcast-soundtracks/"><u>New In 2024, Compiling Echoes and Ambiances Key Sites for Podcast Soundtracks</u></a></li>
 <li><a href="https://voice-adjusting.techidaily.com/2024-approved-from-street-to-studio-tracing-the-history-and-development-of-rap-music/"><u>2024 Approved From Street to Studio Tracing the History and Development of Rap Music</u></a></li>
 </ul></div>
+
 

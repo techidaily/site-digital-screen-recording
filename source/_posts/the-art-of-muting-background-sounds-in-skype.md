@@ -1,7 +1,7 @@
 ---
 title: "The Art of Muting Background Sounds in Skype"
-date: 2024-05-18T16:00:51.681Z
-updated: 2024-05-19T16:00:51.681Z
+date: 2024-05-20T05:08:47.427Z
+updated: 2024-05-21T05:08:47.427Z
 tags: 
   - screen-recording
   - ai video
@@ -435,4 +435,5 @@ Follow @Richard Bennett
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-realme-v30-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Realme V30 | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/new-11-best-free-music-recording-software-2024-reviews/"><u>New 11 Best Free Music Recording Software 2024 Reviews</u></a></li>
 </ul></div>
+
 

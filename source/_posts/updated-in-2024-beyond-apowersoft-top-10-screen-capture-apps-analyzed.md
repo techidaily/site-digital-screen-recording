@@ -561,3 +561,4 @@ You can agree with me that this screen catch application has a decent portion of
 <li><a href="https://ai-video-editing.techidaily.com/how-to-use-twixtor-effect-to-create-super-slow-motion-video/"><u>How to Use Twixtor Effect to Create Super Slow-Motion Video?</u></a></li>
 </ul></div>
 
+

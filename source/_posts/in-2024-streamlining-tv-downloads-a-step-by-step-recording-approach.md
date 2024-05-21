@@ -501,3 +501,4 @@ Recording TV shows is no more an impossible thing whether you are streaming the 
 <li><a href="https://ai-editing-video.techidaily.com/how-to-make-eye-zoom-transition-effect-with-filmora/"><u>How to Make Eye Zoom Transition Effect with Filmora</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "\"Mastery in Conflict  The Leading 7 Total War Tactics\""
-date: 2024-05-18T16:26:38.982Z
-updated: 2024-05-19T16:26:38.982Z
+date: 2024-05-20T05:09:43.159Z
+updated: 2024-05-21T05:09:43.159Z
 tags: 
   - screen-recording
   - ai video
@@ -538,4 +538,5 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 <li><a href="https://animation-videos.techidaily.com/updated-10-must-use-mp4-to-gif-converters-to-get-perfect-made-gif/"><u>Updated 10 Must-Use MP4 to GIF Converters to Get Perfect-Made GIF</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-edit-videos-like-a-pro-microsoft-video-editor-for-windows-10-8-and-7/"><u>Updated 2024 Approved Edit Videos Like a Pro Microsoft Video Editor for Windows 10, 8, and 7</u></a></li>
 </ul></div>
+
 

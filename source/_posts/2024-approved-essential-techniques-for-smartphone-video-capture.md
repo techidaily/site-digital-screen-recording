@@ -405,3 +405,4 @@ Recording all of your favorite movies on your Mac or PC is now easy and enjoyabl
 <li><a href="https://smart-video-creator.techidaily.com/final-cut-pro-essentials-how-to-achieve-realistic-motion-blur/"><u>Final Cut Pro Essentials How to Achieve Realistic Motion Blur</u></a></li>
 </ul></div>
 
+

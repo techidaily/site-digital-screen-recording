@@ -1,7 +1,7 @@
 ---
 title: "\"[New] DuRecorder  Unveiling Its Core Capabilities\""
-date: 2024-05-18T16:16:56.655Z
-updated: 2024-05-19T16:16:56.655Z
+date: 2024-05-20T05:09:22.587Z
+updated: 2024-05-21T05:09:22.587Z
 tags: 
   - screen-recording
   - ai video
@@ -614,4 +614,5 @@ The article above is very detailed and is full of information for any soul who a
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-infinix-zero-30-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Infinix Zero 30 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-xiaomi-redmi-note-13-pro-5g-to-mac-drfone-by-drfone-android/"><u>How to Mirror Xiaomi Redmi Note 13 Pro 5G to Mac? | Dr.fone</u></a></li>
 </ul></div>
+
 

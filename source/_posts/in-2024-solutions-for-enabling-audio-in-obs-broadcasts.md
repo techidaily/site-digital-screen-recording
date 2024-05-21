@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Solutions for Enabling Audio in OBS Broadcasts"
-date: 2024-05-18T16:06:52.111Z
-updated: 2024-05-19T16:06:52.111Z
+date: 2024-05-20T05:09:00.414Z
+updated: 2024-05-21T05:09:00.414Z
 tags: 
   - screen-recording
   - ai video
@@ -576,4 +576,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-poco-c50-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Poco C50 | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
 </ul></div>
+
 

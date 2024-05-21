@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Videography Secrets  Leveraging Strikethrough for Impactful Edits\""
-date: 2024-05-18T16:26:00.400Z
-updated: 2024-05-19T16:26:00.400Z
+date: 2024-05-20T05:09:41.866Z
+updated: 2024-05-21T05:09:41.866Z
 tags: 
   - screen-recording
   - ai video
@@ -504,4 +504,5 @@ Follow @Max Wales
 <li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-infinix-smart-8-pro-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Infinix Smart 8 Pro</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Vivo X Fold 2 | Dr.fone</u></a></li>
 </ul></div>
+
 

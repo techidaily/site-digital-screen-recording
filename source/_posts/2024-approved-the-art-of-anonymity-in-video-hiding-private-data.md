@@ -514,3 +514,4 @@ Follow @Max Wales
 <li><a href="https://android-unlock.techidaily.com/top-12-prominent-oppo-a38-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Oppo A38 Fingerprint Not Working Solutions</u></a></li>
 </ul></div>
 
+

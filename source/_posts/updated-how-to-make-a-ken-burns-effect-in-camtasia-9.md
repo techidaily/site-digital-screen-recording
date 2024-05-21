@@ -1,7 +1,7 @@
 ---
 title: "[Updated] How to Make a Ken Burns Effect in Camtasia 9?"
-date: 2024-05-18T16:22:28.231Z
-updated: 2024-05-19T16:22:28.231Z
+date: 2024-05-20T05:09:34.628Z
+updated: 2024-05-21T05:09:34.628Z
 tags: 
   - screen-recording
   - ai video
@@ -335,4 +335,5 @@ Follow @Max Wales
 <li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-nokia-c32-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Nokia C32 to Enjoy More Fun | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/mastering-wav-conversion-the-ultimate-resource-for-2024/"><u>Mastering Wav Conversion The Ultimate Resource for 2024</u></a></li>
 </ul></div>
+
 

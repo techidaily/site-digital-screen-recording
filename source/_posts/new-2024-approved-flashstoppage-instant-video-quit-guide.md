@@ -419,3 +419,4 @@ QuickTime Player is the ideal application on Mac for playing audio and video. It
 <li><a href="https://smart-video-creator.techidaily.com/the-art-of-stability-mastering-video-stabilization-in-after-effects/"><u>The Art of Stability Mastering Video Stabilization in After Effects</u></a></li>
 </ul></div>
 
+

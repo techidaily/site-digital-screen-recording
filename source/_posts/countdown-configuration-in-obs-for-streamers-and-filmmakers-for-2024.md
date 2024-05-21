@@ -1,7 +1,7 @@
 ---
 title: "Countdown Configuration in OBS for Streamers and Filmmakers for 2024"
-date: 2024-05-18T16:06:21.833Z
-updated: 2024-05-19T16:06:21.833Z
+date: 2024-05-20T05:08:59.483Z
+updated: 2024-05-21T05:08:59.483Z
 tags: 
   - screen-recording
   - ai video
@@ -308,4 +308,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xr-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock iPhone XR Without Swiping Up? 6 Ways</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-vivo-y100-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Vivo Y100 5G Location | Dr.fone</u></a></li>
 </ul></div>
+
 

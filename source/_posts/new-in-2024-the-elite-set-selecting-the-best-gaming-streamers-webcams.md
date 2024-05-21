@@ -758,3 +758,4 @@ Follow @Max Wales
 <li><a href="https://audio-editing.techidaily.com/updated-crafting-cohesive-soundscape-detailed-walkthrough-of-audio-normalization-in-davinci-resolve/"><u>Updated Crafting Cohesive Soundscape Detailed Walkthrough of Audio Normalization in DaVinci Resolve</u></a></li>
 </ul></div>
 
+

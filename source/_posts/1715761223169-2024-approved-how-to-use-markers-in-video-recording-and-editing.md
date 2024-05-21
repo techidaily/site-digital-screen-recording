@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How to Use Markers in Video Recording and Editing\""
-date: 2024-05-18T16:23:12.905Z
-updated: 2024-05-19T16:23:12.905Z
+date: 2024-05-20T05:09:36.025Z
+updated: 2024-05-21T05:09:36.025Z
 tags: 
   - screen-recording
   - ai video
@@ -521,4 +521,5 @@ Follow @Max Wales
 <li><a href="https://sound-optimizing.techidaily.com/updated-crafting-compelling-cinematography-3-novel-approaches-to-weave-sound-into-video-projects/"><u>Updated Crafting Compelling Cinematography 3 Novel Approaches to Weave Sound Into Video Projects</u></a></li>
 <li><a href="https://sound-optimizing.techidaily.com/new-in-2024-pinpoint-palm-tapping-audio-indicator/"><u>New In 2024, Pinpoint Palm-Tapping Audio Indicator</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Press Pause on Anxiety with These Games"
-date: 2024-05-18T16:09:17.527Z
-updated: 2024-05-19T16:09:17.527Z
+date: 2024-05-20T05:09:05.624Z
+updated: 2024-05-21T05:09:05.624Z
 tags: 
   - screen-recording
   - ai video
@@ -868,4 +868,5 @@ Follow @Ollie Mattison
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Samsung Galaxy A23 5G? | Dr.fone</u></a></li>
 <li><a href="https://iphone-location.techidaily.com/3-smart-and-simple-ways-to-change-home-address-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>3 Smart and Simple Ways to Change Home Address on Apple iPhone SE (2020) | Dr.fone</u></a></li>
 </ul></div>
+
 

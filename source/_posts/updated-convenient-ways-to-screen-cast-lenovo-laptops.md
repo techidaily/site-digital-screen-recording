@@ -494,3 +494,4 @@ The easiest method for screen capture on Lenovo is to utilize the key combinatio
 <li><a href="https://howto.techidaily.com/what-to-do-when-infinix-hot-40-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Infinix Hot 40 Has Black Screen of Death? | Dr.fone</u></a></li>
 </ul></div>
 
+

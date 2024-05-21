@@ -1231,3 +1231,4 @@ Follow @Max Wales
 <li><a href="https://video-ai-editor.techidaily.com/effortless-video-editing-how-to-add-effects-in-fcp-x-in-3-steps/"><u>Effortless Video Editing How to Add Effects in FCP X in 3 Steps</u></a></li>
 </ul></div>
 
+

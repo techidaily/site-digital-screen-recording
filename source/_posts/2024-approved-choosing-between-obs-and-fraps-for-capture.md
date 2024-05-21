@@ -259,3 +259,4 @@ To sum it up for you, if you have a low configuration computer, you should opt f
 <li><a href="https://ai-editing-video.techidaily.com/how-to-create-a-smooth-cut-transition-effect-in-2024/"><u>How to Create a Smooth Cut Transition Effect, In 2024</u></a></li>
 </ul></div>
 
+

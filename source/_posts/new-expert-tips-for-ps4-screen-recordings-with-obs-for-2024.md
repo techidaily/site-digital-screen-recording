@@ -1,7 +1,7 @@
 ---
 title: "[New] Expert Tips for PS4 Screen Recordings with OBS for 2024"
-date: 2024-05-18T16:19:04.270Z
-updated: 2024-05-19T16:19:04.270Z
+date: 2024-05-20T05:09:27.174Z
+updated: 2024-05-21T05:09:27.174Z
 tags: 
   - screen-recording
   - ai video
@@ -375,4 +375,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://location-social.techidaily.com/how-to-change-your-oppo-a2-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Oppo A2 Location on Twitter | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-vivo-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Vivo Without PUK Codes</u></a></li>
 </ul></div>
+
 

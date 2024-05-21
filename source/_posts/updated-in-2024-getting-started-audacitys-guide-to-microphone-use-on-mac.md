@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Getting Started  Audacity's Guide to Microphone Use on Mac\""
-date: 2024-05-18T16:15:26.685Z
-updated: 2024-05-19T16:15:26.685Z
+date: 2024-05-20T05:09:19.593Z
+updated: 2024-05-21T05:09:19.593Z
 tags: 
   - screen-recording
   - ai video
@@ -288,4 +288,5 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 <li><a href="https://ai-topics.techidaily.com/the-recommended-natural-ai-hindi-voice-generator/"><u>The Recommended Natural AI Hindi Voice Generator</u></a></li>
 <li><a href="https://ai-video.techidaily.com/updated-top-10-solutions-for-movie-subtitle-translation-making-things-perfect/"><u>updated Top 10 Solutions for Movie Subtitle Translation Making Things Perfect</u></a></li>
 </ul></div>
+
 

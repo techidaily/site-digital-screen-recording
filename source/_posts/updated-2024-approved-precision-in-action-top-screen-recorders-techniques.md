@@ -3138,3 +3138,4 @@ There are some screen recorders such as Filmora that offer you the option to rem
 <li><a href="https://ai-editing-video.techidaily.com/new-how-to-add-zoom-blur-effect-in-photoshop/"><u>New How to Add Zoom Blur Effect In Photoshop</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, OBS Timer Mastery  Building a Custom Countdown Timer\""
-date: 2024-05-18T16:13:10.771Z
-updated: 2024-05-19T16:13:10.771Z
+date: 2024-05-20T05:09:13.558Z
+updated: 2024-05-21T05:09:13.558Z
 tags: 
   - screen-recording
   - ai video
@@ -306,4 +306,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://ai-driven-video-production.techidaily.com/level-up-your-gaming-intros-top-10-tools-for-windows-mac-and-beyond-for-2024/"><u>Level Up Your Gaming Intros Top 10 Tools for Windows, Mac, and Beyond for 2024</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-best-free-iphone-13-pro-max-imei-checker-by-drfone-ios/"><u>In 2024, Best Free iPhone 13 Pro Max IMEI Checker</u></a></li>
 </ul></div>
+
 
