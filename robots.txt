@@ -1,4 +1,4 @@
-Sitemap: https://digital-screen-recording.techidaily.com/sitemap.xml
+Sitemap: https://digital-screen-recording.techidaily.com/sitemap_index.xml
 User-agent: Googlebot
 Disallow:
 
