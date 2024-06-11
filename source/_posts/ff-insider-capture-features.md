@@ -1,7 +1,7 @@
 ---
 title: "FF Insider Capture Features"
-date: 2024-05-18T17:07:00.448Z
-updated: 2024-05-19T17:07:00.448Z
+date: 2024-06-10T03:00:30.267Z
+updated: 2024-06-11T03:00:30.267Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes FF Insider Capture Features"
 excerpt: "This Article Describes FF Insider Capture Features"
 keywords: "FF Inster Snapshots,Fitness Watch Scene Gems,InnerView Exercise Highlights,FitTracker Visual Tracks,Insider Workout Shots,MotionCapture Wellness,HealthFitter Capture Features"
-thumbnail: https://www.lifewire.com/thmb/1X3sRGX1kbV-Ydn8ceXfqTlOH6I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/african-american-woman-opening-packages-of-shoes-on-sofa-580503483-5a735094d8fdd50036b63f8a.jpg
+thumbnail: https://thmb.techidaily.com/9ca2eff6ae26123de716ede19623049b700dbda01116c41da9ae37331ba659b6.jpg
 ---
 
 ## FF Insider Capture Features

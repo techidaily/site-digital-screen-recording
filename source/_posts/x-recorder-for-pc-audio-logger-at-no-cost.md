@@ -1,7 +1,7 @@
 ---
 title: "\"X-Recorder for Pc  Audio Logger at No Cost\""
-date: 2024-05-18T16:37:33.971Z
-updated: 2024-05-19T16:37:33.971Z
+date: 2024-06-10T03:00:32.721Z
+updated: 2024-06-11T03:00:32.721Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes X-Recorder for Pc: Audio Logger at No Cost\""
 excerpt: "\"This Article Describes X-Recorder for Pc: Audio Logger at No Cost\""
 keywords: "Audiorecord Test,Sound Recorder Check,Earphone Capture Quality,Audio Input Analysis,Sound Capture Reliability,Hearing Device Testing,Microphone Evaluation Exam"
-thumbnail: https://www.lifewire.com/thmb/W4WRTJiI80qWQugtfcrcauwLImY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rearviewofboywithlaptoponsofa-31ba45dfa7fb4553a257c133b352ef64.jpg
+thumbnail: https://thmb.techidaily.com/26dcef27c207b8605e3fcf4585ee0822110eeb8a794c85ff8e27071c7786d452.jpg
 ---
 
 ## X-Recorder for Pc: Audio Logger at No Cost

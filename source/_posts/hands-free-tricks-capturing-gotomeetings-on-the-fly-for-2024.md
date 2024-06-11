@@ -1,7 +1,7 @@
 ---
 title: "\"Hands-Free Tricks  Capturing GoToMeetings on the Fly for 2024\""
-date: 2024-05-20T05:09:41.330Z
-updated: 2024-05-21T05:09:41.330Z
+date: 2024-06-10T03:00:24.462Z
+updated: 2024-06-11T03:00:24.462Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Hands-Free Tricks: Capturing GoToMeetings on the Fly for 2024\""
 excerpt: "\"This Article Describes Hands-Free Tricks: Capturing GoToMeetings on the Fly for 2024\""
 keywords: "\"Hands-Free Meeting Tips,GoToMeeting Quick Guide,On-the-Go Video Calling,Mobile Meeting Capture,Real-Time Meeting Recordings,Easy Video Conference Tricks,Fly Meetings Streaming\""
-thumbnail: https://www.lifewire.com/thmb/oKncwoTVFBBV6ytT92nLRJt-PSI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/social-media-text-588a94263df78caebc620f05.jpg
+thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767bab5dec28fa2cd5b42632e26.jpg
 ---
 
 ## Hands-Free Tricks: Capturing GoToMeetings on the Fly

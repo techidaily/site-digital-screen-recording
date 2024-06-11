@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Affordable High-Performance Game Mice and Keyboards for Gamers\""
-date: 2024-05-20T05:09:09.008Z
-updated: 2024-05-21T05:09:09.008Z
+date: 2024-06-10T03:00:36.816Z
+updated: 2024-06-11T03:00:36.816Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Affordable High-Performance Game Mice and Keyboards for Gamers\""
 excerpt: "\"This Article Describes [New] Affordable High-Performance Game Mice and Keyboards for Gamers\""
 keywords: "\"Gamer Mice Affordably,High-Performing Keys,Budget Gaming Mouse,Cost-Effective Keyboard,Performance Game Inputs,Economical Gaming Tools,Gamers' Quality Mice\""
-thumbnail: https://www.lifewire.com/thmb/4J2iVgv99e0e6zd-RILzsk4gPzo=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1134410016-75c4b547097941299e55dceeef4b764c.jpg
+thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2219e90738423fb3fbbee898.jpg
 ---
 
 ## Affordable High-Performance Game Mice and Keyboards for Gamers

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Achieve Perfect Screen Captures on the Mi 11 Lite\""
-date: 2024-05-18T17:03:41.465Z
-updated: 2024-05-19T17:03:41.465Z
+date: 2024-06-10T03:00:30.944Z
+updated: 2024-06-11T03:00:30.944Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] 2024 Approved: Achieve Perfect Screen Captures on the Mi 11 Lite\""
 excerpt: "\"This Article Describes [New] 2024 Approved: Achieve Perfect Screen Captures on the Mi 11 Lite\""
 keywords: "\"Mi 11 Screen Capture,Lite Mi Capturing,Mi 11 Perfect Screenshot,Mi 11 Pixel Perfection,Mi 11 Image Clarity,Lite Mi Precise Capture,Ultra-Clear Mi 11 Screenshots\""
-thumbnail: https://www.lifewire.com/thmb/5m3PFyS3dMrqXFE2iOSfA4BUn2Y=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tiktok-smart-tv-12dcac76114b4747b9b3db8bb3551ddc.jpg
+thumbnail: https://thmb.techidaily.com/85e69845f10f793c5b081e6eac45cea976095820d8ff765825e636a33b833fec.jpg
 ---
 
 ## Achieve Perfect Screen Captures on the Mi 11 Lite

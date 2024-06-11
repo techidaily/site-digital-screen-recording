@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Straightforward Screen Capture App, Win10 Edition"
-date: 2024-05-18T16:33:49.786Z
-updated: 2024-05-19T16:33:49.786Z
+date: 2024-06-10T03:00:29.383Z
+updated: 2024-06-11T03:00:29.383Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] In 2024, Straightforward Screen Capture App, Win10 Edition"
 excerpt: "This Article Describes [Updated] In 2024, Straightforward Screen Capture App, Win10 Edition"
 keywords: "Win10 Screenshot Tool,Simple Windows ScreenCapture,StraightCapture Win10,EasyWin Screenshot,QuickScreenWinCapture,DirectScreenWinApp,OneClick WindowSnap"
-thumbnail: https://www.lifewire.com/thmb/XFPs7ukKGYkDLjHUDiAKej05X4I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Cleaningrobotonlaptop_HuberandStarke_GettyImages-1448733073_EVANCROP-8ed67f08b9c4430db8e47c51fde78feb.jpg
+thumbnail: https://thmb.techidaily.com/09fee241173a4d75afd314bc2889ac10d1158fd98dc41bc3885e34ece3467540.jpg
 ---
 
 ## Straightforward Screen Capture App, Win10 Edition

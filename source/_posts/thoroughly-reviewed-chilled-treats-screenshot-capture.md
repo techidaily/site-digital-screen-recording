@@ -1,7 +1,7 @@
 ---
 title: "\"Thoroughly Reviewed  Chilled Treats Screenshot Capture\""
-date: 2024-05-20T05:09:21.960Z
-updated: 2024-05-21T05:09:21.960Z
+date: 2024-06-10T03:00:35.958Z
+updated: 2024-06-11T03:00:35.958Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Thoroughly Reviewed: Chilled Treats Screenshot Capture\""
 excerpt: "\"This Article Describes Thoroughly Reviewed: Chilled Treats Screenshot Capture\""
 keywords: "Ice Cream Snap Review,Frozen Dessert Photo,Chill Snaps Critique,Cold Treats Image,Frosty Foods Screen,Gelato Glimpse Capture,Sorbet Shot Analysis"
-thumbnail: https://www.lifewire.com/thmb/X0NLJA7wZWOmsgBrRlyzzPD7H5A=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1065028028-8e770c58918e4cf8b0852e81cff60ed6.jpg
+thumbnail: https://thmb.techidaily.com/a65a2d3fb958e05df694286812a1e2454a9d6c6ff463421241eb49561be7ce4c.jpg
 ---
 
 ## Thoroughly Reviewed: Chilled Treats Screenshot Capture

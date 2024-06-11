@@ -1,7 +1,7 @@
 ---
 title: "\"Internal Screen Recording  Huawei Mate 10/20 & P Series Devices (P20, P10).\""
-date: 2024-05-20T05:09:00.316Z
-updated: 2024-05-21T05:09:00.316Z
+date: 2024-06-10T03:00:26.824Z
+updated: 2024-06-11T03:00:26.824Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Internal Screen Recording: Huawei Mate 10/20 & P Series Devices (P20, P10).\""
 excerpt: "\"This Article Describes Internal Screen Recording: Huawei Mate 10/20 & P Series Devices (P20, P10).\""
 keywords: "Mate10ScreenRecording,HuaweiMate10Record,PSeriesDevRecorder,Mate10InternalCapture,HuaweiP20ScreenDemo,Mate10P10ScreenGuide,HuaweiP20ScreenCapture"
-thumbnail: https://www.lifewire.com/thmb/kaKmEcJ4wgeshIkJ4JE3bp3u-NU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1369568023-c596ac8d6b5a4f3682bda2fa0feb12bd.jpg
+thumbnail: https://thmb.techidaily.com/bdaef56e02cc4aa00f3e70ad3df4b912e80b691b8ee44c6197adf88943656c52.jpg
 ---
 
 ## Internal Screen Recording: Huawei Mate 10/20 & P Series Devices (P20, P10)

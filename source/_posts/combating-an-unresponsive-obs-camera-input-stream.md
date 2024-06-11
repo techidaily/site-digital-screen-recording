@@ -1,7 +1,7 @@
 ---
 title: "Combating an Unresponsive OBS Camera Input Stream"
-date: 2024-05-20T05:09:18.841Z
-updated: 2024-05-21T05:09:18.841Z
+date: 2024-06-10T03:00:26.182Z
+updated: 2024-06-11T03:00:26.182Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Combating an Unresponsive OBS Camera Input Stream"
 excerpt: "This Article Describes Combating an Unresponsive OBS Camera Input Stream"
 keywords: "OBS Unresponsive Fix,OBS Stream Lagging,Camera Sync Issues OBS,Resolve OBS Capture Failure,OBS Connectivity Troubleshoot,Enhance OBS Input Responsiveness,Optimize OBS Streaming Lag"
-thumbnail: https://www.lifewire.com/thmb/iQjRSYdl3d8RlM-9oprGSEgt6gU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-667603173-fac0b8f4b1d9453c866d332dc73821f8.jpg
+thumbnail: https://thmb.techidaily.com/f47c079fa1fce90a8221b9c2c003a393b4231e2fbb42dbd4e99eb8971ba63ab6.jpg
 ---
 
 ## Combating an Unresponsive OBS Camera Input Stream

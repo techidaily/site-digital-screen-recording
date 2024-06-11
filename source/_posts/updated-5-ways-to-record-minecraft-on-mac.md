@@ -1,7 +1,7 @@
 ---
 title: "[Updated] 5 Ways to Record Minecraft on Mac"
-date: 2024-05-18T16:40:39.568Z
-updated: 2024-05-19T16:40:39.568Z
+date: 2024-06-10T03:00:37.962Z
+updated: 2024-06-11T03:00:37.962Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] 5 Ways to Record Minecraft on Mac"
 excerpt: "This Article Describes [Updated] 5 Ways to Record Minecraft on Mac"
 keywords: "Minecraft Recording Mac,Mac Minecraft Screen Capture,Mac Minecraft Video Guide,Minecraft Mac Game Save,Best Mac Methods for MC Recording,How to Record in Minecraft on Mac,Capturing Mincraft Sessions on Mac"
-thumbnail: https://www.lifewire.com/thmb/cgUXvRRGmHncjkXVnnc2mDDxd-k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AnneParkShedloskytvOS-2d4178dd6b7d46a08c34ab8b750fe23e.jpg
+thumbnail: https://thmb.techidaily.com/1a0a225965c2ce4acfd77f7b81b0abb5e4b211b4f6a739d5a50d45eaa5fd443d.jpg
 ---
 
 ## 5 Ways to Record Minecraft on Mac

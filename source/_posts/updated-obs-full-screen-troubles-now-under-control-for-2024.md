@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Obs Full Screen Troubles  Now Under Control for 2024\""
-date: 2024-05-18T16:44:55.388Z
-updated: 2024-05-19T16:44:55.388Z
+date: 2024-06-10T03:00:30.180Z
+updated: 2024-06-11T03:00:30.180Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Obs Full Screen Troubles: Now Under Control for 2024\""
 excerpt: "\"This Article Describes [Updated] Obs Full Screen Troubles: Now Under Control for 2024\""
 keywords: "Fullscreen Obs Issue Solved,Resolved Fullscreen Obs Bug,Controlling FullScreen Obstructions,Fixing FullScreen Obs Glitch,FullScreen Obs Stability Improved,Addressed FullScreen Obs Problems,Overcoming FullScreen Obs Hiccups"
-thumbnail: https://www.lifewire.com/thmb/TYGiT5X9QiOC8P7-lx0tWOT-IQI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/airpodbatterylevelonandroid-15c1db7e9fac43248d130a42540c12a6.jpg
+thumbnail: https://thmb.techidaily.com/98061f90f0702266772c41039bf7505ea26afb88709675b4845f86d9c07123c1.jpg
 ---
 
 ## Obs Full Screen Troubles: Now Under Control

@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Understanding and Modifying Screen Capture Formats (Mac)"
-date: 2024-05-20T05:08:48.921Z
-updated: 2024-05-21T05:08:48.921Z
+date: 2024-06-10T03:00:38.420Z
+updated: 2024-06-11T03:00:38.420Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] In 2024, Understanding and Modifying Screen Capture Formats (Mac)"
 excerpt: "This Article Describes [New] In 2024, Understanding and Modifying Screen Capture Formats (Mac)"
 keywords: "Mac Screen Format,Screen Save Mac,Mac Snapshot,Editing Mac Captures,Mac Capture Changes,Mac Image Conversion,Modify Mac Captures"
-thumbnail: https://www.lifewire.com/thmb/dpIy1Vb0m2YNL1LlGPZga8opYUc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsungtvhomepage-58f0d708245a4140bb4bbad8ea0cfc26.jpg
+thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e09d897a36274e3de6aadbd39.jpg
 ---
 
 ## Understanding and Modifying Screen Capture Formats (Mac)

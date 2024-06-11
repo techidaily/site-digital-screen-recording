@@ -1,7 +1,7 @@
 ---
 title: "Turn On Google Meet Grids to See All Attendees"
-date: 2024-05-18T16:46:33.510Z
-updated: 2024-05-19T16:46:33.510Z
+date: 2024-06-10T03:00:26.320Z
+updated: 2024-06-11T03:00:26.320Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Turn On Google Meet Grids to See All Attendees"
 excerpt: "This Article Describes Turn On Google Meet Grids to See All Attendees"
 keywords: "Google Meet Grid View,See All Participants,Enable Google Meet Grids,Attendees in Meet Grids,Grid Display Attendees,Google Meet Full Screen,Meet Attendants Grid View"
-thumbnail: https://www.lifewire.com/thmb/2zy8MTQaG4uUA0T7RXXxi-EpxMA=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ps5controller-0d702b25f7fa47b482999811cfc7af39.jpg
+thumbnail: https://thmb.techidaily.com/36cb4ddf3fc78c71836e11f4a803426f35040ec4e34c37b6c57cca04ad1d4891.jpg
 ---
 
 ## Turn On Google Meet Grids to See All Attendees

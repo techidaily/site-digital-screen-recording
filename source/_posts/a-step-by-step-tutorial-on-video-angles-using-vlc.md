@@ -1,7 +1,7 @@
 ---
 title: "\"A Step-by-Step Tutorial on Video Angles Using VLC\""
-date: 2024-05-18T17:11:58.048Z
-updated: 2024-05-19T17:11:58.048Z
+date: 2024-06-10T03:00:28.185Z
+updated: 2024-06-11T03:00:28.185Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes A Step-by-Step Tutorial on Video Angles Using VLC\""
 excerpt: "\"This Article Describes A Step-by-Step Tutorial on Video Angles Using VLC\""
 keywords: "Video Angle Tutorial VLC,Mastering Video Angles with VLC,VLC Video Angle Guide,Effective Video Angles Using VLC,Learn VLC Video Perspective,Optimal Video Angle VLC,VLC Angle Adjustment Tips"
-thumbnail: https://www.lifewire.com/thmb/vwXY4ZVwcerLrMyrYuIV0bJij5Y=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/google-logo-dbc6703838ab40ffac436f7f360b79f7.png
+thumbnail: https://thmb.techidaily.com/c225407e5eb523ea35626965d7952f3e8eff461a435028604a3c634507f598f5.png
 ---
 
 ## A Step-by-Step Tutorial on Video Angles Using VLC

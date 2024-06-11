@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Apocalypse Alert  The Ultimate List of Thrilling Zombie Games for 2024\""
-date: 2024-05-18T16:43:45.662Z
-updated: 2024-05-19T16:43:45.662Z
+date: 2024-06-10T03:00:37.060Z
+updated: 2024-06-11T03:00:37.060Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Apocalypse Alert: The Ultimate List of Thrilling Zombie Games for 2024\""
 excerpt: "\"This Article Describes [Updated] Apocalypse Alert: The Ultimate List of Thrilling Zombie Games for 2024\""
 keywords: "Zombie Game List,Apocalypse Gaming,Zombie Horror Games,Top Zombie Titles,Thrilling Zombie Quest,Epic Zombie Adventures,Ultimate Zombies Play"
-thumbnail: https://www.lifewire.com/thmb/4ql928fMUKkO_EPWrgDkfeEcVtE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/family-hanging-out-watching-videos-online-1166432791-309c6f7ac8cb4cc99875db5a77fd6f35.jpg
+thumbnail: https://thmb.techidaily.com/d208efb0315dc3e80b4d5a8f4b751d30ee62ca28dd2151c249d15e615be6f528.jpg
 ---
 
 ## Apocalypse Alert: The Ultimate List of Thrilling Zombie Games

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Action Sequels  The Best Games Like Grand Theft Auto\""
-date: 2024-05-18T17:02:15.287Z
-updated: 2024-05-19T17:02:15.287Z
+date: 2024-06-10T03:00:27.846Z
+updated: 2024-06-11T03:00:27.846Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: Action Sequels: The Best Games Like Grand Theft Auto\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: Action Sequels: The Best Games Like Grand Theft Auto\""
 keywords: "GTA RushSequel,ActionGamingFrenzy,EpicGrandTheftClone,SequelActionLegends,GrandGamesAdventure,StreetRivalSequels,UltimateGameSequels"
-thumbnail: https://www.lifewire.com/thmb/yPXnCagYB7bKT7uol-AGPozLSS0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iPad-Air-5-e11857a8d117450e9e09d770e300a872.jpg
+thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068cc6322414a1134e31c0876a0.jpg
 ---
 
 ## Action Sequels: The Best Games Like Grand Theft Auto

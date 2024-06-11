@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Quick Guide to Alter Username in Google Meet Sessions\""
-date: 2024-05-20T05:09:23.746Z
-updated: 2024-05-21T05:09:23.746Z
+date: 2024-06-10T03:00:30.377Z
+updated: 2024-06-11T03:00:30.377Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Quick Guide to Alter Username in Google Meet Sessions\""
 excerpt: "\"This Article Describes 2024 Approved: Quick Guide to Alter Username in Google Meet Sessions\""
 keywords: "Google Meet ID Change,Username Editing Guide,Quick Meet Name Update,Google Meet Session Name,Alter Username Guide,Gmail Meeting Change,Sessions User Edit"
-thumbnail: https://www.lifewire.com/thmb/Gmap6LeMRtADZthm_PJ2lXNY4cM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/copilot-b197f8dd690845d5bf8ebbc082c89c20.jpg
+thumbnail: https://thmb.techidaily.com/e1a2efe9bf1f732226416442fb362e8363cdb8595c634b883b7def7759d3266e.jpg
 ---
 
 ## Quick Guide to Alter Username in Google Meet Sessions

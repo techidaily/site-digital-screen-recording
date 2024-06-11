@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Ultimate Nintendo Switch Fighter Showcase (Max 156)"
-date: 2024-05-18T16:58:49.447Z
-updated: 2024-05-19T16:58:49.447Z
+date: 2024-06-10T03:00:35.914Z
+updated: 2024-06-11T03:00:35.914Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes In 2024, Ultimate Nintendo Switch Fighter Showcase (Max 156)"
 excerpt: "This Article Describes In 2024, Ultimate Nintendo Switch Fighter Showcase (Max 156)"
 keywords: "Nintendo Switch Fighters,Switch Game Fighting,Ultimate Switch Games,Switch Gaming Expo,Max Switch Battles,Limited Switch Game Show,Nintendo Switch Showcase"
-thumbnail: https://www.lifewire.com/thmb/wAMAGSxPA1Fx2QobaiyABiSggJ4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-753288077-5bb0f9b2cff47e00261aa8fc.jpg
+thumbnail: https://thmb.techidaily.com/0004bab4ed76fb3b0e7b5e78faee5c8cd34739a5594338591ba06831ec971383.jpg
 ---
 
 ## Ultimate Nintendo Switch Fighter Showcase (Max 156)

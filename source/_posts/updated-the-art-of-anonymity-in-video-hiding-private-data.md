@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Art of Anonymity in Video  Hiding Private Data\""
-date: 2024-05-20T05:09:31.346Z
-updated: 2024-05-21T05:09:31.346Z
+date: 2024-06-10T03:00:33.053Z
+updated: 2024-06-11T03:00:33.053Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] The Art of Anonymity in Video: Hiding Private Data\""
 excerpt: "\"This Article Describes [Updated] The Art of Anonymity in Video: Hiding Private Data\""
 keywords: "Video Privacy,Anon Vid Tech,Hide Private Vids,Secure Video Data,Stealth Video Art,Anonymity in Media,Invisible Content Vid"
-thumbnail: https://www.lifewire.com/thmb/zcmLCaAS2rquyOBmPOs0BcLkssY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/5-things-to-consider-before-buying-a-graphics-card-5225912-e71513f30b90445e8c0702a87db6fcdc.jpg
+thumbnail: https://thmb.techidaily.com/7270266df833210c4618ef395558e4a1dd14a566be785a358865debf94836fef.jpg
 ---
 
 ## The Art of Anonymity in Video: Hiding Private Data

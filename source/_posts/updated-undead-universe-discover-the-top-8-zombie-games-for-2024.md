@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Undead Universe  Discover the Top 8 Zombie Games for 2024\""
-date: 2024-05-18T16:27:39.512Z
-updated: 2024-05-19T16:27:39.512Z
+date: 2024-06-10T03:00:34.481Z
+updated: 2024-06-11T03:00:34.481Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Undead Universe: Discover the Top 8 Zombie Games for 2024\""
 excerpt: "\"This Article Describes [Updated] Undead Universe: Discover the Top 8 Zombie Games for 2024\""
 keywords: "Zombie Game Guide,Undead Gaming Hits,Best Zombie Titles,Top Zombie Puzzles,Zombies in Games List,ZombieGameRanking,Ultimate Zombie Quests"
-thumbnail: https://www.lifewire.com/thmb/YiNkR1XmMF85fjzS0zFQ4X75o4Q=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/coffeecup-free-html-editor-profile-3467555-8876645f89c444c8b94addcf4307b22d.png
+thumbnail: https://thmb.techidaily.com/72ad6224a96d1332d870ccac31eeed89a25da9895e91d61d746d246092f66e50.png
 ---
 
 ## Undead Universe: Discover the Top 8 Zombie Games

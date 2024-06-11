@@ -1,7 +1,7 @@
 ---
 title: "\"Clash of Legends  5 Iconic Fist-Fighters in Virtual World\""
-date: 2024-05-20T05:09:27.465Z
-updated: 2024-05-21T05:09:27.465Z
+date: 2024-06-10T03:00:27.802Z
+updated: 2024-06-11T03:00:27.802Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Clash of Legends: 5 Iconic Fist-Fighters in Virtual World\""
 excerpt: "\"This Article Describes Clash of Legends: 5 Iconic Fist-Fighters in Virtual World\""
 keywords: "\"Legend Clash Fighters,Iconic Fist Masters,Fists Battle Heroes,Virtual Fighter Legends,Epic Fist Showdowns,Legends in Fist-Fighting,Iconic VR Combatants\""
-thumbnail: https://www.lifewire.com/thmb/0eladF6N0frE-HtBzdDkcGHF4eU=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-set-up-a-ps5-5088641-1bcc6bca24cd460bb2b276fdeb6cb830.jpg
+thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece4c292665e0f6b95fb5f60be.jpg
 ---
 
 ## Clash of Legends: 5 Iconic Fist-Fighters in Virtual World

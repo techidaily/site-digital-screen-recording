@@ -1,7 +1,7 @@
 ---
 title: "[New] Top 10 Ways to Record Facecam Videos"
-date: 2024-05-18T16:27:45.641Z
-updated: 2024-05-19T16:27:45.641Z
+date: 2024-06-10T03:00:33.512Z
+updated: 2024-06-11T03:00:33.512Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Top 10 Ways to Record Facecam Videos"
 excerpt: "This Article Describes [New] Top 10 Ways to Record Facecam Videos"
 keywords: "Mobile Webcam Recording,Phone Cam Live Streaming,Phones as Video Capture,Using Phone for Webcam,DIY Mobile Webcam,Record Phone Camera,Smartphone Screencasting"
-thumbnail: https://www.lifewire.com/thmb/ru-jVd0Cvv8tkOSsngOh3taWsHA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/laptop-2443739-5b55bc7c46e0fb00378df55b.jpg
+thumbnail: https://thmb.techidaily.com/390e6108c338c717535ae5268513a4f027783679d87088006ba977c8519d5351.jpg
 ---
 
 ## Top 10 Ways to Record Facecam Videos

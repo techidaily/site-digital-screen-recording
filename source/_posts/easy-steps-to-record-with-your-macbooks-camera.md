@@ -1,7 +1,7 @@
 ---
 title: "Easy Steps to Record with Your MacBook's Camera"
-date: 2024-05-18T16:31:09.247Z
-updated: 2024-05-19T16:31:09.247Z
+date: 2024-06-10T03:00:35.871Z
+updated: 2024-06-11T03:00:35.871Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Easy Steps to Record with Your MacBook's Camera"
 excerpt: "This Article Describes Easy Steps to Record with Your MacBook's Camera"
 keywords: "MacBook Cam Recording Guide,Quick MacCam Setup,Simple MacBook Video Capture,Use MacBook for Screen Recording,Easy MacBook Camera Record,Start ScreenRecorder on MacBook,MacBook Camera Streaming Tips"
-thumbnail: https://www.lifewire.com/thmb/WSLZcqxwmXkq850tQOgpRjODDjE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/football-referee-signaling-touchdown-in-stadium-599944339-5a84cb9e875db900367df025.jpg
+thumbnail: https://thmb.techidaily.com/c72cccdf9cacc0fda207b45b24ab86cf2fde475b85a4b94012ab008856dbcd1d.jpg
 ---
 
 ## Easy Steps to Record with Your MacBook's Camera

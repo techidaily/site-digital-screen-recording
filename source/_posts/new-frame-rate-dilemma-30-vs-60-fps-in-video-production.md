@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Frame Rate Dilemma  30 Vs. 60 FPS in Video Production\""
-date: 2024-05-18T16:52:04.763Z
-updated: 2024-05-19T16:52:04.763Z
+date: 2024-06-10T03:00:30.912Z
+updated: 2024-06-11T03:00:30.912Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Frame Rate Dilemma: 30 Vs. 60 FPS in Video Production\""
 excerpt: "\"This Article Describes [New] Frame Rate Dilemma: 30 Vs. 60 FPS in Video Production\""
 keywords: "\"AI & Video Production,Artificial Intelligence In Video,Integrate AI, Video Games,Streaming with AI Tech,Gamify AI in Vids,AI-Enhanced Video Streams,AI for Gaming Video Edit\""
-thumbnail: https://www.lifewire.com/thmb/NVfSH4Rjse-W0WAejPd1W9V_3ag=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1253176532-e5ce8e507433489f87c8b37818c13a01.jpg
+thumbnail: https://thmb.techidaily.com/bf32c159170edbc355c721b22ee8ee6c67dda36feed408fdb0ec7f3ca8b4ddc2.jpg
 ---
 
 ## Frame Rate Dilemma: 30 Vs. 60 FPS in Video Production
