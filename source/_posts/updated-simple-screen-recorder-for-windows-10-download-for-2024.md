@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Simple Screen Recorder for Windows 10 Download for 2024"
-date: 2024-05-18T16:48:20.116Z
-updated: 2024-05-19T16:48:20.116Z
+date: 2024-06-19T06:12:08.294Z
+updated: 2024-06-20T06:12:08.294Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Simple Screen Recorder for Windows 10 Download for 2024"
 excerpt: "This Article Describes [Updated] Simple Screen Recorder for Windows 10 Download for 2024"
 keywords: "Win10 ScreenRecorder,Windows 10 ScreenCapture,SimpleWinRecorder,EasyScreenSaveWin10,Free10 ScreenDowloader,BasicWinRecordingTool,LightweightWindowsScreensnap"
-thumbnail: https://www.lifewire.com/thmb/JVF5j2ixNkw6YsOsj4P4vtZrB-4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/connect-tv-to-stereo-system-3135127-83ec0f315fa54c1290555169d689ad88.jpg
+thumbnail: https://thmb.techidaily.com/6d6520e192a843298c5f3fb60d79f701e9d849b7c957109090842f5892749c79.jpg
 ---
 
 ## Simple Screen Recorder for Windows 10 Download

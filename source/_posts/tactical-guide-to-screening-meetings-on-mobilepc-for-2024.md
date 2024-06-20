@@ -1,7 +1,7 @@
 ---
 title: "Tactical Guide to Screening Meetings on Mobile/PC for 2024"
-date: 2024-05-20T05:09:21.580Z
-updated: 2024-05-21T05:09:21.580Z
+date: 2024-06-19T06:12:05.014Z
+updated: 2024-06-20T06:12:05.014Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Tactical Guide to Screening Meetings on Mobile/PC for 2024"
 excerpt: "This Article Describes Tactical Guide to Screening Meetings on Mobile/PC for 2024"
 keywords: "Mobile Meeting Screen,PC Meeting Filter,Tactical Meeting Skills,Mobile Meeting Guide,Screen Meeting Techniques,Tactics for Meeting Screening,PC/Mobile Meeting Hacks"
-thumbnail: https://www.lifewire.com/thmb/V0mVc7hXHyanE76GvodfwiaKNvE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-966273172-fbc5e7e0e68a48f69a1a5ddc0d6df827.jpg
+thumbnail: https://thmb.techidaily.com/94266fd2abffa49379e11298094d126f869b761cee72b14ccd455aec2a0df5c4.jpg
 ---
 
 ## Tactical Guide to Screening Meetings on Mobile/PC

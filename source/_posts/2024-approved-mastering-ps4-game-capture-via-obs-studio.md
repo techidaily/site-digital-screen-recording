@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering PS4 Game Capture via OBS Studio\""
-date: 2024-05-18T17:11:05.407Z
-updated: 2024-05-19T17:11:05.407Z
+date: 2024-06-19T06:11:58.556Z
+updated: 2024-06-20T06:11:58.556Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Mastering PS4 Game Capture via OBS Studio\""
 excerpt: "\"This Article Describes 2024 Approved: Mastering PS4 Game Capture via OBS Studio\""
 keywords: "PS4 Game Capture Basics,OBS Studio for Gaming,Live Streaming on PS4,Capturing Games with OBS,PS4 Broadcast Setup,OBS Studio Recording Guide,Gaming Capture Software PS4"
-thumbnail: https://www.lifewire.com/thmb/HNtneePKuJeaZXX7qZjEwvmSz6M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Flora_and_Son-f6517d3de531487e89f5e0e99192d13f.jpg
+thumbnail: https://thmb.techidaily.com/4815bdc4b07f62378c934e8844c6ab3ed5ccd8bb0ecbd12c41105ddecee78795.jpg
 ---
 
 ## Mastering PS4 Game Capture via OBS Studio

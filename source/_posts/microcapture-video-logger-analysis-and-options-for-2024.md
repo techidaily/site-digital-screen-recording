@@ -1,7 +1,7 @@
 ---
 title: "MicroCapture Video Logger Analysis & Options for 2024"
-date: 2024-05-18T16:39:19.367Z
-updated: 2024-05-19T16:39:19.367Z
+date: 2024-06-19T06:12:04.101Z
+updated: 2024-06-20T06:12:04.101Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes MicroCapture Video Logger Analysis & Options for 2024"
 excerpt: "This Article Describes MicroCapture Video Logger Analysis & Options for 2024"
 keywords: "MicroCapture Logging,Video Logger Insights,Capture Video Analysis,Logging Software Features,MicroCapture Options,Video Data Review Tools,Video Logger Settings Guide"
-thumbnail: https://www.lifewire.com/thmb/rmV5FQdusxtcDMfMN-dk_OtLxwI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/MorningShow-aed160f9cfd448cc8034b23bb3073314.jpg
+thumbnail: https://thmb.techidaily.com/59a195ec28420319fea5f3f07d0383273230910a4a9660ef6c59333c64bce5cd.jpg
 ---
 
 ## MicroCapture Video Logger Analysis & Options

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] IRecorder  The Screen Recording Standard\""
-date: 2024-05-18T17:05:02.500Z
-updated: 2024-05-19T17:05:02.500Z
+date: 2024-06-19T06:12:09.057Z
+updated: 2024-06-20T06:12:09.057Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] IRecorder: The Screen Recording Standard\""
 excerpt: "\"This Article Describes [New] IRecorder: The Screen Recording Standard\""
 keywords: "IRecordScreen,ScreenStandard,VideoQualityCheck,UnifiedRecording,AudioSnappySync,HighFidelityCapture,StreamlineScreenTech"
-thumbnail: https://www.lifewire.com/thmb/1Rilb0YlbOjJJAdvvsoO0ipjdIY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mixed-race-woman-buying-christmas-presents-online-with-credit-card-84527986-582352235f9b58d5b1ea09cc.jpg
+thumbnail: https://thmb.techidaily.com/603cef112c71acaaa3fdccdd6f7a956de3ad09701fee843146114a343a411d66.jpg
 ---
 
 ## IRecorder: The Screen Recording Standard

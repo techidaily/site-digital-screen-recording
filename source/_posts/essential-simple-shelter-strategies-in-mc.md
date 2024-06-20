@@ -1,7 +1,7 @@
 ---
 title: "Essential Simple Shelter Strategies in MC"
-date: 2024-05-18T16:41:42.299Z
-updated: 2024-05-19T16:41:42.299Z
+date: 2024-06-19T06:12:05.849Z
+updated: 2024-06-20T06:12:05.849Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Essential Simple Shelter Strategies in MC"
 excerpt: "This Article Describes Essential Simple Shelter Strategies in MC"
 keywords: "MC Shelter Basics,MC Basic Shelters,Simplified MC Tents,MC Essentials Shelter,Fundamentals of MC Housing,Easy MC Shelter Plans,Simple MC Habitat Solutions"
-thumbnail: https://www.lifewire.com/thmb/TYGiT5X9QiOC8P7-lx0tWOT-IQI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/airpodbatterylevelonandroid-15c1db7e9fac43248d130a42540c12a6.jpg
+thumbnail: https://thmb.techidaily.com/98061f90f0702266772c41039bf7505ea26afb88709675b4845f86d9c07123c1.jpg
 ---
 
 ## Essential Simple Shelter Strategies in MC

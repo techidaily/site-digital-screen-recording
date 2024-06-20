@@ -1,7 +1,7 @@
 ---
 title: "\"Enhancing Meet Visuals  Applying Filters, Effects & Masks\""
-date: 2024-05-18T16:50:18.804Z
-updated: 2024-05-19T16:50:18.804Z
+date: 2024-06-19T06:11:57.570Z
+updated: 2024-06-20T06:11:57.570Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Enhancing Meet Visuals: Applying Filters, Effects & Masks\""
 excerpt: "\"This Article Describes Enhancing Meet Visuals: Applying Filters, Effects & Masks\""
 keywords: "Filter Artistry,Video Effect Mastery,Engaging Visuals Tips,Editing Vision Enhancement,Professional Meet Filters,Mask & Effect Tricks,Dynamic Visual Appeal"
-thumbnail: https://www.lifewire.com/thmb/td12YpTj-yP7iyxYOnjHj9dHoA4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/streamfreesportsonline-5b1994178023b900364a81e5.jpg
+thumbnail: https://thmb.techidaily.com/0cd373a6b0eece48a6e2d5d0248da5d1df8fff3f71196cdaae4af6176a3b33bf.jpg
 ---
 
 ## Enhancing Meet Visuals: Applying Filters, Effects & Masks

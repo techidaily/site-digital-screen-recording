@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Exploring the Prime Linux Screenshot Applications"
-date: 2024-05-18T17:09:59.326Z
-updated: 2024-05-19T17:09:59.326Z
+date: 2024-06-19T06:11:59.208Z
+updated: 2024-06-20T06:11:59.208Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] In 2024, Exploring the Prime Linux Screenshot Applications"
 excerpt: "This Article Describes [Updated] In 2024, Exploring the Prime Linux Screenshot Applications"
 keywords: "Linux Screenshot Tools,Prime Linux Captures,Linux Shutter Apps,Prime Screen Grabs,Linux ImgSave Apps,Linux PhotoCapture Utils,Linux QuickSnap Software"
-thumbnail: https://www.lifewire.com/thmb/bUgwWBmVwo2R1WJT-qkM52ppdCc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ipad-pro-pencil-56a533763df78cf77286e0e0.png
+thumbnail: https://thmb.techidaily.com/ef69c6cfc05813b51fd415fbeca882846dc473b99199e876bd020898984fe0d1.png
 ---
 
 ## Exploring the Prime Linux Screenshot Applications
@@ -62,37 +62,37 @@ For macOS 10.12 or later
 
 ## Top 8 Best Linux Screen Capture Tools \[Taking Screenshots & Recording Desktop Screen\]
 
-#### 1. [Shutter](http://shutter-project.org/about/)
+#### 1. Shutter
 
 If you are looking for an easy-to-use screen capture tool for Linux, Shutter is one of the most popular options that should not be missed. It will allow you to capture the entire screen or just a portion of it.
 
 One thing that most people enjoyed is how you can immediately edit the images that have been captured. You can highlight specific parts of the captured images and leave important notes. This is unlike in the case of other screen capture tools where you will be required to use an external tool for editing images. It also has an integrated feature that will allow you to easily share the captured and edited images, such as in online forums. Even if it is your first time using this screen shot tool, you will not experience any complication as it is built with the needs of users in mind.
 
-![Shutter ](https://images.wondershare.com/filmora/article-images/shutter.jpg)
+![Shutter](https://images.wondershare.com/filmora/article-images/shutter.jpg)
 
-#### 2. [Imagemagick](https://www.imagemagick.org/script/index.php)
+#### 2. Imagemagick
 
 Imagemagick is a free open-source software for displaying, converting, and editing images and vector image files with the support of more than 200 image formats. It also comes with the ability to take screenshots on Linux by using a rich set of commands.
 
 With Imagemagick screen capture tool, you can take a screenshot of the entire screen or the currently active window, or take a screenshot of a selected area of the screen.
 
-#### 3. [Gimp](https://www.gimp.org/screenshots/)
+#### 3. Gimp
 
 Gimp is one of the most comprehensive and free image manipulation software available on Linux. It is also a free open-source image editor with the ability to edit, resize and retouch images and take screenshots of the whole or fixed area of the screen as well.
 
 Taking a screenshot with GIMP is easy, just click **Create Screenshot** option from the **File** menu, and then select the area that you want to take a screenshot. After the screenshot, you can also apply some effects or edit the image per need.
 
-![gimp screenshot ](https://images.wondershare.com/filmora/article-images/gimp-screenshot.jpg)
+![gimp screenshot](https://images.wondershare.com/filmora/article-images/gimp-screenshot.jpg)
 
-#### 4. [Kazam](https://launchpad.net/kazam)
+#### 4. Kazam
 
 Whether it is a screenshot or screencast, Kazam will prove to be handy. The video file of the screen recording can be played in VP8/WebM format. Aside from visuals, this tool will also allow users to record accompanying audio from a compatible source. If you are using Ubuntu, to get this app, you simply have to type “Sudo apt-get install Kazaa”.
 
 Kazam is excellent because it offers versatility. If you do not want to record the entire screen, you will have the option to record only a selected area. It is also a good thing that it is a light file that won’t consume too much memory space. However, it does not come without any problem. Many of those who have used such complained about the lack of webcam viewers. It is also not usable in all configurations.
 
-![Screencaster ](https://images.wondershare.com/filmora/article-images/Screencaster.jpg)
+![Screencaster](https://images.wondershare.com/filmora/article-images/Screencaster.jpg)
 
-#### 5. [GNOME Screenshot](https://gitlab.gnome.org/GNOME/gnome-screenshot)
+#### 5. GNOME Screenshot
 
 GNOME Screenshot is a default utility that comes along with Ubuntu in GNOME desktop, used to take screenshots or record the screen activity. It is a powerful screenshot tool to capture the whole screen or a particular area of the screen for Linux. You can use the shortcut keys to take a screenshot and record the screencast, or take a screenshot in the GNOME Screenshot GUI.
 
@@ -100,9 +100,9 @@ In the GUI interface, you can choose to grab the whole desktop screenshot, grab 
 
 You can check the official user guide about how to [take screenshots and screencasts with GNOME](https://help.gnome.org/users/gnome-help/stable/screen-shot-record.html.en) here.
 
-![gnome-screenshot-linux ](https://images.wondershare.com/filmora/article-images/gnome-screenshot-linux.jpg)
+![gnome-screenshot-linux](https://images.wondershare.com/filmora/article-images/gnome-screenshot-linux.jpg)
 
-#### 6. [ScreenStudio](http://screenstudio.crombz.com/)
+#### 6. ScreenStudio
 
 This Java-based screen capture application is known for its excellent performance, as well as user-friendly interface. It can be run on any distribution; you only have to make sure that you have “avconv” installed on your computer.
 
@@ -110,9 +110,9 @@ The team behind the creation of this screencasting tool continuously creates imp
 
 There is no need to have the extensive technical knowledge to make the most out of this application. Adding a text overlay is also possible, making it excellent when it comes to customization. If you are using this application, make sure to frequently check for updates to be provided with an improved way of using such a tool.
 
-![screenstudio ](https://images.wondershare.com/filmora/article-images/screenstudio.jpg)
+![screenstudio](https://images.wondershare.com/filmora/article-images/screenstudio.jpg)
 
-#### 7. [Simple Screen Recorder](http://www.maartenbaert.be/simplescreenrecorder/)
+#### 7. Simple Screen Recorder
 
 As the name implies, it can make a screen recording a task that you can easily accomplish. It was created to offer users a simple app for Linux screen recording. It comes with sensible default settings, which means that there is no need to change any option to enjoy basic screen capture functionality.
 
@@ -120,9 +120,9 @@ Through the improvements, however, the simple functionality has been added with 
 
 It also allows recording the entire screen or a portion of it. Audio synchronization is also possible with this screencast tool. There is an integrated hotkey, which can be pressed anytime to pause video recording.
 
-![Simple Screen Recorder ](https://images.wondershare.com/filmora/article-images/simple-screen-recorder.jpg)
+![Simple Screen Recorder](https://images.wondershare.com/filmora/article-images/simple-screen-recorder.jpg)
 
-#### 8. [Record My Desktop](http://recordmydesktop.sourceforge.net/about.php)
+#### 8. Record My Desktop
 
 This is the screen capturing tool that started it all for Linux, as this is the first of its kind. While it offers several options for screen recording, one of its significant drawbacks is that there is no option for just taking a screenshot.
 
@@ -183,37 +183,37 @@ For macOS 10.12 or later
 
 ## Top 8 Best Linux Screen Capture Tools \[Taking Screenshots & Recording Desktop Screen\]
 
-#### 1. [Shutter](http://shutter-project.org/about/)
+#### 1. Shutter
 
 If you are looking for an easy-to-use screen capture tool for Linux, Shutter is one of the most popular options that should not be missed. It will allow you to capture the entire screen or just a portion of it.
 
 One thing that most people enjoyed is how you can immediately edit the images that have been captured. You can highlight specific parts of the captured images and leave important notes. This is unlike in the case of other screen capture tools where you will be required to use an external tool for editing images. It also has an integrated feature that will allow you to easily share the captured and edited images, such as in online forums. Even if it is your first time using this screen shot tool, you will not experience any complication as it is built with the needs of users in mind.
 
-![Shutter ](https://images.wondershare.com/filmora/article-images/shutter.jpg)
+![Shutter](https://images.wondershare.com/filmora/article-images/shutter.jpg)
 
-#### 2. [Imagemagick](https://www.imagemagick.org/script/index.php)
+#### 2. Imagemagick
 
 Imagemagick is a free open-source software for displaying, converting, and editing images and vector image files with the support of more than 200 image formats. It also comes with the ability to take screenshots on Linux by using a rich set of commands.
 
 With Imagemagick screen capture tool, you can take a screenshot of the entire screen or the currently active window, or take a screenshot of a selected area of the screen.
 
-#### 3. [Gimp](https://www.gimp.org/screenshots/)
+#### 3. Gimp
 
 Gimp is one of the most comprehensive and free image manipulation software available on Linux. It is also a free open-source image editor with the ability to edit, resize and retouch images and take screenshots of the whole or fixed area of the screen as well.
 
 Taking a screenshot with GIMP is easy, just click **Create Screenshot** option from the **File** menu, and then select the area that you want to take a screenshot. After the screenshot, you can also apply some effects or edit the image per need.
 
-![gimp screenshot ](https://images.wondershare.com/filmora/article-images/gimp-screenshot.jpg)
+![gimp screenshot](https://images.wondershare.com/filmora/article-images/gimp-screenshot.jpg)
 
-#### 4. [Kazam](https://launchpad.net/kazam)
+#### 4. Kazam
 
 Whether it is a screenshot or screencast, Kazam will prove to be handy. The video file of the screen recording can be played in VP8/WebM format. Aside from visuals, this tool will also allow users to record accompanying audio from a compatible source. If you are using Ubuntu, to get this app, you simply have to type “Sudo apt-get install Kazaa”.
 
 Kazam is excellent because it offers versatility. If you do not want to record the entire screen, you will have the option to record only a selected area. It is also a good thing that it is a light file that won’t consume too much memory space. However, it does not come without any problem. Many of those who have used such complained about the lack of webcam viewers. It is also not usable in all configurations.
 
-![Screencaster ](https://images.wondershare.com/filmora/article-images/Screencaster.jpg)
+![Screencaster](https://images.wondershare.com/filmora/article-images/Screencaster.jpg)
 
-#### 5. [GNOME Screenshot](https://gitlab.gnome.org/GNOME/gnome-screenshot)
+#### 5. GNOME Screenshot
 
 GNOME Screenshot is a default utility that comes along with Ubuntu in GNOME desktop, used to take screenshots or record the screen activity. It is a powerful screenshot tool to capture the whole screen or a particular area of the screen for Linux. You can use the shortcut keys to take a screenshot and record the screencast, or take a screenshot in the GNOME Screenshot GUI.
 
@@ -221,9 +221,9 @@ In the GUI interface, you can choose to grab the whole desktop screenshot, grab 
 
 You can check the official user guide about how to [take screenshots and screencasts with GNOME](https://help.gnome.org/users/gnome-help/stable/screen-shot-record.html.en) here.
 
-![gnome-screenshot-linux ](https://images.wondershare.com/filmora/article-images/gnome-screenshot-linux.jpg)
+![gnome-screenshot-linux](https://images.wondershare.com/filmora/article-images/gnome-screenshot-linux.jpg)
 
-#### 6. [ScreenStudio](http://screenstudio.crombz.com/)
+#### 6. ScreenStudio
 
 This Java-based screen capture application is known for its excellent performance, as well as user-friendly interface. It can be run on any distribution; you only have to make sure that you have “avconv” installed on your computer.
 
@@ -231,9 +231,9 @@ The team behind the creation of this screencasting tool continuously creates imp
 
 There is no need to have the extensive technical knowledge to make the most out of this application. Adding a text overlay is also possible, making it excellent when it comes to customization. If you are using this application, make sure to frequently check for updates to be provided with an improved way of using such a tool.
 
-![screenstudio ](https://images.wondershare.com/filmora/article-images/screenstudio.jpg)
+![screenstudio](https://images.wondershare.com/filmora/article-images/screenstudio.jpg)
 
-#### 7. [Simple Screen Recorder](http://www.maartenbaert.be/simplescreenrecorder/)
+#### 7. Simple Screen Recorder
 
 As the name implies, it can make a screen recording a task that you can easily accomplish. It was created to offer users a simple app for Linux screen recording. It comes with sensible default settings, which means that there is no need to change any option to enjoy basic screen capture functionality.
 
@@ -241,9 +241,9 @@ Through the improvements, however, the simple functionality has been added with 
 
 It also allows recording the entire screen or a portion of it. Audio synchronization is also possible with this screencast tool. There is an integrated hotkey, which can be pressed anytime to pause video recording.
 
-![Simple Screen Recorder ](https://images.wondershare.com/filmora/article-images/simple-screen-recorder.jpg)
+![Simple Screen Recorder](https://images.wondershare.com/filmora/article-images/simple-screen-recorder.jpg)
 
-#### 8. [Record My Desktop](http://recordmydesktop.sourceforge.net/about.php)
+#### 8. Record My Desktop
 
 This is the screen capturing tool that started it all for Linux, as this is the first of its kind. While it offers several options for screen recording, one of its significant drawbacks is that there is no option for just taking a screenshot.
 
@@ -304,37 +304,37 @@ For macOS 10.12 or later
 
 ## Top 8 Best Linux Screen Capture Tools \[Taking Screenshots & Recording Desktop Screen\]
 
-#### 1. [Shutter](http://shutter-project.org/about/)
+#### 1. Shutter
 
 If you are looking for an easy-to-use screen capture tool for Linux, Shutter is one of the most popular options that should not be missed. It will allow you to capture the entire screen or just a portion of it.
 
 One thing that most people enjoyed is how you can immediately edit the images that have been captured. You can highlight specific parts of the captured images and leave important notes. This is unlike in the case of other screen capture tools where you will be required to use an external tool for editing images. It also has an integrated feature that will allow you to easily share the captured and edited images, such as in online forums. Even if it is your first time using this screen shot tool, you will not experience any complication as it is built with the needs of users in mind.
 
-![Shutter ](https://images.wondershare.com/filmora/article-images/shutter.jpg)
+![Shutter](https://images.wondershare.com/filmora/article-images/shutter.jpg)
 
-#### 2. [Imagemagick](https://www.imagemagick.org/script/index.php)
+#### 2. Imagemagick
 
 Imagemagick is a free open-source software for displaying, converting, and editing images and vector image files with the support of more than 200 image formats. It also comes with the ability to take screenshots on Linux by using a rich set of commands.
 
 With Imagemagick screen capture tool, you can take a screenshot of the entire screen or the currently active window, or take a screenshot of a selected area of the screen.
 
-#### 3. [Gimp](https://www.gimp.org/screenshots/)
+#### 3. Gimp
 
 Gimp is one of the most comprehensive and free image manipulation software available on Linux. It is also a free open-source image editor with the ability to edit, resize and retouch images and take screenshots of the whole or fixed area of the screen as well.
 
 Taking a screenshot with GIMP is easy, just click **Create Screenshot** option from the **File** menu, and then select the area that you want to take a screenshot. After the screenshot, you can also apply some effects or edit the image per need.
 
-![gimp screenshot ](https://images.wondershare.com/filmora/article-images/gimp-screenshot.jpg)
+![gimp screenshot](https://images.wondershare.com/filmora/article-images/gimp-screenshot.jpg)
 
-#### 4. [Kazam](https://launchpad.net/kazam)
+#### 4. Kazam
 
 Whether it is a screenshot or screencast, Kazam will prove to be handy. The video file of the screen recording can be played in VP8/WebM format. Aside from visuals, this tool will also allow users to record accompanying audio from a compatible source. If you are using Ubuntu, to get this app, you simply have to type “Sudo apt-get install Kazaa”.
 
 Kazam is excellent because it offers versatility. If you do not want to record the entire screen, you will have the option to record only a selected area. It is also a good thing that it is a light file that won’t consume too much memory space. However, it does not come without any problem. Many of those who have used such complained about the lack of webcam viewers. It is also not usable in all configurations.
 
-![Screencaster ](https://images.wondershare.com/filmora/article-images/Screencaster.jpg)
+![Screencaster](https://images.wondershare.com/filmora/article-images/Screencaster.jpg)
 
-#### 5. [GNOME Screenshot](https://gitlab.gnome.org/GNOME/gnome-screenshot)
+#### 5. GNOME Screenshot
 
 GNOME Screenshot is a default utility that comes along with Ubuntu in GNOME desktop, used to take screenshots or record the screen activity. It is a powerful screenshot tool to capture the whole screen or a particular area of the screen for Linux. You can use the shortcut keys to take a screenshot and record the screencast, or take a screenshot in the GNOME Screenshot GUI.
 
@@ -342,9 +342,9 @@ In the GUI interface, you can choose to grab the whole desktop screenshot, grab 
 
 You can check the official user guide about how to [take screenshots and screencasts with GNOME](https://help.gnome.org/users/gnome-help/stable/screen-shot-record.html.en) here.
 
-![gnome-screenshot-linux ](https://images.wondershare.com/filmora/article-images/gnome-screenshot-linux.jpg)
+![gnome-screenshot-linux](https://images.wondershare.com/filmora/article-images/gnome-screenshot-linux.jpg)
 
-#### 6. [ScreenStudio](http://screenstudio.crombz.com/)
+#### 6. ScreenStudio
 
 This Java-based screen capture application is known for its excellent performance, as well as user-friendly interface. It can be run on any distribution; you only have to make sure that you have “avconv” installed on your computer.
 
@@ -352,9 +352,9 @@ The team behind the creation of this screencasting tool continuously creates imp
 
 There is no need to have the extensive technical knowledge to make the most out of this application. Adding a text overlay is also possible, making it excellent when it comes to customization. If you are using this application, make sure to frequently check for updates to be provided with an improved way of using such a tool.
 
-![screenstudio ](https://images.wondershare.com/filmora/article-images/screenstudio.jpg)
+![screenstudio](https://images.wondershare.com/filmora/article-images/screenstudio.jpg)
 
-#### 7. [Simple Screen Recorder](http://www.maartenbaert.be/simplescreenrecorder/)
+#### 7. Simple Screen Recorder
 
 As the name implies, it can make a screen recording a task that you can easily accomplish. It was created to offer users a simple app for Linux screen recording. It comes with sensible default settings, which means that there is no need to change any option to enjoy basic screen capture functionality.
 
@@ -362,9 +362,9 @@ Through the improvements, however, the simple functionality has been added with 
 
 It also allows recording the entire screen or a portion of it. Audio synchronization is also possible with this screencast tool. There is an integrated hotkey, which can be pressed anytime to pause video recording.
 
-![Simple Screen Recorder ](https://images.wondershare.com/filmora/article-images/simple-screen-recorder.jpg)
+![Simple Screen Recorder](https://images.wondershare.com/filmora/article-images/simple-screen-recorder.jpg)
 
-#### 8. [Record My Desktop](http://recordmydesktop.sourceforge.net/about.php)
+#### 8. Record My Desktop
 
 This is the screen capturing tool that started it all for Linux, as this is the first of its kind. While it offers several options for screen recording, one of its significant drawbacks is that there is no option for just taking a screenshot.
 
@@ -425,37 +425,37 @@ For macOS 10.12 or later
 
 ## Top 8 Best Linux Screen Capture Tools \[Taking Screenshots & Recording Desktop Screen\]
 
-#### 1. [Shutter](http://shutter-project.org/about/)
+#### 1. Shutter
 
 If you are looking for an easy-to-use screen capture tool for Linux, Shutter is one of the most popular options that should not be missed. It will allow you to capture the entire screen or just a portion of it.
 
 One thing that most people enjoyed is how you can immediately edit the images that have been captured. You can highlight specific parts of the captured images and leave important notes. This is unlike in the case of other screen capture tools where you will be required to use an external tool for editing images. It also has an integrated feature that will allow you to easily share the captured and edited images, such as in online forums. Even if it is your first time using this screen shot tool, you will not experience any complication as it is built with the needs of users in mind.
 
-![Shutter ](https://images.wondershare.com/filmora/article-images/shutter.jpg)
+![Shutter](https://images.wondershare.com/filmora/article-images/shutter.jpg)
 
-#### 2. [Imagemagick](https://www.imagemagick.org/script/index.php)
+#### 2. Imagemagick
 
 Imagemagick is a free open-source software for displaying, converting, and editing images and vector image files with the support of more than 200 image formats. It also comes with the ability to take screenshots on Linux by using a rich set of commands.
 
 With Imagemagick screen capture tool, you can take a screenshot of the entire screen or the currently active window, or take a screenshot of a selected area of the screen.
 
-#### 3. [Gimp](https://www.gimp.org/screenshots/)
+#### 3. Gimp
 
 Gimp is one of the most comprehensive and free image manipulation software available on Linux. It is also a free open-source image editor with the ability to edit, resize and retouch images and take screenshots of the whole or fixed area of the screen as well.
 
 Taking a screenshot with GIMP is easy, just click **Create Screenshot** option from the **File** menu, and then select the area that you want to take a screenshot. After the screenshot, you can also apply some effects or edit the image per need.
 
-![gimp screenshot ](https://images.wondershare.com/filmora/article-images/gimp-screenshot.jpg)
+![gimp screenshot](https://images.wondershare.com/filmora/article-images/gimp-screenshot.jpg)
 
-#### 4. [Kazam](https://launchpad.net/kazam)
+#### 4. Kazam
 
 Whether it is a screenshot or screencast, Kazam will prove to be handy. The video file of the screen recording can be played in VP8/WebM format. Aside from visuals, this tool will also allow users to record accompanying audio from a compatible source. If you are using Ubuntu, to get this app, you simply have to type “Sudo apt-get install Kazaa”.
 
 Kazam is excellent because it offers versatility. If you do not want to record the entire screen, you will have the option to record only a selected area. It is also a good thing that it is a light file that won’t consume too much memory space. However, it does not come without any problem. Many of those who have used such complained about the lack of webcam viewers. It is also not usable in all configurations.
 
-![Screencaster ](https://images.wondershare.com/filmora/article-images/Screencaster.jpg)
+![Screencaster](https://images.wondershare.com/filmora/article-images/Screencaster.jpg)
 
-#### 5. [GNOME Screenshot](https://gitlab.gnome.org/GNOME/gnome-screenshot)
+#### 5. GNOME Screenshot
 
 GNOME Screenshot is a default utility that comes along with Ubuntu in GNOME desktop, used to take screenshots or record the screen activity. It is a powerful screenshot tool to capture the whole screen or a particular area of the screen for Linux. You can use the shortcut keys to take a screenshot and record the screencast, or take a screenshot in the GNOME Screenshot GUI.
 
@@ -463,9 +463,9 @@ In the GUI interface, you can choose to grab the whole desktop screenshot, grab 
 
 You can check the official user guide about how to [take screenshots and screencasts with GNOME](https://help.gnome.org/users/gnome-help/stable/screen-shot-record.html.en) here.
 
-![gnome-screenshot-linux ](https://images.wondershare.com/filmora/article-images/gnome-screenshot-linux.jpg)
+![gnome-screenshot-linux](https://images.wondershare.com/filmora/article-images/gnome-screenshot-linux.jpg)
 
-#### 6. [ScreenStudio](http://screenstudio.crombz.com/)
+#### 6. ScreenStudio
 
 This Java-based screen capture application is known for its excellent performance, as well as user-friendly interface. It can be run on any distribution; you only have to make sure that you have “avconv” installed on your computer.
 
@@ -473,9 +473,9 @@ The team behind the creation of this screencasting tool continuously creates imp
 
 There is no need to have the extensive technical knowledge to make the most out of this application. Adding a text overlay is also possible, making it excellent when it comes to customization. If you are using this application, make sure to frequently check for updates to be provided with an improved way of using such a tool.
 
-![screenstudio ](https://images.wondershare.com/filmora/article-images/screenstudio.jpg)
+![screenstudio](https://images.wondershare.com/filmora/article-images/screenstudio.jpg)
 
-#### 7. [Simple Screen Recorder](http://www.maartenbaert.be/simplescreenrecorder/)
+#### 7. Simple Screen Recorder
 
 As the name implies, it can make a screen recording a task that you can easily accomplish. It was created to offer users a simple app for Linux screen recording. It comes with sensible default settings, which means that there is no need to change any option to enjoy basic screen capture functionality.
 
@@ -483,9 +483,9 @@ Through the improvements, however, the simple functionality has been added with 
 
 It also allows recording the entire screen or a portion of it. Audio synchronization is also possible with this screencast tool. There is an integrated hotkey, which can be pressed anytime to pause video recording.
 
-![Simple Screen Recorder ](https://images.wondershare.com/filmora/article-images/simple-screen-recorder.jpg)
+![Simple Screen Recorder](https://images.wondershare.com/filmora/article-images/simple-screen-recorder.jpg)
 
-#### 8. [Record My Desktop](http://recordmydesktop.sourceforge.net/about.php)
+#### 8. Record My Desktop
 
 This is the screen capturing tool that started it all for Linux, as this is the first of its kind. While it offers several options for screen recording, one of its significant drawbacks is that there is no option for just taking a screenshot.
 

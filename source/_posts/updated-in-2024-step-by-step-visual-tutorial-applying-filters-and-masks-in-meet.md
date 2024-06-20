@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Step-by-Step Visual Tutorial  Applying Filters & Masks in Meet\""
-date: 2024-05-18T16:58:23.781Z
-updated: 2024-05-19T16:58:23.781Z
+date: 2024-06-19T06:12:05.698Z
+updated: 2024-06-20T06:12:05.698Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] In 2024, Step-by-Step Visual Tutorial: Applying Filters & Masks in Meet\""
 excerpt: "\"This Article Describes [Updated] In 2024, Step-by-Step Visual Tutorial: Applying Filters & Masks in Meet\""
 keywords: "Filter Meet Tutorial,Mask Application Guide,Meet Filter Steps,Visual Filter Tips,Masking Techniques Meet,Image Filters in Meet,Visual Editing for Meet"
-thumbnail: https://www.lifewire.com/thmb/aqzoJvuc7HUCTQdUzpa5GXlHCac=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iPad-Mini-Splash-ef002ffe8db643d2a2b4de772ff46790.jpg
+thumbnail: https://thmb.techidaily.com/5a88545795b5ca3ae26e7c947a2bcf90d0830b425a670680d043fc15ab445500.jpg
 ---
 
 ## Step-by-Step Visual Tutorial: Applying Filters & Masks in Meet

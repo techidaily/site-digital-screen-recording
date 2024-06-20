@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Live on Air  How to Broadcast on YouTube & Twitch Using OBS\""
-date: 2024-05-18T17:11:02.771Z
-updated: 2024-05-19T17:11:02.771Z
+date: 2024-06-19T06:12:13.680Z
+updated: 2024-06-20T06:12:13.680Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Live on Air: How to Broadcast on YouTube & Twitch Using OBS\""
 excerpt: "\"This Article Describes 2024 Approved: Live on Air: How to Broadcast on YouTube & Twitch Using OBS\""
 keywords: "\"Live Streaming Basics,YouTube Broadcasting Tips,OBS for Streamers,Twitch Hosting Guide,OBS Live Streaming Techniques,Real-Time Video Broadcasting,Channel Launch on YouTube\""
-thumbnail: https://www.lifewire.com/thmb/xLyhmkxw8rwSLNhzfV0GfYs8tZc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-watch-tiktok-without-the-app-63a4562e4c4b4bd69477425853809a35.jpg
+thumbnail: https://thmb.techidaily.com/3ce7ce4cef66cdb03e7ac7e019dea8d112e1795f84ca632563f78a12990cc533.jpg
 ---
 
 ## Live on Air: How to Broadcast on YouTube & Twitch Using OBS

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Virtual Warrior' Written by Chelsea Boucher, PhD\""
-date: 2024-05-18T17:08:02.235Z
-updated: 2024-05-19T17:08:02.235Z
+date: 2024-06-19T06:11:59.715Z
+updated: 2024-06-20T06:11:59.715Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Virtual Warrior' Written by Chelsea Boucher, PhD\""
 excerpt: "\"This Article Describes 2024 Approved: Virtual Warrior' Written by Chelsea Boucher, PhD\""
 keywords: "Virtual Warrior Guide,Dr. Boucher Warrior Tips,Warrior VR Experience,PhD Virtual Battle,Chelsea's Warrior Training,Virtual Strategy for Fighters,Dr. Boucher Warrior Online"
-thumbnail: https://www.lifewire.com/thmb/A1hfnW-9b0eVXXkLwD_6ei9mr2I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AE-lock-572ece975f9b58c34c0a2492.jpg
+thumbnail: https://thmb.techidaily.com/e086106512b2e9d753e081998408f58f33739fa1f0e7070951ebc50a7e45bfdb.jpg
 ---
 
 ## Virtual Warrior' Written by Chelsea Boucher, PhD

@@ -1,7 +1,7 @@
 ---
 title: "\"Anonymous Footage  Blurring Private Sections in Video\""
-date: 2024-05-20T05:09:35.093Z
-updated: 2024-05-21T05:09:35.093Z
+date: 2024-06-19T06:12:01.531Z
+updated: 2024-06-20T06:12:01.531Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Anonymous Footage: Blurring Private Sections in Video\""
 excerpt: "\"This Article Describes Anonymous Footage: Blurring Private Sections in Video\""
 keywords: "Anon Footage Privacy,Video Blur Tech,Secure Anon Videos,Private Content Mask,Blurred Identity Shots,Hidden Sections Vids,Confidentiality in Film"
-thumbnail: https://www.lifewire.com/thmb/gkHTDPF5tRElmHvxvKCu-VDPyhI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/should-you-buy-an-apple-tv-5248431-f35331ef36b749b9895a2c1e3705cf22.jpg
+thumbnail: https://thmb.techidaily.com/65300c988d41879c46efcdc0b8a7f4ebdd53e06feae865a9a356c9f8b695aec3.jpg
 ---
 
 ## Anonymous Footage: Blurring Private Sections in Video
@@ -52,7 +52,7 @@ For macOS 10.12 or later
 
 #### 1. One-Stop Service for Recording & Editing Videos
 
-![Filmora Scrn  ](https://images.wondershare.com/filmora/article-images/filmora-scrn-record-edit.jpg)
+![Filmora Scrn](https://images.wondershare.com/filmora/article-images/filmora-scrn-record-edit.jpg)
 
 Besides being one of the best screen capturing computer programs for beginners in the industry, Wondershare's Filmora Scrn also features a video editor that allows you to polish your videos immediately after the recording session without using third-party apps.
 
@@ -66,7 +66,7 @@ Recording voice-over during the recording session, adding markers, or using HotK
 
 #### 3. Edit Video Footage with Creative Effects
 
-![Filmora Scrn Annotations ](https://images.wondershare.com/filmora/article-images/annotation-filmora-scrn.jpg)
+![Filmora Scrn Annotations](https://images.wondershare.com/filmora/article-images/annotation-filmora-scrn.jpg)
 
 All files captured with the screen recorder are displayed in the software's video editor that allows you to trim or cut video clips, add captions, or use blending modes to merge the layers in your videos seamlessly.
 
@@ -94,7 +94,7 @@ Hiding the identity of the people in your videos and concealing private informat
 
 #### Step 1. Record a video or import a video file into the editor
 
-![Filmora Scrn Annotations ](<https://images.wondershare.com/filmora/article-images/blurring-private> info-import.jpg)
+![Filmora Scrn Annotations](<https://images.wondershare.com/filmora/article-images/blurring-private> info-import.jpg)
 
 If you choose to capture a screen with the Filmora Scrn's screen recorder, the video file you create will be automatically imported into the software's video editor and placed into the Media Bin after the recording session is over.
 
@@ -108,7 +108,7 @@ Drag the effect you like the most to the timeline or drag it to the Canvas direc
 
 #### Step 3. Tweaking the Effect's Settings
 
-![Filmora Scrn   ](https://images.wondershare.com/filmora/article-images/adjust-blur-effects.jpg)
+![Filmora Scrn](https://images.wondershare.com/filmora/article-images/adjust-blur-effects.jpg)
 
 On the right side of the editor's screen, you'll be able to see Transform and Blur options. Use the Transform feature to place the blur effect over the area of the shot in which the sensitive info is located to hide it from the spectators. Alternatively, you can move or resize the blurred window by dragging it on the software's preview screen.
 
@@ -159,7 +159,7 @@ For macOS 10.12 or later
 
 #### 1. One-Stop Service for Recording & Editing Videos
 
-![Filmora Scrn  ](https://images.wondershare.com/filmora/article-images/filmora-scrn-record-edit.jpg)
+![Filmora Scrn](https://images.wondershare.com/filmora/article-images/filmora-scrn-record-edit.jpg)
 
 Besides being one of the best screen capturing computer programs for beginners in the industry, Wondershare's Filmora Scrn also features a video editor that allows you to polish your videos immediately after the recording session without using third-party apps.
 
@@ -173,7 +173,7 @@ Recording voice-over during the recording session, adding markers, or using HotK
 
 #### 3. Edit Video Footage with Creative Effects
 
-![Filmora Scrn Annotations ](https://images.wondershare.com/filmora/article-images/annotation-filmora-scrn.jpg)
+![Filmora Scrn Annotations](https://images.wondershare.com/filmora/article-images/annotation-filmora-scrn.jpg)
 
 All files captured with the screen recorder are displayed in the software's video editor that allows you to trim or cut video clips, add captions, or use blending modes to merge the layers in your videos seamlessly.
 
@@ -201,7 +201,7 @@ Hiding the identity of the people in your videos and concealing private informat
 
 #### Step 1. Record a video or import a video file into the editor
 
-![Filmora Scrn Annotations ](<https://images.wondershare.com/filmora/article-images/blurring-private> info-import.jpg)
+![Filmora Scrn Annotations](<https://images.wondershare.com/filmora/article-images/blurring-private> info-import.jpg)
 
 If you choose to capture a screen with the Filmora Scrn's screen recorder, the video file you create will be automatically imported into the software's video editor and placed into the Media Bin after the recording session is over.
 
@@ -215,7 +215,7 @@ Drag the effect you like the most to the timeline or drag it to the Canvas direc
 
 #### Step 3. Tweaking the Effect's Settings
 
-![Filmora Scrn   ](https://images.wondershare.com/filmora/article-images/adjust-blur-effects.jpg)
+![Filmora Scrn](https://images.wondershare.com/filmora/article-images/adjust-blur-effects.jpg)
 
 On the right side of the editor's screen, you'll be able to see Transform and Blur options. Use the Transform feature to place the blur effect over the area of the shot in which the sensitive info is located to hide it from the spectators. Alternatively, you can move or resize the blurred window by dragging it on the software's preview screen.
 
@@ -266,7 +266,7 @@ For macOS 10.12 or later
 
 #### 1. One-Stop Service for Recording & Editing Videos
 
-![Filmora Scrn  ](https://images.wondershare.com/filmora/article-images/filmora-scrn-record-edit.jpg)
+![Filmora Scrn](https://images.wondershare.com/filmora/article-images/filmora-scrn-record-edit.jpg)
 
 Besides being one of the best screen capturing computer programs for beginners in the industry, Wondershare's Filmora Scrn also features a video editor that allows you to polish your videos immediately after the recording session without using third-party apps.
 
@@ -280,7 +280,7 @@ Recording voice-over during the recording session, adding markers, or using HotK
 
 #### 3. Edit Video Footage with Creative Effects
 
-![Filmora Scrn Annotations ](https://images.wondershare.com/filmora/article-images/annotation-filmora-scrn.jpg)
+![Filmora Scrn Annotations](https://images.wondershare.com/filmora/article-images/annotation-filmora-scrn.jpg)
 
 All files captured with the screen recorder are displayed in the software's video editor that allows you to trim or cut video clips, add captions, or use blending modes to merge the layers in your videos seamlessly.
 
@@ -308,7 +308,7 @@ Hiding the identity of the people in your videos and concealing private informat
 
 #### Step 1. Record a video or import a video file into the editor
 
-![Filmora Scrn Annotations ](<https://images.wondershare.com/filmora/article-images/blurring-private> info-import.jpg)
+![Filmora Scrn Annotations](<https://images.wondershare.com/filmora/article-images/blurring-private> info-import.jpg)
 
 If you choose to capture a screen with the Filmora Scrn's screen recorder, the video file you create will be automatically imported into the software's video editor and placed into the Media Bin after the recording session is over.
 
@@ -322,7 +322,7 @@ Drag the effect you like the most to the timeline or drag it to the Canvas direc
 
 #### Step 3. Tweaking the Effect's Settings
 
-![Filmora Scrn   ](https://images.wondershare.com/filmora/article-images/adjust-blur-effects.jpg)
+![Filmora Scrn](https://images.wondershare.com/filmora/article-images/adjust-blur-effects.jpg)
 
 On the right side of the editor's screen, you'll be able to see Transform and Blur options. Use the Transform feature to place the blur effect over the area of the shot in which the sensitive info is located to hide it from the spectators. Alternatively, you can move or resize the blurred window by dragging it on the software's preview screen.
 
@@ -373,7 +373,7 @@ For macOS 10.12 or later
 
 #### 1. One-Stop Service for Recording & Editing Videos
 
-![Filmora Scrn  ](https://images.wondershare.com/filmora/article-images/filmora-scrn-record-edit.jpg)
+![Filmora Scrn](https://images.wondershare.com/filmora/article-images/filmora-scrn-record-edit.jpg)
 
 Besides being one of the best screen capturing computer programs for beginners in the industry, Wondershare's Filmora Scrn also features a video editor that allows you to polish your videos immediately after the recording session without using third-party apps.
 
@@ -387,7 +387,7 @@ Recording voice-over during the recording session, adding markers, or using HotK
 
 #### 3. Edit Video Footage with Creative Effects
 
-![Filmora Scrn Annotations ](https://images.wondershare.com/filmora/article-images/annotation-filmora-scrn.jpg)
+![Filmora Scrn Annotations](https://images.wondershare.com/filmora/article-images/annotation-filmora-scrn.jpg)
 
 All files captured with the screen recorder are displayed in the software's video editor that allows you to trim or cut video clips, add captions, or use blending modes to merge the layers in your videos seamlessly.
 
@@ -415,7 +415,7 @@ Hiding the identity of the people in your videos and concealing private informat
 
 #### Step 1. Record a video or import a video file into the editor
 
-![Filmora Scrn Annotations ](<https://images.wondershare.com/filmora/article-images/blurring-private> info-import.jpg)
+![Filmora Scrn Annotations](<https://images.wondershare.com/filmora/article-images/blurring-private> info-import.jpg)
 
 If you choose to capture a screen with the Filmora Scrn's screen recorder, the video file you create will be automatically imported into the software's video editor and placed into the Media Bin after the recording session is over.
 
@@ -429,7 +429,7 @@ Drag the effect you like the most to the timeline or drag it to the Canvas direc
 
 #### Step 3. Tweaking the Effect's Settings
 
-![Filmora Scrn   ](https://images.wondershare.com/filmora/article-images/adjust-blur-effects.jpg)
+![Filmora Scrn](https://images.wondershare.com/filmora/article-images/adjust-blur-effects.jpg)
 
 On the right side of the editor's screen, you'll be able to see Transform and Blur options. Use the Transform feature to place the blur effect over the area of the shot in which the sensitive info is located to hide it from the spectators. Alternatively, you can move or resize the blurred window by dragging it on the software's preview screen.
 

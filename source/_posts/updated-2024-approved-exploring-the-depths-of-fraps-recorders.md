@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Exploring the Depths of Fraps Recorders\""
-date: 2024-05-18T17:00:15.562Z
-updated: 2024-05-19T17:00:15.562Z
+date: 2024-06-19T06:12:13.134Z
+updated: 2024-06-20T06:12:13.134Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: Exploring the Depths of Fraps Recorders\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: Exploring the Depths of Fraps Recorders\""
 keywords: "\"Fraps Deep Insights,Recorder Tech Guide,Fraps Video Quality,Screen Capture Explained,Pro Gamers' Fraps Tips,Understanding Fraps Outputs,High-Res Fraps Recordings\""
-thumbnail: https://www.lifewire.com/thmb/g1kkp8ne6jm5E7rMiTd4CMgu2Fw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-642981042-5a903651a18d9e0037d31742.jpg
+thumbnail: https://thmb.techidaily.com/ef9be7780d43a1d277262443e1e1ad4f9cd5011c4e9a9bd97f972e7408a7d734.jpg
 ---
 
 ## Exploring the Depths of Fraps Recorders

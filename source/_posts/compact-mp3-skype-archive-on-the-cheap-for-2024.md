@@ -1,7 +1,7 @@
 ---
 title: "Compact MP3 Skype Archive on the Cheap for 2024"
-date: 2024-05-18T16:27:59.015Z
-updated: 2024-05-19T16:27:59.015Z
+date: 2024-06-19T06:11:58.073Z
+updated: 2024-06-20T06:11:58.073Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Compact MP3 Skype Archive on the Cheap for 2024"
 excerpt: "This Article Describes Compact MP3 Skype Archive on the Cheap for 2024"
 keywords: "\"Cheap Skype Music,Budget MP3 Archive,Affordable Skype Audio,Economical MP3 Storage,Low-Cost Audio Backup,Inexpensive Skype Podcasts,Thrifty MP3 Collection\""
-thumbnail: https://www.lifewire.com/thmb/CRTquSF_UbubOfDqEN31hiqf2eI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/internet-archive-logo-5980e6f0845b340011748640.png
+thumbnail: https://thmb.techidaily.com/b4ed3f08ab6e820bb58ff66c5f5e67696c65d753e22482d093bffe3ae2ca67e1.png
 ---
 
 ## Compact MP3 Skype Archive on the Cheap

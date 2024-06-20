@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, How to Fix OBS Camera Not Working"
-date: 2024-05-20T05:09:41.110Z
-updated: 2024-05-21T05:09:41.110Z
+date: 2024-06-19T06:12:02.209Z
+updated: 2024-06-20T06:12:02.209Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] In 2024, How to Fix OBS Camera Not Working"
 excerpt: "This Article Describes [Updated] In 2024, How to Fix OBS Camera Not Working"
 keywords: "OBS Camera Troubleshooting,Resolve OBS Cam Issue,OBS Camera Fix Guide,Stop OBS Cam Error,Reconnect OBS Video,Fixing OBS Video Lag,Troubleshoot OBS Cam Not Working"
-thumbnail: https://www.lifewire.com/thmb/YPMhKL59WGdTUpxCrpaB_OS--cc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-set-up-speech-to-text-on-android-0-928c48ab121248f9aa543a136d971f9a.jpg
+thumbnail: https://thmb.techidaily.com/2e5cadcabaa5bc146e9286cd6ccf5e30c43742afdff538e1080a5add013b39bf.jpg
 ---
 
 ## How to Fix OBS Camera Not Working

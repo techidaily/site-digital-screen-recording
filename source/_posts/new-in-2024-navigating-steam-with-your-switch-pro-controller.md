@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Navigating Steam With Your Switch Pro Controller"
-date: 2024-05-18T16:57:46.752Z
-updated: 2024-05-19T16:57:46.752Z
+date: 2024-06-19T06:12:08.581Z
+updated: 2024-06-20T06:12:08.581Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] In 2024, Navigating Steam With Your Switch Pro Controller"
 excerpt: "This Article Describes [New] In 2024, Navigating Steam With Your Switch Pro Controller"
 keywords: "Steam Switch Control,Switch Pro Gaming,Pro Controller Usage,Gaming Switch Device,Switch Controller Play,Navigate Steam Console,Switch for PC Gaming"
-thumbnail: https://www.lifewire.com/thmb/UgZFn1LjdiPD7yj2MRRWCGpAQWY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/d-link-default-password-list-2619152-d6281a924f45426f879c8707220ce92d.png
+thumbnail: https://thmb.techidaily.com/8383b1955265d208bd65863f99fa93e0506dbf01fc1cf31d37490fb679a3c33d.png
 ---
 
 ## Navigating Steam With Your Switch Pro Controller

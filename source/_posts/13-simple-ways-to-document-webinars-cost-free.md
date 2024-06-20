@@ -1,7 +1,7 @@
 ---
 title: "\"13 Simple Ways to Document Webinars Cost-Free\""
-date: 2024-05-18T16:41:42.026Z
-updated: 2024-05-19T16:41:42.026Z
+date: 2024-06-19T06:12:12.147Z
+updated: 2024-06-20T06:12:12.147Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 13 Simple Ways to Document Webinars Cost-Free\""
 excerpt: "\"This Article Describes 13 Simple Ways to Document Webinars Cost-Free\""
 keywords: "\"Free Webinar Recording,No Cost Webinar Doc,Webinar Save Costs,Low-Cost Webinar Docs,DIY Webinar Recordings,Costless Webinar Logs,Economical Webinars Capture\""
-thumbnail: https://www.lifewire.com/thmb/tytwbqcYgTF7h7x0nLFuA1_IxhI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-515810476-aabe0e5a88b44bb1ae49a5bfa97bec62.jpg
+thumbnail: https://thmb.techidaily.com/1f190d8040197877fe9d91a786d037cb715f0068f8eaaf0f310614210c430f98.jpg
 ---
 
 ## 13 Simple Ways to Document Webinars Cost-Free

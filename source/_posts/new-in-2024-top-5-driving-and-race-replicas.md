@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Top 5 Driving & Race Replicas"
-date: 2024-05-20T05:09:43.062Z
-updated: 2024-05-21T05:09:43.062Z
+date: 2024-06-19T06:11:58.639Z
+updated: 2024-06-20T06:11:58.639Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] In 2024, Top 5 Driving & Race Replicas"
 excerpt: "This Article Describes [New] In 2024, Top 5 Driving & Race Replicas"
 keywords: "\"Race Car Models Top 5,Realistic Racing Toy Replicas,Ultimate Driving Toys List,High-Fidelity Vehicle Kits,Best Racer Collectibles,Premium Drive Replicas,Elite Racing Miniatures Selection\""
-thumbnail: https://www.lifewire.com/thmb/71reoJ08pe9fxU7SLDHBCk0MgVg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-use-remote-access-on-your-samsung-smart-tv-4688935-01-29c7de5dc77e4747a8070d12f0c3d84c.jpg
+thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641c77398dacbaad68cbaf2be6.jpg
 ---
 
 ## Top 5 Driving & Race Replicas

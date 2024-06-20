@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  The Ultimate Keyboard Shortcut Compendium for Mac Screening\""
-date: 2024-05-18T16:43:03.829Z
-updated: 2024-05-19T16:43:03.829Z
+date: 2024-06-19T06:12:14.245Z
+updated: 2024-06-20T06:12:14.245Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: The Ultimate Keyboard Shortcut Compendium for Mac Screening\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: The Ultimate Keyboard Shortcut Compendium for Mac Screening\""
 keywords: "Mac Keyboard Shortcuts,Mac ScreenTips,Essential Mac Shortcuts,Master Mac Shorthand,Ultimate Mac KeyCombo,Efficient Mac Cues,Complete MacShortcut Guide"
-thumbnail: https://www.lifewire.com/thmb/2mfMkf9Nh38PrId0xERnppf9iAg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-view-instagram-without-an-account-5271416-505eeceaf0e142ed8674d2ce2244a8be.jpg
+thumbnail: https://thmb.techidaily.com/92459487433dd8191ecb6f79f9b025b7d93038fc1418a5a54e50bbd98af412de.jpg
 ---
 
 ## The Ultimate Keyboard Shortcut Compendium for Mac Screening

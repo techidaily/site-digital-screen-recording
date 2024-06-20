@@ -1,7 +1,7 @@
 ---
 title: "\"LibreVid X Version 10 Reviewed  Highlights and Downsides\""
-date: 2024-05-18T16:48:09.328Z
-updated: 2024-05-19T16:48:09.328Z
+date: 2024-06-19T06:12:05.774Z
+updated: 2024-06-20T06:12:05.774Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes LibreVid X Version 10 Reviewed: Highlights and Downsides\""
 excerpt: "\"This Article Describes LibreVid X Version 10 Reviewed: Highlights and Downsides\""
 keywords: "LibreVideo X10 Overview,LibreVid X10 Pros & Cons,VIDX10 Reviews Insights,Free Video X10 Analysis,XVersion10 Features List,LibreXvid 10 Highlights,XLibreVid Version10 Summary"
-thumbnail: https://www.lifewire.com/thmb/kq2_pYjL3lBcvd_iWUGjf8TYdhc=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-PS5-PlayStation-5-Gaming-Console-7-1434c073922c4bf59bca47a33013a6dd.jpg
+thumbnail: https://thmb.techidaily.com/778dacc021ae6d569afd3e62fa61bf15ba6fe429d937373bba78e772659986e3.jpg
 ---
 
 ## LibreVid X Version 10 Reviewed: Highlights and Downsides

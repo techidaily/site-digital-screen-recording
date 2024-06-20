@@ -1,7 +1,7 @@
 ---
 title: "\"Retrospective Graphics  Radeon's Reprise\""
-date: 2024-05-20T05:08:57.759Z
-updated: 2024-05-21T05:08:57.759Z
+date: 2024-06-19T06:12:05.347Z
+updated: 2024-06-20T06:12:05.347Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Retrospective Graphics: Radeon's Reprise\""
 excerpt: "\"This Article Describes Retrospective Graphics: Radeon's Reprise\""
 keywords: "Radeon Retro Graphics,GPU Revival Graphics,AMD Retro Visuals,Radeon Revisited,Graphics Renaissance,AMD Legacy Graphics,Vintage GPU Art"
-thumbnail: https://www.lifewire.com/thmb/6mx5ubcqWIE245JjiBlgZpvI48I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Horserace-56ca33a85f9b5879cc4bcc6e.jpg
+thumbnail: https://thmb.techidaily.com/1501cba3c5f4c4b803b623584f546bd1f9723b8ea081222f679c45ec271effc3.jpg
 ---
 
 ## Retrospective Graphics: Radeon's Reprise

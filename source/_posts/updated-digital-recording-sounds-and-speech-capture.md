@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Digital Recording  Sounds & Speech Capture\""
-date: 2024-05-18T17:03:18.858Z
-updated: 2024-05-19T17:03:18.858Z
+date: 2024-06-19T06:12:04.820Z
+updated: 2024-06-20T06:12:04.820Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Digital Recording: Sounds & Speech Capture\""
 excerpt: "\"This Article Describes [Updated] Digital Recording: Sounds & Speech Capture\""
 keywords: "\"Mac Screen Recorder,ProSound Mac Studio,Mac Audio Inputs,Studio Mac Sound Settings,Mac Mac Studio Record,High-Res Mac Sounds,Studio Display Mac Recording\""
-thumbnail: https://www.lifewire.com/thmb/7xkPKaI2xi5sTbIeFjMPxaWn7Gc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/apple-tvos_a-star-is-born_060319-b01aea7d8a1949609359d8d96b1a22e0.jpg
+thumbnail: https://thmb.techidaily.com/3a8d29dc752129bc6cecd890184a07ba60927370b95afc8af67003c49b108b72.jpg
 ---
 
 ## Digital Recording: Sounds & Speech Capture
@@ -47,7 +47,7 @@ To this far you are almost there! You can now use a microphone to feed into the 
 
 This being the final step, you will have to launch the recorder you are using to start the recording, and then select the Stereo Mix Device from the microphone icon. This will allow your recorder to record PC sound and microphone at the same time.
 
-## 2\. [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+## 2\. Filmora
 
 You may be interested in adding your voice to a video, making a voice-over demo for your social media networks, or even when preparing an important staff that requires your demonstration. Using Wondershare Filmora Editor, you can successfully combine your microphone voice with other computer sounds. This is because Filmora software has a voiceover function that allows you to record your voice or add voice-over files to a video. You can also use this function to customize the pitch, speech, and volume of the recorded voiceover. There are two options for incorporating sound in the other recordings using Filmora; you can edit your video first and then record the voiceover after. Or, start with recording the voiceover and then edit the video. in any of these ways, you need to prepare the script for smooth recording.
 

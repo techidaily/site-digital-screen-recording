@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Minecraft Masterpieces  Creative Buildings Guide\""
-date: 2024-05-18T16:28:01.419Z
-updated: 2024-05-19T16:28:01.419Z
+date: 2024-06-19T06:12:11.719Z
+updated: 2024-06-20T06:12:11.719Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes In 2024, Minecraft Masterpieces: Creative Buildings Guide\""
 excerpt: "\"This Article Describes In 2024, Minecraft Masterpieces: Creative Buildings Guide\""
 keywords: "Minecraft Creativity,Building in MC,MC Artisan Tips,DIY Minecraft Walls,MC Design Basics,Crafting MC Structures,Creative MC Architecture"
-thumbnail: https://www.lifewire.com/thmb/6mx5ubcqWIE245JjiBlgZpvI48I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Horserace-56ca33a85f9b5879cc4bcc6e.jpg
+thumbnail: https://thmb.techidaily.com/1501cba3c5f4c4b803b623584f546bd1f9723b8ea081222f679c45ec271effc3.jpg
 ---
 
 ## Minecraft Masterpieces: Creative Buildings Guide

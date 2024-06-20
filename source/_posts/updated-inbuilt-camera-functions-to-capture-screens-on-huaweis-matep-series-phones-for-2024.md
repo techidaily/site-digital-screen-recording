@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Inbuilt Camera Functions to Capture Screens on Huawei's Mate/P Series Phones for 2024"
-date: 2024-05-20T05:08:57.496Z
-updated: 2024-05-21T05:08:57.496Z
+date: 2024-06-19T06:12:02.403Z
+updated: 2024-06-20T06:12:02.403Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Inbuilt Camera Functions to Capture Screens on Huawei's Mate/P Series Phones for 2024"
 excerpt: "This Article Describes [Updated] Inbuilt Camera Functions to Capture Screens on Huawei's Mate/P Series Phones for 2024"
 keywords: "Mate Screen Capture Features,Huawei Mate Snap Shot,P Series Screen Recording,Mate Camera Zoom Capture,Huawei Mate Video Recorder,P Series Photo Screen,Mate Screen Functionality"
-thumbnail: https://www.lifewire.com/thmb/_atXbVpqt-bBP3NhxI9aFSkiOqU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1305200685-e977d0ca4e9a47e2b006e5b32a9922fd.jpg
+thumbnail: https://thmb.techidaily.com/d0c9b7047797b18daa1e1aa41be92c363eb13ba8f8bfa2b570a90a8bfa430bd1.jpg
 ---
 
 ## Inbuilt Camera Functions to Capture Screens on Huawei's Mate/P Series Phones

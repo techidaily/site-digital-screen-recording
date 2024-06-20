@@ -1,7 +1,7 @@
 ---
 title: "[New] Comprehensive Screen Capture Manual by ZD Software"
-date: 2024-05-18T17:05:01.693Z
-updated: 2024-05-19T17:05:01.693Z
+date: 2024-06-19T06:12:00.815Z
+updated: 2024-06-20T06:12:00.815Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Comprehensive Screen Capture Manual by ZD Software"
 excerpt: "This Article Describes [New] Comprehensive Screen Capture Manual by ZD Software"
 keywords: "Screen Capture Guide,ZDScreen Manual,TechCapture Tips,ZD Software Guide,Screenshots Instructions,ZD Tech Help,Capture Saving Steps"
-thumbnail: https://www.lifewire.com/thmb/xk4sG4I9EUDVvTCEXSRMmg2yPjw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/superbowl_dmytroAksonov_Getty-5a775189119fa8003752b313.jpg
+thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c706e3284222e7ce2389a41f.jpg
 ---
 
 ## Comprehensive Screen Capture Manual by ZD Software
