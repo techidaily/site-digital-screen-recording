@@ -1,7 +1,7 @@
 ---
 title: "[New] Ideal OBS Parameters for Economical PCs for 2024"
-date: 2024-06-19T06:12:09.299Z
-updated: 2024-06-20T06:12:09.299Z
+date: 2024-06-27T01:46:13.113Z
+updated: 2024-06-28T01:46:13.113Z
 tags: 
   - screen-recording
   - ai video
@@ -85,9 +85,7 @@ The audio settings can be adjusted from two places. Let us discuss the first one
 
 ![obs output audio settings adjust](https://images.wondershare.com/filmora/article-images/obs-output-audio-settings-adjust.jpg)
 
-### Step 2: Audio Tab Settings
-
-![obs audio tab settings steps](https://images.wondershare.com/filmora/article-images/obs-audio-tab-settings-steps.jpg)
+### Step 2: Audio Tab Settings ![obs audio tab settings steps](https://images.wondershare.com/filmora/article-images/obs-audio-tab-settings-steps.jpg)
 
 The audio consists of many settings,it is divided into categories lets start one by one and explain it.
 

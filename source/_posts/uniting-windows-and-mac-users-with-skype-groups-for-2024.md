@@ -1,7 +1,7 @@
 ---
 title: "Uniting Windows & Mac Users with Skype Groups for 2024"
-date: 2024-05-18T16:32:37.872Z
-updated: 2024-05-19T16:32:37.872Z
+date: 2024-06-27T01:46:09.609Z
+updated: 2024-06-28T01:46:09.609Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Uniting Windows & Mac Users with Skype Groups for 2024"
 excerpt: "This Article Describes Uniting Windows & Mac Users with Skype Groups for 2024"
 keywords: "\"Windows Skype Group Unity,Mac Users Skype Integration,Skype Cross-Platform Groups,Microsoft Teams Unite,Cross Platform Communicate,Universal Skype Connectivity,Skype for Windows & Mac Users\""
-thumbnail: https://www.lifewire.com/thmb/AOVQTNyOWIZPYiKZehcoYQS3DNU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-820926684-5c7747ebc45847708ac311b709bdc1f2.jpg
+thumbnail: https://thmb.techidaily.com/0608abec5e89fbdabfc438dbc05f250f26c6343ebf5ad117060d9466fac18ee3.jpg
 ---
 
 ## Uniting Windows & Mac Users with Skype Groups

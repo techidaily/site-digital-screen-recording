@@ -1,7 +1,7 @@
 ---
 title: "CaptureXpress 11 Professional"
-date: 2024-05-20T05:09:26.276Z
-updated: 2024-05-21T05:09:26.276Z
+date: 2024-06-27T01:46:17.672Z
+updated: 2024-06-28T01:46:17.672Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes CaptureXpress 11 Professional"
 excerpt: "This Article Describes CaptureXpress 11 Professional"
 keywords: "Sims Capture Guide,Pro Sim Photography,Sims Highlighting Tips,Sims Image Editing,Expert Sim Shots,Master Sim Screenshots,Professionals in Sims Photos"
-thumbnail: https://www.lifewire.com/thmb/KrjxcoVkV9vT3cQ3C-URm7mlpcM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-917461864-7141ebd3ec944ce6a431b8d485cc9cdb.jpg
+thumbnail: https://thmb.techidaily.com/c71f8b11a9475a90b96c899fdeade9228f855c7ed46c02973b8fefdc10e6507c.jpg
 ---
 
 ## CaptureXpress 11 Professional

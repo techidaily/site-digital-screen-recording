@@ -1,7 +1,7 @@
 ---
 title: "\"Getting Started with OBS on Apple  A Comprehensive Guide\""
-date: 2024-05-18T17:02:43.545Z
-updated: 2024-05-19T17:02:43.545Z
+date: 2024-06-27T01:46:14.527Z
+updated: 2024-06-28T01:46:14.527Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Getting Started with OBS on Apple: A Comprehensive Guide\""
 excerpt: "\"This Article Describes Getting Started with OBS on Apple: A Comprehensive Guide\""
 keywords: "\"OBS Basics for Mac,OBS Installation Guide,OBS Setup Apple Devices,OBS Tutorial Apple Users,Mastering OBS on iOS,Quick Start: OBS & iPhones,Essential OBS Steps for OS X\""
-thumbnail: https://www.lifewire.com/thmb/M6MEEf2A7TVTzphPjYFZQ34ewjs=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/man-attaching-action-camera-to-chest-664655587-5c8c2559c9e77c0001ac184b.jpg
+thumbnail: https://thmb.techidaily.com/9420d8c67dc649498f45244e433ec706e66933c2bf2f2b4b3c5585601cba7b98.jpg
 ---
 
 ## Getting Started with OBS on Apple: A Comprehensive Guide

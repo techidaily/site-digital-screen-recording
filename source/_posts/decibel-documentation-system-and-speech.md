@@ -1,7 +1,7 @@
 ---
 title: "\"Decibel Documentation  System and Speech\""
-date: 2024-06-19T06:12:05.425Z
-updated: 2024-06-20T06:12:05.425Z
+date: 2024-06-27T01:46:14.331Z
+updated: 2024-06-28T01:46:14.331Z
 tags: 
   - screen-recording
   - ai video
@@ -25,9 +25,7 @@ These programs allow users to record the computer screen, computer sounds, and m
 
 integration with your computer to make this possible.
 
-## 1\. Use Stereo Mix
-
-![stereo mix](https://images.wondershare.com/filmora/article-images/stereo-mix.jpg)
+## 1\. Use Stereo Mix ![stereo mix](https://images.wondershare.com/filmora/article-images/stereo-mix.jpg)
 
 **Step 1: Access the sound control center.**
 

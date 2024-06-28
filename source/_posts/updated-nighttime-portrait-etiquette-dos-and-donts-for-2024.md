@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Nighttime Portrait Etiquette  Do's and Don'ts for 2024\""
-date: 2024-05-18T16:59:24.865Z
-updated: 2024-05-19T16:59:24.865Z
+date: 2024-06-27T01:46:15.630Z
+updated: 2024-06-28T01:46:15.630Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Nighttime Portrait Etiquette: Do's and Don'ts for 2024\""
 excerpt: "\"This Article Describes [Updated] Nighttime Portrait Etiquette: Do's and Don'ts for 2024\""
 keywords: "Innovative PPT Methods,Webcam Tech Trends,EdTech Presentations,PPTs New Age,Webcams 2023 Update,Innovative Slideshows,Tech in Education"
-thumbnail: https://www.lifewire.com/thmb/tytwbqcYgTF7h7x0nLFuA1_IxhI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-515810476-aabe0e5a88b44bb1ae49a5bfa97bec62.jpg
+thumbnail: https://thmb.techidaily.com/1f190d8040197877fe9d91a786d037cb715f0068f8eaaf0f310614210c430f98.jpg
 ---
 
 ## Nighttime Portrait Etiquette: Do's and Don'ts

@@ -1,7 +1,7 @@
 ---
 title: "Navigating Slack Integration with Filmora for Seamless Video Conferences"
-date: 2024-05-20T05:08:49.957Z
-updated: 2024-05-21T05:08:49.957Z
+date: 2024-06-27T01:46:20.221Z
+updated: 2024-06-28T01:46:20.221Z
 tags: 
   - screen-recording
   - ai video
@@ -12,14 +12,12 @@ categories:
 description: "This Article Describes Navigating Slack Integration with Filmora for Seamless Video Conferences"
 excerpt: "This Article Describes Navigating Slack Integration with Filmora for Seamless Video Conferences"
 keywords: "Slack & Filmora Integration,Video Conference Tech,Slack Meetings Enhance,Collaborative Slack,Smooth Filmo Calling,Remote Team Tools,Effortless Filmo Conferencing"
-thumbnail: https://www.lifewire.com/thmb/cLzdzaXCHQmL2C9Qufq6ZiO1gSQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-642250032-010d3026f565420eac9ac098bced6278.jpg
+thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b59cc59254c5cb25869dff46a.jpg
 ---
 
 ## Navigating Slack Integration with Filmora for Seamless Video Conferences
 
-# How to Schedule and Record a Meeting on Slack-Wondershare Filmora
-
-![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+# How to Schedule and Record a Meeting on Slack-Wondershare Filmora ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
 

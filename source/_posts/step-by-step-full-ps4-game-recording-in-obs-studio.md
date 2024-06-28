@@ -1,7 +1,7 @@
 ---
 title: "\"Step-by-Step  Full PS4 Game Recording in OBS Studio\""
-date: 2024-05-18T16:44:46.042Z
-updated: 2024-05-19T16:44:46.042Z
+date: 2024-06-27T01:46:10.222Z
+updated: 2024-06-28T01:46:10.222Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Step-by-Step: Full PS4 Game Recording in OBS Studio\""
 excerpt: "\"This Article Describes Step-by-Step: Full PS4 Game Recording in OBS Studio\""
 keywords: "PS4 Game Recording OBS,OBS Studio PS4 Capture,Video OBS PS4 Playback,PS4 Live Streaming OBS,OBS Studio Game Record,Full PS4 Recording OBS,OBS PS4 Broadcast Guide"
-thumbnail: https://www.lifewire.com/thmb/__rERyiFiVgLZNIfMljI1DDoPFE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tropical-beach-wallpaper-beach-backgrounds-587fbb765f9b584db3241860.jpg
+thumbnail: https://thmb.techidaily.com/238e2de8d5663845563adee13d68f244664dc4975f435870883240d8e13b1f76.jpg
 ---
 
 ## Step-by-Step: Full PS4 Game Recording in OBS Studio

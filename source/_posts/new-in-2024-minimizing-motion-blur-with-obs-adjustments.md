@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Minimizing Motion Blur with OBS Adjustments"
-date: 2024-05-18T17:00:35.507Z
-updated: 2024-05-19T17:00:35.507Z
+date: 2024-06-27T01:46:10.821Z
+updated: 2024-06-28T01:46:10.821Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] In 2024, Minimizing Motion Blur with OBS Adjustments"
 excerpt: "This Article Describes [New] In 2024, Minimizing Motion Blur with OBS Adjustments"
 keywords: "Reduce Blur OBS,Clear Shot OBS,Minimize Blur OBS,Cut Motion Distortion OBS,Less Blur OBS Capture,Enhance Image Quality OBS,Improve Video Clarity OBS"
-thumbnail: https://www.lifewire.com/thmb/tytwbqcYgTF7h7x0nLFuA1_IxhI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-515810476-aabe0e5a88b44bb1ae49a5bfa97bec62.jpg
+thumbnail: https://thmb.techidaily.com/1f190d8040197877fe9d91a786d037cb715f0068f8eaaf0f310614210c430f98.jpg
 ---
 
 ## Minimizing Motion Blur with OBS Adjustments

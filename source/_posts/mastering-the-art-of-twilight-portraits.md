@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Twilight Portraits"
-date: 2024-05-18T16:57:55.259Z
-updated: 2024-05-19T16:57:55.259Z
+date: 2024-06-27T01:46:17.708Z
+updated: 2024-06-28T01:46:17.708Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Mastering the Art of Twilight Portraits"
 excerpt: "This Article Describes Mastering the Art of Twilight Portraits"
 keywords: "\"Silent Video Tips,Quiet Cinematography,Stealth Film Techniques,Low-Noise Shooting,Silent Movie Skills,Muted Filmmaking Tricks,Hushed Cinematic Practices\""
-thumbnail: https://www.lifewire.com/thmb/4ql928fMUKkO_EPWrgDkfeEcVtE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/family-hanging-out-watching-videos-online-1166432791-309c6f7ac8cb4cc99875db5a77fd6f35.jpg
+thumbnail: https://thmb.techidaily.com/d208efb0315dc3e80b4d5a8f4b751d30ee62ca28dd2151c249d15e615be6f528.jpg
 ---
 
 ## Mastering the Art of Twilight Portraits

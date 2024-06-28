@@ -1,7 +1,7 @@
 ---
 title: "Ancient Roguelike Tactics Vs. Innovative Approaches"
-date: 2024-05-20T05:09:06.008Z
-updated: 2024-05-21T05:09:06.008Z
+date: 2024-06-27T01:46:12.084Z
+updated: 2024-06-28T01:46:12.084Z
 tags: 
   - screen-recording
   - ai video
@@ -12,14 +12,12 @@ categories:
 description: "This Article Describes Ancient Roguelike Tactics Vs. Innovative Approaches"
 excerpt: "This Article Describes Ancient Roguelike Tactics Vs. Innovative Approaches"
 keywords: "\"Ancient RPG Strategies,Tactical Classic Games,Roguelike Old-School,Innovation in Gaming,Vs. Modern Rogues,Ancient Game Mechanics,Classic Vs. New Tactics\""
-thumbnail: https://www.lifewire.com/thmb/WOQtH1Yeu3Y77xTI-f6-N4Xb6Kc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SetaLiveWallpaperinWindows11-b8ca3913592d4a5790808131bf8f34e1.jpg
+thumbnail: https://thmb.techidaily.com/dc0976bf992fc8f3795e090c13f66cb1c6f1455915fe3cbbbf65ceba836d3f9e.jpg
 ---
 
 ## Ancient Roguelike Tactics Vs. Innovative Approaches
 
-# Roguelike vs. Roguelite: Debates and History Explained With Game Examples
-
-![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+# Roguelike vs. Roguelite: Debates and History Explained With Game Examples ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
 

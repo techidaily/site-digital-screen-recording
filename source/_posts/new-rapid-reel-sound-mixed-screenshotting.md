@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Rapid Reel  Sound-Mixed Screenshotting\""
-date: 2024-05-20T05:09:07.899Z
-updated: 2024-05-21T05:09:07.899Z
+date: 2024-06-27T01:46:12.269Z
+updated: 2024-06-28T01:46:12.269Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Rapid Reel: Sound-Mixed Screenshotting\""
 excerpt: "\"This Article Describes [New] Rapid Reel: Sound-Mixed Screenshotting\""
 keywords: "\"Rapid Screenshots,Fast Screen Capture,Quick Mixed Media,Sound-Enhanced Images,Audio Visual Reels,Speed Mixed Screenshots,Real Time Image Editing\""
-thumbnail: https://www.lifewire.com/thmb/KgjSvzxLL1eXMJCNvZxcbrcPyWA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ArtificialIntelligence-Chatbot-6921166a1d9e447eb0251f52694d919a.jpg
+thumbnail: https://thmb.techidaily.com/0e8ec29ee6248aac03a17afe8cf5cfd2ec9d4e36dfc8648cae868f4622fb576a.jpg
 ---
 
 ## Rapid Reel: Sound-Mixed Screenshotting

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] RecorderNation  Gratuity Edition, 2024 Release\""
-date: 2024-05-20T05:08:49.612Z
-updated: 2024-05-21T05:08:49.612Z
+date: 2024-06-27T01:46:11.566Z
+updated: 2024-06-28T01:46:11.566Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] RecorderNation: Gratuity Edition, 2024 Release\""
 excerpt: "\"This Article Describes [New] RecorderNation: Gratuity Edition, 2024 Release\""
 keywords: "RecorderEdition2024,GratuityRecorders,NationGratitude2024,RecordNation2024,EdTitlesGratuity,2024RecordingNation,YearlyEditionGratuity"
-thumbnail: https://www.lifewire.com/thmb/QSOkVMBCO__10c9yExi2xlfXUGg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-626970032-497800518dac4d6cafa0dc19b953f1ff.jpg
+thumbnail: https://thmb.techidaily.com/5996397f505d52b0f60ffe77c36fd8859621590a57dd0707f44eeaa06c560dbc.jpg
 ---
 
 ## RecorderNation: Gratuity Edition, 2024 Release

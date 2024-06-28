@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Low-End PC  Reach High with Best OBS Configuration for 2024\""
-date: 2024-05-18T16:36:16.305Z
-updated: 2024-05-19T16:36:16.305Z
+date: 2024-06-27T01:46:14.280Z
+updated: 2024-06-28T01:46:14.280Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Low-End PC: Reach High with Best OBS Configuration for 2024\""
 excerpt: "\"This Article Describes [New] Low-End PC: Reach High with Best OBS Configuration for 2024\""
 keywords: "\"Low-End PC Setup,Affordable Gaming PC,Budget OBS Streaming,Basic OBS Configuration,Cost-Effective OBS Tuning,Entry-Level OBS Optimization,Economical OBS Setup\""
-thumbnail: https://www.lifewire.com/thmb/xLyhmkxw8rwSLNhzfV0GfYs8tZc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-watch-tiktok-without-the-app-63a4562e4c4b4bd69477425853809a35.jpg
+thumbnail: https://thmb.techidaily.com/3ce7ce4cef66cdb03e7ac7e019dea8d112e1795f84ca632563f78a12990cc533.jpg
 ---
 
 ## Low-End PC: Reach High with Best OBS Configuration
@@ -85,9 +85,7 @@ The audio settings can be adjusted from two places. Let us discuss the first one
 
 ![obs output audio settings adjust](https://images.wondershare.com/filmora/article-images/obs-output-audio-settings-adjust.jpg)
 
-### Step 2: Audio Tab Settings
-
-![obs audio tab settings steps](https://images.wondershare.com/filmora/article-images/obs-audio-tab-settings-steps.jpg)
+### Step 2: Audio Tab Settings ![obs audio tab settings steps](https://images.wondershare.com/filmora/article-images/obs-audio-tab-settings-steps.jpg)
 
 The audio consists of many settings,it is divided into categories lets start one by one and explain it.
 

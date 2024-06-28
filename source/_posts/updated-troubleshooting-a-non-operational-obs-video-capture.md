@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Troubleshooting a Non-Operational OBS Video Capture\""
-date: 2024-05-20T05:08:47.615Z
-updated: 2024-05-21T05:08:47.615Z
+date: 2024-06-27T01:46:21.238Z
+updated: 2024-06-28T01:46:21.238Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Troubleshooting a Non-Operational OBS Video Capture\""
 excerpt: "\"This Article Describes [Updated] Troubleshooting a Non-Operational OBS Video Capture\""
 keywords: "\"OBS No Function,Trouble OBS Recording,Fixing OBS Not Operating,Stop OBS Failure,Resolve Non-OBS Playback,Reverse OBS Blackout,Unlock OBS Capture\""
-thumbnail: https://www.lifewire.com/thmb/D7l9wVfRkR02O_cphLk2NQX7Fjw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2018-12-08at3.04.00PM-5c0c23f6c9e77c00018eae4e.png
+thumbnail: https://thmb.techidaily.com/cec958dbb28e58c65e080cad326f07d4e7cdd67a50648dc244def701160f50d9.png
 ---
 
 ## Troubleshooting a Non-Operational OBS Video Capture

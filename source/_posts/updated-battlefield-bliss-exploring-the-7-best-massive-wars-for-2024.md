@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Battlefield Bliss  Exploring the 7 Best Massive Wars for 2024\""
-date: 2024-05-18T16:42:08.180Z
-updated: 2024-05-19T16:42:08.180Z
+date: 2024-06-27T01:46:06.495Z
+updated: 2024-06-28T01:46:06.495Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Battlefield Bliss: Exploring the 7 Best Massive Wars for 2024\""
 excerpt: "\"This Article Describes [Updated] Battlefield Bliss: Exploring the 7 Best Massive Wars for 2024\""
 keywords: "\"Battlefield Bliss,Massive Wars Quest,Top War Strategies,Epic War Games,Ultimate Battle Guide,Best War Titles,War Fan's Must-Haves\""
-thumbnail: https://www.lifewire.com/thmb/x5hFLtVYVUkR-_nqhbxS_f11j5E=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/netgear-default-password-list-2619154-b581fdcf136848d29e944638cd2ad444.png
+thumbnail: https://thmb.techidaily.com/3b3d53f3a3456319783aa99ca770516fad2e58dbe2bd45f2ec6f3eb305fb3d58.png
 ---
 
 ## Battlefield Bliss: Exploring the 7 Best Massive Wars
@@ -25,9 +25,7 @@ For many individuals, Total War has a special place in their hearts, and it's al
 
 The Best Total War games on their own are listed here.
 
-### 1.Attila the Hun
-
-![attila-the-hun-poster](https://images.wondershare.com/filmora/article-images/attila-the-hun-poster.png)
+### 1.Attila the Hun ![attila-the-hun-poster](https://images.wondershare.com/filmora/article-images/attila-the-hun-poster.png)
 
 Napoleon aspired to be Attila the Hun. At the time of its release, Attila's primary goal was to fix Rome 2's flaws and stripped-down features, since it seemed like the game was going down the same road as Empire. Attila, on the other hand, proved to be more than that, because it not only reintroduced promised features but also innovated, iterated, and expanded the brand.
 
@@ -37,9 +35,7 @@ Napoleon aspired to be Attila the Hun. At the time of its release, Attila's prim
 
 • Ominous franchise.
 
-### 2.Rome 2 Total War
-
-![rome-2-total-war-poster](https://images.wondershare.com/filmora/article-images/rome-2-total-war-poster.png)
+### 2.Rome 2 Total War ![rome-2-total-war-poster](https://images.wondershare.com/filmora/article-images/rome-2-total-war-poster.png)
 
 Unlike its predecessor, Rome 2, which was released in 2004, the time has been very kind with Rome 2 &, as a consequence, it may be called a surprise success for CA. Rome 2 had a disastrous debut, similar to Empire, and it took a year for it to become genuinely playable. CA, on the other hand, stuck it out and won their first genuine AAA Total War.
 
@@ -53,9 +49,7 @@ Apart from the largely forgotten rough launch problems and many contentious desi
 
 • Raider and Pirates culture pack.
 
-### 3.Three Kingdoms: Total War
-
-![three-kingdom-total-war-poster](https://images.wondershare.com/filmora/article-images/three-kingdom-total-war-poster.jpg)
+### 3.Three Kingdoms: Total War ![three-kingdom-total-war-poster](https://images.wondershare.com/filmora/article-images/three-kingdom-total-war-poster.jpg)
 
 Three Kingdoms has been the most recent mainline of the best total war games, and in my opinion, it's also the most honest. The game devotes itself entirely to a dramatized, idealized, and cinematic depiction in Ancient Chinese history (the first in the series), relying mainly on the Love rather than the Three Kingdoms Records. I wouldn't be shocked if the upcoming best total war games took a more hands-on approach.
 
@@ -69,9 +63,7 @@ However, there are several flaws with it. Unfortunately, the tactical layer cont
 
 • Diplomacy.
 
-### 4.Total War Saga: Samurai Fall
-
-![total-war-saga-samurai-fall](https://images.wondershare.com/filmora/article-images/total-war-saga-samurai-fall.jpg)
+### 4.Total War Saga: Samurai Fall ![total-war-saga-samurai-fall](https://images.wondershare.com/filmora/article-images/total-war-saga-samurai-fall.jpg)
 
 Ironically, the greatest Saga game was never intended to be a Saga game. Fall of the Samurai (later renamed as a Saga game) was released as a standalone addition for Shogun 2, transporting players to the lesser-known Meiji Restoration era in Japanese history, when pro-Imperial and pro-Shogunate armies fought for Japan's destiny.
 
@@ -85,9 +77,7 @@ As close-quarters oriented samurai fight against and besides modern firearms-equ
 
 • Explosive power.
 
-### 5.Warhammer 2
-
-![warhammer2-poster](https://images.wondershare.com/filmora/article-images/warhammer2-poster.jpg)
+### 5.Warhammer 2 ![warhammer2-poster](https://images.wondershare.com/filmora/article-images/warhammer2-poster.jpg)
 
 With a stronger narrative emphasis and more engaging factions and systems, Warhammer 2 builds on the original's legacy and influence of the best total war games series.
 
@@ -103,9 +93,7 @@ This is a once-in-a-lifetime opportunity for any Warhammer enthusiast. What's al
 
 • AI controlled factions.
 
-### 6.Total War Medieval 2
-
-![total-war-medieval-2-poster](https://images.wondershare.com/filmora/article-images/total-war-medieval-2-poster.jpg)
+### 6.Total War Medieval 2 ![total-war-medieval-2-poster](https://images.wondershare.com/filmora/article-images/total-war-medieval-2-poster.jpg)
 
 These last two entries are almost interchangeable since they are both excellent examples of best total war games, but because this is a ranking list, I'll offer a specific response. Medieval 2 is essentially the same game as Medieval 1, but with improved visuals, updated gameplay, and additional features. Who'd have guessed that would suffice?
 
@@ -117,9 +105,7 @@ Of course, Medieval 2 has many of the same flaws as Rome, such as bad AI and pat
 
 • Battle focused.
 
-### 7.Shogun 2: Total War
-
-![shogun2-total-war-poster](https://images.wondershare.com/filmora/article-images/shogun2-total-war-poster.jpg)
+### 7.Shogun 2: Total War ![shogun2-total-war-poster](https://images.wondershare.com/filmora/article-images/shogun2-total-war-poster.jpg)
 
 Finally, the apex of Total War, the meeting point and turning point among older and newer era Total Wars, and the example of Creative Assemblies at its height. While Shogun 2 isn't exactly a AAA cost game (I'd call it an AA or AA.5), it has the feel of one. Even though Shogun 2 lacks some of the previous games' large landscapes or faction variety, the general performance of the gameplay and features that interact with one another, as well as several quality-of-life improvements, making it the finest game within the list of best total war games.
 
@@ -135,9 +121,7 @@ The inclusion of the Avatar Invasion multiplayer mode was Shogun 2's biggest suc
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects ![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![](https://neveragain.allstatics.com/2019/assets/image/box/filmora-9.png)
 
@@ -149,9 +133,7 @@ Napoleon aspired to be Attila the Hun. At the time of its release, Attila's prim
 
 • Ominous franchise.
 
-### 2.Rome 2 Total War
-
-![rome-2-total-war-poster](https://images.wondershare.com/filmora/article-images/rome-2-total-war-poster.png)
+### 2.Rome 2 Total War ![rome-2-total-war-poster](https://images.wondershare.com/filmora/article-images/rome-2-total-war-poster.png)
 
 Unlike its predecessor, Rome 2, which was released in 2004, the time has been very kind with Rome 2 &, as a consequence, it may be called a surprise success for CA. Rome 2 had a disastrous debut, similar to Empire, and it took a year for it to become genuinely playable. CA, on the other hand, stuck it out and won their first genuine AAA Total War.
 
@@ -165,9 +147,7 @@ Apart from the largely forgotten rough launch problems and many contentious desi
 
 • Raider and Pirates culture pack.
 
-### 3.Three Kingdoms: Total War
-
-![three-kingdom-total-war-poster](https://images.wondershare.com/filmora/article-images/three-kingdom-total-war-poster.jpg)
+### 3.Three Kingdoms: Total War ![three-kingdom-total-war-poster](https://images.wondershare.com/filmora/article-images/three-kingdom-total-war-poster.jpg)
 
 Three Kingdoms has been the most recent mainline of the best total war games, and in my opinion, it's also the most honest. The game devotes itself entirely to a dramatized, idealized, and cinematic depiction in Ancient Chinese history (the first in the series), relying mainly on the Love rather than the Three Kingdoms Records. I wouldn't be shocked if the upcoming best total war games took a more hands-on approach.
 
@@ -181,9 +161,7 @@ However, there are several flaws with it. Unfortunately, the tactical layer cont
 
 • Diplomacy.
 
-### 4.Total War Saga: Samurai Fall
-
-![total-war-saga-samurai-fall](https://images.wondershare.com/filmora/article-images/total-war-saga-samurai-fall.jpg)
+### 4.Total War Saga: Samurai Fall ![total-war-saga-samurai-fall](https://images.wondershare.com/filmora/article-images/total-war-saga-samurai-fall.jpg)
 
 Ironically, the greatest Saga game was never intended to be a Saga game. Fall of the Samurai (later renamed as a Saga game) was released as a standalone addition for Shogun 2, transporting players to the lesser-known Meiji Restoration era in Japanese history, when pro-Imperial and pro-Shogunate armies fought for Japan's destiny.
 
@@ -197,9 +175,7 @@ As close-quarters oriented samurai fight against and besides modern firearms-equ
 
 • Explosive power.
 
-### 5.Warhammer 2
-
-![warhammer2-poster](https://images.wondershare.com/filmora/article-images/warhammer2-poster.jpg)
+### 5.Warhammer 2 ![warhammer2-poster](https://images.wondershare.com/filmora/article-images/warhammer2-poster.jpg)
 
 With a stronger narrative emphasis and more engaging factions and systems, Warhammer 2 builds on the original's legacy and influence of the best total war games series.
 
@@ -215,9 +191,7 @@ This is a once-in-a-lifetime opportunity for any Warhammer enthusiast. What's al
 
 • AI controlled factions.
 
-### 6.Total War Medieval 2
-
-![total-war-medieval-2-poster](https://images.wondershare.com/filmora/article-images/total-war-medieval-2-poster.jpg)
+### 6.Total War Medieval 2 ![total-war-medieval-2-poster](https://images.wondershare.com/filmora/article-images/total-war-medieval-2-poster.jpg)
 
 These last two entries are almost interchangeable since they are both excellent examples of best total war games, but because this is a ranking list, I'll offer a specific response. Medieval 2 is essentially the same game as Medieval 1, but with improved visuals, updated gameplay, and additional features. Who'd have guessed that would suffice?
 
@@ -229,9 +203,7 @@ Of course, Medieval 2 has many of the same flaws as Rome, such as bad AI and pat
 
 • Battle focused.
 
-### 7.Shogun 2: Total War
-
-![shogun2-total-war-poster](https://images.wondershare.com/filmora/article-images/shogun2-total-war-poster.jpg)
+### 7.Shogun 2: Total War ![shogun2-total-war-poster](https://images.wondershare.com/filmora/article-images/shogun2-total-war-poster.jpg)
 
 Finally, the apex of Total War, the meeting point and turning point among older and newer era Total Wars, and the example of Creative Assemblies at its height. While Shogun 2 isn't exactly a AAA cost game (I'd call it an AA or AA.5), it has the feel of one. Even though Shogun 2 lacks some of the previous games' large landscapes or faction variety, the general performance of the gameplay and features that interact with one another, as well as several quality-of-life improvements, making it the finest game within the list of best total war games.
 
@@ -247,9 +219,7 @@ The inclusion of the Avatar Invasion multiplayer mode was Shogun 2's biggest suc
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects ![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![](https://neveragain.allstatics.com/2019/assets/image/box/filmora-9.png)
 
@@ -261,9 +231,7 @@ Napoleon aspired to be Attila the Hun. At the time of its release, Attila's prim
 
 • Ominous franchise.
 
-### 2.Rome 2 Total War
-
-![rome-2-total-war-poster](https://images.wondershare.com/filmora/article-images/rome-2-total-war-poster.png)
+### 2.Rome 2 Total War ![rome-2-total-war-poster](https://images.wondershare.com/filmora/article-images/rome-2-total-war-poster.png)
 
 Unlike its predecessor, Rome 2, which was released in 2004, the time has been very kind with Rome 2 &, as a consequence, it may be called a surprise success for CA. Rome 2 had a disastrous debut, similar to Empire, and it took a year for it to become genuinely playable. CA, on the other hand, stuck it out and won their first genuine AAA Total War.
 
@@ -277,9 +245,7 @@ Apart from the largely forgotten rough launch problems and many contentious desi
 
 • Raider and Pirates culture pack.
 
-### 3.Three Kingdoms: Total War
-
-![three-kingdom-total-war-poster](https://images.wondershare.com/filmora/article-images/three-kingdom-total-war-poster.jpg)
+### 3.Three Kingdoms: Total War ![three-kingdom-total-war-poster](https://images.wondershare.com/filmora/article-images/three-kingdom-total-war-poster.jpg)
 
 Three Kingdoms has been the most recent mainline of the best total war games, and in my opinion, it's also the most honest. The game devotes itself entirely to a dramatized, idealized, and cinematic depiction in Ancient Chinese history (the first in the series), relying mainly on the Love rather than the Three Kingdoms Records. I wouldn't be shocked if the upcoming best total war games took a more hands-on approach.
 
@@ -293,9 +259,7 @@ However, there are several flaws with it. Unfortunately, the tactical layer cont
 
 • Diplomacy.
 
-### 4.Total War Saga: Samurai Fall
-
-![total-war-saga-samurai-fall](https://images.wondershare.com/filmora/article-images/total-war-saga-samurai-fall.jpg)
+### 4.Total War Saga: Samurai Fall ![total-war-saga-samurai-fall](https://images.wondershare.com/filmora/article-images/total-war-saga-samurai-fall.jpg)
 
 Ironically, the greatest Saga game was never intended to be a Saga game. Fall of the Samurai (later renamed as a Saga game) was released as a standalone addition for Shogun 2, transporting players to the lesser-known Meiji Restoration era in Japanese history, when pro-Imperial and pro-Shogunate armies fought for Japan's destiny.
 
@@ -309,9 +273,7 @@ As close-quarters oriented samurai fight against and besides modern firearms-equ
 
 • Explosive power.
 
-### 5.Warhammer 2
-
-![warhammer2-poster](https://images.wondershare.com/filmora/article-images/warhammer2-poster.jpg)
+### 5.Warhammer 2 ![warhammer2-poster](https://images.wondershare.com/filmora/article-images/warhammer2-poster.jpg)
 
 With a stronger narrative emphasis and more engaging factions and systems, Warhammer 2 builds on the original's legacy and influence of the best total war games series.
 
@@ -327,9 +289,7 @@ This is a once-in-a-lifetime opportunity for any Warhammer enthusiast. What's al
 
 • AI controlled factions.
 
-### 6.Total War Medieval 2
-
-![total-war-medieval-2-poster](https://images.wondershare.com/filmora/article-images/total-war-medieval-2-poster.jpg)
+### 6.Total War Medieval 2 ![total-war-medieval-2-poster](https://images.wondershare.com/filmora/article-images/total-war-medieval-2-poster.jpg)
 
 These last two entries are almost interchangeable since they are both excellent examples of best total war games, but because this is a ranking list, I'll offer a specific response. Medieval 2 is essentially the same game as Medieval 1, but with improved visuals, updated gameplay, and additional features. Who'd have guessed that would suffice?
 
@@ -341,9 +301,7 @@ Of course, Medieval 2 has many of the same flaws as Rome, such as bad AI and pat
 
 • Battle focused.
 
-### 7.Shogun 2: Total War
-
-![shogun2-total-war-poster](https://images.wondershare.com/filmora/article-images/shogun2-total-war-poster.jpg)
+### 7.Shogun 2: Total War ![shogun2-total-war-poster](https://images.wondershare.com/filmora/article-images/shogun2-total-war-poster.jpg)
 
 Finally, the apex of Total War, the meeting point and turning point among older and newer era Total Wars, and the example of Creative Assemblies at its height. While Shogun 2 isn't exactly a AAA cost game (I'd call it an AA or AA.5), it has the feel of one. Even though Shogun 2 lacks some of the previous games' large landscapes or faction variety, the general performance of the gameplay and features that interact with one another, as well as several quality-of-life improvements, making it the finest game within the list of best total war games.
 
@@ -359,9 +317,7 @@ The inclusion of the Avatar Invasion multiplayer mode was Shogun 2's biggest suc
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects ![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![](https://neveragain.allstatics.com/2019/assets/image/box/filmora-9.png)
 
@@ -373,9 +329,7 @@ Napoleon aspired to be Attila the Hun. At the time of its release, Attila's prim
 
 • Ominous franchise.
 
-### 2.Rome 2 Total War
-
-![rome-2-total-war-poster](https://images.wondershare.com/filmora/article-images/rome-2-total-war-poster.png)
+### 2.Rome 2 Total War ![rome-2-total-war-poster](https://images.wondershare.com/filmora/article-images/rome-2-total-war-poster.png)
 
 Unlike its predecessor, Rome 2, which was released in 2004, the time has been very kind with Rome 2 &, as a consequence, it may be called a surprise success for CA. Rome 2 had a disastrous debut, similar to Empire, and it took a year for it to become genuinely playable. CA, on the other hand, stuck it out and won their first genuine AAA Total War.
 
@@ -389,9 +343,7 @@ Apart from the largely forgotten rough launch problems and many contentious desi
 
 • Raider and Pirates culture pack.
 
-### 3.Three Kingdoms: Total War
-
-![three-kingdom-total-war-poster](https://images.wondershare.com/filmora/article-images/three-kingdom-total-war-poster.jpg)
+### 3.Three Kingdoms: Total War ![three-kingdom-total-war-poster](https://images.wondershare.com/filmora/article-images/three-kingdom-total-war-poster.jpg)
 
 Three Kingdoms has been the most recent mainline of the best total war games, and in my opinion, it's also the most honest. The game devotes itself entirely to a dramatized, idealized, and cinematic depiction in Ancient Chinese history (the first in the series), relying mainly on the Love rather than the Three Kingdoms Records. I wouldn't be shocked if the upcoming best total war games took a more hands-on approach.
 
@@ -405,9 +357,7 @@ However, there are several flaws with it. Unfortunately, the tactical layer cont
 
 • Diplomacy.
 
-### 4.Total War Saga: Samurai Fall
-
-![total-war-saga-samurai-fall](https://images.wondershare.com/filmora/article-images/total-war-saga-samurai-fall.jpg)
+### 4.Total War Saga: Samurai Fall ![total-war-saga-samurai-fall](https://images.wondershare.com/filmora/article-images/total-war-saga-samurai-fall.jpg)
 
 Ironically, the greatest Saga game was never intended to be a Saga game. Fall of the Samurai (later renamed as a Saga game) was released as a standalone addition for Shogun 2, transporting players to the lesser-known Meiji Restoration era in Japanese history, when pro-Imperial and pro-Shogunate armies fought for Japan's destiny.
 
@@ -421,9 +371,7 @@ As close-quarters oriented samurai fight against and besides modern firearms-equ
 
 • Explosive power.
 
-### 5.Warhammer 2
-
-![warhammer2-poster](https://images.wondershare.com/filmora/article-images/warhammer2-poster.jpg)
+### 5.Warhammer 2 ![warhammer2-poster](https://images.wondershare.com/filmora/article-images/warhammer2-poster.jpg)
 
 With a stronger narrative emphasis and more engaging factions and systems, Warhammer 2 builds on the original's legacy and influence of the best total war games series.
 
@@ -439,9 +387,7 @@ This is a once-in-a-lifetime opportunity for any Warhammer enthusiast. What's al
 
 • AI controlled factions.
 
-### 6.Total War Medieval 2
-
-![total-war-medieval-2-poster](https://images.wondershare.com/filmora/article-images/total-war-medieval-2-poster.jpg)
+### 6.Total War Medieval 2 ![total-war-medieval-2-poster](https://images.wondershare.com/filmora/article-images/total-war-medieval-2-poster.jpg)
 
 These last two entries are almost interchangeable since they are both excellent examples of best total war games, but because this is a ranking list, I'll offer a specific response. Medieval 2 is essentially the same game as Medieval 1, but with improved visuals, updated gameplay, and additional features. Who'd have guessed that would suffice?
 
@@ -453,9 +399,7 @@ Of course, Medieval 2 has many of the same flaws as Rome, such as bad AI and pat
 
 • Battle focused.
 
-### 7.Shogun 2: Total War
-
-![shogun2-total-war-poster](https://images.wondershare.com/filmora/article-images/shogun2-total-war-poster.jpg)
+### 7.Shogun 2: Total War ![shogun2-total-war-poster](https://images.wondershare.com/filmora/article-images/shogun2-total-war-poster.jpg)
 
 Finally, the apex of Total War, the meeting point and turning point among older and newer era Total Wars, and the example of Creative Assemblies at its height. While Shogun 2 isn't exactly a AAA cost game (I'd call it an AA or AA.5), it has the feel of one. Even though Shogun 2 lacks some of the previous games' large landscapes or faction variety, the general performance of the gameplay and features that interact with one another, as well as several quality-of-life improvements, making it the finest game within the list of best total war games.
 
@@ -471,9 +415,7 @@ The inclusion of the Avatar Invasion multiplayer mode was Shogun 2's biggest suc
 
 #### Wondershare Filmora
 
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects ![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![](https://neveragain.allstatics.com/2019/assets/image/box/filmora-9.png)
 
