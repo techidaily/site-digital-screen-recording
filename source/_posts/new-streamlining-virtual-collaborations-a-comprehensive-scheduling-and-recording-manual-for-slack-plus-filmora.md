@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Streamlining Virtual Collaborations  A Comprehensive Scheduling & Recording Manual for Slack + Filmora\""
-date: 2024-05-18T16:38:49.385Z
-updated: 2024-05-19T16:38:49.385Z
+date: 2024-07-04T13:14:51.129Z
+updated: 2024-07-05T13:14:51.129Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Streamlining Virtual Collaborations: A Comprehensive Scheduling & Recording Manual for Slack + Filmora\""
 excerpt: "\"This Article Describes [New] Streamlining Virtual Collaborations: A Comprehensive Scheduling & Recording Manual for Slack + Filmora\""
 keywords: "Slack Schedule Guide,Filmora Video Planning,Virtual Team Coordination,Slack Meeting Records,Collaboration Scheduling Manual,Filmora Recording Tips,Streamlined Slack Workflows"
-thumbnail: https://www.lifewire.com/thmb/o9Q9WuSk80JXjgUWGQkyTXmmm-M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1088144728-3a9f1bd54e994bfaa4cabea82414202e.jpg
+thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e37202540f48c021987012cc7b2e2e.jpg
 ---
 
 ## Streamlining Virtual Collaborations: A Comprehensive Scheduling & Recording Manual for Slack + Filmora

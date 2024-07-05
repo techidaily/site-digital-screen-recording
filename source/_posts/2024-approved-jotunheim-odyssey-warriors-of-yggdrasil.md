@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Jotunheim Odyssey  Warriors of Yggdrasil\""
-date: 2024-05-20T05:09:22.597Z
-updated: 2024-05-21T05:09:22.597Z
+date: 2024-07-04T13:14:51.048Z
+updated: 2024-07-05T13:14:51.048Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Jotunheim Odyssey: Warriors of Yggdrasil\""
 excerpt: "\"This Article Describes 2024 Approved: Jotunheim Odyssey: Warriors of Yggdrasil\""
 keywords: "JotunYggDrakOdysse,YggDrazLordsWarrior,OdysseyJotunsAbyss,WarriorsOfYggCrags,OdysseyIntoYggMyth,YggHeroesBattleThrone,JotunOdysseyYggWarrior"
-thumbnail: https://www.lifewire.com/thmb/21o2y5NdnwK9g8j7z_eUWi12JAw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-504331578-cheering-football-on-tv-5a231ffdaad52b00372ae2a6.jpg
+thumbnail: https://thmb.techidaily.com/264f7e50d992f10f22f440e035402650c9e912cde2fed4f7c2aee477f6b93402.jpg
 ---
 
 ## Jotunheim Odyssey: Warriors of Yggdrasil

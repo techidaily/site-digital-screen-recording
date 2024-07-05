@@ -1,7 +1,7 @@
 ---
 title: "\"Ultimate List  PS2 Games on Android Devices for 2024\""
-date: 2024-05-18T16:52:28.503Z
-updated: 2024-05-19T16:52:28.503Z
+date: 2024-07-04T13:14:49.258Z
+updated: 2024-07-05T13:14:49.258Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Ultimate List: PS2 Games on Android Devices for 2024\""
 excerpt: "\"This Article Describes Ultimate List: PS2 Games on Android Devices for 2024\""
 keywords: "\"PS2 Games Android Tablets,Old-School PS2 Mobile Gaming,PlayStation 2 Android Library,Classic PS2 Android Titles,Retro Console Android Apps,Android Port of PS2 Games,Digital PS2 Games for Phones\""
-thumbnail: https://www.lifewire.com/thmb/RWcl_Joktvj_rmr9ViWUZrsB7e4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/homepod-hero-5a79bc226bf06900378a7e1a.jpg
+thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f898253edd18111f294ce2b839027.jpg
 ---
 
 ## Ultimate List: PS2 Games on Android Devices

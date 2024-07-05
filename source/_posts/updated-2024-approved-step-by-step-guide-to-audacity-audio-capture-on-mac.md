@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Step-by-Step Guide to Audacity Audio Capture on Mac\""
-date: 2024-05-20T05:09:16.101Z
-updated: 2024-05-21T05:09:16.101Z
+date: 2024-07-04T13:14:48.218Z
+updated: 2024-07-05T13:14:48.218Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: Step-by-Step Guide to Audacity Audio Capture on Mac\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: Step-by-Step Guide to Audacity Audio Capture on Mac\""
 keywords: "\"Mac Audio Capture Guide,Audacity Mac Recording Steps,Basic Audacity Mac Capture,Simple Mac Audio Capture,Learn Audacity for Mac Capture,Step-by-Step Mac Audacity Record,Mastering Mac Sound Capture with Audacity\""
-thumbnail: https://www.lifewire.com/thmb/2mfMkf9Nh38PrId0xERnppf9iAg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-view-instagram-without-an-account-5271416-505eeceaf0e142ed8674d2ce2244a8be.jpg
+thumbnail: https://thmb.techidaily.com/92459487433dd8191ecb6f79f9b025b7d93038fc1418a5a54e50bbd98af412de.jpg
 ---
 
 ## Step-by-Step Guide to Audacity Audio Capture on Mac

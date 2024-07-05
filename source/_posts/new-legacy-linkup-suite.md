@@ -1,7 +1,7 @@
 ---
 title: "[New] Legacy Linkup Suite"
-date: 2024-05-20T05:08:56.675Z
-updated: 2024-05-21T05:08:56.675Z
+date: 2024-07-04T13:14:52.183Z
+updated: 2024-07-05T13:14:52.183Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Legacy Linkup Suite"
 excerpt: "This Article Describes [New] Legacy Linkup Suite"
 keywords: "Legacy Link Solutions,Business Connectivity Hub,Integrated Workspace Tools,Enterprise Collaboration Software,Unified Communication Systems,Corporate Networking Platforms,Professional Connection Suite"
-thumbnail: https://www.lifewire.com/thmb/bBM9LsJLxfsckFRQQI91FGiTONA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-fix-it-when-reddit-apps-arent-working-f4c8fe50a9ff4c90a28e6a056b427208.jpg
+thumbnail: https://thmb.techidaily.com/e9e9b7ca60047014bff6bb18f8c482a86a228fe45f3ba370acbb24c0cc43ac69.jpg
 ---
 
 ## Legacy Linkup Suite

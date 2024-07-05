@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Walk of Shadows  A Comprehensive List of Intense Zombie Games\""
-date: 2024-05-18T16:48:22.564Z
-updated: 2024-05-19T16:48:22.564Z
+date: 2024-07-04T13:14:49.781Z
+updated: 2024-07-05T13:14:49.781Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] 2024 Approved: Walk of Shadows: A Comprehensive List of Intense Zombie Games\""
 excerpt: "\"This Article Describes [New] 2024 Approved: Walk of Shadows: A Comprehensive List of Intense Zombie Games\""
 keywords: "Shadow Zombie Rush,Intensity Deadwalk,Zombies Playlist,Horror Game Journey,Zombie Hunt List,Fierce Undead Games,Intense Zombee Quest"
-thumbnail: https://www.lifewire.com/thmb/LQMb1e3-Mg4L1lN_8a1V_-CacMg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-155096051-5b1bf60d43a1030036cfac94.jpg
+thumbnail: https://thmb.techidaily.com/667c07bdb92da3d0cfc85ccd305dbbf14b3797ec47ad22d2523d6d2404f16cd1.jpg
 ---
 
 ## Walk of Shadows: A Comprehensive List of Intense Zombie Games

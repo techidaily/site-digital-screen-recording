@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] PowerPoint Persona  Establishing Your Presentation's Voice\""
-date: 2024-05-18T16:59:35.541Z
-updated: 2024-05-19T16:59:35.541Z
+date: 2024-07-04T13:14:53.990Z
+updated: 2024-07-05T13:14:53.990Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] PowerPoint Persona: Establishing Your Presentation's Voice\""
 excerpt: "\"This Article Describes [Updated] PowerPoint Persona: Establishing Your Presentation's Voice\""
 keywords: "PowerPoint Voice,Presentation Persona,Establishing Presence,Effective PPT Talk,Engaging Slideshow,Presenter's Style,Speaker Identity"
-thumbnail: https://www.lifewire.com/thmb/tJAkAFLn8PgYLDdSxKT4QReLsyg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/macOS-Sonoma-Banner-fe4ffda2caaf4040b81ae0b66f2d6dc0.jpg
+thumbnail: https://thmb.techidaily.com/a6603b4c8e64882a75258ea91034b33184d3edc319264524a7b728bfe67ef7f7.jpg
 ---
 
 ## PowerPoint Persona: Establishing Your Presentation's Voice

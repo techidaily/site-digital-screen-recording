@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Mastering Minecraft Geometries  Circular & Spherical Designs\""
-date: 2024-05-18T16:49:20.639Z
-updated: 2024-05-19T16:49:20.639Z
+date: 2024-07-04T13:14:51.997Z
+updated: 2024-07-05T13:14:51.997Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] In 2024, Mastering Minecraft Geometries: Circular & Spherical Designs\""
 excerpt: "\"This Article Describes [Updated] In 2024, Mastering Minecraft Geometries: Circular & Spherical Designs\""
 keywords: "Mincraft Shape Basics,Circular Build Tips,Sphere Gameplay Strategies,Geo Minecraft Crafting,World Creation Techniques,Master Cube Designs,Diamond Pattern Artistry"
-thumbnail: https://www.lifewire.com/thmb/URpxAt_UNeiJBr0hk-AFwm2D8lg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-change-your-tiktok-username-and-profile-picture-048cd3c3b4854846ab46f920e862332f.jpg
+thumbnail: https://thmb.techidaily.com/bab43c6ebbd68c7b02aa8931b44c8b3c5cf156c7a7bd1aa24fbe3ea34de877b1.jpg
 ---
 
 ## Mastering Minecraft Geometries: Circular & Spherical Designs

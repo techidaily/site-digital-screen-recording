@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, AZ Video Logger  Full Application Breakdown\""
-date: 2024-05-18T16:35:58.152Z
-updated: 2024-05-19T16:35:58.152Z
+date: 2024-07-04T13:14:51.510Z
+updated: 2024-07-05T13:14:51.510Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] In 2024, AZ Video Logger: Full Application Breakdown\""
 excerpt: "\"This Article Describes [Updated] In 2024, AZ Video Logger: Full Application Breakdown\""
 keywords: "Video Conferencing Software,Top Video Calls Tools,Best Video Meeting Platforms,Efficient Video Chat Apps,Advanced Video Call Services,Excellent Video Communication Tools,Key Video Conference Solutions"
-thumbnail: https://www.lifewire.com/thmb/fNAEUmZEUUuqZzxr6hV391lXHYg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-11-best-whatsapp-tricks-and-tips-in-2020-4782877-fd12628437f34b85ac38f1a9ac95637e.jpg
+thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad97d3a8d2551786ec91da20e4.jpg
 ---
 
 ## AZ Video Logger: Full Application Breakdown
@@ -124,7 +124,7 @@ Here’s how you can use Filmora software to record a screen or webcam on a PC o
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-Step1 Launch a browser, visit the official [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)website to download the software, and install it on your PC/Mac.
+Step1 Launch a browser, visit the official [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) website to download the software, and install it on your PC/Mac.
 
 Step2 Now, run the software on your PC/Mac and click **“Create New Project.”** Go to the top toolbar, click **“File”** and head to the “Record Media” option. Select the option you want. We selected **“Record PC Screen.”**
 
@@ -238,7 +238,7 @@ Here’s how you can use Filmora software to record a screen or webcam on a PC o
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-Step1 Launch a browser, visit the official [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)website to download the software, and install it on your PC/Mac.
+Step1 Launch a browser, visit the official [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) website to download the software, and install it on your PC/Mac.
 
 Step2 Now, run the software on your PC/Mac and click **“Create New Project.”** Go to the top toolbar, click **“File”** and head to the “Record Media” option. Select the option you want. We selected **“Record PC Screen.”**
 
