@@ -1,7 +1,7 @@
 ---
 title: "[New] Innovative Use of Plugins for Skype Call Capture in OBS for 2024"
-date: 2024-05-20T05:09:27.197Z
-updated: 2024-05-21T05:09:27.197Z
+date: 2024-07-24T03:55:19.023Z
+updated: 2024-07-25T03:55:19.023Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Innovative Use of Plugins for Skype Call Capture in OBS for 2024"
 excerpt: "This Article Describes [New] Innovative Use of Plugins for Skype Call Capture in OBS for 2024"
 keywords: "Skype Call Recording OBS,OBS Plugin Integration,Innovative Skype OBS,Capturing Calls in OBS,Skype Audio Plugin,Advanced Skype Recording,OBS Call Management"
-thumbnail: https://www.lifewire.com/thmb/s_49EdazIwlAKelLWFU8LSaOlMk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-585151372-a659baf0c7b441b9b7e7896716b12784.jpg
+thumbnail: https://thmb.techidaily.com/97d650cd0f6e07d2facd0c86f96f609a10afc326cf6eb9f144fb267795cd5a9a.jpg
 ---
 
 ## Innovative Use of Plugins for Skype Call Capture in OBS
@@ -35,8 +35,14 @@ Initially, you’ll be required to have skype installed on your desktop along wi
 
 After this you have to open the OBS program and set it up for skype calls, firs thing is to create a new scene, then you're going to hit the plus button and select the capture device. Now you can see yourself on camera and screen can easily be cropped, while holding ‘Alt’, on OBS so fix it according to your liking. Then press ‘lock’ using the NDI plug-in.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![obs program set up for skype](https://images.wondershare.com/filmora/article-images/obs-program-set-up-for-skype.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![obs vlc videos source](https://images.wondershare.com/filmora/article-images/obs-vlc-videos-source.jpg)
 
 To setup NDI plugin you have to visit <https://github.com/Palakis/obs-ndi/releases/tag/4.9.1> and check for the compatible version with your operating system. On this website the plugin is available for windows, mac and Linux.
@@ -45,6 +51,9 @@ To setup NDI plugin you have to visit <https://github.com/Palakis/obs-ndi/releas
 
 And after addition of plug in you would want to click on ‘+’ again and select NDI plugin and you can select the source video which is going to be the received video.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![obs additon of plug in](https://images.wondershare.com/filmora/article-images/obs-additon-of-plug-in.jpg)
 
 And clicking on it will open a new window where you have to select the guest feed, which will be possible once the call has begun. The call connected will appear on the NDI plugin window.
@@ -53,14 +62,23 @@ And clicking on it will open a new window where you have to select the guest fee
 
 As you receive the call from the reciever you will see the incoming feed of him as shown in the figure.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![obs receive the call](https://images.wondershare.com/filmora/article-images/obs-receive-the-call.jpg)
 
 So you can just resize it similarly as you did yours earlier and pressing the lock icon will stop you from mistakenly modify or change the video screen settings. Now to record the video you have to click on record button and your desktop starts recording.
 
 ![obs resize it similarly](https://images.wondershare.com/filmora/article-images/obs-resize-it-similarly.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2: OBS Alternative to Record Skype
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Filmora
 
 Filmora is a very popular and perfect [video recorder](https://tools.techidaily.com/wondershare/filmora/download/) and editor designed by Wondershare. Wondershare is software house created in 2003\. This software was designed by professional video makers. It has an easy to use and a friendly environment, and easy to understand commands. This software is available for free and compatible with windows and MAC both. This tool can help you connect in a better way with your audience since it allows a wide range of functions, varying from editing and cutting to screen detection, auto-crop and fisheye correction.
@@ -82,6 +100,9 @@ For macOS 10.12 or later
 
 * This window gives you options regarding screen size, resolution and devices which will record your audio and videos.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmora regard screen size](https://images.wondershare.com/filmora/guide/recording-04.png)
 
 * This window is to configure all the audio and video devices. So you can get audio from any device and similarly video devices can also be configured.
@@ -137,6 +158,9 @@ For macOS 10.12 or later
 
 * This window is to configure all the audio and video devices. So you can get audio from any device and similarly video devices can also be configured.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![filmora configure all the audio devices](https://images.wondershare.com/filmora/guide/recording-05.png)
 
 * After the configuration, you can click on the big red button to start the recording.
@@ -180,6 +204,9 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmra record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
 * This window gives you options regarding screen size, resolution and devices which will record your audio and videos.
@@ -188,6 +215,9 @@ For macOS 10.12 or later
 
 * This window is to configure all the audio and video devices. So you can get audio from any device and similarly video devices can also be configured.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![filmora configure all the audio devices](https://images.wondershare.com/filmora/guide/recording-05.png)
 
 * After the configuration, you can click on the big red button to start the recording.
@@ -231,10 +261,16 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![filmra record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
 * This window gives you options regarding screen size, resolution and devices which will record your audio and videos.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmora regard screen size](https://images.wondershare.com/filmora/guide/recording-04.png)
 
 * This window is to configure all the audio and video devices. So you can get audio from any device and similarly video devices can also be configured.
@@ -243,6 +279,9 @@ For macOS 10.12 or later
 
 * After the configuration, you can click on the big red button to start the recording.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## FAQs Regarding Skype Recording
 
 **How do I add Skype video on OBS?**
@@ -299,3 +338,44 @@ So form the above discussion it can be concluded that OBS for screen recording c
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-seamlessly-integrate-captions-into-youtube-videos/"><u>[New] 2024 Approved  How to Seamlessly Integrate Captions Into YouTube Videos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-unlocking-audio-potential-download-plus-install-guide-for-vrecorder/"><u>[New] 2024 Approved  Unlocking Audio Potential - Download + Install Guide for VRecorder</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-unlocking-av1-encoding-insights/"><u>[New] 2024 Approved  Unlocking AV1 Encoding Insights</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/uilding-confidence-against-youtube-critiques-for-2024/"><u>[New] Building Confidence Against YouTube Critiques for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-superior-options-other-than-obs-for-live-recordings/"><u>[New] In 2024, Superior Options Other than OBS for Live Recordings</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-is-splitcam-the-pinnacle-of-recording-capabilities-in-2024/"><u>[New] Is SplitCam The Pinnacle of Recording Capabilities, In 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-mastering-live-streams-essential-vr-gaming-recording-methods-for-2024/"><u>[New] Mastering Live-Streams  Essential VR Gaming Recording Methods for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-premier-game-recorder-picks-excluding-the-mainstream-one-for-2024/"><u>[New] Premier Game Recorder Picks Excluding the Mainstream One for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-secure-video-communication-made-simple-with-top-10-safe-apps-on-mobile-devices-for-2024/"><u>[New] Secure Video Communication Made Simple with Top 10 Safe Apps on Mobile Devices for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-visual-simplification-in-hybrid-workspaces-with-zoom-and-google-meet-for-2024/"><u>[New] Visual Simplification in Hybrid Workspaces with Zoom & Google Meet for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-dynamic-unpriced-visual-bonding-games/"><u>[Updated] 2024 Approved  Dynamic Unpriced Visual Bonding Games</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-gamers-paradise-our-candidate-7-best-fps-titles/"><u>[Updated] 2024 Approved  Gamer's Paradise  Our Candidate 7 Best FPS Titles</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-immersive-odyssey-top-10-best-free-mmorpgs-ever/"><u>[Updated] 2024 Approved  Immersive Odyssey  Top 10 Best Free MMORPGs Ever</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-pioneering-affordable-switch-emulators/"><u>[Updated] 2024 Approved  Pioneering Affordable Switch Emulators</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-stardews-ultimate-enhancements-ranked-the-seven-best-mods/"><u>[Updated] 2024 Approved  Stardew's Ultimate Enhancements Ranked  The Seven Best Mods</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-transform-dull-game-captures-into-bright-shows-with-obs-tricks/"><u>[Updated] 2024 Approved  Transform Dull Game Captures Into Bright Shows with OBS Tricks</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-vision-capture-expert-insights-into-video-tech/"><u>[Updated] 2024 Approved  Vision Capture  Expert Insights Into Video Tech</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-discover-the-best-9-mobile-video-conferencing-apps-androidiphone-for-2024/"><u>[Updated] Discover The Best 9 Mobile Video Conferencing Apps (Android/iPhone) for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-everyones-guide-to-youtube-success-10-straightforward-video-tips/"><u>[Updated] Everyone's Guide to YouTube Success  10 Straightforward Video Tips</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-get-ready-for-a-lighter-device-experience-top-48-apps-to-cut-down-video-size-on-android-for-2024/"><u>[Updated] Get Ready for a Lighter Device Experience  Top 48 Apps to Cut Down Video Size on Android for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-how-to-share-screen-on-google-meet-for-2024/"><u>[Updated] How to Share Screen on Google Meet for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-enhance-your-webcam-recordings-with-mac-tricks/"><u>[Updated] In 2024, Enhance Your Webcam Recordings with Mac Tricks</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-enigmatic-engagements-in-top-escape-venues/"><u>[Updated] In 2024, Enigmatic Engagements in Top Escape Venues</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-ios-selection-showcase-premier-psp-emulators-ranked-1-5/"><u>[Updated] In 2024, IOS Selection Showcase  Premier PSP Emulators Ranked #1-5</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-keeping-secrets-on-screen-tips-for-private-content-reduction/"><u>[Updated] In 2024, Keeping Secrets on Screen  Tips for Private Content Reduction</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-your-mobiles-skin-aesthetics-the-creme-de-la-liste/"><u>[Updated] Mastering Your Mobile's Skin Aesthetics  The Crème De La Liste</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-remote-recording-excellence-best-9-webmicrone-capture-systems-23-for-2024/"><u>[Updated] Remote Recording Excellence  Best 9 Webmicrone Capture Systems ('23) for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-streamlining-video-aesthetics-blur-background-in-microsoft-teams-for-2024/"><u>[Updated] Streamlining Video Aesthetics  Blur Background in Microsoft Teams for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-unparalleled-audio-capture-top-9-online-microphone-systems-in-23-for-2024/"><u>[Updated] Unparalleled Audio Capture  Top 9 Online Microphone Systems in '23 for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-user-friendly-steps-for-storing-google-voice-conversations-for-2024/"><u>[Updated] User-Friendly Steps for Storing Google Voice Conversations for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/free-compilation-the-best-background-tracks-for-movies-and-videos/"><u>Free Compilation The Best Background Tracks for Movies & Videos</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/how-to-embrace-tiktok-as-a-macbook-enthusiast-for-2024/"><u>How to Embrace TikTok as a MacBook Enthusiast for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-y78t-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on Y78t</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-nubia-z50-ultra-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Nubia Z50 Ultra to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-samsung-galaxy-a14-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Samsung Galaxy A14 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-infinix-smart-8-hd-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Infinix Smart 8 HD</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/spotlight-on-10-high-speed-growth-titles-to-inspire-you/"><u>Spotlight on 10 High-Speed Growth Titles to Inspire You</u></a></li>
+</ul></div>

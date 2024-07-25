@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] DIY iPhone Audio Memos  Step by Step\""
-date: 2024-05-20T05:08:52.796Z
-updated: 2024-05-21T05:08:52.796Z
+date: 2024-07-24T02:43:33.038Z
+updated: 2024-07-25T02:43:33.038Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] DIY iPhone Audio Memos: Step by Step\""
 excerpt: "\"This Article Describes [Updated] DIY iPhone Audio Memos: Step by Step\""
 keywords: "\"DIY iPhone Sound Recorder,IPhone Memo Creation Guide,Making Audio Memos on iOS,Simple iPhone Audio Notes,Do It Yourself iPhone Audio,Step-by-Step iPhone Audio Memo,IPhone Audio Memo Tutorial\""
-thumbnail: https://www.lifewire.com/thmb/6UZHTeyuNkJhbDQGbXCRwhK1TEI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1218764238-30613399ad1b4cffab4ab474184b9c88.jpg
+thumbnail: https://thmb.techidaily.com/738343d11636524e97e883ecdfb55ee8c179338e8409002b7334f65b8debc634.jpg
 ---
 
 ## DIY iPhone Audio Memos: Step by Step
@@ -33,6 +33,9 @@ Record screen and webcam as well
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. How To Record with Voice Memo iPhone
 
 First, try to get the best position for your iPhone for quality results. Don't hold the phone in your hand. It will be better to make it stand firmly so that there is no unwanted noise caused due to movements. Place the microphone at the source of the recording. Here are the steps you have to follow to record voice memos, lectures, interviews, voice notes, songs and likewise with Voice Memo app iPhone.
@@ -53,6 +56,9 @@ Step 7: Once you are done recording, you will have to tap Done button. When ther
 
 Note: To listen to a voice memo, you need to launch Voice Memos app. You will see all the recordings and select the preferred voice memo by tapping on it. Then you will have to tap on the Play button to start listening.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![tap on the play button](https://images.wondershare.com/filmora/article-images/tap-on-the-play-button.jpg)
 
 ****How To Trim and Edit A Voice Memo?**
@@ -65,6 +71,241 @@ Step 2: Select the voice memo which you want to trim.
 
 Step 3: Tap on three-dot More button.
 
+![tap on three-dot more button](https://images.wondershare.com/filmora/article-images/tap-on-three-dot-more-button.jpg)
+
+Step 4: Choose Edit Recording option.
+
+Step 5: Tap on the Trim button.
+
+Step 6: By using your finger, you can easily drag the trim sliders from any end according to your trimming requirements.
+
+Step 7: Now, you have to tap on Delete option to remove the section between the trim sliders.
+
+![remove section](https://images.wondershare.com/filmora/article-images/remove-section.jpg)
+
+Step 8: Finally, you will have to tap on Save followed by Done.
+
+****How To Delete or Share Voice Memos?**
+
+There are times when you record voice memo on iPhone and listen to your recording and you hate it. You can delete it instantly and start over again. On the contrary, you may love the recording and want to share with your friends instantly for feedback. Here are the steps to delete any recording.
+
+Step 1: On your iPhone, you will have to launch Voice Memos app.
+
+Step 2: Select the recording that you want to delete on the home screen of the app.
+
+Step 3: Tap on Trash icon to delete the recording.
+
+![delete the recording](https://images.wondershare.com/filmora/article-images/delete-the-recording.jpg)
+
+The deleted recording will be in the Deleted folder for 30 days after deletion. Thereafter, it will disappear permanently. If you want, you can access the deleted audio file back by going to the Recently Deleted option. Tap on the recording that you want to restore and tap on Restore icon.
+
+Here are the steps to share any recording instantly from iPhone voice memo app.
+
+Step 1: Launch the app Voice Memos on your iPhone.
+
+Step 2: You will now have to select the voice memo that you are looking to share.
+
+Step 3: Tap on the three-dot More button.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![again](https://images.wondershare.com/filmora/article-images/again.jpg)
+
+Step 4: Finally, tap on Share option.
+
+Step 5: The app will now allow you to choose the app where you want to share the voice recording.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
+![share](https://images.wondershare.com/filmora/article-images/share.jpg)
+
+## FAQs About Voice Memos app -
+
+Where is the voice memo app on iPhone 7?
+
+If you have an older iPhone or iOS version, you may find it difficult to spot Voice Memos app. You can find Voice Memos app on iPhone 7 by taking the following steps.
+
+* Swipe down and in the search box, type “voice memos”.
+* Voice memos app should appear on the search results instantly. You can also check the folder name where the app is present.
+* For now, tap on Voice Memos icon on the search result to open it immediately.
+
+Why I cannot see Voice Memos app?
+
+If you have the latest iPhone or iOS version, you can access Voice Memos directly from Control Center. However, if you do not see Voice Memos icon, you need to activation Voice Memos first.
+
+Go to Settings and tap on your Apple ID. Go to iCloud option and toggle on Voice Memos option. Now, Voice Memos icon should appear on Control Center for quick access.
+
+How long can voice memos be on iPhone?
+
+There is no limit of recording time when it comes to recording a voice memo or note through Voice Memos app. However, the recording can stop abruptly if there is no more space available on your iPhone.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+## 1\. How To Record with Voice Memo iPhone
+
+First, try to get the best position for your iPhone for quality results. Don't hold the phone in your hand. It will be better to make it stand firmly so that there is no unwanted noise caused due to movements. Place the microphone at the source of the recording. Here are the steps you have to follow to record voice memos, lectures, interviews, voice notes, songs and likewise with Voice Memo app iPhone.
+
+Step 1: Launch Voice Memos on your iPhone.
+
+Step 2: At the bottom of the screen, you will have to tap on the big red circle Record button.
+
+Step 3: Start speaking and the recording is going on in the background. You can check the waves to confirm that your voice is getting recorded.
+
+Step 4: Tap anywhere on the recording pane to see the Pause button in case you want to pause now and resume later.
+
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![voice memo tap to record](https://images.wondershare.com/filmora/article-images/voice-memos.jpg)
+
+Step 6: The app also allows you to go forward or backward by 15 seconds by tapping the Rewind or Forward buttons.
+
+Step 7: Once you are done recording, you will have to tap Done button. When there is no extra panel, you can tap on Stop button.
+
+Note: To listen to a voice memo, you need to launch Voice Memos app. You will see all the recordings and select the preferred voice memo by tapping on it. Then you will have to tap on the Play button to start listening.
+
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![tap on the play button](https://images.wondershare.com/filmora/article-images/tap-on-the-play-button.jpg)
+
+****How To Trim and Edit A Voice Memo?**
+
+There are times when there could be some areas in your recording where you have made some mistakes or recorded something unnecessary. You need to trim your recording to eliminate such unnecessary parts easily. Here are the steps to trim your recorded voice memo.
+
+Step 1: Launch iPhone voice memo app.
+
+Step 2: Select the voice memo which you want to trim.
+
+Step 3: Tap on three-dot More button.
+
+![tap on three-dot more button](https://images.wondershare.com/filmora/article-images/tap-on-three-dot-more-button.jpg)
+
+Step 4: Choose Edit Recording option.
+
+Step 5: Tap on the Trim button.
+
+Step 6: By using your finger, you can easily drag the trim sliders from any end according to your trimming requirements.
+
+Step 7: Now, you have to tap on Delete option to remove the section between the trim sliders.
+
+![remove section](https://images.wondershare.com/filmora/article-images/remove-section.jpg)
+
+Step 8: Finally, you will have to tap on Save followed by Done.
+
+****How To Delete or Share Voice Memos?**
+
+There are times when you record voice memo on iPhone and listen to your recording and you hate it. You can delete it instantly and start over again. On the contrary, you may love the recording and want to share with your friends instantly for feedback. Here are the steps to delete any recording.
+
+Step 1: On your iPhone, you will have to launch Voice Memos app.
+
+Step 2: Select the recording that you want to delete on the home screen of the app.
+
+Step 3: Tap on Trash icon to delete the recording.
+
+![delete the recording](https://images.wondershare.com/filmora/article-images/delete-the-recording.jpg)
+
+The deleted recording will be in the Deleted folder for 30 days after deletion. Thereafter, it will disappear permanently. If you want, you can access the deleted audio file back by going to the Recently Deleted option. Tap on the recording that you want to restore and tap on Restore icon.
+
+Here are the steps to share any recording instantly from iPhone voice memo app.
+
+Step 1: Launch the app Voice Memos on your iPhone.
+
+Step 2: You will now have to select the voice memo that you are looking to share.
+
+Step 3: Tap on the three-dot More button.
+
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
+![again](https://images.wondershare.com/filmora/article-images/again.jpg)
+
+Step 4: Finally, tap on Share option.
+
+Step 5: The app will now allow you to choose the app where you want to share the voice recording.
+
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![share](https://images.wondershare.com/filmora/article-images/share.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
+## FAQs About Voice Memos app -
+
+Where is the voice memo app on iPhone 7?
+
+If you have an older iPhone or iOS version, you may find it difficult to spot Voice Memos app. You can find Voice Memos app on iPhone 7 by taking the following steps.
+
+* Swipe down and in the search box, type “voice memos”.
+* Voice memos app should appear on the search results instantly. You can also check the folder name where the app is present.
+* For now, tap on Voice Memos icon on the search result to open it immediately.
+
+Why I cannot see Voice Memos app?
+
+If you have the latest iPhone or iOS version, you can access Voice Memos directly from Control Center. However, if you do not see Voice Memos icon, you need to activation Voice Memos first.
+
+Go to Settings and tap on your Apple ID. Go to iCloud option and toggle on Voice Memos option. Now, Voice Memos icon should appear on Control Center for quick access.
+
+How long can voice memos be on iPhone?
+
+There is no limit of recording time when it comes to recording a voice memo or note through Voice Memos app. However, the recording can stop abruptly if there is no more space available on your iPhone.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
+## 1\. How To Record with Voice Memo iPhone
+
+First, try to get the best position for your iPhone for quality results. Don't hold the phone in your hand. It will be better to make it stand firmly so that there is no unwanted noise caused due to movements. Place the microphone at the source of the recording. Here are the steps you have to follow to record voice memos, lectures, interviews, voice notes, songs and likewise with Voice Memo app iPhone.
+
+Step 1: Launch Voice Memos on your iPhone.
+
+Step 2: At the bottom of the screen, you will have to tap on the big red circle Record button.
+
+Step 3: Start speaking and the recording is going on in the background. You can check the waves to confirm that your voice is getting recorded.
+
+Step 4: Tap anywhere on the recording pane to see the Pause button in case you want to pause now and resume later.
+
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
+![voice memo tap to record](https://images.wondershare.com/filmora/article-images/voice-memos.jpg)
+
+Step 6: The app also allows you to go forward or backward by 15 seconds by tapping the Rewind or Forward buttons.
+
+Step 7: Once you are done recording, you will have to tap Done button. When there is no extra panel, you can tap on Stop button.
+
+Note: To listen to a voice memo, you need to launch Voice Memos app. You will see all the recordings and select the preferred voice memo by tapping on it. Then you will have to tap on the Play button to start listening.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
+![tap on the play button](https://images.wondershare.com/filmora/article-images/tap-on-the-play-button.jpg)
+
+****How To Trim and Edit A Voice Memo?**
+
+There are times when there could be some areas in your recording where you have made some mistakes or recorded something unnecessary. You need to trim your recording to eliminate such unnecessary parts easily. Here are the steps to trim your recorded voice memo.
+
+Step 1: Launch iPhone voice memo app.
+
+Step 2: Select the voice memo which you want to trim.
+
+Step 3: Tap on three-dot More button.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ![tap on three-dot more button](https://images.wondershare.com/filmora/article-images/tap-on-three-dot-more-button.jpg)
 
 Step 4: Choose Edit Recording option.
@@ -131,6 +372,9 @@ There is no limit of recording time when it comes to recording a voice memo or n
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ## 1\. How To Record with Voice Memo iPhone
 
 First, try to get the best position for your iPhone for quality results. Don't hold the phone in your hand. It will be better to make it stand firmly so that there is no unwanted noise caused due to movements. Place the microphone at the source of the recording. Here are the steps you have to follow to record voice memos, lectures, interviews, voice notes, songs and likewise with Voice Memo app iPhone.
@@ -173,6 +417,9 @@ Step 6: By using your finger, you can easily drag the trim sliders from any end 
 
 Step 7: Now, you have to tap on Delete option to remove the section between the trim sliders.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![remove section](https://images.wondershare.com/filmora/article-images/remove-section.jpg)
 
 Step 8: Finally, you will have to tap on Save followed by Done.
@@ -199,6 +446,9 @@ Step 2: You will now have to select the voice memo that you are looking to share
 
 Step 3: Tap on the three-dot More button.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![again](https://images.wondershare.com/filmora/article-images/again.jpg)
 
 Step 4: Finally, tap on Share option.
@@ -207,202 +457,9 @@ Step 5: The app will now allow you to choose the app where you want to share the
 
 ![share](https://images.wondershare.com/filmora/article-images/share.jpg)
 
-## FAQs About Voice Memos app -
-
-Where is the voice memo app on iPhone 7?
-
-If you have an older iPhone or iOS version, you may find it difficult to spot Voice Memos app. You can find Voice Memos app on iPhone 7 by taking the following steps.
-
-* Swipe down and in the search box, type “voice memos”.
-* Voice memos app should appear on the search results instantly. You can also check the folder name where the app is present.
-* For now, tap on Voice Memos icon on the search result to open it immediately.
-
-Why I cannot see Voice Memos app?
-
-If you have the latest iPhone or iOS version, you can access Voice Memos directly from Control Center. However, if you do not see Voice Memos icon, you need to activation Voice Memos first.
-
-Go to Settings and tap on your Apple ID. Go to iCloud option and toggle on Voice Memos option. Now, Voice Memos icon should appear on Control Center for quick access.
-
-How long can voice memos be on iPhone?
-
-There is no limit of recording time when it comes to recording a voice memo or note through Voice Memos app. However, the recording can stop abruptly if there is no more space available on your iPhone.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-## 1\. How To Record with Voice Memo iPhone
-
-First, try to get the best position for your iPhone for quality results. Don't hold the phone in your hand. It will be better to make it stand firmly so that there is no unwanted noise caused due to movements. Place the microphone at the source of the recording. Here are the steps you have to follow to record voice memos, lectures, interviews, voice notes, songs and likewise with Voice Memo app iPhone.
-
-Step 1: Launch Voice Memos on your iPhone.
-
-Step 2: At the bottom of the screen, you will have to tap on the big red circle Record button.
-
-Step 3: Start speaking and the recording is going on in the background. You can check the waves to confirm that your voice is getting recorded.
-
-Step 4: Tap anywhere on the recording pane to see the Pause button in case you want to pause now and resume later.
-
-![voice memo tap to record](https://images.wondershare.com/filmora/article-images/voice-memos.jpg)
-
-Step 6: The app also allows you to go forward or backward by 15 seconds by tapping the Rewind or Forward buttons.
-
-Step 7: Once you are done recording, you will have to tap Done button. When there is no extra panel, you can tap on Stop button.
-
-Note: To listen to a voice memo, you need to launch Voice Memos app. You will see all the recordings and select the preferred voice memo by tapping on it. Then you will have to tap on the Play button to start listening.
-
-![tap on the play button](https://images.wondershare.com/filmora/article-images/tap-on-the-play-button.jpg)
-
-****How To Trim and Edit A Voice Memo?**
-
-There are times when there could be some areas in your recording where you have made some mistakes or recorded something unnecessary. You need to trim your recording to eliminate such unnecessary parts easily. Here are the steps to trim your recorded voice memo.
-
-Step 1: Launch iPhone voice memo app.
-
-Step 2: Select the voice memo which you want to trim.
-
-Step 3: Tap on three-dot More button.
-
-![tap on three-dot more button](https://images.wondershare.com/filmora/article-images/tap-on-three-dot-more-button.jpg)
-
-Step 4: Choose Edit Recording option.
-
-Step 5: Tap on the Trim button.
-
-Step 6: By using your finger, you can easily drag the trim sliders from any end according to your trimming requirements.
-
-Step 7: Now, you have to tap on Delete option to remove the section between the trim sliders.
-
-![remove section](https://images.wondershare.com/filmora/article-images/remove-section.jpg)
-
-Step 8: Finally, you will have to tap on Save followed by Done.
-
-****How To Delete or Share Voice Memos?**
-
-There are times when you record voice memo on iPhone and listen to your recording and you hate it. You can delete it instantly and start over again. On the contrary, you may love the recording and want to share with your friends instantly for feedback. Here are the steps to delete any recording.
-
-Step 1: On your iPhone, you will have to launch Voice Memos app.
-
-Step 2: Select the recording that you want to delete on the home screen of the app.
-
-Step 3: Tap on Trash icon to delete the recording.
-
-![delete the recording](https://images.wondershare.com/filmora/article-images/delete-the-recording.jpg)
-
-The deleted recording will be in the Deleted folder for 30 days after deletion. Thereafter, it will disappear permanently. If you want, you can access the deleted audio file back by going to the Recently Deleted option. Tap on the recording that you want to restore and tap on Restore icon.
-
-Here are the steps to share any recording instantly from iPhone voice memo app.
-
-Step 1: Launch the app Voice Memos on your iPhone.
-
-Step 2: You will now have to select the voice memo that you are looking to share.
-
-Step 3: Tap on the three-dot More button.
-
-![again](https://images.wondershare.com/filmora/article-images/again.jpg)
-
-Step 4: Finally, tap on Share option.
-
-Step 5: The app will now allow you to choose the app where you want to share the voice recording.
-
-![share](https://images.wondershare.com/filmora/article-images/share.jpg)
-
-## FAQs About Voice Memos app -
-
-Where is the voice memo app on iPhone 7?
-
-If you have an older iPhone or iOS version, you may find it difficult to spot Voice Memos app. You can find Voice Memos app on iPhone 7 by taking the following steps.
-
-* Swipe down and in the search box, type “voice memos”.
-* Voice memos app should appear on the search results instantly. You can also check the folder name where the app is present.
-* For now, tap on Voice Memos icon on the search result to open it immediately.
-
-Why I cannot see Voice Memos app?
-
-If you have the latest iPhone or iOS version, you can access Voice Memos directly from Control Center. However, if you do not see Voice Memos icon, you need to activation Voice Memos first.
-
-Go to Settings and tap on your Apple ID. Go to iCloud option and toggle on Voice Memos option. Now, Voice Memos icon should appear on Control Center for quick access.
-
-How long can voice memos be on iPhone?
-
-There is no limit of recording time when it comes to recording a voice memo or note through Voice Memos app. However, the recording can stop abruptly if there is no more space available on your iPhone.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-## 1\. How To Record with Voice Memo iPhone
-
-First, try to get the best position for your iPhone for quality results. Don't hold the phone in your hand. It will be better to make it stand firmly so that there is no unwanted noise caused due to movements. Place the microphone at the source of the recording. Here are the steps you have to follow to record voice memos, lectures, interviews, voice notes, songs and likewise with Voice Memo app iPhone.
-
-Step 1: Launch Voice Memos on your iPhone.
-
-Step 2: At the bottom of the screen, you will have to tap on the big red circle Record button.
-
-Step 3: Start speaking and the recording is going on in the background. You can check the waves to confirm that your voice is getting recorded.
-
-Step 4: Tap anywhere on the recording pane to see the Pause button in case you want to pause now and resume later.
-
-![voice memo tap to record](https://images.wondershare.com/filmora/article-images/voice-memos.jpg)
-
-Step 6: The app also allows you to go forward or backward by 15 seconds by tapping the Rewind or Forward buttons.
-
-Step 7: Once you are done recording, you will have to tap Done button. When there is no extra panel, you can tap on Stop button.
-
-Note: To listen to a voice memo, you need to launch Voice Memos app. You will see all the recordings and select the preferred voice memo by tapping on it. Then you will have to tap on the Play button to start listening.
-
-![tap on the play button](https://images.wondershare.com/filmora/article-images/tap-on-the-play-button.jpg)
-
-****How To Trim and Edit A Voice Memo?**
-
-There are times when there could be some areas in your recording where you have made some mistakes or recorded something unnecessary. You need to trim your recording to eliminate such unnecessary parts easily. Here are the steps to trim your recorded voice memo.
-
-Step 1: Launch iPhone voice memo app.
-
-Step 2: Select the voice memo which you want to trim.
-
-Step 3: Tap on three-dot More button.
-
-![tap on three-dot more button](https://images.wondershare.com/filmora/article-images/tap-on-three-dot-more-button.jpg)
-
-Step 4: Choose Edit Recording option.
-
-Step 5: Tap on the Trim button.
-
-Step 6: By using your finger, you can easily drag the trim sliders from any end according to your trimming requirements.
-
-Step 7: Now, you have to tap on Delete option to remove the section between the trim sliders.
-
-![remove section](https://images.wondershare.com/filmora/article-images/remove-section.jpg)
-
-Step 8: Finally, you will have to tap on Save followed by Done.
-
-****How To Delete or Share Voice Memos?**
-
-There are times when you record voice memo on iPhone and listen to your recording and you hate it. You can delete it instantly and start over again. On the contrary, you may love the recording and want to share with your friends instantly for feedback. Here are the steps to delete any recording.
-
-Step 1: On your iPhone, you will have to launch Voice Memos app.
-
-Step 2: Select the recording that you want to delete on the home screen of the app.
-
-Step 3: Tap on Trash icon to delete the recording.
-
-![delete the recording](https://images.wondershare.com/filmora/article-images/delete-the-recording.jpg)
-
-The deleted recording will be in the Deleted folder for 30 days after deletion. Thereafter, it will disappear permanently. If you want, you can access the deleted audio file back by going to the Recently Deleted option. Tap on the recording that you want to restore and tap on Restore icon.
-
-Here are the steps to share any recording instantly from iPhone voice memo app.
-
-Step 1: Launch the app Voice Memos on your iPhone.
-
-Step 2: You will now have to select the voice memo that you are looking to share.
-
-Step 3: Tap on the three-dot More button.
-
-![again](https://images.wondershare.com/filmora/article-images/again.jpg)
-
-Step 4: Finally, tap on Share option.
-
-Step 5: The app will now allow you to choose the app where you want to share the voice recording.
-
-![share](https://images.wondershare.com/filmora/article-images/share.jpg)
-
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## FAQs About Voice Memos app -
 
 Where is the voice memo app on iPhone 7?
@@ -448,3 +505,56 @@ There is no limit of recording time when it comes to recording a voice memo or n
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-navigating-the-world-of-social-commerce-on-tiktok/"><u>[New] 2024 Approved  Navigating the World of Social Commerce on TikTok</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-the-essential-tech-for-personal-tv-broadcasting-pcs/"><u>[New] 2024 Approved  The Essential Tech for Personal TV Broadcasting PCs</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-apeaks-leap-forward-in-screen-capture-review-and-results/"><u>[New] Apeak’s Leap Forward in Screen Capture – Review and Results</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-diverse-iptv-platforms-integration/"><u>[New] Diverse IPTV Platforms Integration</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-get-it-right-three-pro-tips-for-lol-gameplay-captures/"><u>[New] Get It Right  Three Pro Tips for LOL Gameplay Captures</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-harmony-through-play-our-best-10-gems-for-2024/"><u>[New] Harmony Through Play  Our Best 10 Gems for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-15-best-tools-to-capture-classroom-learning-moments/"><u>[New] In 2024, 15 Best Tools to Capture Classroom Learning Moments</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-from-novice-to-geometric-master-crafting-perfect-circular-and-spherical-objects/"><u>[New] In 2024, From Novice to Geometric Master  Crafting Perfect Circular & Spherical Objects</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-quick-shot-guide-for-chromebook-users/"><u>[New] In 2024, Quick Shot Guide for Chromebook Users</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-the-ultimate-key-to-capturing-and-preserving-your-favorite-streamed-shows/"><u>[New] In 2024, The Ultimate Key to Capturing and Preserving Your Favorite Streamed Shows</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-masterful-insights-the-top-6-video-snaggers-on-mac-for-2024/"><u>[New] Masterful Insights  The Top 6 Video Snaggers on Mac for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-mastering-the-art-of-screensaver-recording-with-mobizen-technology-for-2024/"><u>[New] Mastering the Art of Screensaver Recording with Mobizen Technology for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-perfect-practices-in-livestreaming-athletic-competitions/"><u>[New] Perfect Practices in Livestreaming Athletic Competitions</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-step-by-step-how-to-conduct-real-time-calls-via-whatsapp-on-pc/"><u>[New] Step by Step  How to Conduct Real-Time Calls via WhatsApp on PC</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-mastering-google-meeting-documentation-a-time-saving-guide/"><u>[Updated] 2024 Approved  Mastering Google Meeting Documentation  A Time-Saving Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-nolimitcapture-professional-win11-screen-recorders/"><u>[Updated] 2024 Approved  NoLimitCapture - Professional Win11 Screen Recorders</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-pixelhunter-advanced-screen-grabber/"><u>[Updated] 2024 Approved  PixelHunter Advanced Screen Grabber</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-plain-screen-recorder-windows-10-edition/"><u>[Updated] 2024 Approved  Plain Screen Recorder - Windows 10 Edition</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-unfreezing-frozen-obs-stream-input/"><u>[Updated] 2024 Approved  Unfreezing Frozen OBS Stream Input</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-green-thumbs-united-top-10-farm-titles-for-friendly-playtime/"><u>[Updated] Green Thumbs United  Top 10 Farm Titles for Friendly Playtime</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-simplified-methods-for-google-meet-recordings/"><u>[Updated] In 2024, Simplified Methods for Google Meet Recordings</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-is-itop-a-must-have-screencast-tool-in-2024/"><u>[Updated] Is ITop a Must-Have Screencast Tool, In 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-navigating-zoom-setup-for-virtual-gatherings-for-2024/"><u>[Updated] Navigating Zoom Setup for Virtual Gatherings for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-selecting-the-ideal-imagery-for-remote-meetings/"><u>[Updated] Selecting the Ideal Imagery for Remote Meetings</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-techniques-for-easy-video-recording-on-youtube/"><u>[Updated] Techniques for Easy Video Recording on YouTube</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-top-tier-camera-setups-reviewed-for-new-windows-11-users-for-2024/"><u>[Updated] Top-Tier Camera Setups Reviewed for New Windows 11 Users for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-ultimate-screen-snapper-unlocking-zd-softwares-potential-for-2024/"><u>[Updated] Ultimate Screen Snapper  Unlocking ZD Software's Potential for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-ultimate-selection-top-ubuntu-capture-software-for-2024/"><u>[Updated] Ultimate Selection  Top Ubuntu Capture Software for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-convenient-ways-to-screen-cast-lenovo-laptops/"><u>2024 Approved  Convenient Ways to Screen Cast Lenovo Laptops</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-cost-free-chromebook-video-capturing-leaders/"><u>2024 Approved  Cost-Free Chromebook Video Capturing Leaders</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-elevate-visual-narratives-on-tiktok-the-top-5-proven-text-techniques/"><u>2024 Approved  Elevate Visual Narratives on TikTok  The Top 5 Proven Text Techniques</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-elevate-your-lol-gameplay-on-camera-three-methods/"><u>2024 Approved  Elevate Your LOL Gameplay on Camera - Three Methods</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-pixelpilot-w11-lightweight-screenshot-and-recording-app/"><u>2024 Approved  PixelPilot W11  Lightweight Screenshot & Recording App</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/animated-logo-magic-11-free-tools-and-pro-design-tips-for-2024/"><u>Animated Logo Magic 11 Free Tools and Pro Design Tips for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/best-gaming-capture-tools-top-pc-and-mac-choices/"><u>Best Gaming Capture Tools  Top Pc & Mac Choices</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-realme-gt-3-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-best-windows-10-screen-capture-software/"><u>In 2024, Best Windows 10 Screen Capture Software</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-budget-friendly-pc-screen-capture-software/"><u>In 2024, Budget-Friendly PC Screen Capture Software</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-eliminating-noise-fixing-silent-sounds-in-obs-streams/"><u>In 2024, Eliminating Noise  Fixing Silent Sounds in OBS Streams</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-excellence-in-camera-technology-top-15/"><u>In 2024, Excellence in Camera Technology – Top 15</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-expert-tips-for-captivate-based-demos/"><u>In 2024, Expert Tips for Captivate-Based Demos</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-ppt-presentations-merging-audio-and-imagery-fluently/"><u>In 2024, PPT Presentations  Merging Audio & Imagery Fluently</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-the-guide-to-capturing-web-radio-frequencies-flawlessly/"><u>In 2024, The Guide to Capturing Web Radio Frequencies Flawlessly</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/mastering-ppt-presentation-in-google-meet-mobile-and-laptop-for-2024/"><u>Mastering PPT Presentation in Google Meet (Mobile & Laptop) for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/play-store-stuck-on-downloading-of-samsung-galaxy-f34-5g-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Samsung Galaxy F34 5G? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/popcorn-projections-thorough-review-of-film-snack-recorder-for-2024/"><u>Popcorn Projections  Thorough Review of Film Snack Recorder for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/prime-8-android-apps-for-multi-person-video-conferencing-for-2024/"><u>Prime 8 Android Apps for Multi-Person Video Conferencing for 2024</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-xiaomi-redmi-12-5g-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Xiaomi Redmi 12 5G</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/the-timeless-tale-of-roguelike-and-roguelite/"><u>The Timeless Tale of Roguelike and Roguelite</u></a></li>
+</ul></div>

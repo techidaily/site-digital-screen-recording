@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Unmatched Video Capture  Selecting the Best PC & Mac Recorder for 2024\""
-date: 2024-05-20T05:09:28.649Z
-updated: 2024-05-21T05:09:28.649Z
+date: 2024-07-24T03:58:33.543Z
+updated: 2024-07-25T03:58:33.543Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Unmatched Video Capture: Selecting the Best PC & Mac Recorder for 2024\""
 excerpt: "\"This Article Describes [New] Unmatched Video Capture: Selecting the Best PC & Mac Recorder for 2024\""
 keywords: "\"PC Recorder Guide,Pro PC Recorders,Top Mac Videographer,Choose Best PC Cam,Ultimate Mac Recording,Optimal PC Videocapture,Max-Performance PC Camera\""
-thumbnail: https://www.lifewire.com/thmb/FN7XGTj25e9fUSdywINjYYIsMCI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-545864051-5c29cf6346e0fb0001d25712.jpg
+thumbnail: https://thmb.techidaily.com/92d4d3774b8fd498c6cfb488cbb5cb9a7cceb0aea3bc2d6cdbbe36e4703b4b56.jpg
 ---
 
 ## Unmatched Video Capture: Selecting the Best PC & Mac Recorder
@@ -37,6 +37,9 @@ For macOS 10.12 or later
 
 Step 1: Download and install Wondershare Filmora for Windows or Mac as per your operating system. Launch Filmora and click on PC Screen option to record your screen.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
 Step 2: Choose the recording screen area as full screen and select the audio sources as required. You can record system audio as well as audio from external mic. If you want to record your webcam video along with your full screen, enable “Record Camera Stream” option.
@@ -57,10 +60,16 @@ Step 1: Press Windows + G keys to open Game Bar on your Windows PC.
 
 Step 2: Get ready with the screen that you want to record. To start recording, click on the Record button on the Capture toolbar. You can press Windows + Alt + R keys to start recording as well when you are on a full screen.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![windows game bar](https://images.wondershare.com/filmora/article-images/windows-game-bar.jpg)
 
 Step 3: To stop recording, press Windows + Alt + R keys again. You will find the recorded video under Widgets > Gallery section.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ## OBS
 
 OBS Studio is an extremely popular full screen recorder Mac and Windows. It is an open-source software and it is completely free to use. You can record your screen as well as capture video from any external video device. You can also record audio from different sources. In fact, OBS Studio is equally popular for live streaming full screen video on online platforms. The user interface is slightly complicated and hence, you should follow the steps minutely.
@@ -69,6 +78,9 @@ Step 1: Go for OBS full screen recorder download as per your operating system. I
 
 Step 2: Under Sources, click on “+” icon. Select Display Capture option.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![obs launch display cature](https://images.wondershare.com/filmora/article-images/obs-launch-display-cature.jpg)
 
 Step 3: You have to name your full screen capture session and click on Ok button.
@@ -81,6 +93,215 @@ Step 4: You must see your screen on the OBS window now. Prepare your screen that
 
 Step 5: To stop recording, come back to OBS Studio and click on Stop Recording.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Bandicam
+
+Bandicam is another versatile screen recorder that can also record webcam video. It is a premium software and you have to pay one-time fee to purchase the premium version. You can try out the free version beforehand to judge the software. You can record your screen up to 4K resolution depending on your screen resolution. The output file formats are MP4 and AVI. Bandicam currently supports only Windows PC. Here are the steps to record your full screen with Bandicam.
+
+Step 1: Download and install Bandicam and launch it on your computer.
+
+Step 2: Click on Monitor icon at the top-left corner and go to Fullscreen option and select your monitor.
+
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![bandicam monitor icon select](https://images.wondershare.com/filmora/article-images/bandicam-monitor-icon-select.jpg)
+
+Step 3: Go to Video tab from the left menu and select the options as per need.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![bandicam video tab](https://images.wondershare.com/filmora/article-images/bandicam-video-tab.jpg)
+
+Step 4: When you are ready with your screen, click on Rec button at the top-right corner.
+
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![bandicam press f12](https://images.wondershare.com/filmora/article-images/bandicam-press-f12.jpg)
+
+Step 5: To stop recording, press F12 key. Go to Home> Videos to check the recorded video.
+
+![bandicam home videos](https://images.wondershare.com/filmora/article-images/bandicam-home-videos.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Conclusion
+
+In order to record the full screen of your computer, you will need a screen recorder that can capture the entire screen. If you are a Windows user, you can use Game Bar without installing any external recorder. OBS Studio is a free screen recorder to capture full screen on your Windows PC and Mac. But the best full screen recorder for Windows and Mac users is Wondershare Filmora where you can customize all recording parameters and edit your video like a pro.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+Step 1: Download and install Wondershare Filmora for Windows or Mac as per your operating system. Launch Filmora and click on PC Screen option to record your screen.
+
+![record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
+
+Step 2: Choose the recording screen area as full screen and select the audio sources as required. You can record system audio as well as audio from external mic. If you want to record your webcam video along with your full screen, enable “Record Camera Stream” option.
+
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![recording settings](https://images.wondershare.com/filmora/guide/recording-04.png)
+
+Step 3: Click on Record button on Filmora to start recording. Press F9 key to stop recording. You can edit the video and click on Export button to save the video in the desired file format.
+
+## 2\. Other Popular Full Screen Recorders
+
+Apart from Filmora, here are the other popular full screen recorders along with the steps to record your full screen.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
+## Windows Game Bar
+
+Game Bar is the inbuilt full screen recorder Windows 10 and 11\. There is no need to install any external screen recorder for Windows users. You can even capture screenshots with the tool. In fact, it is tailor0-made to capture full screen gameplay as it comes with the feature of recording the last 30 seconds for instant replay videos. You can record mic audio along with system audio. Here are the steps to record the record full screen windows 11 and 10 with Game Bar.
+
+Step 1: Press Windows + G keys to open Game Bar on your Windows PC.
+
+Step 2: Get ready with the screen that you want to record. To start recording, click on the Record button on the Capture toolbar. You can press Windows + Alt + R keys to start recording as well when you are on a full screen.
+
+![windows game bar](https://images.wondershare.com/filmora/article-images/windows-game-bar.jpg)
+
+Step 3: To stop recording, press Windows + Alt + R keys again. You will find the recorded video under Widgets > Gallery section.
+
+## OBS
+
+OBS Studio is an extremely popular full screen recorder Mac and Windows. It is an open-source software and it is completely free to use. You can record your screen as well as capture video from any external video device. You can also record audio from different sources. In fact, OBS Studio is equally popular for live streaming full screen video on online platforms. The user interface is slightly complicated and hence, you should follow the steps minutely.
+
+Step 1: Go for OBS full screen recorder download as per your operating system. Install and launch the software.
+
+Step 2: Under Sources, click on “+” icon. Select Display Capture option.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
+![obs launch display cature](https://images.wondershare.com/filmora/article-images/obs-launch-display-cature.jpg)
+
+Step 3: You have to name your full screen capture session and click on Ok button.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
+![obs click on ok button](https://images.wondershare.com/filmora/article-images/obs-click-on-ok-button.jpg)
+
+Step 4: You must see your screen on the OBS window now. Prepare your screen that you want to record. Click on Start Recording button under Controls tab to start recording.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![obs click on start recording button](https://images.wondershare.com/filmora/article-images/obs-click-on-start-recording-button.jpg)
+
+Step 5: To stop recording, come back to OBS Studio and click on Stop Recording.
+
+## Bandicam
+
+Bandicam is another versatile screen recorder that can also record webcam video. It is a premium software and you have to pay one-time fee to purchase the premium version. You can try out the free version beforehand to judge the software. You can record your screen up to 4K resolution depending on your screen resolution. The output file formats are MP4 and AVI. Bandicam currently supports only Windows PC. Here are the steps to record your full screen with Bandicam.
+
+Step 1: Download and install Bandicam and launch it on your computer.
+
+Step 2: Click on Monitor icon at the top-left corner and go to Fullscreen option and select your monitor.
+
+![bandicam monitor icon select](https://images.wondershare.com/filmora/article-images/bandicam-monitor-icon-select.jpg)
+
+Step 3: Go to Video tab from the left menu and select the options as per need.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![bandicam video tab](https://images.wondershare.com/filmora/article-images/bandicam-video-tab.jpg)
+
+Step 4: When you are ready with your screen, click on Rec button at the top-right corner.
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![bandicam press f12](https://images.wondershare.com/filmora/article-images/bandicam-press-f12.jpg)
+
+Step 5: To stop recording, press F12 key. Go to Home> Videos to check the recorded video.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
+![bandicam home videos](https://images.wondershare.com/filmora/article-images/bandicam-home-videos.jpg)
+
+## Conclusion
+
+In order to record the full screen of your computer, you will need a screen recorder that can capture the entire screen. If you are a Windows user, you can use Game Bar without installing any external recorder. OBS Studio is a free screen recorder to capture full screen on your Windows PC and Mac. But the best full screen recorder for Windows and Mac users is Wondershare Filmora where you can customize all recording parameters and edit your video like a pro.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+Step 1: Download and install Wondershare Filmora for Windows or Mac as per your operating system. Launch Filmora and click on PC Screen option to record your screen.
+
+![record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
+
+Step 2: Choose the recording screen area as full screen and select the audio sources as required. You can record system audio as well as audio from external mic. If you want to record your webcam video along with your full screen, enable “Record Camera Stream” option.
+
+![recording settings](https://images.wondershare.com/filmora/guide/recording-04.png)
+
+Step 3: Click on Record button on Filmora to start recording. Press F9 key to stop recording. You can edit the video and click on Export button to save the video in the desired file format.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## 2\. Other Popular Full Screen Recorders
+
+Apart from Filmora, here are the other popular full screen recorders along with the steps to record your full screen.
+
+## Windows Game Bar
+
+Game Bar is the inbuilt full screen recorder Windows 10 and 11\. There is no need to install any external screen recorder for Windows users. You can even capture screenshots with the tool. In fact, it is tailor0-made to capture full screen gameplay as it comes with the feature of recording the last 30 seconds for instant replay videos. You can record mic audio along with system audio. Here are the steps to record the record full screen windows 11 and 10 with Game Bar.
+
+Step 1: Press Windows + G keys to open Game Bar on your Windows PC.
+
+Step 2: Get ready with the screen that you want to record. To start recording, click on the Record button on the Capture toolbar. You can press Windows + Alt + R keys to start recording as well when you are on a full screen.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
+![windows game bar](https://images.wondershare.com/filmora/article-images/windows-game-bar.jpg)
+
+Step 3: To stop recording, press Windows + Alt + R keys again. You will find the recorded video under Widgets > Gallery section.
+
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## OBS
+
+OBS Studio is an extremely popular full screen recorder Mac and Windows. It is an open-source software and it is completely free to use. You can record your screen as well as capture video from any external video device. You can also record audio from different sources. In fact, OBS Studio is equally popular for live streaming full screen video on online platforms. The user interface is slightly complicated and hence, you should follow the steps minutely.
+
+Step 1: Go for OBS full screen recorder download as per your operating system. Install and launch the software.
+
+Step 2: Under Sources, click on “+” icon. Select Display Capture option.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
+![obs launch display cature](https://images.wondershare.com/filmora/article-images/obs-launch-display-cature.jpg)
+
+Step 3: You have to name your full screen capture session and click on Ok button.
+
+![obs click on ok button](https://images.wondershare.com/filmora/article-images/obs-click-on-ok-button.jpg)
+
+Step 4: You must see your screen on the OBS window now. Prepare your screen that you want to record. Click on Start Recording button under Controls tab to start recording.
+
+![obs click on start recording button](https://images.wondershare.com/filmora/article-images/obs-click-on-start-recording-button.jpg)
+
+Step 5: To stop recording, come back to OBS Studio and click on Stop Recording.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Bandicam
 
 Bandicam is another versatile screen recorder that can also record webcam video. It is a premium software and you have to pay one-time fee to purchase the premium version. You can try out the free version beforehand to judge the software. You can record your screen up to 4K resolution depending on your screen resolution. The output file formats are MP4 and AVI. Bandicam currently supports only Windows PC. Here are the steps to record your full screen with Bandicam.
@@ -113,6 +334,9 @@ For macOS 10.12 or later
 
 Step 1: Download and install Wondershare Filmora for Windows or Mac as per your operating system. Launch Filmora and click on PC Screen option to record your screen.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
 Step 2: Choose the recording screen area as full screen and select the audio sources as required. You can record system audio as well as audio from external mic. If you want to record your webcam video along with your full screen, enable “Record Camera Stream” option.
@@ -133,6 +357,9 @@ Step 1: Press Windows + G keys to open Game Bar on your Windows PC.
 
 Step 2: Get ready with the screen that you want to record. To start recording, click on the Record button on the Capture toolbar. You can press Windows + Alt + R keys to start recording as well when you are on a full screen.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![windows game bar](https://images.wondershare.com/filmora/article-images/windows-game-bar.jpg)
 
 Step 3: To stop recording, press Windows + Alt + R keys again. You will find the recorded video under Widgets > Gallery section.
@@ -149,10 +376,16 @@ Step 2: Under Sources, click on “+” icon. Select Display Capture option.
 
 Step 3: You have to name your full screen capture session and click on Ok button.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![obs click on ok button](https://images.wondershare.com/filmora/article-images/obs-click-on-ok-button.jpg)
 
 Step 4: You must see your screen on the OBS window now. Prepare your screen that you want to record. Click on Start Recording button under Controls tab to start recording.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ![obs click on start recording button](https://images.wondershare.com/filmora/article-images/obs-click-on-start-recording-button.jpg)
 
 Step 5: To stop recording, come back to OBS Studio and click on Stop Recording.
@@ -169,6 +402,9 @@ Step 2: Click on Monitor icon at the top-left corner and go to Fullscreen option
 
 Step 3: Go to Video tab from the left menu and select the options as per need.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![bandicam video tab](https://images.wondershare.com/filmora/article-images/bandicam-video-tab.jpg)
 
 Step 4: When you are ready with your screen, click on Rec button at the top-right corner.
@@ -177,158 +413,9 @@ Step 4: When you are ready with your screen, click on Rec button at the top-righ
 
 Step 5: To stop recording, press F12 key. Go to Home> Videos to check the recorded video.
 
-![bandicam home videos](https://images.wondershare.com/filmora/article-images/bandicam-home-videos.jpg)
-
-## Conclusion
-
-In order to record the full screen of your computer, you will need a screen recorder that can capture the entire screen. If you are a Windows user, you can use Game Bar without installing any external recorder. OBS Studio is a free screen recorder to capture full screen on your Windows PC and Mac. But the best full screen recorder for Windows and Mac users is Wondershare Filmora where you can customize all recording parameters and edit your video like a pro.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-Step 1: Download and install Wondershare Filmora for Windows or Mac as per your operating system. Launch Filmora and click on PC Screen option to record your screen.
-
-![record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
-
-Step 2: Choose the recording screen area as full screen and select the audio sources as required. You can record system audio as well as audio from external mic. If you want to record your webcam video along with your full screen, enable “Record Camera Stream” option.
-
-![recording settings](https://images.wondershare.com/filmora/guide/recording-04.png)
-
-Step 3: Click on Record button on Filmora to start recording. Press F9 key to stop recording. You can edit the video and click on Export button to save the video in the desired file format.
-
-## 2\. Other Popular Full Screen Recorders
-
-Apart from Filmora, here are the other popular full screen recorders along with the steps to record your full screen.
-
-## Windows Game Bar
-
-Game Bar is the inbuilt full screen recorder Windows 10 and 11\. There is no need to install any external screen recorder for Windows users. You can even capture screenshots with the tool. In fact, it is tailor0-made to capture full screen gameplay as it comes with the feature of recording the last 30 seconds for instant replay videos. You can record mic audio along with system audio. Here are the steps to record the record full screen windows 11 and 10 with Game Bar.
-
-Step 1: Press Windows + G keys to open Game Bar on your Windows PC.
-
-Step 2: Get ready with the screen that you want to record. To start recording, click on the Record button on the Capture toolbar. You can press Windows + Alt + R keys to start recording as well when you are on a full screen.
-
-![windows game bar](https://images.wondershare.com/filmora/article-images/windows-game-bar.jpg)
-
-Step 3: To stop recording, press Windows + Alt + R keys again. You will find the recorded video under Widgets > Gallery section.
-
-## OBS
-
-OBS Studio is an extremely popular full screen recorder Mac and Windows. It is an open-source software and it is completely free to use. You can record your screen as well as capture video from any external video device. You can also record audio from different sources. In fact, OBS Studio is equally popular for live streaming full screen video on online platforms. The user interface is slightly complicated and hence, you should follow the steps minutely.
-
-Step 1: Go for OBS full screen recorder download as per your operating system. Install and launch the software.
-
-Step 2: Under Sources, click on “+” icon. Select Display Capture option.
-
-![obs launch display cature](https://images.wondershare.com/filmora/article-images/obs-launch-display-cature.jpg)
-
-Step 3: You have to name your full screen capture session and click on Ok button.
-
-![obs click on ok button](https://images.wondershare.com/filmora/article-images/obs-click-on-ok-button.jpg)
-
-Step 4: You must see your screen on the OBS window now. Prepare your screen that you want to record. Click on Start Recording button under Controls tab to start recording.
-
-![obs click on start recording button](https://images.wondershare.com/filmora/article-images/obs-click-on-start-recording-button.jpg)
-
-Step 5: To stop recording, come back to OBS Studio and click on Stop Recording.
-
-## Bandicam
-
-Bandicam is another versatile screen recorder that can also record webcam video. It is a premium software and you have to pay one-time fee to purchase the premium version. You can try out the free version beforehand to judge the software. You can record your screen up to 4K resolution depending on your screen resolution. The output file formats are MP4 and AVI. Bandicam currently supports only Windows PC. Here are the steps to record your full screen with Bandicam.
-
-Step 1: Download and install Bandicam and launch it on your computer.
-
-Step 2: Click on Monitor icon at the top-left corner and go to Fullscreen option and select your monitor.
-
-![bandicam monitor icon select](https://images.wondershare.com/filmora/article-images/bandicam-monitor-icon-select.jpg)
-
-Step 3: Go to Video tab from the left menu and select the options as per need.
-
-![bandicam video tab](https://images.wondershare.com/filmora/article-images/bandicam-video-tab.jpg)
-
-Step 4: When you are ready with your screen, click on Rec button at the top-right corner.
-
-![bandicam press f12](https://images.wondershare.com/filmora/article-images/bandicam-press-f12.jpg)
-
-Step 5: To stop recording, press F12 key. Go to Home> Videos to check the recorded video.
-
-![bandicam home videos](https://images.wondershare.com/filmora/article-images/bandicam-home-videos.jpg)
-
-## Conclusion
-
-In order to record the full screen of your computer, you will need a screen recorder that can capture the entire screen. If you are a Windows user, you can use Game Bar without installing any external recorder. OBS Studio is a free screen recorder to capture full screen on your Windows PC and Mac. But the best full screen recorder for Windows and Mac users is Wondershare Filmora where you can customize all recording parameters and edit your video like a pro.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-Step 1: Download and install Wondershare Filmora for Windows or Mac as per your operating system. Launch Filmora and click on PC Screen option to record your screen.
-
-![record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
-
-Step 2: Choose the recording screen area as full screen and select the audio sources as required. You can record system audio as well as audio from external mic. If you want to record your webcam video along with your full screen, enable “Record Camera Stream” option.
-
-![recording settings](https://images.wondershare.com/filmora/guide/recording-04.png)
-
-Step 3: Click on Record button on Filmora to start recording. Press F9 key to stop recording. You can edit the video and click on Export button to save the video in the desired file format.
-
-## 2\. Other Popular Full Screen Recorders
-
-Apart from Filmora, here are the other popular full screen recorders along with the steps to record your full screen.
-
-## Windows Game Bar
-
-Game Bar is the inbuilt full screen recorder Windows 10 and 11\. There is no need to install any external screen recorder for Windows users. You can even capture screenshots with the tool. In fact, it is tailor0-made to capture full screen gameplay as it comes with the feature of recording the last 30 seconds for instant replay videos. You can record mic audio along with system audio. Here are the steps to record the record full screen windows 11 and 10 with Game Bar.
-
-Step 1: Press Windows + G keys to open Game Bar on your Windows PC.
-
-Step 2: Get ready with the screen that you want to record. To start recording, click on the Record button on the Capture toolbar. You can press Windows + Alt + R keys to start recording as well when you are on a full screen.
-
-![windows game bar](https://images.wondershare.com/filmora/article-images/windows-game-bar.jpg)
-
-Step 3: To stop recording, press Windows + Alt + R keys again. You will find the recorded video under Widgets > Gallery section.
-
-## OBS
-
-OBS Studio is an extremely popular full screen recorder Mac and Windows. It is an open-source software and it is completely free to use. You can record your screen as well as capture video from any external video device. You can also record audio from different sources. In fact, OBS Studio is equally popular for live streaming full screen video on online platforms. The user interface is slightly complicated and hence, you should follow the steps minutely.
-
-Step 1: Go for OBS full screen recorder download as per your operating system. Install and launch the software.
-
-Step 2: Under Sources, click on “+” icon. Select Display Capture option.
-
-![obs launch display cature](https://images.wondershare.com/filmora/article-images/obs-launch-display-cature.jpg)
-
-Step 3: You have to name your full screen capture session and click on Ok button.
-
-![obs click on ok button](https://images.wondershare.com/filmora/article-images/obs-click-on-ok-button.jpg)
-
-Step 4: You must see your screen on the OBS window now. Prepare your screen that you want to record. Click on Start Recording button under Controls tab to start recording.
-
-![obs click on start recording button](https://images.wondershare.com/filmora/article-images/obs-click-on-start-recording-button.jpg)
-
-Step 5: To stop recording, come back to OBS Studio and click on Stop Recording.
-
-## Bandicam
-
-Bandicam is another versatile screen recorder that can also record webcam video. It is a premium software and you have to pay one-time fee to purchase the premium version. You can try out the free version beforehand to judge the software. You can record your screen up to 4K resolution depending on your screen resolution. The output file formats are MP4 and AVI. Bandicam currently supports only Windows PC. Here are the steps to record your full screen with Bandicam.
-
-Step 1: Download and install Bandicam and launch it on your computer.
-
-Step 2: Click on Monitor icon at the top-left corner and go to Fullscreen option and select your monitor.
-
-![bandicam monitor icon select](https://images.wondershare.com/filmora/article-images/bandicam-monitor-icon-select.jpg)
-
-Step 3: Go to Video tab from the left menu and select the options as per need.
-
-![bandicam video tab](https://images.wondershare.com/filmora/article-images/bandicam-video-tab.jpg)
-
-Step 4: When you are ready with your screen, click on Rec button at the top-right corner.
-
-![bandicam press f12](https://images.wondershare.com/filmora/article-images/bandicam-press-f12.jpg)
-
-Step 5: To stop recording, press F12 key. Go to Home> Videos to check the recorded video.
-
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![bandicam home videos](https://images.wondershare.com/filmora/article-images/bandicam-home-videos.jpg)
 
 ## Conclusion
@@ -360,3 +447,63 @@ In order to record the full screen of your computer, you will need a screen reco
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-10-best-powerpoint-to-video-converters-free-and-paid/"><u>[New] 2024 Approved  10 Best PowerPoint to Video Converters [Free and Paid]</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-assessment-of-vidmas-impact-on-modern-screen-recorders/"><u>[New] 2024 Approved  Assessment of Vidma's Impact on Modern Screen Recorders</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-a-deep-dive-into-durecorders-full-range-for-2024/"><u>[New] A Deep Dive Into DuRecorder's Full Range for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-accurate-and-automatic-video-recording-on-diverse-computing-systems/"><u>[New] Accurate and Automatic Video Recording on Diverse Computing Systems</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-cushioning-calm-top-relaxing-pc-titles-for-2024/"><u>[New] Cushioning Calm  Top Relaxing PC Titles for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-easy-steps-to-rotate-video-in-vlc/"><u>[New] Easy Steps to Rotate Video in VLC</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-excellent-record-maker-chromebook-edition-for-2024/"><u>[New] Excellent Record Maker  Chromebook Edition for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-exploring-screen-recording-tools-beyond-apowersoft-for-2024/"><u>[New] Exploring Screen Recording Tools Beyond Apowersoft for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-exploring-the-top-7-voice-customization-applications-for-2024/"><u>[New] Exploring the Top 7 Voice Customization Applications for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-god-of-war-ragnarok-release-date-for-2024/"><u>[New] God of War Ragnarok Release Date for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-androids-prime-portable-gba-simulators-ranked/"><u>[New] In 2024, Android's Prime Portable GBA Simulators Ranked</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-mastering-tunes-with-mac-studios/"><u>[New] In 2024, Mastering Tunes with Mac Studios</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-pro-tips-making-your-ipad-screen-capture-faster-and-hassle-free/"><u>[New] In 2024, Pro Tips  Making Your iPad Screen Capture Faster and Hassle-Free</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-quick-snapshot-the-essential-skill-for-zoom-meetings-for-2024/"><u>[New] Quick Snapshot  The Essential Skill for Zoom Meetings for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-streamlining-screen-record-on-snapchats-with-your-phone/"><u>[New] Streamlining Screen Record on Snapchats with Your Phone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/niting-your-conference-and-youtube-google-meet-broadcast-steps-for-2024/"><u>[New] Uniting Your Conference and YouTube  Google Meet Broadcast Steps for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-when-worlds-collapse-premium-zombie-video-game-guide/"><u>[New] When Worlds Collapse  Premium Zombie Video Game Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-calculating-earnings-the-essence-of-youtube-short-revenue-split/"><u>[Updated] 2024 Approved  Calculating Earnings  The Essence of YouTube Short Revenue Split</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-epic-browser-recording-tools-for-the-ultimate-surfers-dream/"><u>[Updated] 2024 Approved  Epic Browser Recording Tools for the Ultimate Surfer's Dream</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-essential-web-capture-gadgets-for-pcs/"><u>[Updated] 2024 Approved  Essential Web-Capture Gadgets for PCs</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-how-to-record-iptv-screen/"><u>[Updated] 2024 Approved  How to Record IPTV Screen</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-livestreaming-sovereigns-clash/"><u>[Updated] 2024 Approved  LiveStreaming Sovereigns Clash</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-quick-start-to-mastering-io-screen-recording/"><u>[Updated] 2024 Approved  Quick Start to Mastering IO Screen Recording</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-real-time-skype-monitoring-with-live-obs-integration/"><u>[Updated] 2024 Approved  Real-Time Skype Monitoring with Live OBS Integration</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-advice-getting-rid-of-stickers-on-videos/"><u>[Updated] Expert Advice  Getting Rid of Stickers on Videos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-expert-insights-on-saving-smartphone-moments-for-2024/"><u>[Updated] Expert Insights on Saving Smartphone Moments for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-fix-obs-black-screen-game-capture-for-2024/"><u>[Updated] Fix OBS Black Screen Game Capture for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-frame-by-frame-focus-analyzing-recorder-quality-for-2024/"><u>[Updated] Frame-by-Frame Focus  Analyzing Recorder Quality for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-harnessing-the-power-of-ps4-capture-for-gamers-everywhere-for-2024/"><u>[Updated] Harnessing the Power of PS4 Capture for Gamers Everywhere for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-cutting-edge-win-recorder-experience/"><u>[Updated] In 2024, Cutting-Edge Win Recorder Experience</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-from-novice-to-pro-mastering-lenovos-capture-capabilities/"><u>[Updated] In 2024, From Novice to Pro  Mastering Lenovo's Capture Capabilities</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-getting-acquainted-the-basics-of-ez-grabber-utilization/"><u>[Updated] In 2024, Getting Acquainted  The Basics of EZ Grabber Utilization</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-honorable-warriors-reimagined-best-matching-gaming-titles/"><u>[Updated] In 2024, Honorable Warriors, Reimagined  Best Matching Gaming Titles</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-picturemosaic-maker-blend-videos-and-pics-macos/"><u>[Updated] In 2024, PictureMosaic Maker  Blend Videos & Pics macOS</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-premier-picks-the-best-11-audio-recorders-guide/"><u>[Updated] In 2024, Premier Picks  The Best 11 Audio Recorders Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-preserving-sims-4-moments-effective-strategies-for-recording-playthroughs/"><u>[Updated] In 2024, Preserving Sims 4 Moments  Effective Strategies for Recording Playthroughs</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-leading-non-zoom-remote-work-solutions-for-pc-and-mobile-for-2024/"><u>[Updated] Leading Non-Zoom Remote Work Solutions for PC & Mobile for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-master-the-art-of-gameye-and-webcam-recordings-for-2024/"><u>[Updated] Master the Art of GamEye and WebCam Recordings for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-definitive-window-on-game-recording-in-windows-11/"><u>[Updated] The Definitive Window on Game Recording in Windows 11</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-upgrade-your-channel-description-with-ease-and-flair/"><u>[Updated] Upgrade Your Channel Description with Ease and Flair</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-blueprint-for-dominating-in-tiktoks-top-10-strategies/"><u>2024 Approved  Blueprint for Dominating in TikTok's Top 10 Strategies</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-elevate-your-content-with-top-ranked-youtube-channels/"><u>2024 Approved  Elevate Your Content with Top-Ranked YouTube Channels</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-leading-6-software-for-multilingual-video-aids/"><u>2024 Approved  Leading 6 Software for Multilingual Video Aids</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-xbox-gameplay-perfect-screen-recording-guide/"><u>2024 Approved  Xbox Gameplay  Perfect Screen Recording Guide</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-renderforest-is-a-great-online-editing-platform-to-use-for-many-video-creators-if-you-want-to-make-an-intro-video-for-your-channel-or-daily-vl/"><u>2024 Approved Renderforest Is a Great Online Editing Platform to Use for Many Video Creators. If You Want to Make an Intro Video for Your Channel or Daily Vlogs, You Can Follow This Article to Know More Details</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/connect-and-converse-advanced-techniques-for-facebook-live-screens-for-2024/"><u>Connect and Converse  Advanced Techniques for Facebook Live Screens for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/focusing-on-the-best-ways-to-convert-slow-motion-video-to-normal/"><u>Focusing On The Best Ways To Convert Slow-Motion Video to Normal</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-from-apple-iphone-xs-max-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID From Apple iPhone XS Max without Password?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-analyze-youtube-data-efficiently-with-social-blade-tools/"><u>In 2024, Analyze YouTube Data Efficiently with Social Blade Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-pioneers-in-the-digital-realm-vr-past-and-future/"><u>In 2024, Pioneers in the Digital Realm  VR Past and Future</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-toolkit-for-dominating-social-media-management-smm/"><u>In 2024, The Ultimate Toolkit for Dominating Social Media Management (SMM)</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-top-6-respectful-android-recorder-apps/"><u>In 2024, Top 6 Respectful Android Recorder Apps</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-x-recorder-your-companion-for-high-quality-pc-recording/"><u>In 2024, X-Recorder  Your Companion for High-Quality PC Recording</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-simple-tricks-make-3d-gif-production-of-inspiration-pop-up-constantly/"><u>Updated 2024 Approved Simple Tricks Make 3D GIF Production of Inspiration Pop up Constantly</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-efficient-methods-for-turning-whatsapp-audio-into-mp3-files-in-minutes-for-2024/"><u>Updated Efficient Methods for Turning WhatsApp Audio Into MP3 Files in Minutes for 2024</u></a></li>
+</ul></div>

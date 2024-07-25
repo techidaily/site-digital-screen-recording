@@ -1,7 +1,7 @@
 ---
 title: "Minimizing Motion Blur with OBS Adjustments"
-date: 2024-05-20T05:09:35.135Z
-updated: 2024-05-21T05:09:35.135Z
+date: 2024-07-24T04:11:56.106Z
+updated: 2024-07-25T04:11:56.106Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Minimizing Motion Blur with OBS Adjustments"
 excerpt: "This Article Describes Minimizing Motion Blur with OBS Adjustments"
 keywords: "Reduce Blur OBS,Clear Shot OBS,Minimize Blur OBS,Cut Motion Distortion OBS,Less Blur OBS Capture,Enhance Image Quality OBS,Improve Video Clarity OBS"
-thumbnail: https://www.lifewire.com/thmb/dpIy1Vb0m2YNL1LlGPZga8opYUc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsungtvhomepage-58f0d708245a4140bb4bbad8ea0cfc26.jpg
+thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e09d897a36274e3de6aadbd39.jpg
 ---
 
 ## Minimizing Motion Blur with OBS Adjustments
@@ -21,6 +21,14 @@ When you are live streaming through OBS Studio, encoding the video takes a lot o
 
 In layman’s terms, encoding overloading means your hardware is just not running as fast as required to process the video you are streaming or recording. Since you cannot change your hardware configuration overnight, here are the different ways you can fix OBS high encoding when streaming.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Way 1\. Downscale Your Output Resolution
 
 The higher the resolution of the video recording or streaming, the greater will be the CPU usage. This is because your processor has to process more number of pixels per frame. That is why you have to lower the output resolution of your video. Even when your base resolution is high, you have to cut down the output resolution. Base resolution is the resolution of the video at source which could be the game you are playing. The output resolution is the resolution of the video you are getting after recording or you are streaming in real-time. Here are the steps to follow.
@@ -33,8 +41,15 @@ Step 3: You have to reduce the resolution from the current resolution. If it is 
 
 Step 4: Click on Apply and Ok buttons. Restart your computer and start streaming or recording again.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![obs reduce the output resolution](https://images.wondershare.com/filmora/article-images/obs-reduce-the-output-resolution.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Way 2\. Lower Your Frame Rate
 
 The frame rate of a video determines the number of frames captured per second. The higher the frame rate, the greater will be the pressure on GPU to render more number of frames per second. Unless you have a powerful configuration, you will come across OBS high encoding when streaming if the frame rate is high such as 60FPS. Here are the steps to lower the frame rate of your video on OBS.
@@ -81,6 +96,9 @@ Step 5: Click on Apply and Ok to save the settings. Restart your computer and pe
 
 ![obs restart your computer and perform your operation](https://images.wondershare.com/filmora/article-images/obs-restart-your-computer-and-perform-your-operation.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Way 5\. Change Some Advanced Settings
 
 If you are still facing OBS high encoding problem, you need to change some advanced settings in order to fix this encoder overloaded issue. You can change the keyframe interval so that your processor gets enough time for rendering. Similarly, you can change Rate Control from Constant to Variable so that the video does not demand high bandwidth.
@@ -115,6 +133,9 @@ For macOS 10.12 or later
 
 Step 1: Install Wondershare Filmora on your computer based on your OS. Launch Filmora and click on PC Screen to record your screen.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![pc-screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
 Step 2: Select the recording screen size and the audio sources. If you want to capture webcam as well, turn on Record The Camera Stream option.
@@ -137,18 +158,39 @@ For macOS 10.12 or later
 
 Step 1: Install Wondershare Filmora on your computer based on your OS. Launch Filmora and click on PC Screen to record your screen.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![pc-screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
 Step 2: Select the recording screen size and the audio sources. If you want to capture webcam as well, turn on Record The Camera Stream option.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ![set-audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
 
 Step 3: Click on Record button to start recording. Press F9 to stop recording whenever you want.
 
 Step 4: You can edit the recorded video. Thereafter, click on Export button to save it on your hard drive in any desired file format.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 OBS high encoding warning or encoding overloaded warning is not uncommon. In fact, you are likely to come across this problem if you do not have a high-end computer. In that case, you have to lower resolution, lower frame rate, change encoder preset, try different encoders as well as tweak advanced settings to fix the problem. If the problem is not solved after trying out all the means available, you can switch to Wondershare Filmora as a better alternative for recording and video editing.
@@ -163,6 +205,9 @@ Step 1: Install Wondershare Filmora on your computer based on your OS. Launch Fi
 
 Step 2: Select the recording screen size and the audio sources. If you want to capture webcam as well, turn on Record The Camera Stream option.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![set-audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
 
 Step 3: Click on Record button to start recording. Press F9 to stop recording whenever you want.
@@ -171,6 +216,9 @@ Step 4: You can edit the recorded video. Thereafter, click on Export button to s
 
 ![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 OBS high encoding warning or encoding overloaded warning is not uncommon. In fact, you are likely to come across this problem if you do not have a high-end computer. In that case, you have to lower resolution, lower frame rate, change encoder preset, try different encoders as well as tweak advanced settings to fix the problem. If the problem is not solved after trying out all the means available, you can switch to Wondershare Filmora as a better alternative for recording and video editing.
@@ -181,6 +229,10 @@ For macOS 10.12 or later
 
 Step 1: Install Wondershare Filmora on your computer based on your OS. Launch Filmora and click on PC Screen to record your screen.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ![pc-screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
 Step 2: Select the recording screen size and the audio sources. If you want to capture webcam as well, turn on Record The Camera Stream option.
@@ -191,6 +243,9 @@ Step 3: Click on Record button to start recording. Press F9 to stop recording wh
 
 Step 4: You can edit the recorded video. Thereafter, click on Export button to save it on your hard drive in any desired file format.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
 
 ## Conclusion
@@ -222,3 +277,40 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-classroom-captures-unveiling-the-ultimate-10-video-recorders-for-education/"><u>[New] 2024 Approved  Classroom Captures  Unveiling the Ultimate 10 Video Recorders for Education</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-expert-analysis-mp4-video-download-tools/"><u>[New] 2024 Approved  Expert Analysis  MP4 Video Download Tools</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-essential-methods-recording-minecraft-games-on-apple-devices-for-2024/"><u>[New] Essential Methods  Recording Minecraft Games on Apple Devices for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-augment-your-audibility-the-leading-android-tools-for-voice-recording-change/"><u>[New] In 2024, Augment Your Audibility  The Leading Android Tools for Voice Recording Change</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-laymans-land-easy-to-construct-mc-homes-unlocked/"><u>[New] In 2024, Layman's Land  Easy-to-Construct MC Homes Unlocked</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-jumpstart-with-vrecorder-easy-installation-walkthrough-for-2024/"><u>[New] Jumpstart with VRecorder  Easy Installation Walkthrough for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-learn-to-screen-capture-flawlessly-on-mac-using-just-keys-for-2024/"><u>[New] Learn to Screen Capture Flawlessly on Mac Using Just Keys for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-mastering-the-game-discover-these-top-12-pc-clickers-for-2024/"><u>[New] Mastering the Game  Discover These Top 12 PC Clickers for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-framemaker-screen-capturing-mastery-review-2023-edition/"><u>[Updated] 2024 Approved  'FrameMaker'  Screen Capturing Mastery Review, 2023 Edition</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-top-15-free-screen-recorders-for-windows-and-mac/"><u>[Updated] 2024 Approved  Top 15 Free Screen Recorders for Windows and Mac</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-effective-strategies-for-ppt-screen-recordings-for-2024/"><u>[Updated] Effective Strategies for PPT Screen Recordings for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-exclusive-screenflow-examination-for-mac-users-for-2024/"><u>[Updated] Exclusive ScreenFlow Examination for Mac Users for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-hurdlehop-pausevidsnapshot-for-2024/"><u>[Updated] HurdleHop PauseVidSnapshot for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-a-detailed-examination-of-mycam-for-smart-home-setups/"><u>[Updated] In 2024, A Detailed Examination of MyCam for Smart Home Setups</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-expert-picks-screen-recording-software-for-academic-success/"><u>[Updated] In 2024, Expert Picks  Screen Recording Software for Academic Success</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-guidelines-for-perfect-nightscape-photography/"><u>[Updated] In 2024, Guidelines for Perfect Nightscape Photography</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-live-streaming-console-gaming-secrets-on-a-computer/"><u>[Updated] In 2024, Live-Streaming Console Gaming Secrets on a Computer</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-top-5-ios-downloader-tools-seamless-access-to-fb-videos-and-events-for-2024/"><u>[Updated] Top 5 iOS Downloader Tools  Seamless Access to FB Videos & Events for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-unpacking-newscreenx-pros-recording-innovations/"><u>[Updated] Unpacking NewScreenX Pro’s Recording Innovations</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-locate-inexpensive-deals-on-gopro-cameras-near-you/"><u>2024 Approved  Locate Inexpensive Deals on GoPro Cameras Near You</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/2024-approved-windows-movie-maker-replacements-explore-your-options/"><u>2024 Approved Windows Movie Maker Replacements Explore Your Options</u></a></li>
+<li><a href="https://windows11.techidaily.com/boosting-control-mastering-local-gpo-access-on-windows-11/"><u>Boosting Control: Mastering Local GPO Access on Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-your-hardware-drivers-with-windows-device-manager-in-windows-11-by-drivereasy-guide/"><u>How to identify missing your hardware drivers with Windows Device Manager in Windows 11</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/1715860010408-in-2024-essential-offline-ios-game-list-unplugged-fun-awaits/"><u>In 2024, Essential Offline iOS Game List - Unplugged Fun Awaits!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-step-by-step-guide-to-creating-compelling-multi-picture-insta-stories/"><u>In 2024, Step by Step Guide to Creating Compelling, Multi-Picture Insta Stories</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-top-5-mac-voice-capture-apps-compiling-peak-performances/"><u>In 2024, Top 5 Mac Voice Capture Apps  Compiling Peak Performances</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-undead-uprising-your-guide-to-engrossing-zombie-playtime/"><u>In 2024, Undead Uprising  Your Guide to Engrossing Zombie Playtime</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-virtual-vice-games-resembling-gta-v-experience/"><u>In 2024, Virtual Vice  Games Resembling GTA V Experience</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-the-ultimate-guide-to-automatic-volume-reduction-audio-ducking-tips-in-adobe-premiere-pro-on-macos/"><u>New 2024 Approved The Ultimate Guide to Automatic Volume Reduction Audio Ducking Tips in Adobe Premiere Pro on macOS</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/top-notch-game-capture-applications-outshining-fbx-capabilities-for-2024/"><u>Top-Notch Game Capture Applications Outshining FBX Capabilities for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unveiling-the-secrets-of-efficiently-setting-up-hp-on-pcs/"><u>Unveiling the Secrets of Efficiently Setting Up HP on PCs</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-delving-into-crickets-vocalizations-and-echoes/"><u>Updated 2024 Approved Delving Into Crickets Vocalizations and Echoes</u></a></li>
+</ul></div>

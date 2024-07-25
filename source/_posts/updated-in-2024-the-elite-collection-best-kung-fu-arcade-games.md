@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, The Elite Collection  Best Kung Fu Arcade Games\""
-date: 2024-05-18T16:41:24.692Z
-updated: 2024-05-19T16:41:24.692Z
+date: 2024-07-24T05:37:46.649Z
+updated: 2024-07-25T05:37:46.649Z
 tags: 
   - screen-recording
   - ai video
@@ -12,13 +12,16 @@ categories:
 description: "\"This Article Describes [Updated] In 2024, The Elite Collection: Best Kung Fu Arcade Games\""
 excerpt: "\"This Article Describes [Updated] In 2024, The Elite Collection: Best Kung Fu Arcade Games\""
 keywords: "Kung Fu Arcade Classic,Top Kung Fu Games,Elite Fight Arcade,Ultimate Kung Fu Gaming,Mastery in Kung Fu Games,Best Arcade Action Fighters,Elite Martial Arts Arcade"
-thumbnail: https://www.lifewire.com/thmb/Gmap6LeMRtADZthm_PJ2lXNY4cM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/copilot-b197f8dd690845d5bf8ebbc082c89c20.jpg
+thumbnail: https://thmb.techidaily.com/e1a2efe9bf1f732226416442fb362e8363cdb8595c634b883b7def7759d3266e.jpg
 ---
 
 ## The Elite Collection: Best Kung Fu Arcade Games
 
 # Top 5 Kung Fu Games Just Like Sifu
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -38,6 +41,9 @@ To begin with, many of you might wonder the right way to say the word "sifu." It
 _Platform: Playstation4, Playstation5_  
 _Price: [Coming soon](https://www.epicgames.com/store/en-US/p/sifu)_
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 Is one life enough to have Kung Fu?![](https://images.wondershare.com/filmora/article-images/sifu-beard.jpg)
 
 Sifu is a single-player martial arts game. This game is developed by Sloclap, the team of the legendary martial arts game Absolver.Sifu is based on the journey of a young Kungfu student to becoming a Kungfu Master for the vengeance of death of his family from mysterious assassins. The only purpose of his life is to make those assassins pay the price of their cruelty, who are involved in the murder of his family. After preparing for eight years to take vengeance, finally, the day has arrived. He will not stop until he takes down all his rivals, whoever comes in his way toward his revenge. He can overcome death with the help of a magical pendant whenever he dies. But this return from death has a cost to be paid in the form of age. Whenever he comes back to life, he becomes older. Will he be able to take his revenge without getting old enough for a fight? This journey of revenge goes through different phases and locations like hallways, clubs, suburbs, and more. Everything on his way can be used as a tool to fight enemies like objects, weapons, chairs, and tables. As soon as the player gets closer to the victory, he discovers more and more skills and powers.
@@ -101,8 +107,15 @@ It is a single-player action-adventure hardcore game. With its focus on Monster-
 
 [Wondershare's Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a multipurpose video software tool with a built-in webcam recorder that allows you to easily capture with your webcam. Audio recording is also made easy, perfect for game players who want to showcase their favorite games with their followers. It offers built-in converters and a video editor supporting converting and editing many different video formats shot either with your camcorder or iPhone or Android. Wondershare Filmora is different from some of the others on the market as it not only allows [screen recording](https://tools.techidaily.com/wondershare/filmora/download/) but also provides a handful of video editing, video uploading choices, and it works with multiple devices. This program has a high-speed processor and lots of varied settings, and a simple and user-friendly interface, along with exceptional video editing tools to make your recording fun and easy.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -119,6 +132,9 @@ Follow @Richard Bennett
 
 To begin with, many of you might wonder the right way to say the word "sifu." It is pronounced as "sea fool" rather than "sign fool." By the way, "sifu" means master in Chinese/Cantonese, especially in the martial art field and some craftsmanship field. For example, you can call the teacher who teaches you to make perfect ramen a "sifu."
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
  **![](https://images.wondershare.com/filmora/article-images/ramen-teacher.jpg)**
 
 ---
@@ -128,6 +144,9 @@ To begin with, many of you might wonder the right way to say the word "sifu." It
 _Platform: Playstation4, Playstation5_  
 _Price: [Coming soon](https://www.epicgames.com/store/en-US/p/sifu)_
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Is one life enough to have Kung Fu?![](https://images.wondershare.com/filmora/article-images/sifu-beard.jpg)
 
 Sifu is a single-player martial arts game. This game is developed by Sloclap, the team of the legendary martial arts game Absolver.Sifu is based on the journey of a young Kungfu student to becoming a Kungfu Master for the vengeance of death of his family from mysterious assassins. The only purpose of his life is to make those assassins pay the price of their cruelty, who are involved in the murder of his family. After preparing for eight years to take vengeance, finally, the day has arrived. He will not stop until he takes down all his rivals, whoever comes in his way toward his revenge. He can overcome death with the help of a magical pendant whenever he dies. But this return from death has a cost to be paid in the form of age. Whenever he comes back to life, he becomes older. Will he be able to take his revenge without getting old enough for a fight? This journey of revenge goes through different phases and locations like hallways, clubs, suburbs, and more. Everything on his way can be used as a tool to fight enemies like objects, weapons, chairs, and tables. As soon as the player gets closer to the victory, he discovers more and more skills and powers.
@@ -226,3 +245,72 @@ Follow @Richard Bennett
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-comprerant-and-reviewed-the-ultimate-list-of-ios-video-edits/"><u>[New] 2024 Approved  Compreran't & Reviewed  The Ultimate List of iOS Video Edits</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-style-spectrum-top-10-discotheme-innovations-by-expert-curators/"><u>[New] 2024 Approved  Style Spectrum  Top 10 DiscoTheme Innovations by Expert Curators</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-top-11-auditory-capture-devices-reviewed-here/"><u>[New] 2024 Approved  Top 11 Auditory Capture Devices Reviewed Here</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-unlock-the-secrets-to-preserving-web-streamed-tv-shows/"><u>[New] 2024 Approved  Unlock the Secrets to Preserving Web-Streamed Tv Shows</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-your-guide-to-premium-full-screen-recorders-for-pcmac/"><u>[New] 2024 Approved  Your Guide to Premium Full-Screen Recorders for PC/Mac</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-apowersoft-free-screen-recorder-review/"><u>[New] Apowersoft Free Screen Recorder Review</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-capturing-your-mi-11-screens-step-by-step/"><u>[New] Capturing Your Mi 11 Screens - Step by Step</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-engage-viewers-with-powerful-channel-building-stories-for-2024/"><u>[New] Engage Viewers with Powerful Channel-Building Stories for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-expert-recommendations-top-5-video-recording-software/"><u>[New] Expert Recommendations  Top 5 Video Recording Software</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-swiftly-rotate-videos-in-vlc-for-smooth-viewing/"><u>[New] In 2024, Swiftly Rotate Videos in VLC for Smooth Viewing</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-top-tier-windows-10-snapshot-suite/"><u>[New] In 2024, Top-Tier Windows 10 Snapshot Suite</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-windows-10-syncing-guide-effortless-mov-file-management/"><u>[New] In 2024, Windows 10 Syncing Guide  Effortless .mov File Management</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-maximizing-your-tiktok-content-with-advanced-voice-controls-via-siri-for-2024/"><u>[New] Maximizing Your TikTok Content with Advanced Voice Controls via Siri for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-one-voice-many-listeners-a-solo-podcast-blueprint/"><u>[New] One Voice, Many Listeners  A Solo Podcast Blueprint</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-pinnacle-ios-solutions-the-best-ps2-game-emulators/"><u>[New] Pinnacle IOS Solutions  The Best PS2 Game Emulators</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-15-best-ways-to-watch-nba-live-stream-for-2024/"><u>[Updated] 15 Best Ways To Watch NBA Live Stream for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-encompassing-synopsis-decoding-google-podcasts-app/"><u>[Updated] 2024 Approved  Encompassing Synopsis  Decoding Google Podcasts App</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-exploring-the-best-converters-for-tiktok-graphics/"><u>[Updated] Exploring the Best Converters for TikTok Graphics</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-get-noticed-on-youtube-the-ultimate-list-of-freefire-tag-tips-for-2024/"><u>[Updated] Get Noticed on YouTube  The Ultimate List of FreeFire Tag Tips for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-whipped-watchers-guide-complete-review-of-frozen-food-filming-tech/"><u>[Updated] In 2024, Whipped Watcher's Guide  Complete Review of Frozen Food Filming Tech</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-navigating-youtube-and-instagram-sharing-video-content-without-limits/"><u>[Updated] Navigating YouTube and Instagram  Sharing Video Content without Limits</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-pinnacle-motorsport-replicas-top-5/"><u>[Updated] Pinnacle Motorsport Replicas (Top 5)</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-premium-apps-for-capturing-crystal-clear-android-screenshots-for-2024/"><u>[Updated] Premium Apps for Capturing Crystal Clear Android Screenshots for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-ultimate-tips-adobe-presenter-video-recording-for-2024/"><u>[Updated] Ultimate Tips  Adobe Presenter Video Recording for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-15-android-emulators-unveiled-for-mac-pc-enthusiasts/"><u>2024 Approved  15 Android Emulators Unveiled for Mac, PC Enthusiasts</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-cutting-edge-recording-tech-top-10-innovators/"><u>2024 Approved  Cutting-Edge Recording Tech  Top 10 Innovators</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-experts-guide-to-rapid-time-lapsing/"><u>2024 Approved  Expert's Guide to Rapid Time-Lapsing</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-gamers-guide-to-high-quality-in-game-broadcasts/"><u>2024 Approved  Gamers' Guide to High-Quality In-Game Broadcasts</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-incor-written-a-master-level-story-in-english-containing-at-least-5-sentences-about-how-adding-text-to-videos-on-tiktok-can-enhance-user-engag/"><u>2024 Approved  Incor Written a Master Level Story in English, Containing at Least 5 Sentences, About How Adding Text to Videos on TikTok Can Enhance User Engagement and Communication. Title Should Not Exceed 156 Characters</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-spotifys-top-10-chart-toppers/"><u>2024 Approved  Spotify’s Top 10 Chart-Toppers</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-the-ultimate-blueprint-to-broadcast-videos-on-discord-platform/"><u>2024 Approved  The Ultimate Blueprint to Broadcast Videos on Discord Platform</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-ultimate-selection-top-ubuntu-capture-software/"><u>2024 Approved  Ultimate Selection  Top Ubuntu Capture Software</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/best-software-for-capturing-your-desktop-screen-pcmac/"><u>Best Software for Capturing Your Desktop Screen, PC/Mac</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/complete-guide-to-understanding-obs-screen-capture-for-2024/"><u>Complete Guide to Understanding OBS Screen Capture for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/detailed-premiere-pro-full-screen-analysis-for-2024/"><u>Detailed Premiere Pro Full Screen Analysis for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/exploring-ghoulish-auditory-extras/"><u>Exploring Ghoulish Auditory Extras</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/framefinder-top-picks-for-screen-capturing-for-2024/"><u>FrameFinder  Top Picks for Screen Capturing for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/getting-started-with-adobe-presenter-video-recordings-for-2024/"><u>Getting Started with Adobe Presenter Video Recordings for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-oppo-reno-11f-5g-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Oppo Reno 11F 5G Phone without Any Data Loss</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/ideal-systems-for-recording-and-streaming-athletic-competitions/"><u>Ideal Systems for Recording and Streaming Athletic Competitions</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-economical-pc-graphics-saving-apps/"><u>In 2024, Economical PC Graphics Saving Apps</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-elite-list-of-best-videocall-services-without-cost/"><u>In 2024, Elite List of Best Videocall Services Without Cost</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-get-hooked-on-ez-grabber-a-step-by-step-downloading-guide/"><u>In 2024, Get Hooked on EZ Grabber  A Step-by-Step Downloading Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-immediate-frame-grabbers-help/"><u>In 2024, Immediate Frame Grabber's Help</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-pull-off-professional-video-edits-with-ken-burns-effect/"><u>In 2024, Pull Off Professional Video Edits with Ken Burns Effect</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Samsung Galaxy A15 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-understanding-your-best-fit-in-virtual-reality-worlds-choosing-between-portable-and-plugged-in/"><u>In 2024, Understanding Your Best Fit in Virtual Reality Worlds  Choosing Between Portable and Plugged In</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-unleash-focus-the-pros-guide-to-distraction-free-google-meet-sessions/"><u>In 2024, Unleash Focus  The Pro's Guide to Distraction-Free Google Meet Sessions</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/map-masters-reveal-top-five-for-gold-collection-for-2024/"><u>Map Masters Reveal  Top Five For Gold Collection for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/mastering-zoom-the-ultimate-guide-to-audio-recording-for-podcasts/"><u>Mastering Zoom  The Ultimate Guide to Audio Recording for Podcasts</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/most-acclaimed-ipad-recording-software-3p-for-2024/"><u>Most Acclaimed iPad Recording Software 3P for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-best-top-vlog-editor-apps-for-iphone-and-android/"><u>New 2024 Approved Best Top Vlog Editor Apps for iPhone and Android</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-top-video-editing-platforms-with-advanced-audio-features/"><u>New Top Video Editing Platforms with Advanced Audio Features</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/perfect-your-recordings-the-ultimate-guide-to-adobe-presenter-for-2024/"><u>Perfect Your Recordings  The Ultimate Guide to Adobe Presenter for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/perfecting-online-photos-the-cropping-guide-for-2024/"><u>Perfecting Online Photos  The Cropping Guide for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/pixelprofilers-picks-top-tools-for-your-screen-snapping-needs-for-2024/"><u>PixelProfiler's Picks  Top Tools for Your Screen Snapping Needs for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/recording-roulette-top-strategies-for-tv-show-capture-for-2024/"><u>Recording Roulette  Top Strategies for TV Show Capture for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/strategies-for-effective-ppt-sharing-in-google-meet-sessions-for-2024/"><u>Strategies for Effective PPT Sharing in Google Meet Sessions for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-lowdown-on-the-maximum-video-length-on-instagram/"><u>The Lowdown on the Maximum Video Length on Instagram</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultrawide-uhd-dilemranc-which-monitor-wins-in-2024/"><u>The Ultrawide-UHD Dilemranc  Which Monitor Wins, In 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/top-15-windows-11-tools-for-video-capture/"><u>Top 15 Windows 11 Tools for Video Capture</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-oppo-a59-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Oppo A59 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-enhancing-your-presentations-with-audio-powerpoint-tips-for-windows-users-and-mac-owners/"><u>Updated In 2024, Enhancing Your Presentations with Audio PowerPoint Tips for Windows Users & Mac Owners</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-top-10-online-tools-for-professional-studio-recording-free-vs-paid-versions/"><u>Updated In 2024, Top 10 Online Tools for Professional Studio Recording - FREE vs PAID Versions</u></a></li>
+</ul></div>

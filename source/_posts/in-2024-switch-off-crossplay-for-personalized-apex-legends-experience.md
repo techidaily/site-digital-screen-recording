@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Switch Off Crossplay for Personalized Apex Legends Experience"
-date: 2024-06-10T03:01:21.073Z
-updated: 2024-06-11T03:01:21.073Z
+date: 2024-07-24T08:06:51.357Z
+updated: 2024-07-25T08:06:51.357Z
 tags: 
   - screen-recording
   - ai video
@@ -65,8 +65,14 @@ Firstly, crossplay is enabled by default. Assume now you're playing apex on PS4/
 
 Step1, to disable it, you need to go to the setting button at the lobby's right bottom, as shown below.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ![ape-setting1](https://images.wondershare.com/filmora/article-images/apex-setting1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 2, under the gameplay tab, scroll down, and you can find cross-platform play.![apex-setting2](https://images.wondershare.com/filmora/article-images/apex-setting2.png)
 
 #### **Does it have cross-progression?**
@@ -81,20 +87,33 @@ The best thing about Apex Legends is that it has multiplatform support. You can 
 
 **Microsoft Xbox One S and X**
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/xbox-one.jpg)You can play Apex Legends on Xbox One S, but you may need to compromise a little bit and play on a low resolution for better fps. Although the game will run just fine, you may need to make some adjustments to your graphics settings. You can play this game on 720p on Xbox One S, so make sure to sit a little closer to your screen to see everything.
 
 If you want to get Apex's best experience on Xbox consoles, you should play it on Xbox One X. If you switch from Xbox one S to Xbox one X, you will see a significant difference in the game performance. On the X version, you can run the game on 1080p. It offers overall better performance in terms of gameplay as compared to other Xbox variants.
 
 **Xbox Series X and S**
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/xbox-seriesx.jpg)Xbox series S and X are the latest generations of Xbox. They rival their competitor PS5 and offer competitive performance when you compare these consoles with a PS5\. They do offer better gaming performance and better graphics. But, the question is, Can you play Apex on the latest generations of Xbox? The answer is yes. You will get better performance in terms of graphics and FPS but currently, the game isn't fully optimized for the latest generations. In the coming days it is expected that the game will be optimized for the latest consoles and you can enjoy the game to the fullest. Currently, you can enjoy 1440p gaming on these consoles and can get up to 120fps.
 
 **Sony PlayStation 4**
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/Apex-ps4.png)You can also play Apex Legends on Sony PlayStation 4\. Although you can play it on the standard PS4, if you want to get the best gaming experience, then you should play it on PS4 Pro. On PS4, you need to have a PlayStation Plus subscription if you want to play online multiplayer games, but in the case of Apex Legends, you do not need it.
 
 **Sony PlayStation 5**
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ps5-poster](https://images.wondershare.com/filmora/article-images/ps5-poster.png)
 
 Sony PlayStation 5 is a next-generation console, and luckily Apex Legends is already playable on it. PS5 offers improved performance and better graphics as compared to its previous versions. If you were previously playing on PS4 and just switched to PS5, you can also retain all your progress and skins on PS5 also. You can use the same EA account and start enjoying Apex Legends on 1440p screen resolution.
@@ -134,6 +153,9 @@ With Apex Legends available on so many platforms, sometimes it can be difficult 
 
 Bonus：Want to record and edit your wonderful Apex gameplay? Give it a go on Wondershare Filmora X.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
@@ -152,3 +174,66 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-the-quick-start-method-for-combining-obs-and-zoom/"><u>[New] 2024 Approved  The Quick-Start Method for Combining OBS & Zoom</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-the-ultimate-screen-capture-showdown-free-vs-paid-cam-recorders/"><u>[New] 2024 Approved  The Ultimate Screen Capture Showdown  Free vs Paid Cam Recorders</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-freeze-whole-website-panel/"><u>[New] Freeze Whole Website Panel</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-sonic-showcase-latest-features/"><u>[New] In 2024, Sonic Showcase  Latest Features</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-ultimate-terraria-enhancements-list/"><u>[New] In 2024, Ultimate Terraria Enhancements List</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-windows-pc-broadcasting-prodigy-mastering-the-art-of-live-tv-recording/"><u>[New] In 2024, Windows PC Broadcasting Prodigy  Mastering the Art of Live TV Recording</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-no-lag-top-8-screen-grab-essentials/"><u>[New] No Lag  Top 8 Screen Grab Essentials</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-pictureperfect-fusion-comprehensive-windowsmac-tool/"><u>[New] PicturePerfect Fusion  Comprehensive Windows/Mac Tool</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-premier-virtual-microphones/"><u>[New] Premier Virtual Microphones</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-quick-capture-screen-grabs-on-windows-pcs-for-2024/"><u>[New] Quick Capture  Screen Grabs on Windows PCs for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-revolutionize-your-virtual-dialogue-the-google-meet-guide-for-2024/"><u>[New] Revolutionize Your Virtual Dialogue  The Google Meet Guide for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-selecting-premium-backgrounds-for-zoomgoogle-calls-for-2024/"><u>[New] Selecting Premium Backgrounds for Zoom/Google Calls for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-screen-savers-top-10plus-for-ease-and-convenience/"><u>[Updated] 2024 Approved  Screen Savers  Top 10+ for Ease and Convenience</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-stream-capture-software-unraveler/"><u>[Updated] 2024 Approved  Stream Capture Software Unraveler</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-boost-clicks-and-conversions-the-top-15-powerful-tools-for-fb-data-analysis-for-2024/"><u>[Updated] Boost Clicks & Conversions  The Top 15 Powerful Tools for FB Data Analysis for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-effortless-visual-content-creation-for-instagram-users/"><u>[Updated] Effortless Visual Content Creation for Instagram Users</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-hold-whole-page-snapshot-image/"><u>[Updated] Hold Whole Page Snapshot Image</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-stop-losses-maintaining-seamless-obs-recording/"><u>[Updated] In 2024, Stop Losses  Maintaining Seamless OBS Recording</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-videoshow-app-a-complete-guide-for-24/"><u>[Updated] Mastering VideoShow App - A Complete Guide for '24</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-the-experts-guide-to-recording-live-streaming-on-diverse-tech-gadgets/"><u>[Updated] The Expert's Guide to Recording Live Streaming on Diverse Tech Gadgets</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-capture-every-detail-on-mac-free/"><u>2024 Approved  Capture Every Detail on Mac - Free</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-essential-techniques-for-efficient-utilization-of-zooms-whiteboard-feature/"><u>2024 Approved  Essential Techniques for Efficient Utilization of Zoom's Whiteboard Feature</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-exploring-roku-watching-facebook-live-effortlessly/"><u>2024 Approved  Exploring Roku  Watching Facebook Live Effortlessly</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-grasping-video-clarity-the-first-lessons-on-hd/"><u>2024 Approved  Grasping Video Clarity  The First Lessons on HD</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-prime-fareless-streaming-and-recording-software/"><u>2024 Approved  Prime Fareless Streaming & Recording Software</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-resolved-faulty-obs-camera/"><u>2024 Approved  Resolved  Faulty OBS Camera</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-snapedit-overview-in-depth-editor-review/"><u>2024 Approved  SnapEdit Overview – In-Depth Editor Review</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-unlock-youtubes-power-for-free-educational-sessions/"><u>2024 Approved  Unlock YouTube's Power for FREE Educational Sessions</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-perfect-guide-to-excel-in-tiktok-live-shopping/"><u>2024 Approved Perfect Guide To Excel in TikTok Live Shopping</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/essential-apps-for-professional-video-editing-on-androidpc/"><u>Essential Apps for Professional Video Editing on Android/PC</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/exclusive-environmentally-safe-recording-tools-for-2024/"><u>Exclusive Environmentally Safe Recording Tools for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/flipping-the-script-how-to-revamp-your-tiktok-username-effectively-for-2024/"><u>Flipping the Script  How to Revamp Your TikTok Username Effectively for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/harvest-heartbeats-top-farming-games-for-togetherness-for-2024/"><u>Harvest Heartbeats  Top Farming Games for Togetherness for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-iphone-se-2022-stuck-at-attempting-data-recovery-loop-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix iPhone SE (2022) Stuck at attempting data recovery Loop | Stellar</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-make-eye-zoom-transition-effect-with-filmora-for-2024/"><u>How to Make Eye Zoom Transition Effect with Filmora for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/how-to-rotate-a-video-on-vlc-media-player-for-2024/"><u>How to Rotate A Video on VLC Media Player for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-samsung-galaxy-xcover-6-pro-tactical-edition-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Samsung Galaxy XCover 6 Pro Tactical Edition to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-advanced-filming-techniques-for-your-live-streaming-needs-using-logitech-cam/"><u>In 2024, Advanced Filming Techniques for Your Live-Streaming Needs Using Logitech Cam</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-champion-phonographs-for-seminar-sessions/"><u>In 2024, Champion Phonographs for Seminar Sessions</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-from-visual-tweets-to-mp3-outputs/"><u>In 2024, From Visual Tweets to MP3 Outputs</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Oppo A58 4G? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-nokia-c110-by-drfone-android/"><u>In 2024, How to Bypass FRP on Nokia C110?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-how-to-present-ppt-on-google-meet-laptop-and-mobile-devices/"><u>In 2024, How to Present PPT on Google Meet? [Laptop and Mobile Devices]</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-master-instagram-livestreams-with-ease-your-complete-guide-to-obs-usage/"><u>In 2024, Master Instagram Livestreams with Ease  Your Complete Guide to OBS Usage</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-panopticam-review-breakdown/"><u>In 2024, PanoptiCam Review Breakdown</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-prime-cloud-call-recorder-pros/"><u>In 2024, Prime Cloud Call Recorder Pros</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-the-comprehensive-blueprint-for-music-manipulation-and-incorporation-into-videos-via-filmora/"><u>In 2024, The Comprehensive Blueprint for Music Manipulation and Incorporation Into Videos via Filmora</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/live-the-experience-top-4-ways-to-preserve-your-gaming-adventures-for-2024/"><u>Live the Experience  Top 4 Ways to Preserve Your Gaming Adventures for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/melodic-mastery-mac-studio-tips-for-2024/"><u>Melodic Mastery  Mac Studio Tips for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/must-haves-apps-that-record-your-desktop-for-2024/"><u>Must-Haves  Apps That Record Your Desktop for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/navigating-screen-capture-across-pcs-and-mobile-devices-for-2024/"><u>Navigating Screen Capture Across PCs and Mobile Devices for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-mastering-sound-integration-adding-audio-to-your-ae-projects/"><u>New Mastering Sound Integration Adding Audio to Your AE Projects</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/snappy-screens-the-windows-way/"><u>Snappy Screens  The Windows Way</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/step-by-step-guide-to-smooth-facetime-calls-on-mobile/"><u>Step-by-Step Guide to Smooth FaceTime Calls on Mobile</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-oneplus-11r-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your OnePlus 11R Phone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-apple-iphone-xs-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>Unlocking Apple iPhone XS Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unveiling-the-shield-against-monitor-flashes/"><u>Unveiling the Shield Against Monitor Flashes</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-from-basic-to-advanced-mastering-motion-blur-in-final-cut-pro/"><u>Updated In 2024, From Basic to Advanced Mastering Motion Blur in Final Cut Pro</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-mkv-file-trimming-made-easy-free-tools/"><u>Updated In 2024, MKV File Trimming Made Easy Free Tools</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/windows-movie-maker-for-mac-top-alternative-video-editing-tools/"><u>Windows Movie Maker for Mac Top Alternative Video Editing Tools</u></a></li>
+</ul></div>
