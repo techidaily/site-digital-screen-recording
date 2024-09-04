@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Elevate Your Video Edits  Ken Burns in Camtasia\""
-date: 2024-08-29T17:17:54.872Z
-updated: 2024-08-30T17:17:54.872Z
+date: 2024-09-03T07:18:10.180Z
+updated: 2024-09-04T07:18:10.180Z
 tags: 
   - screen-recording
   - ai video
@@ -163,5 +163,8 @@ Follow @Max Wales
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="1456" height="180"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->

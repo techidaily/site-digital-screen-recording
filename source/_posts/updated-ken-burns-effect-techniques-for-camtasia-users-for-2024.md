@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Ken Burns Effect Techniques for Camtasia Users for 2024"
-date: 2024-08-29T17:15:50.909Z
-updated: 2024-08-30T17:15:50.909Z
+date: 2024-09-03T07:18:12.696Z
+updated: 2024-09-04T07:18:12.696Z
 tags: 
   - screen-recording
   - ai video
@@ -154,5 +154,5 @@ Follow @Max Wales
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe id="iframe_1936838" src="//a.impactradius-go.com/gen-ad-code/5597632/1936838/18409" width="468" height="60" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Top 10 Games Like Ghost of Tsushima\""
-date: 2024-08-29T17:16:07.310Z
-updated: 2024-08-30T17:16:07.310Z
+date: 2024-09-03T07:18:12.318Z
+updated: 2024-09-04T07:18:12.318Z
 tags: 
   - screen-recording
   - ai video
@@ -201,5 +201,5 @@ Follow @Ollie Mattison
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503"><img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="" width="1456" height="180"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
