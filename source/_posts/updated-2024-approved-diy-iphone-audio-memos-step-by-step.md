@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  DIY iPhone Audio Memos  Step by Step\""
-date: 2024-09-03T07:18:09.289Z
-updated: 2024-09-04T07:18:09.289Z
+date: 2024-09-07T17:59:13.162Z
+updated: 2024-09-08T17:59:13.162Z
 tags: 
   - screen-recording
   - ai video
@@ -33,6 +33,12 @@ Record screen and webcam as well
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. How To Record with Voice Memo iPhone
 
 First, try to get the best position for your iPhone for quality results. Don't hold the phone in your hand. It will be better to make it stand firmly so that there is no unwanted noise caused due to movements. Place the microphone at the source of the recording. Here are the steps you have to follow to record voice memos, lectures, interviews, voice notes, songs and likewise with Voice Memo app iPhone.
@@ -55,6 +61,18 @@ Note: To listen to a voice memo, you need to launch Voice Memos app. You will se
 
 ![tap on the play button](https://images.wondershare.com/filmora/article-images/tap-on-the-play-button.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ****How To Trim and Edit A Voice Memo?**
 
 There are times when there could be some areas in your recording where you have made some mistakes or recorded something unnecessary. You need to trim your recording to eliminate such unnecessary parts easily. Here are the steps to trim your recorded voice memo.
@@ -77,6 +95,18 @@ Step 7: Now, you have to tap on Delete option to remove the section between the 
 
 ![remove section](https://images.wondershare.com/filmora/article-images/remove-section.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 8: Finally, you will have to tap on Save followed by Done.
 
 ****How To Delete or Share Voice Memos?**
@@ -131,12 +161,6 @@ There is no limit of recording time when it comes to recording a voice memo or n
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="1456" height="180"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. How To Record with Voice Memo iPhone
 
 First, try to get the best position for your iPhone for quality results. Don't hold the phone in your hand. It will be better to make it stand firmly so that there is no unwanted noise caused due to movements. Place the microphone at the source of the recording. Here are the steps you have to follow to record voice memos, lectures, interviews, voice notes, songs and likewise with Voice Memo app iPhone.
@@ -159,6 +183,12 @@ Note: To listen to a voice memo, you need to launch Voice Memos app. You will se
 
 ![tap on the play button](https://images.wondershare.com/filmora/article-images/tap-on-the-play-button.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ****How To Trim and Edit A Voice Memo?**
 
 There are times when there could be some areas in your recording where you have made some mistakes or recorded something unnecessary. You need to trim your recording to eliminate such unnecessary parts easily. Here are the steps to trim your recorded voice memo.
@@ -172,10 +202,10 @@ Step 3: Tap on three-dot More button.
 ![tap on three-dot more button](https://images.wondershare.com/filmora/article-images/tap-on-three-dot-more-button.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="1456" height="180"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Step 4: Choose Edit Recording option.
 
@@ -201,12 +231,6 @@ Step 3: Tap on Trash icon to delete the recording.
 
 ![delete the recording](https://images.wondershare.com/filmora/article-images/delete-the-recording.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="1456" height="180"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 The deleted recording will be in the Deleted folder for 30 days after deletion. Thereafter, it will disappear permanently. If you want, you can access the deleted audio file back by going to the Recently Deleted option. Tap on the recording that you want to restore and tap on Restore icon.
 
 Here are the steps to share any recording instantly from iPhone voice memo app.
@@ -226,10 +250,16 @@ Step 5: The app will now allow you to choose the app where you want to share the
 ![share](https://images.wondershare.com/filmora/article-images/share.jpg)
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_1983582" src="//a.impactradius-go.com/gen-ad-code/5597632/1983582/22993" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 <!-- affiliate ads begin -->
-<iframe id="iframe_1328679" src="//a.impactradius-go.com/gen-ad-code/5597632/1328679/15852" width="300" height="250" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## FAQs About Voice Memos app -
 
@@ -254,10 +284,10 @@ There is no limit of recording time when it comes to recording a voice memo or n
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 1\. How To Record with Voice Memo iPhone
 
@@ -281,6 +311,12 @@ Note: To listen to a voice memo, you need to launch Voice Memos app. You will se
 
 ![tap on the play button](https://images.wondershare.com/filmora/article-images/tap-on-the-play-button.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ****How To Trim and Edit A Voice Memo?**
 
 There are times when there could be some areas in your recording where you have made some mistakes or recorded something unnecessary. You need to trim your recording to eliminate such unnecessary parts easily. Here are the steps to trim your recorded voice memo.
@@ -293,6 +329,18 @@ Step 3: Tap on three-dot More button.
 
 ![tap on three-dot more button](https://images.wondershare.com/filmora/article-images/tap-on-three-dot-more-button.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 4: Choose Edit Recording option.
 
 Step 5: Tap on the Trim button.
@@ -303,6 +351,12 @@ Step 7: Now, you have to tap on Delete option to remove the section between the 
 
 ![remove section](https://images.wondershare.com/filmora/article-images/remove-section.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 8: Finally, you will have to tap on Save followed by Done.
 
 ****How To Delete or Share Voice Memos?**
@@ -329,6 +383,12 @@ Step 3: Tap on the three-dot More button.
 
 ![again](https://images.wondershare.com/filmora/article-images/again.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 4: Finally, tap on Share option.
 
 Step 5: The app will now allow you to choose the app where you want to share the voice recording.
@@ -336,16 +396,22 @@ Step 5: The app will now allow you to choose the app where you want to share the
 ![share](https://images.wondershare.com/filmora/article-images/share.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="1456" height="180"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="1456" height="180"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## FAQs About Voice Memos app -
 
@@ -383,9 +449,6 @@ Step 4: Tap anywhere on the recording pane to see the Pause button in case you w
 
 ![voice memo tap to record](https://images.wondershare.com/filmora/article-images/voice-memos.jpg)
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_1975648" src="//a.impactradius-go.com/gen-ad-code/5597632/1975648/22993" width="160" height="600" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 Step 6: The app also allows you to go forward or backward by 15 seconds by tapping the Rewind or Forward buttons.
 
 Step 7: Once you are done recording, you will have to tap Done button. When there is no extra panel, you can tap on Stop button.
@@ -394,6 +457,12 @@ Note: To listen to a voice memo, you need to launch Voice Memos app. You will se
 
 ![tap on the play button](https://images.wondershare.com/filmora/article-images/tap-on-the-play-button.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ****How To Trim and Edit A Voice Memo?**
 
 There are times when there could be some areas in your recording where you have made some mistakes or recorded something unnecessary. You need to trim your recording to eliminate such unnecessary parts easily. Here are the steps to trim your recorded voice memo.
@@ -406,9 +475,6 @@ Step 3: Tap on three-dot More button.
 
 ![tap on three-dot more button](https://images.wondershare.com/filmora/article-images/tap-on-three-dot-more-button.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step 4: Choose Edit Recording option.
 
 Step 5: Tap on the Trim button.
@@ -434,7 +500,10 @@ Step 3: Tap on Trash icon to delete the recording.
 ![delete the recording](https://images.wondershare.com/filmora/article-images/delete-the-recording.jpg)
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_1304647" src="//a.impactradius-go.com/gen-ad-code/5597632/1304647/15852" width="300" height="250" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 The deleted recording will be in the Deleted folder for 30 days after deletion. Thereafter, it will disappear permanently. If you want, you can access the deleted audio file back by going to the Recently Deleted option. Tap on the recording that you want to restore and tap on Restore icon.
 
@@ -448,18 +517,18 @@ Step 3: Tap on the three-dot More button.
 
 ![again](https://images.wondershare.com/filmora/article-images/again.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 4: Finally, tap on Share option.
 
 Step 5: The app will now allow you to choose the app where you want to share the voice recording.
 
 ![share](https://images.wondershare.com/filmora/article-images/share.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## FAQs About Voice Memos app -
 
 Where is the voice memo app on iPhone 7?
