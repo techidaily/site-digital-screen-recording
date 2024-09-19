@@ -1,7 +1,7 @@
 ---
 title: "[New] Encompass Entire Webpage in View"
-date: 2024-09-11T17:56:56.697Z
-updated: 2024-09-13T18:53:23.131Z
+date: 2024-09-14T23:14:47.907Z
+updated: 2024-09-18T17:19:54.642Z
 tags: 
   - screen-recording
   - ai video
@@ -54,20 +54,6 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 1: Taking Screenshots of an Entire Page on Windows Using The Hotkeys
 
 Most frequently used web browsers such as Google Chrome or Mozilla Firefox, offer the Print option, so all you need to do in order to capture the whole page is to head over to the web page you'd like to capture, open the browser's File menu and then click on the **Print** feature. If it is easier, you can just hit the **CTRL + P** keyboard shortcut to launch the Print window.
@@ -76,13 +62,6 @@ Most frequently used web browsers such as Google Chrome or Mozilla Firefox, offe
 
 Once the printing dialogue box appears on the screen you'll be able to preview the pages of the document, adjust the printing options and select the file format. Click on the **Change** icon and select the **Microsoft XPS Document Writer**, if you are using Google Chrome to create a new document that contains the entire page. You can also create a PDF file, but this file format may include the ads or other overlaying elements on the web page. When done, click on the Print icon to save the document to the desired location on your hard drive.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 2: Zooming Out the Page for Full-Screen Webpage Screenshots
 
 If you'd like to avoid producing several screenshots that you'll later have to combine into a single image or a document, you can simply hold the **CTRL and -** keys on Windows or **Command - on** a Mac OS to zoom out the page and fit it into a screen.
@@ -90,16 +69,10 @@ If you'd like to avoid producing several screenshots that you'll later have to c
 To capture the resized screen, simply hold the **PrintScreen** button on your keyboard and the image will instantly be saved to the clipboard. Afterward, you have to paste the screenshot to a new document in any graphics editor, using the **CTRL and V** buttons. The **Cmd + Shift + 4** keyboard shortcut will enable you to take quick screenshots on a Mac computer, while the **Command + 0** will reset the browser to normal view.
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 3: Capturing Screenshots With Browser Extensions
@@ -111,10 +84,16 @@ Built-in screen capturing options on Windows and Mac offer only a limited amount
 ![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/nimbusweb-full-page-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 This is a free and easy to use add-on that is compatible with Google Chrome, Firefox and Opera browsers. Nimbus enables you to freely designate the region of the screen you'd like to capture and to even perform basic video editing tasks such as blurring the private info in the screenshot.
@@ -166,10 +145,10 @@ Leave a comment below and let us know which method of capturing full page screen
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -187,16 +166,20 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-strategic-showdowns-unleashed-exploring-7-best-games/"><u>[New] 2024 Approved Strategic Showdowns Unleashed Exploring 7 Best Games</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-easy-steps-to-setting-up-a-professional-discord-stream-for-2024/"><u>[New] Easy Steps to Setting Up a Professional Discord Stream for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-pushing-boundaries-with-innovative-instagram-content-for-2024/"><u>[New] Pushing Boundaries with Innovative Instagram Content for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-your-guide-to-premium-full-screen-recorders-for-pcmac/"><u>[Updated] Your Guide to Premium Full-Screen Recorders for PC/Mac</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-nubia-red-magic-8s-proplus-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Nubia Red Magic 8S Pro+</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-a-comprehensive-guide-to-maximizing-channels-earnings-through-trailers/"><u>In 2024, A Comprehensive Guide to Maximizing Channels' Earnings Through Trailers</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Vivo Y200e 5G | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-nokia-c12-plus-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Nokia C12 Plus to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-quiet-filming-techniques-to-consider-first/"><u>In 2024, Quiet Filming Techniques to Consider First</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/navigating-the-solo-podcast-landscape-successfully/"><u>Navigating the Solo Podcast Landscape Successfully</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/powerpoint-and-voice-a-seamless-journey-explored-for-2024/"><u>PowerPoint and Voice A Seamless Journey Explored for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-jumpstart-with-vrecorder-easy-installation-walkthrough-for-2024/"><u>[New] Jumpstart with VRecorder Easy Installation Walkthrough for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-mastering-video-backgrounds-teammeeting-blurring-guide/"><u>[New] Mastering Video Backgrounds TeamMeeting Blurring Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mythos-makers-mecca-prime-pantheon-seven/"><u>[New] Mythos Makers’ Mecca - Prime Pantheon Seven</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-pioneering-usability-unearthed-strategies-for-amplified-windows-11-capabilities/"><u>[New] Pioneering Usability Unearthed Strategies for Amplified Windows 11 Capabilities</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-the-most-immersive-iphone-vr-games-ever-for-2024/"><u>[New] The Most Immersive iPhone VR Games Ever for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-achieving-broadcast-excellence-from-recordings-to-livestreams-on-obs/"><u>[Updated] Achieving Broadcast Excellence From Recordings to Livestreams on OBS</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-altering-visuals-in-teams-calls-timely-setup-adjustments-for-2024/"><u>[Updated] Altering Visuals in Teams Calls Timely Setup Adjustments for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-discovering-the-ultimate-14-stardew-valley-upgrades-for-2024/"><u>[Updated] Discovering the Ultimate 14 Stardew Valley Upgrades for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-secretive-suggestions-for-enhanced-vlc-usage/"><u>[Updated] Secretive Suggestions for Enhanced VLC Usage</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-infinix-smart-7-hd-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Infinix Smart 7 HD to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/essential-windows-8-tips-record-your-screen-for-2024/"><u>Essential Windows 8 Tips Record Your Screen for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Poco C65 | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-screencaps-made-simple-with-irecorder/"><u>In 2024, Screencaps Made Simple with iRecorder</u></a></li>
+<li><a href="https://techtrends.techidaily.com/whos-spreading-the-word-discovering-the-users-that-shared-your-facebook-updates/"><u>Who's Spreading the Word? Discovering the Users That Shared Your Facebook Updates</u></a></li>
 </ul></div>
 

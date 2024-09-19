@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Immediate Screenshot Recorder (Chrome)"
-date: 2024-09-07T20:50:56.392Z
-updated: 2024-09-13T23:34:15.090Z
+date: 2024-09-16T04:15:50.753Z
+updated: 2024-09-19T00:12:27.608Z
 tags: 
   - screen-recording
   - ai video
@@ -31,72 +31,25 @@ If you are not seeing the recorder out of the box then you will need to access t
 
 ![chrome native screen recorder setting up](https://images.wondershare.com/filmora/article-images/chrome-native-screen-recorder-setting-up.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 2: Recorder Screen
 
 Once you are done with settings up the flag or you are using the latest Chrome OS now it's time to move to record your screen. Go to the lower right button of your OS screen and click on the shelf as shown in the figure below. A new window will appear, now you will need to click on the screen capture.
 
 ![chrome recorder screen screen capture](https://images.wondershare.com/filmora/article-images/chrome-recorder-screen-screen-capture.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Soon as you click on the screen capture, you will be prompted to a new screen with a variety of options for the tool as shown. Here you can choose a specific target area on the screen for screenshots as well as screen videos from the “Capture Area” in the figure. You can switch using the two options as shown in the figure below. To finally start recording, click “Start Capturing” as shown in the figure.
 
 ![chrome select start](https://images.wondershare.com/filmora/article-images/chrome-select-start.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Finally, once you are done recording and now it's time to stop recording. You just need to click on the stop icon in the lower-right bottom of the desktop screen as shown in the figure below.
 
 ![chrome stop recording](https://images.wondershare.com/filmora/article-images/chrome-stop-recording.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: Other Alternative Ways to Record Chrome Screen
@@ -114,15 +67,22 @@ Once it is installed, you can go to extensions and launch it. It will pop up a s
 ![screencastify setup sign in google account](https://images.wondershare.com/filmora/article-images/screencastify-setup-sign-in-google-account.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Once you are finished signing in and installing, it's time to set microphone settings in a new browser window. After that click next and it will be finished. Access it from the top right corner as shown in the picture and it will be open.
 
 ![screencastify set microphone new browser](https://images.wondershare.com/filmora/article-images/screencastify-set-microphone-new-browser.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 You can record your desktop screen with the desktop icon. The browser tab can be recorded by clicking that icon and clicking record. Moreover, the webcam record can be captured using the webcam icon and clicking start recording as shown below in the figure.
 
@@ -136,33 +96,20 @@ Another Google addon for screen recording is Awesome screenshot and screen recor
 
 ![awesome screenshot and screen recorder](https://images.wondershare.com/filmora/article-images/awesome-screenshot-and-screen-recorder.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 After adding the extension a new window will appear to set up your extension. There are three steps, first, you will need to sign up using your Google account. After that, the next step is to pin the addon to the top bar. For that click on the extension icon and pin it to the bar as shown in 3 in the figure. Click next and finish the setup.
 
 ![awesome screenshot pin extension](https://images.wondershare.com/filmora/article-images/awesome-screenshot-pin-extension.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Let's come to the recording of the screen. Open up the extension from the pinned icon and you will see its GUI. Select “record” and click on the “Desktop” icon as shown. Do the simple settings by selecting the storing facility, enabling the microphone, setting resolution, and enabling the camera. In the end, click start recording. Next, you will select the screen or a specific application window. Once it's chosen click share as shown in the figure. To stop the sharing click on the “Stop Sharing” button to stop.
 
 ![awesome screenshot setting resolution](https://images.wondershare.com/filmora/article-images/awesome-screenshot-setting-resolution.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Similarly, a screenshot can be taken by going to the “Capture” section in the main bar. Click “Visible Port” and click start capturing. After that, a vibrant screenshot editor will pop up to edit your screenshot at the run time.
 
@@ -224,19 +171,16 @@ To wind up, it's true there are a lot of screen recording add-ons and applicatio
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2023s-ultimate-capture-software-revisited-for-2024/"><u>[New] 2023'S Ultimate Capture Software Revisited for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-using-inbuilt-recorders-for-screen-capture-on-huaweis-mate-and-p-series-devices/"><u>[New] In 2024, Using Inbuilt Recorders for Screen Capture on Huawei's Mate and P Series Devices</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-youtube-descriptions-revamped-by-template-professionals/"><u>[New] YouTube Descriptions Revamped by Template Professionals</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-capture-clarity-high-quality-screen-recordings-for-youtubers-pcmac/"><u>[Updated] 2024 Approved Capture Clarity High-Quality Screen Recordings for YouTubers (PC/Mac)</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-digital-audience-accolades-for-content-makers/"><u>[Updated] 2024 Approved Digital Audience Accolades for Content Makers</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-obs-studio-for-gamers-ps4-screenshots-and-recordings-guide/"><u>[Updated] 2024 Approved OBS Studio for Gamers PS4 Screenshots & Recordings Guide</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-secure-storage-strategies-for-itunes-media/"><u>[Updated] 2024 Approved Secure Storage Strategies for iTunes Media</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-cutting-edge-tips-best-practices-in-digital-sound-recording/"><u>[Updated] Cutting-Edge Tips Best Practices in Digital Sound Recording</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-from-concept-to-completion-producing-a-viral-facebook-reel/"><u>[Updated] In 2024, From Concept to Completion Producing a Viral Facebook Reel</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-top-10-firefox-video-capture-packages/"><u>2024 Approved Top 10 Firefox Video Capture Packages</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-xiaomi-13t-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Xiaomi 13T to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/ultimate-screen-recorder-companion-for-windows-10-for-2024/"><u>Ultimate Screen Recorder Companion for Windows 10 for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-potential-through-virtualization-for-2024/"><u>Unlocking Potential Through Virtualization for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unlocking-the-secrets-understanding-limitations-of-ios-for-gift-transfers/"><u>Unlocking the Secrets: Understanding Limitations of iOS for Gift Transfers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-the-ultimate-guide-to-best-android-animal-games/"><u>[New] In 2024, The Ultimate Guide to Best Android Animal Games</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-vintage-racing-spectacles-top-five/"><u>[New] In 2024, Vintage Racing Spectacles Top Five</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-7-best-tiktok-emojis-and-how-to-discover-tiktok-secret-emojis/"><u>[Updated] 2024 Approved 7 Best TikTok Emojis and How to Discover TikTok Secret Emojis</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-excellent-voice-capture-gadgets-top-7-list-2023/"><u>[Updated] 2024 Approved Excellent Voice Capture Gadgets, Top 7 List 2023</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-plain-definitions-in-storytelling-basics/"><u>[Updated] Plain Definitions in Storytelling Basics</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-unveiling-the-secrets-of-combining-obs-with-zoom/"><u>[Updated] Unveiling the Secrets of Combining OBS with Zoom</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-new-chapter-in-gaming-without-borders/"><u>A New Chapter in Gaming Without Borders</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/how-to-record-gameplay-and-webcam/"><u>How to Record Gameplay and Webcam</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-interactive-lessons-expert-video-editing-for-classroom/"><u>In 2024, Interactive Lessons Expert Video Editing for Classroom</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/story-1-the-misconception-of-lisinoprils-nephrotoxicity/"><u>Story 1: The Misconception of Lisinopril's Nephrotoxicity</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-8-limitations-of-using-ai-chatbots-for-content-creation/"><u>Top 8 Limitations of Using AI Chatbots for Content Creation</u></a></li>
 </ul></div>
 

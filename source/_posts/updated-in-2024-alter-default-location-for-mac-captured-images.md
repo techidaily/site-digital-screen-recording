@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Alter Default Location for Mac Captured Images"
-date: 2024-09-06T21:08:24.990Z
-updated: 2024-09-13T16:27:35.992Z
+date: 2024-09-13T08:32:10.342Z
+updated: 2024-09-18T20:24:58.575Z
 tags: 
   - screen-recording
   - ai video
@@ -31,19 +31,6 @@ Here's how you can change the location where the screenshots you take using the 
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -61,32 +48,11 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
 
 Changing the folder where you store your screenshots is not an irreversible process, which means that you can reset the destination where the files are saved to Desktop at any point. Do not delete the new folder, because your Mac may not be able to take screenshots, afterward. The process described below is the only way you can delete a folder or add a new destination for your screenshots, and failing to comply with it may cause your Mac to malfunction.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
 
@@ -95,13 +61,6 @@ Create a new folder on the desired location on your hard drive, and then launch 
 Then enter a space at the end after 'location'.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
 
@@ -112,13 +71,6 @@ To execute the command you have to press Enter. After Terminal finishes running 
 **killall SystemUIServer**
 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
 
@@ -147,18 +99,25 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-cross-platform-commerce-innovation/"><u>[New] Cross-Platform Commerce Innovation</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-leading-steadicam-choices-for-improved-dslr-footage/"><u>[New] Leading Steadicam Choices for Improved DSLR Footage</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-sprout-screencapture-transform-your-pc-footage-game-for-2024/"><u>[New] Sprout ScreenCapture Transform Your PC Footage Game for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-game-to-glass-obs-edition/"><u>[Updated] 2024 Approved Game to Glass OBS Edition</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-bridge-iphone-android-and-pc-timelines-for-syncing-zoom-for-2024/"><u>[Updated] Bridge iPhone, Android, and PC Timelines for Syncing Zoom for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-voice-capture-device-analysis-for-2024/"><u>[Updated] Voice Capture Device Analysis for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/disable-screen-lock-on-asus-rog-phone-8-by-drfone-android-unlock-android-unlock/"><u>Disable screen lock on Asus ROG Phone 8</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-vivo-y02t-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Vivo Y02T | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Realme 10T 5G? | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-is-there-a-superior-cameras-marketplace/"><u>In 2024, Is There a Superior Cameras Marketplace?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-reclaim-the-loss-10-essential-iphone-x-techniques/"><u>In 2024, Reclaim The Loss 10 Essential iPhone X Techniques</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/seamless-conversion-from-epub-ebooks-to-portable-document-format-pdf/"><u>Seamless Conversion From EPUB eBooks to Portable Document Format (PDF)</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-xiaomi-redmi-note-12-pro-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Xiaomi Redmi Note 12 Pro 5G with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-free-mobile-live-stream-apps-essentials-for-smartphones/"><u>[New] 2024 Approved Free Mobile Live Stream Apps Essentials for Smartphones</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-navigating-technical-hurdles-for-a-smooth-live-broadcast-experience/"><u>[New] Navigating Technical Hurdles for a Smooth Live Broadcast Experience</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-streamlining-your-storytelling-adding-captions-on-instagram/"><u>[New] Streamlining Your Storytelling Adding Captions on Instagram</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-pixelperfect-the-modern-recorder-diagnosis-for-2024/"><u>[Updated] 'PixelPerfect' The Modern Recorder Diagnosis for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-expert-techniques-to-efficiently-manipulate-whiteboards-in-web-conferencing-tools/"><u>[Updated] 2024 Approved Expert Techniques to Efficiently Manipulate Whiteboards in Web Conferencing Tools</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-windows-11-capture-top-eight-tools-ranked/"><u>[Updated] In 2024, Windows 11 Capture Top Eight Tools Ranked</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-complete-guide-to-inverted-footage-in-instagram-for-2024/"><u>[Updated] The Complete Guide to Inverted Footage in Instagram for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-ultimate-guide-to-choosing-a-tunefab-recorder-for-2024/"><u>[Updated] The Ultimate Guide to Choosing a Tunefab Recorder for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/capturing-every-frame-the-apeaksoft-reviewed-screen-recorder/"><u>Capturing Every Frame The Apeaksoft Reviewed Screen Recorder</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/inside-out-faq-insights-comprehensive-responses-to-common-queries/"><u>Inside Out FAQ Insights: Comprehensive Responses to Common Queries</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-translate-videos-and-subtitles-with-veedio/"><u>New In 2024, Translate Videos and Subtitles with Veed.io</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-vivo-v30-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Vivo V30</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

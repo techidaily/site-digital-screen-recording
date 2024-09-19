@@ -1,7 +1,7 @@
 ---
 title: Plagiarism or Programming? Investigating the Source Material of ChatGPT
-date: 2024-09-12T22:01:29.138Z
-updated: 2024-09-13T19:48:43.149Z
+date: 2024-09-17T08:04:46.487Z
+updated: 2024-09-18T21:10:28.232Z
 tags:
   - chatgpt
   - open-ai
@@ -33,23 +33,9 @@ thumbnail: https://thmb.techidaily.com/49f07ba1564e1ad5829085791d56fbd558cd9b6be
 
  However, it's important to understand[how ChatGPT works](https://www.makeuseof.com/how-does-chatgpt-work/) so that you can use it efficiently. By having a better understanding of how it was created and trained and how it generates responses, you will be able to make the most of it.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why Hasn't ChatGPT Affected the Search Engines So Far?
 
  Despite ChatGPT's immense popularity, it's still not ready to significantly impact the search engine industry for several reasons. Here are a few of them:
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. ChatGPT Is Trained on a Limited Set of Data
 
@@ -66,10 +52,10 @@ thumbnail: https://thmb.techidaily.com/49f07ba1564e1ad5829085791d56fbd558cd9b6be
 ![ChatGPT Saying It Can Also Generate Wrong Answers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-saying-it-can-also-generate-wrong-answers-and-explains-why-it-does-so.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. ChatGPT Is Less Credible
@@ -81,10 +67,10 @@ thumbnail: https://thmb.techidaily.com/49f07ba1564e1ad5829085791d56fbd558cd9b6be
 ![ChatGPT  Saying It Can't Add References](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-saying-it-can-t-add-references.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can[sign up and start using ChatGPT](https://www.makeuseof.com/how-to-use-chatgpt-by-openai/) in just a few minutes. If you haven't tried it yet, take advantage of it to enhance your productivity. Although ChatGPT isn't ready to disrupt the search engine industry just yet, does it have the potential to do so in the future?
@@ -104,16 +90,10 @@ thumbnail: https://thmb.techidaily.com/49f07ba1564e1ad5829085791d56fbd558cd9b6be
  On the other hand, search engines give you results based on your queries, so you need to fine-tune your keyword selection to get the best results.
 
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Soon Could ChatGPT Significantly Impact the Search Engine Industry?
@@ -129,19 +109,6 @@ thumbnail: https://thmb.techidaily.com/49f07ba1564e1ad5829085791d56fbd558cd9b6be
  For example, ChatGPT can quickly answer whether cats eat carrots since it is a solid fact. However, it may not effectively satisfy the search intent of some queries (such as how-to explainer guides) where users expect to see images alongside textual information.
 
 ![ChatGPT Saying It Can't Generate Images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-saying-it-can-t-generate-images.jpg)
-
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Let ChatGPT Evolve
 
@@ -166,17 +133,18 @@ thumbnail: https://thmb.techidaily.com/49f07ba1564e1ad5829085791d56fbd558cd9b6be
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-video-excellence-mirrorless-cameras-vs-traditional-dslrs/"><u>[New] 2024 Approved Video Excellence Mirrorless Cameras vs Traditional DSLRs</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-advanced-archiving-preserving-full-fbm-call-history/"><u>[New] Advanced Archiving Preserving Full FBM Call History</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-pcs-prime-screen-capture-software-ranked-1-5/"><u>[Updated] In 2024, PC's Prime Screen Capture Software Ranked #1-#5</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-professional-insights-io-screen-capturing-demystified/"><u>[Updated] In 2024, Professional Insights IO Screen Capturing Demystified</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-discover-the-10-leading-free-video-call-apps-iosandroid/"><u>2024 Approved Discover The 10 Leading Free Video Call Apps (iOS/Android)</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-instagram-archive-essentials-top-15-downloader-tools/"><u>2024 Approved Instagram Archive Essentials Top 15 Downloader Tools</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-garmin-gpsmap-64st-assessment-excelling-in-versatile-handheld-navigation/"><u>Comprehensive Garmin GPSMAP 64St Assessment: Excelling in Versatile Handheld Navigation</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/getting-up-close-and-personal-with-the-cutting-edge-features-of-the-iphone-15-pro-an-insiders-take/"><u>Getting Up Close and Personal with the Cutting-Edge Features of the iPhone 15 Pro – An Insider's Take</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/innovative-methods-for-straightforward-ios-screenshots-for-2024/"><u>Innovative Methods for Straightforward IOS Screenshots for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721475090693-trouble-with-iphone-home-button-here-are-5-swift-fixes-to-try-out/"><u>Trouble with iPhone Home Button? Here Are 5 Swift Fixes to Try Out</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/unplugged-gaming-world-the-ultimate-list-of-best-free-mobile-apps-for-2024/"><u>Unplugged Gaming World - The Ultimate List of Best Free Mobile Apps for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/workstations-for-work-consoles-for-games-a-look/"><u>Workstations for Work, Consoles for Games: A Look</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-essential-screen-capture-tips-for-mi-11-users/"><u>[New] 2024 Approved Essential Screen Capture Tips for Mi 11 Users</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-a-user-friendly-guide-to-efficiently-use-ez-grabber/"><u>[New] A User-Friendly Guide to Efficiently Use EZ Grabber</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-micro-influencer-approach-to-live-youtube-streams-from-mobile-for-2024/"><u>[New] Micro-Influencer Approach to Live Youtube Streams From Mobile for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-immediate-window-image-on-pc-win/"><u>[Updated] 2024 Approved Immediate Window Image on PC (Win)</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-dive-into-camtasias-ken-burns-feature-rich-tutorial/"><u>2024 Approved Dive Into Camtasia’s Ken Burns Feature-Rich Tutorial</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-making-a-channels-story-visible-in-snippets/"><u>2024 Approved Making a Channel's Story Visible in Snippets</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-privacy-preservation-through-invisible-modifications/"><u>2024 Approved Privacy Preservation Through Invisible Modifications</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/elevate-personalization-with-cutting-edge-insights-from-cookiebot-solutions/"><u>Elevate Personalization with Cutting-Edge Insights From Cookiebot Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-1067-explained-a-step-by-step-solution-for-when-your-windows-application-abruptly-stops/"><u>Error 1067 Explained: A Step-by-Step Solution for When Your Windows Application Abruptly Stops</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-chasing-deals-on-vr-gear-in-china/"><u>In 2024, Chasing Deals on VR Gear in China</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-combat-black-screen-disruptions-in-gaming-feeds/"><u>In 2024, Combat Black Screen Disruptions in Gaming Feeds</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-get-and-set-up-microsofts-xp-video-editor-installer/"><u>In 2024, Get & Set Up Microsoft's XP Video Editor Installer</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-to-enjoying-every-superman-film-in-proper-sequence/"><u>Step-by-Step Guide to Enjoying Every 'Superman' Film in Proper Sequence</u></a></li>
 </ul></div>
 

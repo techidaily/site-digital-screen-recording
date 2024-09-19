@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Ultimate Guide to AI-Infused Gaming Broadcasts\""
-date: 2024-09-08T16:11:22.860Z
-updated: 2024-09-13T23:12:16.521Z
+date: 2024-09-16T14:21:29.912Z
+updated: 2024-09-19T05:36:55.017Z
 tags: 
   - screen-recording
   - ai video
@@ -50,13 +50,6 @@ For Win 7 or later (64-bit)
 
 ![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
 For macOS 10.12 or later
@@ -69,46 +62,13 @@ Using AI Portrait doesn't require any kind of technical skills or expertise. One
 
 ![game-streaming-with-ai-portrait-step1](https://images.wondershare.com/filmora/article-images/game-streaming-with-ai-portrait-step1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 02:** Import your Gameplay and your own video into the Filmora by clicking on the import button or by dragging the media into Filmora.
 
 ![game-streaming-with-ai-portrait-step2](https://images.wondershare.com/filmora/article-images/game-streaming-with-ai-portrait-step2.png)
 
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 03:** Drag both of these footages into the timeline. Make sure to place your self-recording above the gameplay.
 
 ![game-streaming-with-ai-portrait-step3](https://images.wondershare.com/filmora/article-images/game-streaming-with-ai-portrait-step3.png)
-
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 04:** Select your self-recording and click on effects. Go to the AI Portraits. It shows all the AI Portrait effects.
 
@@ -122,23 +82,9 @@ Using AI Portrait doesn't require any kind of technical skills or expertise. One
 
 ![game-streaming-with-ai-portrait-step6](https://images.wondershare.com/filmora/article-images/game-streaming-with-ai-portrait-step6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 07:** Adjust the footage by making it smaller and moving to the lower-left corner of the screen. We are good to go.
 
 ![game-streaming-with-ai-portrait-step7](https://images.wondershare.com/filmora/article-images/game-streaming-with-ai-portrait-step7.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 08:** If in some part of the video you want to show something covered by the character, you can easily change the character's position using keyframes for a smooth movement. To make sure the character footage is selected, pause the video when you want to change the position of the character and click on the keyframe button above the timeline.
 
@@ -151,19 +97,6 @@ Using AI Portrait doesn't require any kind of technical skills or expertise. One
 **Step 10:** If you want to move the character to the same position, move forward into the timeline and drag it to the same position.
 
 ![game-streaming-with-ai-portrait-step10](https://images.wondershare.com/filmora/article-images/game-streaming-with-ai-portrait-step10.png)
-
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Conclusion
 
@@ -188,20 +121,25 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-10-best-video-calling-software-on-phone-and-pc/"><u>[New] 2024 Approved 10 Best Video Calling Software on Phone and PC</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-pro-level-recording-highlighting-9-best-remote-mic-systems-23/"><u>[New] 2024 Approved Pro-Level Recording Highlighting 9 Best Remote Mic Systems ('23)</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-cutting-edge-filmmaking-on-your-ios-device/"><u>[Updated] Cutting-Edge Filmmaking on Your iOS Device</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-decoding-the-art-of-fb-video-downloads-in-hd-for-2024/"><u>[Updated] Decoding the Art of FB Video Downloads in HD for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-detailed-ice-cream-snapshot-analysis-report-for-2024/"><u>[Updated] Detailed Ice Cream Snapshot Analysis Report for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-essential-guide-to-selecting-best-video-grabber-tools/"><u>[Updated] Essential Guide to Selecting Best Video Grabber Tools</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-overwatch-video-captures-done-right-made-simple/"><u>[Updated] In 2024, Overwatch Video Captures – Done Right, Made Simple</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-transform-your-workflow-top-10-stealthy-canva-techniques/"><u>[Updated] In 2024, Transform Your Workflow Top 10 Stealthy Canva Techniques</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-iphone-slow-motion-camera-video/"><u>[Updated] IPhone Slow-Motion Camera Video</u></a></li>
-<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-oppo-a18-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Oppo A18 to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/crucial-techniques-for-documenting-lol-wars/"><u>Crucial Techniques for Documenting LOL Wars</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-xiaomi-mix-fold-3-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Xiaomi Mix Fold 3 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Realme 10T 5G | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/resolving-network-not-found-issues-a-guide-for-your-samsung-galaxy-device/"><u>Resolving 'Network Not Found' Issues: A Guide for Your Samsung Galaxy Device</u></a></li>
-<li><a href="https://facebook.techidaily.com/silence-the-social-media-squabbles/"><u>Silence the Social Media Squabbles</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-snaps-boomerangs-mastering-and-tips/"><u>[New] 2024 Approved Snap's Boomerangs Mastering & Tips</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-affordable-hardware-excellent-obs-setup-for-2024/"><u>[New] Affordable Hardware Excellent OBS Setup for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-top-10-scholarly-channels-on-youtube-for-history-aficionados/"><u>[New] Top 10 Scholarly Channels on Youtube for History Aficionados</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-comparing-sharex-with-industry-leaders/"><u>[Updated] Comparing ShareX with Industry Leaders</u></a></li>
+<li><a href="https://fox-info.techidaily.com/1718937043027-updated-dji-phantom-3-standard-vs-advanced-vs-professional-vs-4k/"><u>[Updated] DJI Phantom 3 Standard Vs Advanced Vs Professional Vs 4K</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-essential-tools-for-quality-4k-video-recording-for-2024/"><u>[Updated] Essential Tools for Quality 4K Video Recording for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-how-to-share-screen-on-google-meet-for-2024/"><u>[Updated] How to Share Screen on Google Meet for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-ultimate-list-the-top-10-thrilling-action-packed-games/"><u>[Updated] Ultimate List The Top 10 Thrilling Action-Packed Games</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-free-range-creativity-with-premium-ae-samples/"><u>2024 Approved Free-Range Creativity with Premium AE Samples</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-ultimate-guide-to-no-ad-android-video-tools/"><u>2024 Approved Ultimate Guide to No-Ad Android Video Tools</u></a></li>
+<li><a href="https://blog-min.techidaily.com/aacmpeg/"><u>AACとMPEGファイルを無料で簡単に変換: オンラインツールのトップ選手</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-instagrams-abandoned-followers-map/"><u>In 2024, Instagram's Abandoned Followers Map</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-techniques-for-saving-teams-meetings-desktopmobile/"><u>In 2024, Techniques for Saving Teams Meetings (Desktop/Mobile)</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Enhancing Gaming Experience with Steam Switch Control"
-date: 2024-09-09T20:40:13.380Z
-updated: 2024-09-13T20:39:11.562Z
+date: 2024-09-12T18:21:27.367Z
+updated: 2024-09-19T15:28:57.702Z
 tags: 
   - screen-recording
   - ai video
@@ -62,67 +62,20 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 
 ![switch-pro-controller-syncing-button](https://images.wondershare.com/filmora/article-images/switch-pro-controller-syncing-button.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Right-click the Bluetooth icon in the system tray.
 
 ![switch-pro-controller-bluetooth-connection](https://images.wondershare.com/filmora/article-images/switch-pro-controller-bluetooth-connection.png)
 
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * To add a Bluetooth device, click "Add Bluetooth Device."
 
 ![switch-pro-controller-add-device](https://images.wondershare.com/filmora/article-images/switch-pro-controller-add-device.png)
-
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * Click on "Bluetooth" (since Windows 10 needs to be convinced that you want to use Bluetooth).
 * Ensure that the Pro Controller appears on the list of available devices (if it does not, ensure that the indicator lights are flashing back and forth). Pair the controller by clicking it.
 
 ![switch-pro-controller-setting-up](https://images.wondershare.com/filmora/article-images/switch-pro-controller-setting-up.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Once Steam is set up, you can begin using it.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **How To Setup Steam To Use Your Switch Pro Controller On Pc**
 
@@ -143,10 +96,10 @@ When configured through Steam, you should use the Pro Controller with any Steam 
 Enter the Switch Pro Controller overlay from Steam's controller options while running in Big Picture mode. There are several ways to map the inputs on the Pro Controller, but default configurations are usually sufficient for most games. By changing the controller mapping based on the situation, you can fix any problems on the fly.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **What To Do With Non-Steam Games?**
@@ -158,6 +111,13 @@ The main problem here now is how windows will detect your switch pro controller 
 **Solution1:** The first solution is to use an external Bluetooth adapter that is specifically designed for different types of gamepads. You will find plenty of them out there for switch pro controllers.
 
 **Solution2:** The second method is to use a software-based XInput Wrapper. There is plenty of software out there that provides this functionality. Just configure your switch pro controller with them, and you can easily use it on non-steam games.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Final Verdict**
 
@@ -180,19 +140,17 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-comprehensive-iptv-accessibility/"><u>[New] 2024 Approved Comprehensive IPTV Accessibility</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-crafting-dynamic-gifs-from-video-an-illustrative-tutorial/"><u>[New] 2024 Approved Crafting Dynamic Gifs From Video An Illustrative Tutorial</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-guard-your-video-calls-the-ultimate-list-of-free-security-enhanced-applications-for-2024/"><u>[New] Guard Your Video Calls The Ultimate List of Free Security-Enhanced Applications for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-smooth-operations-boosting-memory-allocation-to-minecraft-for-2024/"><u>[New] Smooth Operations Boosting Memory Allocation to Minecraft for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-top-offline-mobile-world-choose-the-ultimate-game-for-fun-for-2024/"><u>[New] Top Offline Mobile World - Choose the Ultimate Game for Fun for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-reversing-time-retracing-your-steps-for-lost-snaps/"><u>[Updated] 2024 Approved Reversing Time Retracing Your Steps for Lost Snaps</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-co-production-strategies-for-online-content-proliferation/"><u>[Updated] In 2024, Co-Production Strategies for Online Content Proliferation</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-mastering-iphone-screen-recording-with-minimal-fuss-for-2024/"><u>[Updated] Mastering iPhone Screen Recording with Minimal Fuss for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/definitive-top-ten-nintendo-switch-combat-apps-max-156/"><u>Definitive Top Ten Nintendo Switch Combat Apps (Max 156)</u></a></li>
-<li><a href="https://win11.techidaily.com/embark-on-a-parallels-driven-path-for-windows-11-installation/"><u>Embark on a Parallels-Driven Path for Windows 11 Installation</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/free-screen-recorder-apowersoft-evaluation-for-2024/"><u>Free Screen Recorder Apowersoft Evaluation for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/maintaining-high-quality-avi-files-efficient-compression-techniques-for-windows-10-users/"><u>Maintaining High-Quality AVI Files: Efficient Compression Techniques for Windows 10 Users</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/unearthing-past-pixels-with-3-methods-on-social-media-fb/"><u>Unearthing Past Pixels with 3 Methods on Social Media (FB)</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/unlocking-video-potential-the-art-of-youtube-live-360-streaming/"><u>Unlocking Video Potential The Art of YouTube Live 360 Streaming</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-apeaksofts-game-changing-recording-technology-review/"><u>[New] 2024 Approved Apeaksoft's Game-Changing Recording Technology Review</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-creator-payment-frequency-on-youtube-platform-for-2024/"><u>[New] Creator Payment Frequency on YouTube Platform for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-digital-dollars-earn-from-youtubers-in-8-ways-for-2024/"><u>[New] Digital Dollars Earn From YouTubers in 8 Ways for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-expert-tips-for-seamless-instagram-streaming-using-obs/"><u>[New] In 2024, Expert Tips for Seamless Instagram Streaming Using OBS</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-greatest-war-themed-games-the-7-finest-total-war-experiences/"><u>[New] In 2024, Greatest War-Themed Games The 7 Finest Total War Experiences</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-inside-look-free2xs-camera-recording-capabilities/"><u>2024 Approved Inside Look Free2X's Camera Recording Capabilities</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/free-games-galore-the-best-download-sites-for-pc-android-and-mobile/"><u>Free Games Galore The Best Download Sites for PC, Android, and Mobile</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-11-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone 11? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-excel-2003-files-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign Excel 2003 files online</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/interrupting-real-time-recording-on-quicktime-for-2024/"><u>Interrupting Real-Time Recording on QuickTime for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-top-rated-free-mod-video-editors-the-best-for-2024/"><u>New Top-Rated Free MOD Video Editors The Best for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-non-responsive-letters-in-keyboards-for-windows-11-users/"><u>Resolve Non-Responsive Letters in Keyboards for Windows 11 Users</u></a></li>
 </ul></div>
 

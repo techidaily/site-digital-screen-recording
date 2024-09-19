@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Flawless Gameplay  Controlling Games via Switch Pro Controller in Steam\""
-date: 2024-09-10T16:43:36.177Z
-updated: 2024-09-13T21:18:55.062Z
+date: 2024-09-14T20:25:16.203Z
+updated: 2024-09-19T09:04:49.495Z
 tags: 
   - screen-recording
   - ai video
@@ -62,13 +62,6 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 
 ![switch-pro-controller-syncing-button](https://images.wondershare.com/filmora/article-images/switch-pro-controller-syncing-button.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Right-click the Bluetooth icon in the system tray.
 
 ![switch-pro-controller-bluetooth-connection](https://images.wondershare.com/filmora/article-images/switch-pro-controller-bluetooth-connection.png)
@@ -76,13 +69,6 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 * To add a Bluetooth device, click "Add Bluetooth Device."
 
 ![switch-pro-controller-add-device](https://images.wondershare.com/filmora/article-images/switch-pro-controller-add-device.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * Click on "Bluetooth" (since Windows 10 needs to be convinced that you want to use Bluetooth).
 * Ensure that the Pro Controller appears on the list of available devices (if it does not, ensure that the indicator lights are flashing back and forth). Pair the controller by clicking it.
@@ -94,13 +80,6 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 ## **How To Setup Steam To Use Your Switch Pro Controller On Pc**
 
 ![switch-pro-controller-steam-set-up](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The Best Way to make sure your Pro Controller works properly with your PC game is to use Steam's Big Picture mode, which uses a comfortable lean-back system to allow you to navigate.
 
@@ -114,20 +93,13 @@ When configured through Steam, you should use the Pro Controller with any Steam 
 
 ![switch-pro-controller-steam-set-up2](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Enter the Switch Pro Controller overlay from Steam's controller options while running in Big Picture mode. There are several ways to map the inputs on the Pro Controller, but default configurations are usually sufficient for most games. By changing the controller mapping based on the situation, you can fix any problems on the fly.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **What To Do With Non-Steam Games?**
@@ -140,18 +112,18 @@ The main problem here now is how windows will detect your switch pro controller 
 
 **Solution2:** The second method is to use a software-based XInput Wrapper. There is plenty of software out there that provides this functionality. Just configure your switch pro controller with them, and you can easily use it on non-steam games.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Final Verdict**
 
 This is how you can use your switch pro controller with your PC. Now you can easily enjoy your favorite games on one of the finest controllers available in the market today. All you need to do is, follow some simple steps mentioned in this article, and you are good to go. You can connect it both with wire and wirelessly. It is comparatively easy to connect it through the wire, and the performance of the controller is also slightly better when it is connected through a wire.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -168,21 +140,15 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-the-seamless-art-of-game-recording-on-sonys-playstation-4/"><u>[New] 2024 Approved The Seamless Art of Game Recording on Sony's PlayStation 4</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-optimize-and-protect-transferring-your-camera-roll-efficiently-to-snapchat/"><u>[New] In 2024, Optimize and Protect Transferring Your Camera Roll Efficiently to Snapchat</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-virtual-meeting-mastery-how-to-navigate-effortlessly-through-zoom-sessions-for-2024/"><u>[New] Virtual Meeting Mastery How to Navigate Effortlessly Through Zoom Sessions for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-crafting-compelling-narratives-with-vo-in-powerpoint/"><u>[Updated] 2024 Approved Crafting Compelling Narratives with VO in PowerPoint</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-beginners-tutorial-adobe-capture-screen-sharing-techniques-for-2024/"><u>[Updated] Beginner's Tutorial Adobe Capture Screen Sharing Techniques for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-securing-group-discussions-on-hangouts-for-2024/"><u>[Updated] Securing Group Discussions on Hangouts for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-a-guide-to-macs-finest-sniping-tools-uncovered/"><u>2024 Approved A Guide to Mac's Finest Sniping Tools Uncovered</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-prevent-zoom-from-crashing-optimized-fixes-for-windows-11-and-10/"><u>How to Prevent Zoom From Crashing: Optimized Fixes for Windows 11 and 10</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-icloud-on-iphone-6s-plus-smoothly-by-drfone-ios/"><u>How To Remove iCloud On iPhone 6s Plus Smoothly</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-audacity-on-mac-a-beginners-guide-to-recording-audio/"><u>In 2024, Audacity on Mac A Beginner's Guide to Recording Audio</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-s23-fe-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy S23 FE Phones with/without a PC</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-retro-radeon-tech-boost/"><u>In 2024, Retro Radeon Tech Boost</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-unbeatable-mobilized-game-slowdowns/"><u>In 2024, Unbeatable Mobilized Game Slowdowns</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/innovations-in-capturing-high-quality-facetime-calls-for-2024/"><u>Innovations in Capturing High-Quality FaceTime Calls for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshoot-helperdll-file-not-found-issues-with-these-simple-fixes/"><u>Troubleshoot Helper.dll File Not Found Issues with These Simple Fixes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-fixes-how-to-restore-voice-communication-in-call-of-duty-modern-warfare/"><u>Troubleshooting Fixes: How to Restore Voice Communication in Call of Duty Modern Warfare</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-innovative-ai-for-discord-enthusiasts-for-2024/"><u>[New] Innovative AI for Discord Enthusiasts for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-leveraging-googles-board-tools-for-smooth-online-engagement-on-all-platforms/"><u>[New] Leveraging Google's Board Tools for Smooth Online Engagement on All Platforms</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-delving-into-recmeisters-capabilities-for-quality-video-capture/"><u>[Updated] 2024 Approved Delving Into Recmeister’s Capabilities for Quality Video Capture</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-viral-video-round-up-a-list-of-todays-favorites-on-fb/"><u>[Updated] In 2024, Viral Video Round-Up A List of Today's Favorites on FB</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1725289012901-winxvideo-ai/"><u>動画編集におすすめWinxvideoの手ブレ修正テクニック紹介 - AIアプリケーション</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/commencing-shoot-critical-overview/"><u>Commencing Shoot Critical Overview</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/descifrar-y-convertir-codecs-de-video-vob-a-mp4-sin-problemas-en-plataformas-windows-11mac/"><u>Descifrar Y Convertir Códecs De Video VOB a MP4 Sin Problemas en Plataformas Windows 11/Mac</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/harnessing-the-power-of-cookiebot-for-enhanced-user-experience/"><u>Harnessing the Power of Cookiebot for Enhanced User Experience</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-xiaomi-redmi-note-12-4g-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Xiaomi Redmi Note 12 4G Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/microcapture-screen-capture-tool-analysis/"><u>MicroCapture Screen Capture Tool Analysis</u></a></li>
 </ul></div>
 
