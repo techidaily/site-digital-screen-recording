@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Alter Default Location for Mac Captured Images"
-date: 2024-09-13T08:32:10.342Z
-updated: 2024-09-18T20:24:58.575Z
+date: 2024-09-21T19:15:19.304Z
+updated: 2024-09-24T01:00:24.059Z
 tags: 
   - screen-recording
   - ai video
@@ -48,6 +48,13 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
 
 Changing the folder where you store your screenshots is not an irreversible process, which means that you can reset the destination where the files are saved to Desktop at any point. Do not delete the new folder, because your Mac may not be able to take screenshots, afterward. The process described below is the only way you can delete a folder or add a new destination for your screenshots, and failing to comply with it may cause your Mac to malfunction.
@@ -62,6 +69,13 @@ Then enter a space at the end after 'location'.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
 
 **defaults write com.apple.screencapture location /Users/username/Screenshots**
@@ -71,6 +85,13 @@ To execute the command you have to press Enter. After Terminal finishes running 
 **killall SystemUIServer**
 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
 
@@ -83,6 +104,13 @@ Make sure that your username is properly written, and then press Enter to run th
 Don't forget that deleting the folder you use as a default location for storing screenshots should only be done using the process we just described in the Terminal application, since all other methods may cause unnecessary trouble.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -99,25 +127,15 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-free-mobile-live-stream-apps-essentials-for-smartphones/"><u>[New] 2024 Approved Free Mobile Live Stream Apps Essentials for Smartphones</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-navigating-technical-hurdles-for-a-smooth-live-broadcast-experience/"><u>[New] Navigating Technical Hurdles for a Smooth Live Broadcast Experience</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-streamlining-your-storytelling-adding-captions-on-instagram/"><u>[New] Streamlining Your Storytelling Adding Captions on Instagram</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-pixelperfect-the-modern-recorder-diagnosis-for-2024/"><u>[Updated] 'PixelPerfect' The Modern Recorder Diagnosis for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-expert-techniques-to-efficiently-manipulate-whiteboards-in-web-conferencing-tools/"><u>[Updated] 2024 Approved Expert Techniques to Efficiently Manipulate Whiteboards in Web Conferencing Tools</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-windows-11-capture-top-eight-tools-ranked/"><u>[Updated] In 2024, Windows 11 Capture Top Eight Tools Ranked</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-complete-guide-to-inverted-footage-in-instagram-for-2024/"><u>[Updated] The Complete Guide to Inverted Footage in Instagram for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-the-ultimate-guide-to-choosing-a-tunefab-recorder-for-2024/"><u>[Updated] The Ultimate Guide to Choosing a Tunefab Recorder for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/capturing-every-frame-the-apeaksoft-reviewed-screen-recorder/"><u>Capturing Every Frame The Apeaksoft Reviewed Screen Recorder</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Oppo A78 5G | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/inside-out-faq-insights-comprehensive-responses-to-common-queries/"><u>Inside Out FAQ Insights: Comprehensive Responses to Common Queries</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-translate-videos-and-subtitles-with-veedio/"><u>New In 2024, Translate Videos and Subtitles with Veed.io</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-vivo-v30-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Vivo V30</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-10-best-cost-free-subtitle-grabs-from-youtube/"><u>[New] 2024 Approved 10 Best Cost-Free Subtitle Grabs From YouTube</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-best-recorders-for-lecture-recording/"><u>[New] 2024 Approved Best Recorders for Lecture Recording</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-elite-stealth-vids-downloader-guide-1-to-8/"><u>[Updated] 2024 Approved Elite Stealth Vids Downloader Guide - #1 to #8</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-imagecapture-reviews-hub/"><u>[Updated] In 2024, ImageCapture Reviews Hub</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-time-honored-tech-selfies-with-iphone-x/"><u>[Updated] Time-Honored Tech Selfies with iPhone X</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-optimal-metaverse-displays-the-ultimate-8-picks/"><u>2024 Approved Optimal Metaverse Displays The Ultimate 8 Picks</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-earhearer-live-sound-critique/"><u>In 2024, EarHearer Live Sound Critique</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-effortless-editing-in-obs-studio-with-top-5-hacks/"><u>In 2024, Effortless Editing in OBS Studio with Top 5 Hacks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-dvd-to-avi-converter-apps-for-windows-11-users/"><u>Top Rated DVD to AVI Converter Apps for Windows 11 Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-and-fixing-windows-11-error-0xc19001e1/"><u>Troubleshooting and Fixing Windows 11 Error 0Xc19001e1</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Ken Burns Effect Techniques for Camtasia Users for 2024"
-date: 2024-09-15T15:34:47.288Z
-updated: 2024-09-19T04:59:25.567Z
+date: 2024-09-22T04:02:38.936Z
+updated: 2024-09-23T20:22:18.392Z
 tags: 
   - screen-recording
   - ai video
@@ -47,6 +47,13 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 If you are looking for the best alternative to Camtasia 9 that makes adding the Ken Burns effect and other video editing features much easier, then Wondershare Filmora should be on your list of considerations. Apart from the Ken Burns effect, Filmora is a perfect video editing tool for beginner content creators, YouTubers, and casual editors who don't want access to professional-grade features or want to pay a lot of money to edit their videos.
@@ -54,6 +61,13 @@ If you are looking for the best alternative to Camtasia 9 that makes adding the 
 That's not to say that Filmora only offers basic features as it has a wide range of options available to video editors including green screen, motion tracking, transitions, audio recording, a diverse variety of presets, and a lot more. Both amateur video creators and hobbyists can get a lot out of the Wondershare Filmora editing tool.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
 
@@ -79,6 +93,13 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -94,25 +115,24 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-driveease-expert-review/"><u>[New] DriveEase Expert Review</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-ultimate-budget-headphones-to-enhance-game-sounds-for-2024/"><u>[New] Ultimate Budget Headphones to Enhance Game Sounds for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-examining-vidma-as-a-video-recorder-for-screens/"><u>[Updated] In 2024, Examining Vidma as a Video Recorder for Screens</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-screensnapper-pro-2023-apowersofts-latest-for-pcs/"><u>[Updated] In 2024, ScreenSnapper Pro 2023 Apowersoft's Latest for PCs</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-premium-list-the-finest-4k-monitors-with-recording-features-for-2024/"><u>[Updated] Premium List The Finest 4K Monitors with Recording Features for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/epicurean-epics-the-hottest-food-trends-on-tiktok-for-2024/"><u>Epicurean Epics The Hottest Food Trends on TikTok for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/expert-recommendations-top-5-windows-screen-cutting-apps-for-2024/"><u>Expert Recommendations Top 5 Windows Screen Cutting Apps for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-poco-x5-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Poco X5 Phone that is Locked?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-tecno-spark-10-pro-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Tecno Spark 10 Pro Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-unlock-limitless-space-choose-from-top-20-free-cloud-providers/"><u>In 2024, Unlock Limitless Space Choose From Top 20 Free Cloud Providers</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/memorable-moments-quick-and-clean-xbox-screenshots/"><u>Memorable Moments, Quick & Clean Xbox Screenshots</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-iphone-11-pro-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 11 Pro Data From iCloud | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/transforming-tv-viewing-experience-with-xbox-tools/"><u>Transforming TV Viewing Experience with Xbox Tools</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-alter-default-store-place-for-mac-images/"><u>[New] 2024 Approved Alter Default Store Place for Mac Images</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-from-live-action-to-digital-footage-gadget-guidebook/"><u>[New] 2024 Approved From Live Action to Digital Footage Gadget Guidebook</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-the-ultimate-blueprint-for-setting-up-google-meet/"><u>[New] 2024 Approved The Ultimate Blueprint for Setting Up Google Meet</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-go-pro-capturing-ps4-games-in-hd-via-obs-studio-tutorial/"><u>[New] Go Pro Capturing PS4 Games in HD via OBS Studio Tutorial</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-step-by-step-guide-to-exceptional-instagram-stories-for-2024/"><u>[New] Step-by-Step Guide to Exceptional Instagram Stories for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-optimizing-skype-call-audio-environment/"><u>[Updated] 2024 Approved Optimizing Skype Call Audio Environment</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-a-comparative-analysis-of-macs-best-snipping-tools/"><u>[Updated] In 2024, A Comparative Analysis of Mac's Best Snipping Tools</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-a-step-by-step-approach-to-screening-on-switch/"><u>[Updated] In 2024, A Step-by-Step Approach to Screening on Switch</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-perfect-playback-top-strategies-to-record-and-share-your-vr-experiences-for-2024/"><u>[Updated] The Perfect Playback Top Strategies to Record and Share Your VR Experiences for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-podcast-style-unboxing/"><u>[Updated] The Ultimate Guide to Podcast-Style Unboxing</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-ultimate-7-video-streaming-apps-your-ally-in-going-live-with-youtube-from-iphones-and-android/"><u>[Updated] Ultimate 7 Video Streaming Apps Your Ally in Going Live with YouTube From iPhones & Android</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/elevating-home-decor-nixplays-x15d-digital-frames-unveiled/"><u>Elevating Home Decor: Nixplay's X15D Digital Frames Unveiled</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-8-drfone-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-direct-approaches-to-documenting-google-voice-interactions/"><u>In 2024, Direct Approaches to Documenting Google Voice Interactions</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-win-11s-10-finest-webcams-for-high-quality-capture/"><u>In 2024, Win 11'S 10 Finest Webcams For High-Quality Capture</u></a></li>
+<li><a href="https://games-able.techidaily.com/jumping-platforms-in-minecraft-transition-from-bedrock-to-java-geysermc-style/"><u>Jumping Platforms in Minecraft: Transition From Bedrock to Java, GeyserMC Style</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/mastering-the-shift-to-macos-11-big-sur-for-2024/"><u>Mastering the Shift to macOS 11 Big Sur for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-fcp-x-essentials-how-to-achieve-professional-chroma-keying-results/"><u>New In 2024, FCP X Essentials How to Achieve Professional Chroma Keying Results</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/safest-and-cutest-toy-drones-for-children/"><u>Safest and Cutest Toy Drones for Children</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

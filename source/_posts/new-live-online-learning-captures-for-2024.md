@@ -1,7 +1,7 @@
 ---
 title: "[New] Live Online Learning Captures for 2024"
-date: 2024-09-18T02:51:45.793Z
-updated: 2024-09-18T20:32:16.478Z
+date: 2024-09-18T23:02:19.963Z
+updated: 2024-09-23T23:22:49.949Z
 tags: 
   - screen-recording
   - ai video
@@ -48,6 +48,13 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Record Webinars
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-rose-win.png)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-rose-mac.png)](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -62,9 +69,23 @@ Visit Filmora Scrn's official [webpage](https://tools.techidaily.com/wondershare
 
 ![Filmora scrn setup](https://images.wondershare.com/filmora/guide/filmora-scrn-interface.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Select the Quick Capture option in the software's welcome screen and proceed to click on the Setting menu. This action will give you access to the screen recorder's video recording options. Filmora Scrn lets you change Screen, Audio and Camera options. Adjusting the portion of the screen you'd like to record or choosing the frame rate of the recording can be done from the Screen menu, while in the Camera section you can pick a web camera you intend on using in your webinar, change a resolution or set a frame rate for the footage you'll be recording with a webcam.
 
 ![Filmora scrn setup](https://images.wondershare.com/filmora/guide/setup-screen.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Enabling the Camera option will allow you to capture your screen simultaneously while recording a video with your webcam. This option is particularly useful for people that want to create a webinar that also features them as narrators.
 
@@ -73,6 +94,13 @@ The Audio option contains Microphone and Computer audio options that can be used
 #### 3. Recording a webinar
 
 ![Filmora scrn setup](https://images.wondershare.com/filmora/guide/scrn-record-screen.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 In order to start recording your webinar, you just need to click on the Record button. Filmora Scrn also allows you to record your **webcam** and your **secondary display**, which is very convenient for webinar recording. During the session, you can add [markers](https://tools.techidaily.com/wondershare/filmora/download/) to the footage you're producing by pressing the F8 key on your keyboard or pause the session with the F9 key.
 
@@ -115,23 +143,24 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-zoom-for-beginners-essential-webinar-skills-unveiled/"><u>[New] 2024 Approved Zoom for Beginners Essential Webinar Skills Unveiled</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-the-ultimate-guide-to-video-call-capturing-on-devices/"><u>[Updated] 2024 Approved The Ultimate Guide to Video Call Capturing on Devices</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-galaxy-s8-review-bringing-movies-to-life-with-4k/"><u>[Updated] Galaxy S8 Review - Bringing Movies to Life with 4K</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-how-to-create-time-travel-teleportation-effects/"><u>[Updated] In 2024, How to Create Time Travel Teleportation Effects</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-navigating-the-world-of-online-broadcasts-on-youtube-and-twitch-with-obs/"><u>[Updated] Navigating the World of Online Broadcasts on YouTube and Twitch with OBS</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-samsung-galaxy-s21-fe-5g-2023-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Samsung Galaxy S21 FE 5G (2023) Phone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-oppo-find-x7-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Oppo Find X7 to New Android? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-use-special-features-virtual-location-on-itel-s23-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Itel S23? | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-windows-10-video-editing-software-best-imovie-alternatives/"><u>New 2024 Approved Windows 10 Video Editing Software Best iMovie Alternatives</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/spotting-the-copiers-openais-detective-for-gpt-outputs/"><u>Spotting the Copiers: OpenAI's Detective for GPT Outputs</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/the-insiders-guide-to-musical-enhancements-on-ig/"><u>The Insider's Guide to Musical Enhancements on IG</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-inside-vidmas-tech-a-new-era-for-video-capture/"><u>[New] 2024 Approved Inside Vidma’s Tech A New Era for Video Capture?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-how-to-screen-cast-or-record-your-imacs-display-quickly/"><u>[New] How to Screen Cast or Record Your iMac's Display Quickly</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-rapid-methods-for-capturing-digital-conference-sessions-for-2024/"><u>[New] Rapid Methods for Capturing Digital Conference Sessions for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-mc-homestead-architectural-wonders/"><u>[Updated] 2024 Approved MC Homestead Architectural Wonders</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-stream-it-record-it-facebook-live-tips-and-tricks/"><u>[Updated] In 2024, Stream It, Record It Facebook Live Tips & Tricks</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-perfecting-video-conferencing-with-snap-functionality/"><u>[Updated] Perfecting Video Conferencing with Snap Functionality</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-perfectly-smooth-window-snap-tool-for-2024/"><u>[Updated] Perfectly Smooth Window Snap Tool for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/adjusting-large-desktop-screens-on-win10/"><u>Adjusting Large Desktop Screens on Win10</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/best-videography-tools-for-ios-devices-for-2024/"><u>Best Videography Tools for iOS Devices for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/captivating-first-impressions-how-to-choose-impactful-backgrounds-for-thumbnails/"><u>Captivating First Impressions How to Choose Impactful Backgrounds for Thumbnails</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-gif-basics-crafting-your-first-animated-image/"><u>In 2024, GIF Basics Crafting Your First Animated Image</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-nokia-c02-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Nokia C02 FRP In 3 Different Ways</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y78plus-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y78+ PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-the-artisans-handbook-perfecting-your-windows-pc-in-live-tv-recording/"><u>In 2024, The Artisan's Handbook Perfecting Your Windows PC in Live TV Recording</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-oppo-a56s-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Oppo A56s 5G FRP Bypass</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/tream-platform-push-facebook-vs-youtube-and-periscope-for-2024/"><u>Livestream Platform Push Facebook Vs. YouTube & Periscope for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/masterful-fixes-for-avatar-gameplay-overcoming-lag-challenges-in-the-world-of-pandora/"><u>Masterful Fixes for Avatar Gameplay – Overcoming Lag Challenges in the World of Pandora</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondlyar-redefining-communication-in-virtual-reality/"><u>MondlyAR: Redefining Communication in Virtual Reality</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/unlocking-macscreens-how-to-record-and-save-immediately-for-2024/"><u>Unlocking MacScreens How to Record and Save Immediately for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

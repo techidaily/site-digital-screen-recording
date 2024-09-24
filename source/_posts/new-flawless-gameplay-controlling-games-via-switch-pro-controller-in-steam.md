@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Flawless Gameplay  Controlling Games via Switch Pro Controller in Steam\""
-date: 2024-09-14T20:25:16.203Z
-updated: 2024-09-19T09:04:49.495Z
+date: 2024-09-18T18:10:42.205Z
+updated: 2024-09-23T22:22:31.289Z
 tags: 
   - screen-recording
   - ai video
@@ -62,6 +62,13 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 
 ![switch-pro-controller-syncing-button](https://images.wondershare.com/filmora/article-images/switch-pro-controller-syncing-button.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Right-click the Bluetooth icon in the system tray.
 
 ![switch-pro-controller-bluetooth-connection](https://images.wondershare.com/filmora/article-images/switch-pro-controller-bluetooth-connection.png)
@@ -69,6 +76,13 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 * To add a Bluetooth device, click "Add Bluetooth Device."
 
 ![switch-pro-controller-add-device](https://images.wondershare.com/filmora/article-images/switch-pro-controller-add-device.png)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Click on "Bluetooth" (since Windows 10 needs to be convinced that you want to use Bluetooth).
 * Ensure that the Pro Controller appears on the list of available devices (if it does not, ensure that the indicator lights are flashing back and forth). Pair the controller by clicking it.
@@ -93,13 +107,20 @@ When configured through Steam, you should use the Pro Controller with any Steam 
 
 ![switch-pro-controller-steam-set-up2](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Enter the Switch Pro Controller overlay from Steam's controller options while running in Big Picture mode. There are several ways to map the inputs on the Pro Controller, but default configurations are usually sufficient for most games. By changing the controller mapping based on the situation, you can fix any problems on the fly.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **What To Do With Non-Steam Games?**
@@ -118,13 +139,6 @@ This is how you can use your switch pro controller with your PC. Now you can eas
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -140,15 +154,24 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-innovative-ai-for-discord-enthusiasts-for-2024/"><u>[New] Innovative AI for Discord Enthusiasts for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-leveraging-googles-board-tools-for-smooth-online-engagement-on-all-platforms/"><u>[New] Leveraging Google's Board Tools for Smooth Online Engagement on All Platforms</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-delving-into-recmeisters-capabilities-for-quality-video-capture/"><u>[Updated] 2024 Approved Delving Into Recmeister’s Capabilities for Quality Video Capture</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-viral-video-round-up-a-list-of-todays-favorites-on-fb/"><u>[Updated] In 2024, Viral Video Round-Up A List of Today's Favorites on FB</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/1725289012901-winxvideo-ai/"><u>動画編集におすすめWinxvideoの手ブレ修正テクニック紹介 - AIアプリケーション</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/commencing-shoot-critical-overview/"><u>Commencing Shoot Critical Overview</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/descifrar-y-convertir-codecs-de-video-vob-a-mp4-sin-problemas-en-plataformas-windows-11mac/"><u>Descifrar Y Convertir Códecs De Video VOB a MP4 Sin Problemas en Plataformas Windows 11/Mac</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/harnessing-the-power-of-cookiebot-for-enhanced-user-experience/"><u>Harnessing the Power of Cookiebot for Enhanced User Experience</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-xiaomi-redmi-note-12-4g-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Xiaomi Redmi Note 12 4G Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/microcapture-screen-capture-tool-analysis/"><u>MicroCapture Screen Capture Tool Analysis</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-how-to-rectify-silent-streams-with-obs/"><u>[New] 2024 Approved How to Rectify Silent Streams with OBS</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-cross-platform-calendar-coordination-zoom-to-your-devices/"><u>[New] Cross-Platform Calendar Coordination Zoom to Your Devices</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-the-essential-guide-for-proficiently-playing-games-with-switch-pro-in-steam/"><u>[New] In 2024, The Essential Guide for Proficiently Playing Games with Switch Pro in Steam</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-crafting-professional-gamers-content-with-obs-recordings/"><u>[Updated] 2024 Approved Crafting Professional Gamers' Content with OBS Recordings</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-innovative-measures-for-outstanding-ppt-video-quality/"><u>[Updated] 2024 Approved Innovative Measures for Outstanding PPT Video Quality</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-efficient-techniques-saving-google-meets-on-phones/"><u>[Updated] Efficient Techniques Saving Google Meets on Phones</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-full-vision-media-the-smart-mcn-selection-process-for-2024/"><u>[Updated] Full Vision Media The Smart MCN Selection Process for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-how-to-record-iphoneipads-screen-2023-latest-method/"><u>[Updated] In 2024, How to Record iPhone/iPad’s Screen [2023 Latest Method]</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-launching-your-sports-network-from-a-mac-desktop/"><u>[Updated] Launching Your Sports Network From a Mac Desktop</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-path-to-vr-storytelling-editing-and-streaming-360-video-on-youtube/"><u>[Updated] The Path to VR Storytelling Editing and Streaming 360° Video on YouTube</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-top-picks-for-effortless-video-editing-on-pc-for-2024/"><u>[Updated] Top Picks for Effortless Video Editing on PC for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-your-key-to-accessible-world-wonders-via-vr-for-2024/"><u>[Updated] Your Key to Accessible World Wonders via VR for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-achieving-professionalism-with-zoom-filter-applications/"><u>2024 Approved Achieving Professionalism with Zoom Filter Applications</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-best-solutions-to-record-video-without-sound/"><u>2024 Approved Best Solutions to Record Video Without Sound</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-itel-p40plus-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Itel P40+ System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-to-equipment-selection-for-youtube-creators/"><u>Guide to Equipment Selection for YouTube Creators</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/safekeeping-your-online-space-youtube-channel-blocking-guide-for-2024/"><u>Safekeeping Your Online Space Youtube Channel Blocking Guide for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-transforming-dvds-into-avi-video-files-with-no-hassle/"><u>Step-by-Step Tutorial: Transforming DVDs Into AVI Video Files with No Hassle</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/understanding-facebooks-new-policies-and-updates-for-2024/"><u>Understanding Facebook's New Policies and Updates for 2024</u></a></li>
 </ul></div>
 

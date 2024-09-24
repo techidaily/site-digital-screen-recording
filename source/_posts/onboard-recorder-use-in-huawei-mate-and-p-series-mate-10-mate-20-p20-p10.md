@@ -1,7 +1,7 @@
 ---
 title: "Onboard Recorder Use in Huawei Mate and P Series (Mate 10, Mate 20; P20, P10)"
-date: 2024-09-12T01:12:03.483Z
-updated: 2024-09-19T02:42:51.418Z
+date: 2024-09-18T23:43:42.880Z
+updated: 2024-09-23T21:03:59.651Z
 tags: 
   - screen-recording
   - ai video
@@ -60,6 +60,13 @@ Pull-down notification panel from the top, find the Screen Recorder shortcut ico
 
 ![Huawei Smartphone screen recorder](https://images.wondershare.com/filmora/article-images/huawei-screen-recorder-shortcut.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### 2. Pressing Buttons to Record Huawei Screen
 
 Besides enabling the screen recording feature from the shortcut menu, you can also use buttons to capture your screen on Huawei smartphone quickly. Just hold the Volume Up and Power buttons that are located on the right side of your device to activate the screen recording feature.
@@ -76,6 +83,13 @@ Before using the double knuckles to record the screen activities, you need to en
 
 ![Huawei Smartphone screen recorder](https://images.wondershare.com/filmora/article-images/hauwei-record-screen-knuckle-gesture-setting.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If you want to record the screen video, just knock the screen with two knuckles twice continuously when your Huawei phone is not sleeping. Read the information on the popped up window and tap **Agree** to start the screen recording. You can stop the screen recording by knocking the screen twice with two knuckles again.
 
 The maximum duration of the screen recording you can make can't exceed the five-minute limit. If you would like to capture longer videos of your screen, you can do so by using free third-party [screen recording apps for Android](https://tools.techidaily.com/wondershare/filmora/download/), such as AZ Recorder. But if you are using the built-in screen recording feature on Huawei smartphone, the recording function of the third-party apps will be disabled.
@@ -85,10 +99,10 @@ The maximum duration of the screen recording you can make can't exceed the five-
 All screen recordings you create will be displayed in the phone's **Gallery** app. Locate the Screenshots or Screen Recordings folder on the Albums tab and then tap on the Share icon if you would like to post the recording on social media or send it to a friend. Hit the Delete button to remove the recording from your phone. Follow the on-screen instructions to complete either of these two processes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -98,10 +112,10 @@ Capturing your phone's screen can help you entertain your friends and followers 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -119,20 +133,14 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-the-insiders-guide-to-recording-on-itunes/"><u>[New] 2024 Approved The Insider's Guide to Recording on iTunes</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-keep-it-secret-live-stream-on-instagram-anonymously-for-2024/"><u>[New] Keep It Secret Live Stream on Instagram Anonymously for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-stepwise-insta-story-image-integration-techniques-for-maximum-impact-for-2024/"><u>[New] Stepwise Insta Story Image Integration Techniques for Maximum Impact for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-unique-visuals-foreground-only-background-out-for-2024/"><u>[New] Unique Visuals Foreground Only, Background Out for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-continuous-display-recorder-for-2024/"><u>[Updated] Continuous Display Recorder for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-mastering-facebook-visuals-adding-text-boxes-and-dark-bar-overlays-for-2024/"><u>[Updated] Mastering Facebook Visuals Adding Text Boxes & Dark Bar Overlays for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-superior-websites-promoting-youtube-media-for-2024/"><u>[Updated] Superior Websites Promoting YouTube Media for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-leading-call-customization-applications/"><u>2024 Approved Leading Call Customization Applications</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/5-advanced-tools-that-let-you-chat-and-scrutinize-your-pdfs-using-chatgpt-technology/"><u>5 Advanced Tools That Let You Chat and Scrutinize Your PDFs Using ChatGPT Technology</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/convert-audio-files-free-transform-aiff-into-wma-with-movavis-web-service/"><u>Convert Audio Files FREE! Transform AIFF Into WMA with Movavi's Web Service</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-oneplus-nord-3-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on OnePlus Nord 3 5G | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-atandt-apple-iphone-12-pro-max-with-3-methods-by-drfone-ios/"><u>In 2024, How to Unlock AT&T Apple iPhone 12 Pro Max with 3 Methods</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/macs-top-tier-gif-recorder-tools-reviewed/"><u>Mac's Top-Tier GIF Recorder Tools Reviewed</u></a></li>
-<li><a href="https://games-able.techidaily.com/pros-and-cons-of-each-steam-deck-model/"><u>Pros and Cons of Each Steam Deck Model</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/ultimate-guide-best-free-mac-screen-recording-tools-for-2024/"><u>Ultimate Guide Best Free Mac Screen Recording Tools for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-achieve-peak-performance-enhancing-gameplay-using-switch-pro-controller-in-steam-for-2024/"><u>[New] Achieve Peak Performance Enhancing Gameplay Using Switch Pro Controller in Steam for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-the-key-to-wealth-in-web-videos-view-count-imperative/"><u>[Updated] In 2024, The Key to Wealth in Web Videos View Count Imperative</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-iron-out-instability-in-iphone-videography-effortlessly/"><u>[Updated] Iron Out Instability in iPhone Videography Effortlessly</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-quick-fixes-for-privacy-concerns-in-piscart-images/"><u>[Updated] Quick Fixes for Privacy Concerns in PiscArt Images</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-nubia-red-magic-8s-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-how-to-archive-video-discussions-with-ease-and-security/"><u>In 2024, How to Archive Video Discussions with Ease & Security</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-walk-of-shadows-the-ultimate-list-of-greatest-zombie-games/"><u>In 2024, Walk of Shadows The Ultimate List of Greatest Zombie Games</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/irecorder-unpacked-what-you-need-to-know/"><u>IRecorder Unpacked What You Need to Know</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Encompass Entire Webpage in View"
-date: 2024-09-14T23:14:47.907Z
-updated: 2024-09-18T17:19:54.642Z
+date: 2024-09-20T18:03:56.073Z
+updated: 2024-09-23T20:28:04.186Z
 tags: 
   - screen-recording
   - ai video
@@ -60,20 +60,27 @@ Most frequently used web browsers such as Google Chrome or Mozilla Firefox, offe
 
 ![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/print-chrome-full-page.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Once the printing dialogue box appears on the screen you'll be able to preview the pages of the document, adjust the printing options and select the file format. Click on the **Change** icon and select the **Microsoft XPS Document Writer**, if you are using Google Chrome to create a new document that contains the entire page. You can also create a PDF file, but this file format may include the ads or other overlaying elements on the web page. When done, click on the Print icon to save the document to the desired location on your hard drive.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 2: Zooming Out the Page for Full-Screen Webpage Screenshots
 
 If you'd like to avoid producing several screenshots that you'll later have to combine into a single image or a document, you can simply hold the **CTRL and -** keys on Windows or **Command - on** a Mac OS to zoom out the page and fit it into a screen.
 
 To capture the resized screen, simply hold the **PrintScreen** button on your keyboard and the image will instantly be saved to the clipboard. Afterward, you have to paste the screenshot to a new document in any graphics editor, using the **CTRL and V** buttons. The **Cmd + Shift + 4** keyboard shortcut will enable you to take quick screenshots on a Mac computer, while the **Command + 0** will reset the browser to normal view.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 3: Capturing Screenshots With Browser Extensions
 
@@ -83,24 +90,18 @@ Built-in screen capturing options on Windows and Mac offer only a limited amount
 
 ![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/nimbusweb-full-page-screenshot.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 This is a free and easy to use add-on that is compatible with Google Chrome, Firefox and Opera browsers. Nimbus enables you to freely designate the region of the screen you'd like to capture and to even perform basic video editing tasks such as blurring the private info in the screenshot.
 
 #### 2\. [Screenshot Webpages](https://chrome.google.com/webstore/detail/screenshot-webpages/bdfnieppndfdhcgbmhfdlgdjegclkomk)
 
 ![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/screenshot-webpage-full-page-screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The Google Chrome extension lets you choose which type of screenshot you want to take, so you can take a screenshot of an entire web page in just a few simple steps. You can also add text, edit the pictures or insert annotations to each screenshot you take.
 
@@ -124,6 +125,13 @@ If you don't want to go through the trouble of installing a screenshot extension
 
 The platform lets you create PDF, PNG or JPEG files, so once you choose the file format that best meets your needs, you can simply click on the **Capture webpage** icon located near the bottom of the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 5: Using Screen Capturing Software for Full Page Screenshots
 
 Stand-alone software products that enable its users to take screenshots of entire documents and web pages are a great choice for professionals that frequently need a powerful screen capturing tool. [Screenpresso,](https://www.screenpresso.com/) [FastStone Capture](http://www.faststone.org/FSCaptureDetail.htm) or [Snagit](https://www.techsmith.com/screen-capture.html) are just a few screen recorders, that are capable of producing still and moving images of a computer display.
@@ -144,13 +152,6 @@ Leave a comment below and let us know which method of capturing full page screen
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -166,20 +167,24 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-jumpstart-with-vrecorder-easy-installation-walkthrough-for-2024/"><u>[New] Jumpstart with VRecorder Easy Installation Walkthrough for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-mastering-video-backgrounds-teammeeting-blurring-guide/"><u>[New] Mastering Video Backgrounds TeamMeeting Blurring Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-mythos-makers-mecca-prime-pantheon-seven/"><u>[New] Mythos Makers’ Mecca - Prime Pantheon Seven</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-pioneering-usability-unearthed-strategies-for-amplified-windows-11-capabilities/"><u>[New] Pioneering Usability Unearthed Strategies for Amplified Windows 11 Capabilities</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-the-most-immersive-iphone-vr-games-ever-for-2024/"><u>[New] The Most Immersive iPhone VR Games Ever for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-achieving-broadcast-excellence-from-recordings-to-livestreams-on-obs/"><u>[Updated] Achieving Broadcast Excellence From Recordings to Livestreams on OBS</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-altering-visuals-in-teams-calls-timely-setup-adjustments-for-2024/"><u>[Updated] Altering Visuals in Teams Calls Timely Setup Adjustments for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-discovering-the-ultimate-14-stardew-valley-upgrades-for-2024/"><u>[Updated] Discovering the Ultimate 14 Stardew Valley Upgrades for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-secretive-suggestions-for-enhanced-vlc-usage/"><u>[Updated] Secretive Suggestions for Enhanced VLC Usage</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-infinix-smart-7-hd-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Infinix Smart 7 HD to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Realme C33 2023 | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/essential-windows-8-tips-record-your-screen-for-2024/"><u>Essential Windows 8 Tips Record Your Screen for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Poco C65 | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-screencaps-made-simple-with-irecorder/"><u>In 2024, Screencaps Made Simple with iRecorder</u></a></li>
-<li><a href="https://techtrends.techidaily.com/whos-spreading-the-word-discovering-the-users-that-shared-your-facebook-updates/"><u>Who's Spreading the Word? Discovering the Users That Shared Your Facebook Updates</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-simple-screen-capture-techniques-to-grab-youtube-soundtracks/"><u>[New] 2024 Approved Simple Screen-Capture Techniques to Grab YouTube Soundtracks</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-technical-insights-for-superior-ppt-recording-quality/"><u>[New] In 2024, Technical Insights for Superior PPT Recording Quality</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-how-to-set-up-and-use-xbox-screen-recording-tools/"><u>[Updated] How to Set Up and Use Xbox Screen Recording Tools</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-find-zen-with-these-10-game-choices/"><u>[Updated] In 2024, Find Zen with These 10 Game Choices</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-how-to-fix-obs-camera-not-working/"><u>[Updated] In 2024, How to Fix OBS Camera Not Working</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-prime-mc-homes-for-social-settlements/"><u>[Updated] In 2024, Prime MC Homes for Social Settlements</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-the-art-of-online-recording/"><u>[Updated] In 2024, The Art of Online Recording</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-step-by-step-instructions-for-picking-background-scores-for-vlogs/"><u>[Updated] Step-by-Step Instructions for Picking Background Scores for Vlogs</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-top-10-high-quality-screen-recorders-for-teaching-professionals/"><u>[Updated] Top 10 High-Quality Screen Recorders for Teaching Professionals</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/2024-win11/"><u>2024 上市前 Win11 圖像編輯器推荐清單</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-elite-fingers-to-enhance-virtual-adventures/"><u>2024 Approved Elite Fingers to Enhance Virtual Adventures</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-iphonescreen-recording-a-straightforward-guide/"><u>2024 Approved IPhonescreen Recording A Straightforward Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-pros-of-choosing-best-pc-video-grabbers-for-win11/"><u>2024 Approved Pros of Choosing Best PC Video Grabbers for Win11</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-solving-iphone-xs-identity-crisis-fixing-face-id-failures/"><u>2024 Approved Solving iPhone X's Identity Crisis Fixing Face ID Failures</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-top-5-seconds-timelapse-shooter/"><u>2024 Approved Top 5-Seconds Timelapse Shooter</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-samsung-galaxy-xcover-7-device-sim-by-drfone-android/"><u>Easily Unlock Your Samsung Galaxy XCover 7 Device SIM</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximal-learning-made-easy-how-students-can-leverage-chatgpts-power/"><u>Maximal Learning Made Easy: How Students Can Leverage ChatGPT's Power</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-network-anatomy-revealed-through-facebooks-openness-portal/"><u>Social Network Anatomy Revealed Through Facebook's Openness Portal</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/winxvideo-ai-rapidly-increase-video-and-audio-playback-speeds-using-graphics-processing-unit-technology/"><u>Winxvideo AI: Rapidly Increase Video and Audio Playback Speeds Using Graphics Processing Unit Technology</u></a></li>
 </ul></div>
 

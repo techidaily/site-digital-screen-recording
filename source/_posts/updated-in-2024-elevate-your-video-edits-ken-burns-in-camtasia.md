@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Elevate Your Video Edits  Ken Burns in Camtasia\""
-date: 2024-09-13T23:27:12.111Z
-updated: 2024-09-18T20:13:35.263Z
+date: 2024-09-22T02:57:04.238Z
+updated: 2024-09-24T03:58:42.861Z
 tags: 
   - screen-recording
   - ai video
@@ -47,6 +47,13 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 If you are looking for the best alternative to Camtasia 9 that makes adding the Ken Burns effect and other video editing features much easier, then Wondershare Filmora should be on your list of considerations. Apart from the Ken Burns effect, Filmora is a perfect video editing tool for beginner content creators, YouTubers, and casual editors who don't want access to professional-grade features or want to pay a lot of money to edit their videos.
@@ -54,6 +61,13 @@ If you are looking for the best alternative to Camtasia 9 that makes adding the 
 That's not to say that Filmora only offers basic features as it has a wide range of options available to video editors including green screen, motion tracking, transitions, audio recording, a diverse variety of presets, and a lot more. Both amateur video creators and hobbyists can get a lot out of the Wondershare Filmora editing tool.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
 
@@ -79,6 +93,13 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -94,24 +115,25 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-the-essential-mac-tips-for-creating-perfect-snaps/"><u>[New] 2024 Approved The Essential Mac Tips for Creating Perfect Snaps</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-audioanalyzer-reaction-to-recordings-for-2024/"><u>[Updated] AudioAnalyzer Reaction to Recordings for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-economical-pc-playback-devices/"><u>[Updated] Economical PC Playback Devices</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-speaking-to-tomorrow-iphone-voice-memo/"><u>2024 Approved Speaking to Tomorrow - iPhone Voice Memo</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-top-10-speedy-gaming-apps-for-mobile-and-desktop/"><u>2024 Approved Top 10 Speedy Gaming Apps for Mobile and Desktop</u></a></li>
-<li><a href="https://win-forum.techidaily.com/easy-steps-to-delete-programs-on-your-windows-11-system/"><u>Easy Steps to Delete Programs on Your Windows 11 System</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-samsung-galaxy-f04-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Samsung Galaxy F04 Screen Black But Still Works? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-from-apple-iphone-se-by-drfone-ios/"><u>How To Remove the Two Factor Authentication From Apple iPhone SE</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/improve-your-macs-movie-experience-transforming-swf-videos-into-mov-format-without-compromising-on-quality/"><u>Improve Your Mac's Movie Experience: Transforming SWF Videos Into MOV Format Without Compromising on Quality</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-visionmeter-recording-suite/"><u>In 2024, VisionMeter Recording Suite</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-mystery-how-to-fix-error-code-0x803f8001-on-your-minecraft-launcher-for-windows-11-and-10/"><u>Solving the Mystery: How to Fix 'Error Code 0X803F8001' On Your Minecraft Launcher for Windows 11 & 10</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/swiftcapture-solutions-w-audio-walkthrough-support/"><u>SwiftCapture Solutions W/ Audio Walkthrough Support</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-capturing-your-workflow-optimal-screenshot-tools/"><u>[New] 2024 Approved Capturing Your Workflow Optimal Screenshot Tools</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-how-to-become-an-instagram-influencer-easily-for-2024/"><u>[New] How to Become an Instagram Influencer Easily for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-pinnacle-choices-top-30-mac-videograbbers-reviewed/"><u>[New] In 2024, Pinnacle Choices Top 30 Mac Videograbbers Reviewed</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-obs-studio-basics-full-guide-to-ps4-game-recording/"><u>[New] Obs Studio Basics - Full Guide to PS4 Game Recording</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-imagelogger-screen-logger-xtreme/"><u>[Updated] 2024 Approved ImageLogger Screen Logger Xtreme</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-capture-every-detail-android-recording-at-zero-cost-for-2024/"><u>[Updated] Capture Every Detail Android Recording at Zero Cost for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-comprehensive-guide-to-xbox-screen-recording-success-for-2024/"><u>[Updated] Comprehensive Guide to Xbox Screen Recording Success for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-optimal-video-saver-best-chromebook-recorder/"><u>[Updated] In 2024, Optimal Video Saver Best Chromebook Recorder</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-art-of-perfect-video-quality-in-zoom-sessions/"><u>[Updated] The Art of Perfect Video Quality in Zoom Sessions</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-universal-strategies-for-screen-capturing-on-diverse-devices/"><u>[Updated] Universal Strategies for Screen Capturing on Diverse Devices</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-windowsnap-tool-for-straightforward-recording/"><u>2024 Approved WindowSnap Tool for Straightforward Recording</u></a></li>
+<li><a href="https://fox-links.techidaily.com/achieving-stunning-iphone-hdr-results-for-2024/"><u>Achieving Stunning iPhone HDR Results for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-precision-and-speed-of-windows-11-laptop-screens/"><u>Enhance Precision and Speed of Windows 11 Laptop Screens</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-advice-on-reactivating-your-rockstar-games-launcher-2024-solutions/"><u>Expert Advice on Reactivating Your Rockstar Games Launcher - 2024 Solutions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-samsung-galaxy-s21-fe-5g-2023-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on Samsung Galaxy S21 FE 5G (2023)?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-the-beginners-guide-to-free-screen-capture-software/"><u>In 2024, The Beginner's Guide to Free Screen Capture Software</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-edit-like-a-pro-10-top-rated-free-fcpx-plugins/"><u>New Edit Like a Pro 10 Top-Rated Free FCPX Plugins</u></a></li>
+<li><a href="https://howto.techidaily.com/oppo-find-n3-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Find N3 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/the-definitive-list-of-win10s-top-video-capture-software/"><u>The Definitive List of Win10's Top Video Capture Software</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/unlocking-success-stellar-guide-to-software-tricks-and-do-it-yourself-mastery/"><u>Unlocking Success: Stellar Guide to Software Tricks & Do-It-Yourself Mastery</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
