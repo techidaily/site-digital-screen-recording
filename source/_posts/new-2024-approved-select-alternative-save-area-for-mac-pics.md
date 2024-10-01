@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Select Alternative Save Area for Mac Pics\""
-date: 2024-09-23T01:59:00.034Z
-updated: 2024-09-24T00:08:14.236Z
+date: 2024-09-23T18:56:50.348Z
+updated: 2024-09-30T23:36:41.599Z
 tags: 
   - screen-recording
   - ai video
@@ -49,10 +49,10 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
@@ -61,6 +61,13 @@ Changing the folder where you store your screenshots is not an irreversible proc
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
 
 **defaults write com.apple.screencapture location**
@@ -68,13 +75,6 @@ Create a new folder on the desired location on your hard drive, and then launch 
 Then enter a space at the end after 'location'.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
 
@@ -87,10 +87,10 @@ To execute the command you have to press Enter. After Terminal finishes running 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
@@ -106,10 +106,10 @@ Don't forget that deleting the folder you use as a default location for storing 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -125,5 +125,24 @@ Follow @Max Wales
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-sharex-unmasked-critical-insights-and-substitutes/"><u>[New] 2024 Approved ShareX Unmasked Critical Insights & Substitutes</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-beyond-expectations-the-new-samsung-ubd-k8500-edition/"><u>[New] Beyond Expectations The New Samsung UBD-K8500 Edition</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-quick-shot-guide-for-chromebook-users/"><u>[New] In 2024, Quick Shot Guide for Chromebook Users</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-recordernation-gratuity-edition-2024-release/"><u>[New] RecorderNation Gratuity Edition, 2024 Release</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-affordable-pc-screen-recorder-comparisons/"><u>[Updated] Affordable PC Screen Recorder Comparisons</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-easy-gaming-memories-start-recording-now-in-2024/"><u>[Updated] Easy Gaming Memories Start Recording Now, In 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-real-time-audio-recording-techniques-for-web-broadcasts-for-2024/"><u>[Updated] Real-Time Audio Recording Techniques for Web Broadcasts for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-htc-u23-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset HTC U23 Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-honor-90-lite-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/banishing-error-messages-fixing-far-cry-6-does-not-open-on-windows-and-mac/"><u>Banishing Error Messages: Fixing 'Far Cry 6 Does Not Open' On Windows and Mac</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-steps-to-locate-gpo-in-windows-os/"><u>Essential Steps to Locate GPO in Windows OS</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-nubia-z50-ultramirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Nubia Z50 UltraMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-precision-screening-advanced-tips-for-hp-laptop-recording/"><u>In 2024, Precision Screening Advanced Tips for HP Laptop Recording</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/pro-level-8-screen-snip-contenders/"><u>Pro-Level 8 Screen Snip Contenders</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/revive-mobile-playback-quick-fixes-for-facebook-videos/"><u>Revive Mobile Playback - Quick Fixes for Facebook Videos</u></a></li>
+<li><a href="https://video-capture.techidaily.com/ultimate-kodi-mastery-a-comprehensive-step-by-step-tutorial/"><u>Ultimate Kodi Mastery: A Comprehensive Step-by-Step Tutorial</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/uncomplicated-approach-for-smooth-iphone-screening/"><u>Uncomplicated Approach for Smooth Iphone Screening</u></a></li>
+</ul></div>
 

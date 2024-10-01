@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Alter Default Location for Mac Captured Images"
-date: 2024-09-21T19:15:19.304Z
-updated: 2024-09-24T01:00:24.059Z
+date: 2024-09-27T17:21:35.298Z
+updated: 2024-09-30T20:16:16.339Z
 tags: 
   - screen-recording
   - ai video
@@ -49,10 +49,16 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
@@ -60,6 +66,13 @@ For macOS 10.12 or later
 Changing the folder where you store your screenshots is not an irreversible process, which means that you can reset the destination where the files are saved to Desktop at any point. Do not delete the new folder, because your Mac may not be able to take screenshots, afterward. The process described below is the only way you can delete a folder or add a new destination for your screenshots, and failing to comply with it may cause your Mac to malfunction.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
 
@@ -70,10 +83,16 @@ Then enter a space at the end after 'location'.
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
@@ -87,10 +106,10 @@ To execute the command you have to press Enter. After Terminal finishes running 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
@@ -105,13 +124,6 @@ Don't forget that deleting the folder you use as a default location for storing 
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -125,5 +137,21 @@ Follow @Max Wales
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-survival-kings-ranking-the-best-royales/"><u>[New] Survival Kings Ranking the Best Royales</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-timed-success-organizing-video-conferences-via-slackplusfilmora/"><u>[New] Timed Success Organizing Video Conferences via Slack+Filmora</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-legends-reign-supreme-top-7-total-war-quests/"><u>[Updated] 2024 Approved Legends Reign Supreme Top 7 Total War Quests</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-optimize-your-iphone-for-gif-saving-and-playing-like-a-pro/"><u>[Updated] 2024 Approved Optimize Your iPhone for GIF Saving & Playing Like a Pro</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-simple-steps-to-coordinate-consistent-productive-google-collaboration-times/"><u>[Updated] In 2024, Simple Steps to Coordinate Consistent, Productive Google Collaboration Times</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-iphoneandroid-integrating-playlists-into-your-fb-music-for-2024/"><u>[Updated] IPhone/Android Integrating Playlists Into Your FB Music for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-lullabies-for-your-mind-no-stress-pcs-for-2024/"><u>[Updated] Lullabies for Your Mind No-Stress PCs for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/achieve-higher-fps-in-tainted-grail-conquest-advanced-optimization-techniques/"><u>Achieve Higher FPS in Tainted Grail: Conquest – Advanced Optimization Techniques</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-insights-on-the-superiority-of-netgears-nighthawk-c7000-wireless-router-a-must-have-gadget-reviewed/"><u>Expert Insights on the Superiority of Netgear's Nighthawk C7000 Wireless Router - A Must-Have Gadget Reviewed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/has-ai-evolved-past-the-need-for-a-turing-check-heres-what-you-should-know/"><u>Has AI Evolved Past the Need for a Turing Check? Here's What You Should Know</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-horizon-zero-dawns-stability-issues-on-windows-a-comprehensive-guide/"><u>How to Resolve Horizon Zero Dawn's Stability Issues on Windows: A Comprehensive Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-a-game-changer-how-bandicams-2023-update-transforms-capturing-games/"><u>In 2024, A Game Changer How Bandicam's 2023 Update Transforms Capturing Games</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-poco-x5-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Poco X5 Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/form-your-short-form-video-content-top-strategies-revealed/"><u>Transform Your Short-Form Video Content - Top Strategies Revealed</u></a></li>
+</ul></div>
 

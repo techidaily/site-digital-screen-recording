@@ -1,7 +1,7 @@
 ---
 title: "[New] Live Online Learning Captures for 2024"
-date: 2024-09-18T23:02:19.963Z
-updated: 2024-09-23T23:22:49.949Z
+date: 2024-09-28T16:26:47.561Z
+updated: 2024-10-01T01:15:30.962Z
 tags: 
   - screen-recording
   - ai video
@@ -49,10 +49,16 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Record Webinars
@@ -69,22 +75,15 @@ Visit Filmora Scrn's official [webpage](https://tools.techidaily.com/wondershare
 
 ![Filmora scrn setup](https://images.wondershare.com/filmora/guide/filmora-scrn-interface.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Select the Quick Capture option in the software's welcome screen and proceed to click on the Setting menu. This action will give you access to the screen recorder's video recording options. Filmora Scrn lets you change Screen, Audio and Camera options. Adjusting the portion of the screen you'd like to record or choosing the frame rate of the recording can be done from the Screen menu, while in the Camera section you can pick a web camera you intend on using in your webinar, change a resolution or set a frame rate for the footage you'll be recording with a webcam.
 
 ![Filmora scrn setup](https://images.wondershare.com/filmora/guide/setup-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Enabling the Camera option will allow you to capture your screen simultaneously while recording a video with your webcam. This option is particularly useful for people that want to create a webinar that also features them as narrators.
@@ -94,13 +93,6 @@ The Audio option contains Microphone and Computer audio options that can be used
 #### 3. Recording a webinar
 
 ![Filmora scrn setup](https://images.wondershare.com/filmora/guide/scrn-record-screen.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 In order to start recording your webinar, you just need to click on the Record button. Filmora Scrn also allows you to record your **webcam** and your **secondary display**, which is very convenient for webinar recording. During the session, you can add [markers](https://tools.techidaily.com/wondershare/filmora/download/) to the footage you're producing by pressing the F8 key on your keyboard or pause the session with the F9 key.
 
@@ -120,6 +112,13 @@ Following these simple steps will help you produce insightful and well-rounded w
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-rose-win.png)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-rose-mac.png)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Tips for Recording Webinars
 
 There is much more to making a webinar than just hitting the Record button, so in order to give your videos a more professional look, you should prepare the intro and outro graphics before you start editing your webinar and quickly add them after you've completed the recording session.
@@ -127,6 +126,13 @@ There is much more to making a webinar than just hitting the Record button, so i
 Making sure that all the settings are adjusted properly and that the amount of background noise is at the very minimum is advised if you'd like to go through the process of making a webinar with Filmora Scrn quick and smoothly.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -141,5 +147,21 @@ Follow @Max Wales
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-discovering-the-best-screen-recording-programs-for-win11-for-2024/"><u>[New] Discovering the Best Screen Recording Programs for Win11 for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-chromebooks-premium-free-video-capture-extensions/"><u>[New] In 2024, Chromebook's Premium Free Video Capture Extensions</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-effortless-gameplay-recordings-for-your-xbox-console/"><u>[New] In 2024, Effortless Gameplay Recordings for Your Xbox Console</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-precision-countdown-ios-and-android-wedding-timer-selection/"><u>[New] Precision Countdown IOS and Android Wedding Timer Selection</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-streamlining-screen-captures-on-mi-11-lite/"><u>[New] Streamlining Screen Captures on Mi 11 Lite</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-premier-mobile-gaming-best-android-gb-simulators/"><u>[Updated] 2024 Approved Premier Mobile Gaming Best Android GB Simulators</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-from-farm-to-feast-shooting-gourmet-films-with-grace-for-2024/"><u>[Updated] From Farm to Feast Shooting Gourmet Films with Grace for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-optimal-earnings-scaling-your-youtube-channels-revenue-on-mobile-devices/"><u>[Updated] Optimal Earnings Scaling Your YouTube Channel's Revenue on Mobile Devices</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-a-beginners-tutorial-how-to-insert-on-screen-dialogue-in-video-formats/"><u>2024 Approved A Beginner's Tutorial How to Insert On-Screen Dialogue in Video Formats</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-advanced-inshot-transition-methods-explained/"><u>2024 Approved Advanced Inshot Transition Methods Explained</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-maximizing-video-clarity-in-twitter-feed/"><u>2024 Approved Maximizing Video Clarity in Twitter Feed</u></a></li>
+<li><a href="https://techtrends.techidaily.com/pixel-phone-2023-anticipated-launch-details-pricing-insights-and-latest-tech-leaks/"><u>Pixel Phone 2023: Anticipated Launch Details, Pricing Insights & Latest Tech Leaks</u></a></li>
+<li><a href="https://driver-install.techidaily.com/repair-usb-serial-driver-failures/"><u>Repair USB-Serial Driver Failures</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/top-tactics-for-gameplay-screen-captures/"><u>Top Tactics for Gameplay Screen Captures</u></a></li>
+</ul></div>
 
