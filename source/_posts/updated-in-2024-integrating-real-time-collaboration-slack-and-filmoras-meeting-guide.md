@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Integrating Real-Time Collaboration  Slack & Filmora's Meeting Guide\""
-date: 2024-09-17T22:49:41.579Z
-updated: 2024-09-24T01:57:42.997Z
+date: 2024-09-30T20:39:41.554Z
+updated: 2024-10-05T21:50:35.990Z
 tags: 
   - screen-recording
   - ai video
@@ -79,13 +79,6 @@ Here is how you can record Slack meeting.
 
 ![Slack App Directory](https://images.wondershare.com/filmora/article-images/slack-app-directory.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3.Tap on **Add** **to** **Slack**.
 
 ![Add To Slack](https://images.wondershare.com/filmora/article-images/add-to-slack.jpg)
@@ -94,16 +87,16 @@ Here is how you can record Slack meeting.
 
 ![Allow Zoom On Slack](https://images.wondershare.com/filmora/article-images/allow-zoom-on-slack.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5.Now, go to your workspace and type the **"/zoom"**command in the chatbox. Tap on the **Zoom** meeting tab.
 
 ![Slack Zoom Chatbox](https://images.wondershare.com/filmora/article-images/slack-zoom-chatbox.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6.Click on **Authorize** **Zoom** and adjust the settings.
 
@@ -114,10 +107,10 @@ Here is how you can record Slack meeting.
 ![Join Slack Meeting](https://images.wondershare.com/filmora/article-images/join-slack-meeting.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 8.Finally, tap on the **Record**icon to record Slack meeting. You can click on the **Pause** button or **Stop** to finish recording. Once the recording finishes, it will be automatically sent to your public or private channel(depending on the type of Slack meeting you scheduled).
@@ -125,10 +118,10 @@ Here is how you can record Slack meeting.
 ![Record Slack Meeting](https://images.wondershare.com/filmora/article-images/record-slack-meeting.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: Slack Video Call Settings
@@ -142,15 +135,22 @@ The settings tab in the video call enables you to create a name for the video ca
 ![Slack Video Call Settings](https://images.wondershare.com/filmora/article-images/slack-video-call-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Moreover, if you wish to stay on mute and still engage with the speaker, just click on the emoji on the screen. Select from a variety of reactions or type a text message right on the video screen.
 
 ![Slack Emoji Message](https://images.wondershare.com/filmora/article-images/slack-emoji-message.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -173,5 +173,26 @@ Follow @Shanoon Cox
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-agriculture-adventures-with-comrades-top-10-farmers-craft/"><u>[New] In 2024, Agriculture Adventures with Comrades Top 10 Farmer's Craft</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-step-by-step-xbox-game-recordings-made-easy-for-2024/"><u>[New] Step-by-Step Xbox Game Recordings Made Easy for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-virtual-skirmishes-of-legends-top-7-total-war-battles-for-2024/"><u>[New] Virtual Skirmishes of Legends – Top 7 Total War Battles for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-decoding-the-mystery-insider-knowledge-on-story-watchers/"><u>[Updated] Decoding the Mystery Insider Knowledge on Story Watchers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-game-changing-strategies-for-effective-video-capture/"><u>[Updated] In 2024, Game-Changing Strategies for Effective Video Capture</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-quick-start-methods-for-producing-and-perfecting-multiple-snaps-in-snapchat/"><u>[Updated] In 2024, Quick Start Methods for Producing and Perfecting Multiple Snaps in Snapchat</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-navigate-the-world-of-snapchat-communication-in-a-blink-for-2024/"><u>[Updated] Navigate the World of Snapchat Communication in a Blink for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-clashing-kings-the-top-battle-royale-games/"><u>2024 Approved Clashing Kings The Top Battle Royale Games</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-explore-creativity-best-drawing-software-for-ipados/"><u>2024 Approved Explore Creativity Best Drawing Software for iPadOS</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-the-2023-dive-into-apeaksofts-video-capture-marvels/"><u>2024 Approved The 2023 Dive Into Apeaksoft’s Video Capture Marvels</u></a></li>
+<li><a href="https://change-location.techidaily.com/all-you-need-to-know-about-mega-greninja-for-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/expert-tips-for-documenting-computer-speakers-and-mics-for-2024/"><u>Expert Tips for Documenting Computer Speakers & Mics for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-htc-u23-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On HTC U23? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-itel-a60s-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Itel A60s to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-comprehensively-ranking-free-screen-capture-tools-2023/"><u>In 2024, Comprehensively Ranking Free Screen Capture Tools 2023</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-essential-tips-for-digitizing-internet-radio-programming/"><u>In 2024, Essential Tips for Digitizing Internet Radio Programming</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-peaking-at-number-one-on-youtube-what-to-know/"><u>In 2024, Peaking at Number One on YouTube What to Know</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/nondescriptive-repositories-for-intact-chatgpt-interactions/"><u>Nondescriptive Repositories for Intact ChatGPT Interactions</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-stability-issues-in-crackdown-3-on-pc-platforms/"><u>Troubleshooting Guide: Resolving Stability Issues in Crackdown 3 on PC Platforms</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Cure for Disconnected Channels in OBS"
-date: 2024-09-28T23:40:27.611Z
-updated: 2024-09-30T23:58:36.680Z
+date: 2024-09-29T22:33:07.135Z
+updated: 2024-10-05T17:39:16.038Z
 tags: 
   - screen-recording
   - ai video
@@ -41,19 +41,6 @@ While using OBS studio, the users might experience the difficulties of OBS not c
 
 ![restart](https://images.wondershare.com/filmora/article-images/restart.jpg)
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **2\. Run it as Administrator**
 
 You can run OBS as an administrator on Windows 10 and Windows 11 effortlessly. By default, Windows always restrict the maximum resources a program can obtain to avoid one application draining too many available resources, crashing essential system programs. The method is uncomplicated, and you can perform it by yourself. Therefore, if you want to prevent OBS not recording audio difficulties, you should make OBS an administrator. Hence, we propose to run your OBS as administrator to circumvent this constraint
@@ -63,13 +50,6 @@ You can run OBS as an administrator on Windows 10 and Windows 11 effortlessly. B
 * Right Click on OBS Studio and click Run as administrator
 
 ![run it as administrator](https://images.wondershare.com/filmora/article-images/run-it-as-administrator.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **3\. Unmute OBS**
 
@@ -82,17 +62,10 @@ If OBS Studio is muted in the Volume Mixer, no doubt you won’t hear any deskto
 ![unmute obs](https://images.wondershare.com/filmora/article-images/unmute-obs.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **4\. Check the sound settings**
@@ -106,10 +79,10 @@ Click the Desktop Audio Device drop-down option if the proper device is not chos
 ![check the sound settings](https://images.wondershare.com/filmora/article-images/check-the-sound-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **5\. Remove Other Programs for Audio Control**
@@ -122,6 +95,13 @@ Try recording with your speakers as the default playback device instead of headp
 
 ![audio control](https://images.wondershare.com/filmora/article-images/audio-control.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **6\. Update your audio driver**
 
 If the Desktop Audio stopped recording after the Windows Driver update, you may roll back the Windows to the prior version with no difficulty. If the audio driver is not up-to-date, the OS cannot connect with the audio output device. Hence, OBS will not detect any audio. To upgrade your audio driver, follow these procedures.
@@ -130,6 +110,20 @@ If the Desktop Audio stopped recording after the Windows Driver update, you may 
 * From there, expand the Sound, video, and game controller, then right-click the audio driver and Update.
 
 ![update your audio driver](https://images.wondershare.com/filmora/article-images/update-your-audio-driver.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **7\. Reinstall OBS**
 
@@ -142,16 +136,10 @@ If none of the techniques can assist you, your OBS is experiencing an undefined 
 ![reinstall obs](https://images.wondershare.com/filmora/article-images/reinstall-obs.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Use OBS Alternative
@@ -192,16 +180,21 @@ After the above efficient approaches, we have utilized to cure the "OBS No Sound
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-the-best-screen-capture-apps-a-guide-for-educators/"><u>[New] 2024 Approved The Best Screen Capture Apps A Guide for Educators</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-filmmaking-made-easy-pc-mac-and-smartphone-techniques-for-2024/"><u>[New] Filmmaking Made Easy PC, Mac & Smartphone Techniques for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-unique-concepts-for-enhancing-fb-video-marketing-impact/"><u>[New] In 2024, Unique Concepts for Enhancing Fb Video Marketing Impact</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-elevating-videography-mastery-of-the-green-screen-effect/"><u>[Updated] 2024 Approved Elevating Videography Mastery of the Green Screen Effect</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-perfect-screen-recording-made-simple-and-orderly/"><u>[Updated] Perfect Screen Recording Made Simple & Orderly</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-screen-streaming-showdown-face-off-between-obs-and-shadowtoolkit/"><u>2024 Approved Screen Streaming Showdown Face Off Between OBS & ShadowToolKit</u></a></li>
-<li><a href="https://blog-min.techidaily.com/cambia-de-forma-gratuita-tus-archivos-aifc-a-formato-wav-con-herramientas-en-linea/"><u>Cambia De Forma Gratuita Tus Archivos AIFC a Formato WAV Con Herramientas en Línea.</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/gameglasses-glimpse-guide/"><u>GameGlasses Glimpse Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-play-mov-files-on-galaxy-a15-4g-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to play MOV files on Galaxy A15 4G ?</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-expert-level-recording-app-clean-and-clear/"><u>In 2024, Expert-Level Recording App - Clean and Clear</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transforming-daily-tasks-leveraging-9-gpt-innovations/"><u>Transforming Daily Tasks: Leveraging 9 GPT Innovations</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-quick-recording-techniques-for-firaxis-age-of-empires-ii/"><u>[New] 2024 Approved Quick Recording Techniques for Firaxis' Age of Empires II</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-audio-wizardry-in-action-techniques-for-professional-video-sound-recording/"><u>[New] Audio Wizardry in Action Techniques for Professional Video Sound-Recording</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-dark-moments-bright-shots-a-photographers-nighttime-guide-for-2024/"><u>[New] Dark Moments, Bright Shots A Photographer’s Nighttime Guide for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-how-to-live-stream-xbox-to-facebook-live/"><u>[New] In 2024, How to Live Stream Xbox to Facebook Live</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-expert-recommendations-prime-apps-for-mac-video-recording/"><u>[Updated] Expert Recommendations Prime Apps for Mac Video Recording</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-the-sharex-exploration-reviews-and-contenders/"><u>2024 Approved The ShareX Exploration Reviews & Contenders</u></a></li>
+<li><a href="https://windows11.techidaily.com/identifying-ip-and-mac-via-windows-powershell/"><u>Identifying IP & MAC via Windows PowerShell</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-daily-dharma-the-best-yoga-channels-for-self-growth/"><u>In 2024, Daily Dharma The Best Yoga Channels for Self-Growth</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-how-to-rotate-a-video-on-vlc-media-player/"><u>In 2024, How to Rotate A Video on VLC Media Player</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-leveraging-tools-for-seamless-powerpoint-transcription/"><u>In 2024, Leveraging Tools for Seamless PowerPoint Transcription</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-pixelhunter-advanced-screen-grabber/"><u>In 2024, PixelHunter Advanced Screen Grabber</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-on-iphone-8-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication On iPhone 8? 5 Tips You Must Know</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-humble-code-that-put-big-mac-in-a-bind-how-an-ingenious-application-challenged-mcdonalds-systems/"><u>The Humble Code That Put Big Mac in a Bind: How an Ingenious Application Challenged McDonald's Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-sudden-and-complete-cessation-of-chatgpt-in-italy/"><u>The Sudden and Complete Cessation of ChatGPT in Italy</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/top-free-video-recorders-including-apowersoft/"><u>Top Free Video Recorders, Including Apowersoft</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-turings-assessment-and-its-competitive-horizon/"><u>Understanding Turing's Assessment & Its Competitive Horizon</u></a></li>
 </ul></div>
 
