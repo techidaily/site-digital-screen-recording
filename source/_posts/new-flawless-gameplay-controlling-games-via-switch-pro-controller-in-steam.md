@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Flawless Gameplay  Controlling Games via Switch Pro Controller in Steam\""
-date: 2024-09-30T17:43:06.267Z
-updated: 2024-10-06T06:52:32.303Z
+date: 2024-10-07T16:44:31.132Z
+updated: 2024-10-11T22:23:49.346Z
 tags: 
   - screen-recording
   - ai video
@@ -54,6 +54,13 @@ Windows describe it as a DirectInput controller instead of an XInput controller,
 
 There you have it! Windows 10 will recognize your controller as a "Pro Controller." You can now proceed with installing Steam.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Wirelessly connect your Switch Pro controller to your PC**
 
 It's also easy, but you need to buy an adapter or have Bluetooth on your computer.
@@ -63,16 +70,10 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 ![switch-pro-controller-syncing-button](https://images.wondershare.com/filmora/article-images/switch-pro-controller-syncing-button.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Right-click the Bluetooth icon in the system tray.
@@ -80,22 +81,15 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 ![switch-pro-controller-bluetooth-connection](https://images.wondershare.com/filmora/article-images/switch-pro-controller-bluetooth-connection.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * To add a Bluetooth device, click "Add Bluetooth Device."
 
 ![switch-pro-controller-add-device](https://images.wondershare.com/filmora/article-images/switch-pro-controller-add-device.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * Click on "Bluetooth" (since Windows 10 needs to be convinced that you want to use Bluetooth).
 * Ensure that the Pro Controller appears on the list of available devices (if it does not, ensure that the indicator lights are flashing back and forth). Pair the controller by clicking it.
@@ -120,6 +114,13 @@ When configured through Steam, you should use the Pro Controller with any Steam 
 
 ![switch-pro-controller-steam-set-up2](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Enter the Switch Pro Controller overlay from Steam's controller options while running in Big Picture mode. There are several ways to map the inputs on the Pro Controller, but default configurations are usually sufficient for most games. By changing the controller mapping based on the situation, you can fix any problems on the fly.
 
 ## **What To Do With Non-Steam Games?**
@@ -138,13 +139,6 @@ This is how you can use your switch pro controller with your PC. Now you can eas
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -160,15 +154,24 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-starlit-secrets-dos-and-donts-of-astrophotography/"><u>[New] In 2024, Starlit Secrets Do's & Don'ts of Astrophotography</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-google-collages-how-to-achieve-it-in-a-blink-of-an-eye/"><u>[Updated] Google Collages How to Achieve It in A Blink of an Eye</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-the-ultimate-guide-to-sync-obs-with-facebook/"><u>[Updated] The Ultimate Guide to Sync OBS with Facebook</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-essential-tips-for-enhancing-voiceovers-in-presentations/"><u>2024 Approved Essential Tips for Enhancing Voiceovers in Presentations</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/age-of-empires-4-pc-stability-issues-discover-how-to-keep-it-running-smoothly-now/"><u>Age of Empires 4 PC Stability Issues? Discover How to Keep It Running Smoothly Now</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/creating-a-dual-video-display-a-step-by-step-guide-to-making-a-split-screen-video/"><u>Creating a Dual-Video Display: A Step-by-Step Guide to Making a Split Screen Video</u></a></li>
-<li><a href="https://win-blog.techidaily.com/get-the-best-out-of-your-game-with-these-tricks-on-solving-hiccups-in-the-ascent/"><u>Get the Best Out of Your Game with These Tricks on Solving Hiccups in 'The Ascent'</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-capture-and-replay-the-ultimate-guide-to-free-mac-screen-recording-apps/"><u>In 2024, Capture & Replay The Ultimate Guide to Free Mac Screen Recording Apps</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-sony-xperia-10-v-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Sony Xperia 10 V?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-infinix-smart-7-hd-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Infinix Smart 7 HD Phone Pattern Lock</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-unlocking-the-secrets-to-sharing-videos-on-instagram/"><u>[New] 2024 Approved Unlocking the Secrets to Sharing Videos on Instagram</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-finding-non-inshot-video-software-for-pcs/"><u>[New] Finding Non-Inshot Video Software for PCs</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-secure-and-share-your-live-sounds-5-proven-online-approaches/"><u>[New] In 2024, Secure & Share Your Live Sounds - 5 Proven Online Approaches</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-the-art-of-gamers-screen-recording-on-win10/"><u>[New] In 2024, The Art of Gamers' Screen Recording on Win10</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-mastering-mp3-capture-skype-calls-no-cost/"><u>[New] Mastering MP3 Capture Skype Calls, No Cost</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-mastering-iphone-screen-capture-with-simplicity/"><u>[Updated] 2024 Approved Mastering iPhone Screen Capture with Simplicity</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-scripts-that-define-movie-industrys-variety/"><u>[Updated] 2024 Approved Scripts That Define Movie Industry's Variety</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-ethical-tiktok-following-purchase-with-peace-of-mind-for-2024/"><u>[Updated] Ethical TikTok Following Purchase with Peace of Mind for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-expert-advice-extracting-and-saving-tweets-video-files-in-android/"><u>[Updated] In 2024, Expert Advice Extracting & Saving Tweets' Video Files in Android</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-simplifying-video-production-in-captivate-software-for-2024/"><u>[Updated] Simplifying Video Production in Captivate Software for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>10 Best Fake GPS Location Spoofers for Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-ultimate-guide-to-screen-grabbers/"><u>2024 Approved Ultimate Guide to Screen Grabbers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/8-top-picks-for-seamless-screen-recording-experience-for-2024/"><u>8 Top Picks for Seamless Screen Recording Experience for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-list-ringtone-picks-for-adoring-tyrion-lannister-fans-for-2024/"><u>A-List Ringtone Picks for Adoring Tyrion Lannister Fans for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/essential-guide-to-cheap-video-conferencing-tools-for-computers/"><u>Essential Guide to Cheap Video Conferencing Tools for Computers</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-xiaomi-redmi-13c-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Xiaomi Redmi 13C Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/illuminating-interactions-mastering-animate-texts-in-stories-for-2024/"><u>Illuminating Interactions Mastering Animate Texts in Stories for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-budget-friendly-pc-screen-capture-software/"><u>In 2024, Budget-Friendly PC Screen Capture Software</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-samsung-galaxy-m34-5g-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Samsung Galaxy M34 5G Phones</u></a></li>
 </ul></div>
 

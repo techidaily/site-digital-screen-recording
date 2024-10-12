@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Advanced Tips for Blending Modes in VFX\""
-date: 2024-10-01T02:30:11.365Z
-updated: 2024-10-06T02:18:21.737Z
+date: 2024-10-07T19:27:43.619Z
+updated: 2024-10-12T01:07:43.718Z
 tags: 
   - screen-recording
   - ai video
@@ -69,19 +69,19 @@ The **Multiply Mode** is also one of the frequently used blending modes that **m
 ![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-multiply-mode.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 This mode will enable you to create the black background for your video effortlessly, and highlight the subjects in the video clip you intend to use as a top layer. You need to choose carefully which video clips you are going to use and how are they going to look on a dark background if you want to produce visually pleasing videos that captivate the viewer's attention.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to use Blending Modes?
@@ -101,10 +101,10 @@ Adjust the duration of the video clips or photos you've placed on the timeline a
 ![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-blending-mode-tracks.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 2 - Select the Blending mode
@@ -115,6 +115,13 @@ In the Compositing menu, you will be able to see the Blending Mode feature. Clic
 
 ![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-blending-mode-selection.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Changing the Opacity value will enable you to reduce the transparency level of a layer while changing the values in the Transform menu will help you find the perfect position on the background for the overlaying image.
 
 #### Step 3 - Export the video
@@ -122,13 +129,6 @@ Changing the Opacity value will enable you to reduce the transparency level of a
 Click on the Export button if you like the results and choose whether you want to save the file on your hard-disc or upload it to YouTube, Facebook or Vimeo directly from Filmora Scrn.
 
 ![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-blending-mode-export.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -151,24 +151,18 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-download-dos-and-donts-for-vrecorder-for-2024/"><u>[New] Download Dos & Don’ts for VRecorder for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-effective-practices-for-device-video-capture/"><u>[Updated] In 2024, Effective Practices for Device Video Capture</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-top-10-engaging-mobile-idle-puzzles/"><u>[Updated] Top 10 Engaging Mobile Idle Puzzles</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-ultimate-no-fuss-techniques-for-valorant-sessions-for-2024/"><u>[Updated] Ultimate No-Fuss Techniques for Valorant Sessions for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-unrivaled-windows-video-calls-top-8-apps/"><u>2024 Approved Unrivaled Windows Video Calls Top 8 Apps</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/6-insights-the-profound-impact-of-snapchats-ai/"><u>6 Insights: The Profound Impact of Snapchat's AI</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/4flac/"><u>優秀なフラッシュアンドパースペクティブで4つの最適な無料FLAC音量調整プログラムをご紹介</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/cing-content-discovery-via-thumbnails/"><u>Enhancing Content Discovery via Thumbnails</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/expert-picks-of-premium-timelapse-capture-software-for-2024/"><u>Expert Picks of Premium Timelapse Capture Software for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/game-changing-ps4-screen-recordings-using-obs-for-2024/"><u>Game-Changing PS4 Screen Recordings Using OBS for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-motorola-edge-40-neo-lock-screen-password-by-drfone-android/"><u>How To Change Motorola Edge 40 Neo Lock Screen Password?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-forgotten-pin-of-your-sony-xperia-10-v-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Sony Xperia 10 V</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-best-iphone-photo-marker-selection-unveiled/"><u>In 2024, Best iPhone Photo Marker Selection Unveiled</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-expert-selections-top-ios-emulators-for-playstation-2-games/"><u>In 2024, Expert Selections Top IOS Emulators for PlayStation 2 Games</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-sony-xperia-10-v-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Sony Xperia 10 V to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-magic-6-lite-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Honor Magic 6 Lite Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-through-social-media-titans-facebook-twitter-instagram-and-youtube-journey/"><u>Navigating Through Social Media Titans: Facebook, Twitter, Instagram & YouTube Journey</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/social-media-savvy-top-trending-hashtags-for-youtubers/"><u>Social Media Savvy Top Trending Hashtags for Youtubers</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/the-quintessential-browsers-screen-recorder-guide-for-professionals/"><u>The Quintessential Browsers' Screen Recorder Guide for Professionals</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-duality-in-display-rotating-videos-on-instagram-one-click-at-a-time/"><u>[New] 2024 Approved Duality in Display Rotating Videos on Instagram, One Click at a Time</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-perfecting-your-videos-farewell-scene/"><u>[New] 2024 Approved Perfecting Your Video's Farewell Scene</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-navigating-the-basics-of-multi-os-skype-chatting-for-2024/"><u>[New] Navigating the Basics of Multi-OS Skype Chatting for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-perfect-practices-in-livestreaming-athletic-competitions/"><u>[New] Perfect Practices in Livestreaming Athletic Competitions</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-revolutionizing-lessons-with-top-screen-recorder-apps/"><u>[Updated] In 2024, Revolutionizing Lessons with Top Screen Recorder Apps</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-seamless-integration-of-nvidia-screener-techniques-for-2024/"><u>[Updated] Seamless Integration of NVIDIA Screener Techniques for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-zero-price-audio-excellence-ranking-of-top-10-desktop-tools/"><u>2024 Approved Zero-Price Audio Excellence Ranking of Top 10 Desktop Tools</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-screen-grab-pros-comprehensive-analysis/"><u>In 2024, Screen Grab Pros Comprehensive Analysis</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-depth-look-at-instagrams-video-time-restrictions-for-2024/"><u>In-Depth Look at Instagram's Video Time Restrictions for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-multiple-ways-how-to-remove-icloud-activation-lock-from-your-apple-iphone-12-by-drfone-ios/"><u>New Multiple Ways How To Remove iCloud Activation Lock From your Apple iPhone 12</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-guide-how-to-open-and-extract-files-from-an-ape-archive-in-multiple-operating-systems-windows-mac-and-linux/"><u>Step-by-Step Guide: How To Open And Extract Files From an .APE Archive in Multiple Operating Systems (Windows, Mac & Linux)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-fixes-to-stop-screen-tearing-while-playing-valorant/"><u>Troubleshooting and Fixes to Stop Screen Tearing While Playing VALORANT</u></a></li>
 </ul></div>
 

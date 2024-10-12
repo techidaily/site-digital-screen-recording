@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Elevate Your Video Edits  Ken Burns in Camtasia\""
-date: 2024-09-28T20:15:06.354Z
-updated: 2024-10-06T02:49:22.703Z
+date: 2024-10-10T17:49:19.527Z
+updated: 2024-10-12T02:24:19.727Z
 tags: 
   - screen-recording
   - ai video
@@ -48,10 +48,10 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -63,10 +63,10 @@ That's not to say that Filmora only offers basic features as it has a wide range
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
@@ -94,10 +94,10 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -115,22 +115,18 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-navigating-file-transfers-from-android-to-apple-devices/"><u>[New] 2024 Approved Navigating File Transfers From Android to Apple Devices</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/nhance-videos-seamlessly-using-youtube-studio-editor-for-2024/"><u>[New] Enhance Videos Seamlessly Using YouTube Studio Editor for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-from-novice-to-pro-mastering-lenovos-capture-capabilities/"><u>[New] From Novice to Pro Mastering Lenovo's Capture Capabilities</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-detailed-look-logitechs-elite-4k-webcam-review/"><u>[Updated] 2024 Approved Detailed Look Logitech’s Elite 4K Webcam Review</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-efficient-youtube-video-logging-solutions-for-2024/"><u>[Updated] Efficient YouTube Video Logging Solutions for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-elevating-videogame-recording-the-steam-methodology-for-2024/"><u>[Updated] Elevating Videogame Recording The Steam Methodology for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-majority-of-top-tiktok-money-predicting-apps/"><u>[Updated] Majority of Top TikTok Money-Predicting Apps</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-seamless-obs-zoom-connection-step-by-step/"><u>[Updated] Seamless OBS-Zoom Connection Step-by-Step</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-step-by-step-capturing-your-roblox-journeys-on-a-mac/"><u>[Updated] Step-by-Step Capturing Your Roblox Journeys on a Mac</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-beginner-friendly-approach-to-videography-using-adobe-connect-platform/"><u>In 2024, Beginner-Friendly Approach to Videography Using Adobe Connect Platform</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-variants-of-windows-movie-maker-a-comprehensive-list/"><u>In 2024, Variants of Windows Movie Maker A Comprehensive List</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/is-there-a-psn-service-interruption-or-are-you-facing-connectivity-problems/"><u>Is There A PSN Service Interruption, Or Are You Facing Connectivity Problems?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Motorola Edge 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-infinix-hot-40-pro-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Infinix Hot 40 Pro Device</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-best-free-video-dubbing-software-for-windows-1011/"><u>New In 2024, Best Free Video Dubbing Software for Windows 10/11</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/top-free-video-call-apps-versatile-use-on-windows-and-macos/"><u>Top Free Video Call Apps Versatile Use on Windows & MacOS</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-7-key-ai-enhancements-you-can-use/"><u>Unveiling 7 Key AI Enhancements You Can Use</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-exploring-the-usefulness-of-a-blue-video-icon-on-facebook-chat/"><u>[New] 2024 Approved Exploring the Usefulness of a Blue Video Icon on Facebook Chat</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-essential-free-mp3-recorder-for-skype-chats/"><u>[New] In 2024, Essential Free MP3 Recorder for Skype Chats</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-ideal-pc-emulators-for-retro-ps1-gaming/"><u>[New] In 2024, Ideal PC Emulators for Retro PS1 Gaming</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-optimal-zero-dollar-valorant-sound-manipulator-alert/"><u>[Updated] Optimal Zero Dollar Valorant Sound Manipulator Alert</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-windowsnap-tool-for-straightforward-recording/"><u>2024 Approved WindowSnap Tool for Straightforward Recording</u></a></li>
+<li><a href="https://extra-information.techidaily.com/google-cardboard-vs-samsung-gear-vr/"><u>Google Cardboard Vs. Samsung Gear VR</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-the-beginners-guide-to-free-screen-capture-software/"><u>In 2024, The Beginner's Guide to Free Screen Capture Software</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-top-10-free-stock-footage-websites-you-should-know/"><u>In 2024, Top 10 Free Stock Footage Websites You Should Know</u></a></li>
+<li><a href="https://driver-download.techidaily.com/logitech-enhances-gamer-experience-check-out-the-new-extreme-3d-pro-mouse-software-version/"><u>Logitech Enhances Gamer Experience - Check Out the New Extreme 3D Pro Mouse Software Version!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/masteringdarkmodesettingforwindowstexteditor/"><u>MasteringDarkModeSettingForWindowsTextEditor</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/refurbish-your-legacy-systems-with-damn-small-linux-tricks-and-techniques-for-a-smooth-transition/"><u>Refurbish Your Legacy Systems with Damn Small Linux: Tricks & Techniques for a Smooth Transition</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/the-definitive-list-of-win10s-top-video-capture-software/"><u>The Definitive List of Win10's Top Video Capture Software</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/eyxh-kalwn-piatwn-gkreman/"><u>Ευχή Καλών Πιάτων Γκρεμάν</u></a></li>
 </ul></div>
 

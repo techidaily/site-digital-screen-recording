@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Introduction  Mastering Zoom Sessions Split\""
-date: 2024-09-28T19:07:08.633Z
-updated: 2024-10-06T03:29:41.154Z
+date: 2024-10-11T01:56:30.919Z
+updated: 2024-10-11T18:46:44.259Z
 tags: 
   - screen-recording
   - ai video
@@ -45,20 +45,27 @@ A breakout room is a sub-room that can be created during a meeting and you can s
 
 You must purchase the Large Meeting add-on if you would like to create 50 breakout sessions that have as many as two hundred participants. Each participant in a breakout session has complete control over video, audio and screen sharing options, and they can record each breakroom locally. In case the meeting’s host has enabled the cloud recording feature, Zoom will only record the main room while giving the participants the option to record the breakout room separately.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: How to Create a Breakout Room?
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Enable Breakout Rooms in Zoom
 
 Creating a breakout room requires you to install the Zoom desktop client and to create an account on Zoom. Once you complete these two steps, you should sign in to your account and choose the Account Settings option from the Account Management menu. Locate the Breakout Room feature that is located in the Meeting tab and if the feature is disabled you should click on it to toggle it on.
 
 ![ Enable Breakout Rooms in Zoom](https://images.wondershare.com/filmora/article-images/eable-breakout-room-zoom.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Hosts who would like to assign participants to breakout rooms while scheduling a meeting should click on the Allow host to assign participants to breakout rooms when scheduling a checkbox. Clicking on the Lock icon will make the breakout room setting mandatory for all users on your Zoom account.
 
@@ -77,19 +84,25 @@ Once the breakout room feature is enabled, you should start a new meeting and cl
 ![ Create  Breakout Rooms in Zoom](https://images.wondershare.com/filmora/article-images/create-breakout-rooms.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Click on the Create Rooms button to complete the process and proceed to fine-tune the settings for each room.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: How to Manage Breakout Rooms
@@ -122,13 +135,6 @@ We’ve written an article about Zoom meeting, if you’ve met any questions abo
 
 Even though creating and managing breakout rooms shouldn’t be too difficult, you may still experience problems. Let's take a look at some of the most common issues Zoom users encounter with breakout rooms.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Why can’t I join a Zoom Breakout Room?
 
 Only users with access to Zoom desktop client, Zoom mobile app and H.323/SIP devices can join breakout rooms. You won’t be able to join a breakout room if you are using Zoom from a web browser.
@@ -138,10 +144,10 @@ Only users with access to Zoom desktop client, Zoom mobile app and H.323/SIP dev
 Hosts can only communicate with participants of a single breakout room, which means that they have to join a room to which a particular participant was assigned in order to communicate with them.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Can participants switch between breakout rooms after a session starts?
@@ -173,18 +179,18 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-enhancing-engagement-streaming-historical-video-events-on-facebook-for-2024/"><u>[New] Enhancing Engagement Streaming Historical Video Events on Facebook for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/new-essential-guide-top-10-steps-for-instructors-on-youtube-channels/"><u>[New] Essential Guide Top 10 Steps for Instructors on YouTube Channels</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-streamline-your-presence-optimal-obs-use-on-facebook-feed/"><u>[New] Streamline Your Presence Optimal OBS Use on Facebook Feed</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-digital-footprint-how-to-share-your-short-videos-on-computers-and-phones/"><u>[Updated] 2024 Approved Digital Footprint How to Share Your Short Videos on Computers & Phones</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-3-simple-ways-to-color-grading-in-adobe-photoshop-for-2024/"><u>[Updated] 3 Simple Ways to Color Grading in Adobe Photoshop for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-capture-perfection-4-methods-of-saving-chromebook-screenshots/"><u>[Updated] Capture Perfection 4 Methods of Saving Chromebook Screenshots</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-secure-quick-and-simple-screenshot-techniques-for-w8-users-for-2024/"><u>[Updated] Secure, Quick & Simple Screenshot Techniques for W8 Users for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-cure-missing-fb-stories-on-devices/"><u>2024 Approved Cure Missing FB Stories on Devices</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/capturing-the-thrill-streaming-gameplay-like-a-pro-for-2024/"><u>Capturing the Thrill Streaming Gameplay Like a Pro for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/history-in-action-top-7-engaging-civilization-wars-for-2024/"><u>History in Action Top 7 Engaging Civilization Wars for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-minimugger-report-onscreen-snaps-reviewed/"><u>In 2024, MiniMugger Report - Onscreen Snaps Reviewed</u></a></li>
-<li><a href="https://extra-information.techidaily.com/tranquil-twilight-tales-in-video-form/"><u>Tranquil Twilight Tales in Video Form</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/vocalvault-critique-of-live-sounds-for-2024/"><u>VocalVault Critique of Live Sounds for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-ending-echoes-reconnecting-audio-to-obs/"><u>[New] Ending Echoes Reconnecting Audio to OBS</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-essential-apps-for-professional-video-editing-on-androidpc-for-2024/"><u>[New] Essential Apps for Professional Video Editing on Android/PC for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-decoding-youtube-exchange-threads/"><u>[New] In 2024, Decoding YouTube Exchange Threads</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-webcam-powered-recording-revolutionize-your-ppts/"><u>[Updated] 2024 Approved Webcam-Powered Recording Revolutionize Your PPTs</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-recording-roulette-top-strategies-for-tv-show-capture-for-2024/"><u>[Updated] Recording Roulette Top Strategies for TV Show Capture for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-symphony-storage-download-and-critique-melodies/"><u>[Updated] Symphony Storage Download & Critique Melodies</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-facebook-content-at-your-fingertips-best-downloader-apps-for-ios/"><u>2024 Approved Facebook Content at Your Fingertips Best Downloader Apps for iOS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/content-authenticity-human-vs-machine-craftsmanship/"><u>Content Authenticity: Human vs Machine Craftsmanship</u></a></li>
+<li><a href="https://driver-error.techidaily.com/guide-to-fixing-usb-setup-errors-caused-by-access-is-denied/"><u>Guide to Fixing USB Setup Errors Caused by 'Access Is Denied'</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-apple-iphone-6-plus-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>How to Change Your Apple iPhone 6 Plus Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/ideal-obs-parameters-for-economical-pcs/"><u>Ideal OBS Parameters for Economical PCs</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/motorolas-moto-g-power-an-in-depth-look-at-its-stellar-endurance-and-solid-execution/"><u>Motorola's Moto G Power - An In-Depth Look at Its Stellar Endurance and Solid Execution</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/optimieren-sie-ihre-hevch265-encodierung-effiziente-losungen-fur-eine-beschleunigte-verarbeitungszeit/"><u>Optimieren Sie Ihre HEVC/H.265 Encodierung: Effiziente Lösungen Für Eine Beschleunigte Verarbeitungszeit</u></a></li>
 </ul></div>
 

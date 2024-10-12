@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Select Alternative Save Area for Mac Pics\""
-date: 2024-10-02T19:57:02.870Z
-updated: 2024-10-06T10:29:35.476Z
+date: 2024-10-05T02:00:05.126Z
+updated: 2024-10-11T22:32:20.641Z
 tags: 
   - screen-recording
   - ai video
@@ -49,10 +49,10 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
@@ -62,10 +62,10 @@ Changing the folder where you store your screenshots is not an irreversible proc
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
@@ -76,6 +76,13 @@ Then enter a space at the end after 'location'.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
 
 **defaults write com.apple.screencapture location /Users/username/Screenshots**
@@ -85,13 +92,6 @@ To execute the command you have to press Enter. After Terminal finishes running 
 **killall SystemUIServer**
 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
 
@@ -106,10 +106,10 @@ Don't forget that deleting the folder you use as a default location for storing 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -127,19 +127,22 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-cross-monitors-data-synthesis/"><u>[New] Cross-Monitors Data Synthesis</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-the-ultimate-pc-workaround-for-console-gaming-recordings/"><u>[New] The Ultimate PC Workaround for Console Gaming Recordings</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-high-definition-spectrum-selecting-best-screen-recorders-for-2024/"><u>[Updated] High Definition Spectrum Selecting Best Screen Recorders for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-mastering-the-art-of-youtube-posts-via-instagram-stories-for-2024/"><u>[Updated] Mastering the Art of YouTube Posts via Instagram Stories for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-ultimate-6-contemporary-mojave-home-layouts/"><u>[Updated] Ultimate 6 Contemporary Mojave Home Layouts</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/49-post-rebate-offer-discover-why-the-phanteks-evolv-shift-2-is-a-top-choice-for-itx-enthusiasts/"><u>$49 Post-Rebate Offer: Discover Why the Phanteks Evolv Shift 2 Is a Top Choice for ITX Enthusiasts!</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-master-the-art-of-pc-game-memories-with-these-6-steps/"><u>2024 Approved Master the Art of PC Game Memories with These 6 Steps</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-through-the-10-leading-countdown-clock-apps-for-your-big-day-androidios/"><u>2024 Approved Navigating Through the 10 Leading Countdown Clock Apps for Your Big Day (Android/iOS)</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/enhancing-team-dynamics-through-effective-video-calls-for-2024/"><u>Enhancing Team Dynamics Through Effective Video Calls for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-5-must-know-elements-of-influential-titles/"><u>In 2024, 5 Must-Know Elements of Influential Titles</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-realme-12-proplus-5g-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Realme 12 Pro+ 5G Phone that is Locked?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-podcast-beat-initiation-essential-melody-hotspots/"><u>In 2024, Podcast Beat Initiation Essential Melody Hotspots</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-the-ultimate-list-of-affordable-android-speech-capture-and-audio-recording-tools/"><u>New 2024 Approved The Ultimate List of Affordable Android Speech Capture and Audio Recording Tools</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/unlocking-success-power-up-your-site-using-cookiebot-technology/"><u>Unlocking Success: Power Up Your Site Using Cookiebot Technology</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-transforming-facebook-streams-into-flawless-records/"><u>[New] 2024 Approved Transforming Facebook Streams Into Flawless Records</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-essential-tips-for-capturing-your-skype-conversations/"><u>[New] Essential Tips for Capturing Your Skype Conversations</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-superior-sound-collector-top-10-tools-on-spotify/"><u>[New] In 2024, Superior Sound Collector Top 10 Tools on Spotify</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-step-by-step-guide-to-making-spectacular-slow-motion-images-for-instagram-for-2024/"><u>[New] Step-by-Step Guide to Making Spectacular Slow Motion Images for Instagram for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-synchronized-device-tutorial-for-efficient-movie-logging-for-2024/"><u>[New] Synchronized Device Tutorial for Efficient Movie Logging for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-shadow-play-with-iphone-pro-photography-tips/"><u>[Updated] 2024 Approved Shadow Play with iPhone Pro Photography Tips</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-engaging-audiences-on-multiple-digital-landscapes-for-2024/"><u>[Updated] Engaging Audiences on Multiple Digital Landscapes for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-mastering-instagram-media-the-finest-downloading-options/"><u>[Updated] In 2024, Mastering Instagram Media The Finest Downloading Options</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-realtime-recording-titans/"><u>[Updated] RealTime Recording Titans</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-art-of-audio-in-a-virtual-world-your-ultimate-zoom-recording-tutorial-for-2024/"><u>[Updated] The Art of Audio in a Virtual World Your Ultimate Zoom Recording Tutorial for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-does-android-achieve-its-clever-and-adaptive-functionality/"><u>How Does Android Achieve Its Clever and Adaptive Functionality?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-epic-zombie-battles-our-favorites-revealed/"><u>In 2024, Epic Zombie Battles Our Favorites Revealed</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-simplified-playlist-crafting-for-youtube-fans-on-desktop-and-mobile-devices/"><u>In 2024, Simplified Playlist Crafting for YouTube Fans on Desktop & Mobile Devices</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/optimal-drone-choices-available-immediately/"><u>Optimal Drone Choices Available Immediately</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-tecno-pova-5-pro-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Tecno Pova 5 Pro has been deleted.</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-realme-v30t-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Realme V30T Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/unlock-advanced-broadcast-techniques-with-obs-on-youtube-and-twitch-for-2024/"><u>Unlock Advanced Broadcast Techniques with OBS on YouTube & Twitch for 2024</u></a></li>
 </ul></div>
 

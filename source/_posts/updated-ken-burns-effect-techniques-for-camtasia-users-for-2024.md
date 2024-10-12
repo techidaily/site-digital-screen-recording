@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Ken Burns Effect Techniques for Camtasia Users for 2024"
-date: 2024-10-04T21:45:23.911Z
-updated: 2024-10-06T05:08:54.403Z
+date: 2024-10-06T23:21:06.068Z
+updated: 2024-10-11T20:42:01.647Z
 tags: 
   - screen-recording
   - ai video
@@ -48,10 +48,10 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -63,10 +63,10 @@ That's not to say that Filmora only offers basic features as it has a wide range
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
@@ -94,10 +94,10 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -115,19 +115,16 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-sound-studio-everything-about-the-sound-recording-studio-mac/"><u>[New] In 2024, Sound Studio - Everything About the Sound Recording Studio Mac</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-winning-game-recording-guide-for-w11-users/"><u>[New] In 2024, Winning Game Recording Guide for W11 Users</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-mov-storage-solutions-maximizing-capacity-on-windows/"><u>[Updated] 2024 Approved .mov Storage Solutions Maximizing Capacity on Windows</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-crafting-conversational-mastery-step-by-step-guide-to-free-voice-modification-tools/"><u>[Updated] 2024 Approved Crafting Conversational Mastery Step-by-Step Guide to Free Voice Modification Tools</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-simplified-methods-for-google-meet-recordings/"><u>[Updated] Simplified Methods for Google Meet Recordings</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-sprout-pro-in-depth-review-of-desktop-capturing/"><u>2024 Approved Sprout Pro In-Depth Review of Desktop Capturing</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-top-picks-in-gimbals-to-elevate-your-drone-imagery/"><u>2024 Approved Top Picks in Gimbals to Elevate Your Drone Imagery</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/best-photo-repair-tool-to-fix-corrupt-photos-stellar-data-recovery/"><u>Best Photo Repair Tool to Fix Corrupt Photos - Stellar Data Recovery</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-realme-c53-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Realme C53 FRP</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-tecno-pop-7-pro-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Tecno Pop 7 Pro IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/on-visioners-dissecting-the-money-behind-the-numbers-for-2024/"><u>Million Visioners Dissecting the Money Behind the Numbers for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/izing-youtube-auditory-experience-for-viewers/"><u>Optimizing YouTube Auditory Experience for Viewers</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/screencast-excellence-the-ultimate-guide-to-best-obs-tools/"><u>Screencast Excellence The Ultimate Guide to Best OBS Tools</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/ultimate-tactics-to-record-lol-clashes/"><u>Ultimate Tactics to Record LOL Clashes</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-mov-file-keeping-hacks-for-new-win-11-users/"><u>[New] In 2024, .MOV File Keeping Hacks for New Win 11 Users</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-audio-visual-accomplishments-the-best-10-recording-devices-for-education/"><u>[New] In 2024, Audio-Visual Accomplishments The Best 10 Recording Devices for Education</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-elevate-your-live-streaming-expert-camrecorder-guidance/"><u>[Updated] 2024 Approved Elevate Your Live Streaming Expert CamRecorder Guidance</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-precision-video-capture-experts/"><u>[Updated] 2024 Approved Precision Video Capture Experts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-bold-broadcasters-on-a-budget-youtube-live-not-1000plus-supporters/"><u>[Updated] Bold Broadcasters on a Budget YouTube LIVE, Not 1000+ Supporters</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-quick-guide-resolving-obs-skipping-problems/"><u>[Updated] In 2024, Quick Guide Resolving OBS Skipping Problems</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-unleashing-potential-a-guide-to-setting-up-and-analyzing-instream-ads-in-fb-for-2024/"><u>[Updated] Unleashing Potential A Guide to Setting Up & Analyzing Instream Ads in FB for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-atomic-heart-glitch-during-system-boot-a-comprehensive-guide/"><u>Fixing the Atomic Heart Glitch During System Boot: A Comprehensive Guide</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-xiaomi-redmi-note-12-4g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Xiaomi Redmi Note 12 4G Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-infinix-smart-8-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Infinix Smart 8</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-poco-c65-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Poco C65 Offline? Troubleshooting Guide | Dr.fone</u></a></li>
 </ul></div>
 
