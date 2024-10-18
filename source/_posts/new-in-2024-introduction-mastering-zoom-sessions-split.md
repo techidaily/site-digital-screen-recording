@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Introduction  Mastering Zoom Sessions Split\""
-date: 2024-10-11T01:56:30.919Z
-updated: 2024-10-11T18:46:44.259Z
+date: 2024-10-16T20:10:11.138Z
+updated: 2024-10-17T16:08:46.067Z
 tags: 
   - screen-recording
   - ai video
@@ -47,25 +47,11 @@ You must purchase the Large Meeting add-on if you would like to create 50 breako
 
 ## Part 2: How to Create a Breakout Room?
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Enable Breakout Rooms in Zoom
 
 Creating a breakout room requires you to install the Zoom desktop client and to create an account on Zoom. Once you complete these two steps, you should sign in to your account and choose the Account Settings option from the Account Management menu. Locate the Breakout Room feature that is located in the Meeting tab and if the feature is disabled you should click on it to toggle it on.
 
 ![ Enable Breakout Rooms in Zoom](https://images.wondershare.com/filmora/article-images/eable-breakout-room-zoom.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Hosts who would like to assign participants to breakout rooms while scheduling a meeting should click on the Allow host to assign participants to breakout rooms when scheduling a checkbox. Clicking on the Lock icon will make the breakout room setting mandatory for all users on your Zoom account.
 
@@ -77,33 +63,20 @@ Zoom also allows account administrators and account members to activate the brea
 
 Afterward, you should just enable the breakout room option from the Meetings tab and decide if you want to pre-assign members to particular rooms while scheduling a meeting.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Create Breakout Rooms in Zoom Meeting
 
 Once the breakout room feature is enabled, you should start a new meeting and click on the Breakout Room icon in the Zoom’s toolbar. You will be prompted to set the number of rooms you would like to create for the meeting and choose if you want to assign participants to breakout rooms automatically or manually.
 
 ![ Create  Breakout Rooms in Zoom](https://images.wondershare.com/filmora/article-images/create-breakout-rooms.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Click on the Create Rooms button to complete the process and proceed to fine-tune the settings for each room.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: How to Manage Breakout Rooms
 
@@ -117,6 +90,13 @@ Click on the Open all Rooms button to start assigning participants to different 
 
 Zoom also allows you to move participants from one room to another after you assigned them to one of the breakout rooms you created. You will be able to see Move and Exchange options next to the names of all participants you added to a room. Click on the Move option if you want to move a participant from one room to another or click on the Exchange option if you want to switch places of two participants who were added to different rooms. In addition, you can delete all breakout rooms you created and make new ones by clicking on the Recreate button or delete a room you selected.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 4: Recording Zoom Breakout Rooms
 
 The participants who join a breakout room will have several options at their disposal, so that they can mute/unmute other participants, start or stop a video, see the full list of participants, share their screens, chat or record a breakout session.
@@ -124,6 +104,19 @@ The participants who join a breakout room will have several options at their dis
 Participants cannot start recording a breakout room until they are granted permission by the host. Ideally, hosts should enable this option before opening the rooms, although they can grant permission to record by entering a room and enabling the Local Recording option.
 
 ![ Record  Breakout Rooms in Zoom](https://images.wondershare.com/filmora/article-images/allow-record-zoom-meeting.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Afterward, you just have to click on the Record button and the activities within your breakout room will be recorded. Zoom allows you to pause or stop a recording at any moment and you should just click on the corresponding button in the meeting toolbar to perform this action.
 
@@ -144,10 +137,10 @@ Only users with access to Zoom desktop client, Zoom mobile app and H.323/SIP dev
 Hosts can only communicate with participants of a single breakout room, which means that they have to join a room to which a particular participant was assigned in order to communicate with them.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Can participants switch between breakout rooms after a session starts?
@@ -164,6 +157,13 @@ Dividing a meeting into smaller sessions that have fewer participants can boost 
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -179,18 +179,22 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-ending-echoes-reconnecting-audio-to-obs/"><u>[New] Ending Echoes Reconnecting Audio to OBS</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-essential-apps-for-professional-video-editing-on-androidpc-for-2024/"><u>[New] Essential Apps for Professional Video Editing on Android/PC for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-decoding-youtube-exchange-threads/"><u>[New] In 2024, Decoding YouTube Exchange Threads</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-webcam-powered-recording-revolutionize-your-ppts/"><u>[Updated] 2024 Approved Webcam-Powered Recording Revolutionize Your PPTs</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-recording-roulette-top-strategies-for-tv-show-capture-for-2024/"><u>[Updated] Recording Roulette Top Strategies for TV Show Capture for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-symphony-storage-download-and-critique-melodies/"><u>[Updated] Symphony Storage Download & Critique Melodies</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-facebook-content-at-your-fingertips-best-downloader-apps-for-ios/"><u>2024 Approved Facebook Content at Your Fingertips Best Downloader Apps for iOS</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/content-authenticity-human-vs-machine-craftsmanship/"><u>Content Authenticity: Human vs Machine Craftsmanship</u></a></li>
-<li><a href="https://driver-error.techidaily.com/guide-to-fixing-usb-setup-errors-caused-by-access-is-denied/"><u>Guide to Fixing USB Setup Errors Caused by 'Access Is Denied'</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-apple-iphone-6-plus-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>How to Change Your Apple iPhone 6 Plus Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/ideal-obs-parameters-for-economical-pcs/"><u>Ideal OBS Parameters for Economical PCs</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/motorolas-moto-g-power-an-in-depth-look-at-its-stellar-endurance-and-solid-execution/"><u>Motorola's Moto G Power - An In-Depth Look at Its Stellar Endurance and Solid Execution</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/optimieren-sie-ihre-hevch265-encodierung-effiziente-losungen-fur-eine-beschleunigte-verarbeitungszeit/"><u>Optimieren Sie Ihre HEVC/H.265 Encodierung: Effiziente Lösungen Für Eine Beschleunigte Verarbeitungszeit</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-audio-log-analysis-guidebook/"><u>[New] 2024 Approved Audio Log Analysis Guidebook</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/1716070046789-new-2024-approved-discover-the-best-mac-gif-recorders-now/"><u>[New] 2024 Approved Discover the Best Mac GIF Recorders Now!</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-mastering-the-art-of-customizing-your-youtube-channel-url/"><u>[New] 2024 Approved Mastering the Art of Customizing Your YouTube Channel URL</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-ultimate-guide-ten-most-affordable-screen-capture-software/"><u>[New] 2024 Approved Ultimate Guide Ten Most Affordable Screen Capture Software</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-piecing-together-engaging-stream-previews-for-2024/"><u>[Updated] Piecing Together Engaging Stream Previews for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-cutting-edge-webcam-editing-emphasize-focus-not-the-fence/"><u>2024 Approved Cutting Edge Webcam Editing – Emphasize Focus, Not the Fence</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-record-and-relish-the-art-of-live-discord-streams/"><u>2024 Approved Record and Relish The Art of Live Discord Streams</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/1715860125778-an-easy-to-follow-methodology-for-initiating-a-productive-skype-conversation-among-various-os-users-for-2024/"><u>An Easy-to-Follow Methodology for Initiating a Productive Skype Conversation Among Various OS Users. For 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/best-5-video-recording-software-timelapse-edition/"><u>Best 5 Video Recording Software Timelapse Edition</u></a></li>
+<li><a href="https://blog-min.techidaily.com/free-online-converter-convert-asfem-files-to-mp3-format-with-movavi/"><u>Free Online Converter: Convert ASF/Em Files To MP3 Format with Movavi</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-poco-m6-pro-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Poco M6 Pro 5G Safely | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-actors-agreement-for-public-viewing/"><u>In 2024, Actors' Agreement for Public Viewing</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-demystifying-the-advanced-features-in-vlc/"><u>In 2024, Demystifying the Advanced Features in VLC</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-from-beginner-to-pro-mastering-mi-11-screen-captures/"><u>In 2024, From Beginner to Pro Mastering Mi 11 Screen Captures</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-lava-agni-2-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Lava Agni 2 5G to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mejora-tu-creacion-de-video-con-winxvideo-ai-tutoria-completa-para-optimizacion-y-conversion/"><u>Mejora Tu Creación De Video Con Winxvideo AI - Tutoría Completa Para Optimización Y Conversión</u></a></li>
+<li><a href="https://blog-min.techidaily.com/winxmediatrans-la-tua-soluzione-ottimale-per-gestire-foto-ed-audio-sul-tuo-iphone-o-ipad-con-semplice-trasferimento-dal-computer/"><u>WinXMediaTrans™: La Tua Soluzione Ottimale per Gestire Foto Ed Audio Sul Tuo iPhone O iPad Con Semplice Trasferimento Dal Computer</u></a></li>
 </ul></div>
 

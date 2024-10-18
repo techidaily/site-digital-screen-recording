@@ -1,7 +1,7 @@
 ---
 title: "[New] Visual Cohesion Through Simple Fading Techniques"
-date: 2024-10-06T03:20:28.643Z
-updated: 2024-10-11T17:14:26.395Z
+date: 2024-10-14T19:31:27.051Z
+updated: 2024-10-17T18:48:20.961Z
 tags: 
   - screen-recording
   - ai video
@@ -45,23 +45,16 @@ Here is how to add dissolve transition in Filmora.
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * After importing video footage into Filmora, drag and drop them in the timeline.
 * Go to the Transition tab and find Dissolve under the Basic category. If you didn’t see it, you can use the search bar to find it.
 
 ![Add Dissolve to Fade video in Filmora9 ](https://images.wondershare.com/filmora/article-images/dissolve-transtion-filmora9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Drag the Dissolve transition to the beginning part of the clip, and then drag the Dissolve transition again to the end of the clip.
@@ -85,13 +78,6 @@ Besides the regular dissolve and fade transitions, you can also apply motion fad
 * Expand it and you will find that there are several fade effects available, such as fade-zoom in, fade-zoom out, fade slide from top to bottom, fade slide from bottom to top, fade from left to right, or fade right to left.
 * Double click on the fade effect that you want to use and the fade motion effect will be added to the clip automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Add Sample Colors at the beginning and end of the video clip
 
 In case that you don’t want to hide any frames in your video, you can add a black screen or blue screen or whatever color screen at the beginning and end of the clip first, and then apply Dissolve or fade transitions or motion fade effect.
@@ -103,16 +89,10 @@ We’ve made a video tutorial about how to fade in and fade out video easily in 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Using Animation Keyframing to Create Fade Effects
@@ -134,19 +114,33 @@ So easy, isn’t it? You can now download the software and make fade-in and fade
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Besides fade-in and fade-out videos, Filmora can fade in and fade out audio easily. Check the details in our guide about how to fade in and [fade out audio in Filmora](https://tools.techidaily.com/wondershare/filmora/download/) or watch the video tutorial below.
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 YouTuber Aaron Bowman has made a tutorial about the Filmora transitions, explaining how to add fade in fade out effects to videos, control the duration of transitions, as well as how to use the keyframing animations to create transitions.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -163,24 +157,18 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-pursuit-of-pleasure-10-games-echoing-gta-v/"><u>[New] 2024 Approved Pursuit of Pleasure 10 Games Echoing GTA V</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-decoding-igtv-video-statistics-for-better-insights/"><u>[New] Decoding IGTV Video Statistics for Better Insights</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-epicentertainment-eyeview/"><u>[New] EpicEntertainment EyeView</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-mastering-mac-snipers-top-5-recommended-tools/"><u>[New] In 2024, Mastering Mac Snipers Top 5 Recommended Tools</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-instantaneous-duo-recording-cam-plus-screen-for-2024/"><u>[New] Instantaneous Duo Recording Cam + Screen for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-windows-and-mac-call-recordings-explained-20plus-ways-to-go/"><u>[New] Windows & Mac Call Recordings Explained - 20+ Ways to Go</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-best-video-calls-uncompromising-security-and-ease-for-startups/"><u>[Updated] Best Video Calls Uncompromising Security & Ease for Startups</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-detailed-breakdown-complete-test-of-gecata-tracker/"><u>[Updated] Detailed Breakdown Complete Test of Gecata Tracker</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-download-youtube-thumbnail-in-3-waysonlinewinmac/"><u>[Updated] In 2024, How to Download Youtube Thumbnail in 3 Ways [Online/Win/Mac]</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-stirring-interest-and-emotions-the-ultimate-guide-to-engaging-tiktok-captions/"><u>[Updated] In 2024, Stirring Interest & Emotions The Ultimate Guide to Engaging TikTok Captions</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-the-art-of-laughter-no-10-memes-ranked-by-fun/"><u>[Updated] In 2024, The Art of Laughter No. 10 Memes Ranked by Fun</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-ultimate-capture-app-windows-10-edition/"><u>[Updated] In 2024, Ultimate Capture App - Windows 10 Edition</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-capturing-screenshots-like-a-pro-the-best-recorder-reviews/"><u>2024 Approved Capturing Screenshots Like a Pro The Best Recorder Reviews</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-prime-techniques-for-saving-app-scenes/"><u>In 2024, Prime Techniques for Saving App Scenes</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mastering-the-art-of-reversed-color-photography/"><u>Mastering the Art of Reversed Color Photography</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/sound-sculpting-on-android-the-7-ultimate-audio-editing-apps-for-2024/"><u>Sound Sculpting on Android The 7 Ultimate Audio Editing Apps for 2024</u></a></li>
-<li><a href="https://techidaily.com/spark-20-pro-music-recovery-recover-deleted-music-from-spark-20-pro-by-fonelab-android-recover-music/"><u>Spark 20 Pro Music Recovery - Recover Deleted Music from Spark 20 Pro</u></a></li>
-<li><a href="https://dvd-bd.techidaily.com/step-by-step-handbrake-shortcut-guide-seamless-non-destructive-video-trimming-techniques/"><u>Step-by-Step HandBrake Shortcut Guide: Seamless Non-Destructive Video Trimming Techniques</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unlock-blackout-window-after-upgrade-fall/"><u>Unlock Blackout Window After Upgrade Fall</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-top-10-power-upgrades-for-os-x-and-win-with-srt-systems/"><u>[Updated] Top 10 Power Upgrades for OS X and Win with SRT Systems</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-analyzing-ownership-rights-in-youtube-vs-freedom-of-use-in-cc/"><u>2024 Approved Analyzing Ownership Rights in Youtube Vs. Freedom Of Use In CC</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-key-techniques-for-storing-lol-matches/"><u>2024 Approved Key Techniques for Storing LOL Matches</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-solving-shorts-thumbnail-absence-on-youtube/"><u>2024 Approved Solving Shorts Thumbnail Absence on YouTube</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-stream-snipping-specialists-2023-version/"><u>2024 Approved Stream Snipping Specialists, 2023 Version</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/6kej5rg65pa55rov77ya5zyo5q2k6jmv5pyq542y5b6x6k6alpluswvqplusasiumzkoeahowvjplusmhjowmgus9lewfiplusacjeplus8nw/"><u>解決方法：在此處未獲得讀/寫權限的問題如何克服？</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/best-10-battle-royale-games/"><u>Best 10 Battle Royale Games</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722140107884-determining-dominance-in-llm-technology-a-closer-look-at-google-bard-microsofts-chatgpt-and-offline-alpaca/"><u>Determining Dominance in LLM Technology: A Closer Look at Google Bard, Microsoft's ChatGPT and Offline Alpaca</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/expert-analysis-comprehensive-camstudio-recorder-for-2024/"><u>Expert Analysis Comprehensive CamStudio Recorder for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-elevation-problem-with-error-code-740-on-windows-11/"><u>Fixing Elevation Problem with Error Code 740 on Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-most-recent-driver-support-for-your-hp-printer-on-windows-10-11/"><u>How to Get the Most Recent Driver Support for Your HP Printer on Windows 10, 11</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-evaluating-screencast-software-the-bandicamcamtasia-comparison/"><u>In 2024, Evaluating Screencast Software The Bandicam/Camtasia Comparison</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-mastery-in-motion-steam-switch-controller-techniques/"><u>In 2024, Mastery in Motion Steam Switch Controller Techniques</u></a></li>
 </ul></div>
 

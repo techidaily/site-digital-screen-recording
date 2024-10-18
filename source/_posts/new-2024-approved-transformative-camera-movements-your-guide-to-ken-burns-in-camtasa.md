@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Transformative Camera Movements  Your Guide to Ken Burns in Camtasa\""
-date: 2024-08-24T20:44:58.198Z
-updated: 2024-08-25T20:44:58.198Z
+date: 2024-10-15T16:43:06.774Z
+updated: 2024-10-18T02:19:13.143Z
 tags: 
   - screen-recording
   - ai video
@@ -47,6 +47,13 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 If you are looking for the best alternative to Camtasia 9 that makes adding the Ken Burns effect and other video editing features much easier, then Wondershare Filmora should be on your list of considerations. Apart from the Ken Burns effect, Filmora is a perfect video editing tool for beginner content creators, YouTubers, and casual editors who don't want access to professional-grade features or want to pay a lot of money to edit their videos.
@@ -54,6 +61,13 @@ If you are looking for the best alternative to Camtasia 9 that makes adding the 
 That's not to say that Filmora only offers basic features as it has a wide range of options available to video editors including green screen, motion tracking, transitions, audio recording, a diverse variety of presets, and a lot more. Both amateur video creators and hobbyists can get a lot out of the Wondershare Filmora editing tool.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
 
@@ -79,13 +93,18 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -93,6 +112,25 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-advanced-mac-studio-for-crystal-clear-captures-and-sounds/"><u>[New] In 2024, Advanced Mac Studio for Crystal Clear Captures & Sounds</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-bridge-gaps-between-tech-worlds-stream-and-save-youtube-from-various-devices/"><u>[New] In 2024, Bridge Gaps Between Tech Worlds Stream and Save YouTube From Various Devices</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-8-top-picks-for-seamless-screen-recording-experience/"><u>[Updated] 8 Top Picks for Seamless Screen Recording Experience</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-essential-software-for-high-quality-video-capture-on-windows-pcs-for-2024/"><u>[Updated] Essential Software for High-Quality Video Capture on Windows PCs for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-camtech-dive-looking-for-improved-alternatives/"><u>[Updated] In 2024, CamTech Dive Looking for Improved Alternatives</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-making-the-most-of-both-worlds-obs-and-zoom-guide/"><u>[Updated] Making the Most of Both Worlds OBS & Zoom Guide</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-mastering-electrical-energy-the-best-lipo-for-uavs-for-2024/"><u>[Updated] Mastering Electrical Energy The Best LiPo for UAVs for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-nine-powerful-windows-apps-for-seamless-animated-gif-recording-for-2024/"><u>[Updated] Nine Powerful Windows Apps For Seamless Animated GIF Recording for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-quick-guide-to-youtube-trailer-making-with-filmora/"><u>[Updated] Quick Guide to YouTube Trailer Making with Filmora</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-survivors-guide-top-6-mc-house-plans/"><u>[Updated] Survivor's Guide Top 6 MC House Plans</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-fast-fixes-for-lost-reddit-content/"><u>[Updated] Unveiling Fast Fixes for Lost Reddit Content</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-master-the-art-of-superior-image-quality-enable-youtubes-av1/"><u>2024 Approved Master the Art of Superior Image Quality Enable YouTube's AV1</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/google-pixel-tablet-reveal-exciting-specs-launch-date-and-what-to-expect/"><u>Google Pixel Tablet Reveal: Exciting Specs, Launch Date & What to Expect</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-the-ultimate-guide-to-screen-recording-on-a-dell-workstation/"><u>In 2024, The Ultimate Guide to Screen Recording on a Dell Workstation</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-frontiers-in-mobile-videography-alternatives-to-periscope-for-2024/"><u>New Frontiers in Mobile Videography - Alternatives to Periscope for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-game-changer-a-comprehensive-analysis-of-ibuypowers-powerhouse-gaming-systems/"><u>The Game Changer: A Comprehensive Analysis of iBuypower's Powerhouse Gaming Systems</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-unleashing-the-power-of-lower-thirds-in-fcpx-video-editing/"><u>Updated 2024 Approved Unleashing the Power of Lower Thirds in FCPX Video Editing</u></a></li>
+</ul></div>
+

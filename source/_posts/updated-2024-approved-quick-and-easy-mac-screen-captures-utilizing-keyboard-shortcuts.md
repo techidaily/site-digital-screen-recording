@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Quick and Easy Mac Screen Captures  Utilizing Keyboard Shortcuts\""
-date: 2024-10-05T21:51:11.725Z
-updated: 2024-10-11T23:40:27.214Z
+date: 2024-10-15T18:00:47.638Z
+updated: 2024-10-17T17:27:36.535Z
 tags: 
   - screen-recording
   - ai video
@@ -39,24 +39,18 @@ Press Command, shift, and 5 on the console at the same time. The screen capture 
 
 ![shortcut recorder mac](https://images.wondershare.com/filmora/article-images/shortcut-recorder-mac.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2: Select Recording Mode**
 
 Pick whether you need to "Record Entire Screen" or "Record Selected Portion." If you decide to record just a part of your screen, a container will appear permitting you to drag and resize the recording window. Click on "Choices" to see what different inclinations you can pick. You can set a commencement clock, pick which receiver to utilize, and choose where to save your recording, for instance, as shown here:
 
 ![select recording mode mac](https://images.wondershare.com/filmora/article-images/select-recording-mode-mac.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 3: Start Recording**
 
@@ -64,11 +58,25 @@ Whenever you've chosen the choices you need, it's an ideal opportunity to record
 
 ![record screen with shortcut mac](https://images.wondershare.com/filmora/article-images/record-screen-with-shortcut-on-mac.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 4: End the Recording**
 
 To stop the recording, click on the little square stop button in the upper right corner of the menu bar from the highest point of your screen. You can likewise hit Command, control, ESC to quit recording. Or on the other hand, hit Command, shift, 5 and the screen capture bar will return with a stop button you can click. Or on the other hand, assuming that you have a Touch Bar, you'll see a stop button in the upper left. When you quit recording, you'll momentarily see a thumbnail of the video in the lower-right corner of your screen. Assuming you swipe the thumbnail to one side or sit idle, your recording will consequently save as a MOV format in the directory you've set.
 
 ![stop mac shortcut recording](https://images.wondershare.com/filmora/article-images/stop-shortcut-recording-mac.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2\. Alternative Software to Record Screen on Mac
 
@@ -98,47 +106,21 @@ From that recorder interface, click on the record button and select the Record P
 
 ![wondershare screen recorder settings](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3: Start Recording**
 
 At last, when you're ready, hit the Record button and it shall start the recording after giving you a 3-second get-ready time. You can start recording your screen activity afterwards. Then, stop the recording by hitting the stop button and it'll allow you to add explanations, additional media documents, changes, titles and more can then all be dropped in with your recording.
 
 ![filmora recording screen](https://images.wondershare.com/filmora/article-images/start-recording-screen.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 4: Edit and Save Your Recordings**
 
 After you're done with the recording, hit the Stop button and go through the Video Editor features to utilize them to the best extent. You can use Titles, Transitions, Cursor Settings, audio editing and much more with the Editor. Afterwards, to share your work of art straightforwardly to YouTube or some other renowned stage, go for the Export button and select the platform to share your video recording.
 
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -156,16 +138,18 @@ Part 2. [Alternative Software to Record Screen on Mac](#part2)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-beat-the-bad-guys-top-kung-fu-action-puzzle-games-for-2024/"><u>[New] Beat the Bad Guys Top Kung Fu Action Puzzle Games for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-elite-race-sims-ultimate-selection-for-2024/"><u>[New] Elite Race Sims Ultimate Selection for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-creating-professional-videos-with-adobe-presenter/"><u>[Updated] In 2024, Creating Professional Videos with Adobe Presenter</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-10plus-incredible-free-youtube-intro-makers/"><u>2024 Approved 10+ Incredible Free YouTube Intro Makers</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-resolved-faulty-obs-camera/"><u>2024 Approved Resolved Faulty OBS Camera</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dismay-over-d3d-devices-may-lead-to-unreals-exit/"><u>Dismay over D3D Devices May Lead to Unreal's Exit</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-advice-on-overcoming-vrchat-not-working-problems-solutions-inside/"><u>Expert Advice on Overcoming VRChat Not Working Problems - Solutions Inside!</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-nokia-130-music-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Nokia 130 Music in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-poco-c65-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Poco C65</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-techniques-for-ios-users-producing-and-transforming-tranquil-videos/"><u>In 2024, Techniques for iOS Users Producing and Transforming Tranquil Videos</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/perfect-portraits-changing-picture-sizes-on-ios-for-2024/"><u>Perfect Portraits Changing Picture Sizes on iOS for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/chieve-impact-innovative-imovie-techniques-for-youtube-startups-for-2024/"><u>[New] Achieve Impact Innovative iMovie Techniques for YouTube Startups for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-how-to-record-a-voice-over-for-a-video/"><u>[New] How To Record A Voice Over For A Video</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-easy-steps-capture-screen-with-macos-tools-and-software/"><u>[New] In 2024, Easy Steps Capture Screen with macOS Tools & Software</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-total-recording-tool-az-app-examination-guide/"><u>[New] Total Recording Tool - AZ App Examination Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-video-splitting-expertise-best-recorder-verdict/"><u>[Updated] 2024 Approved Video Splitting Expertise Best Recorder Verdict</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-easy-steps-to-get-vrecorder-running-on-your-device/"><u>[Updated] Easy Steps to Get VRecorder Running on Your Device</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-vivo-x90s-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Vivo X90S</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-steps-to-enhance-your-ability-as-an-effective-interviewer/"><u>In 2024, Steps to Enhance Your Ability as an Effective Interviewer</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-itel-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Itel Device</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-flickering-on-hp-laptops/"><u>Overcoming Flickering on HP Laptops</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-5-best-methods-to-track-a-lost-or-stolen-iphone-xs-max-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>The 5 Best Methods to Track a Lost or Stolen iPhone XS Max | Stellar</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Honor X50i+? | Dr.fone</u></a></li>
 </ul></div>
 

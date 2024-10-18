@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Muting Unwanted Noise  OBS Audio Solution\""
-date: 2024-10-06T21:39:28.194Z
-updated: 2024-10-11T21:52:47.006Z
+date: 2024-10-10T16:06:20.376Z
+updated: 2024-10-18T01:07:51.028Z
 tags: 
   - screen-recording
   - ai video
@@ -35,25 +35,11 @@ Edit system and microphone audio seperately
 
 All in all, to record desktop audio with OBS, you have to enter a third-party audio driver. To find out the intricacies of this solution, you may read the solutions as follow:
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **1\. Close the OBS and Restart**
 
 While using OBS studio, the users might experience the difficulties of OBS not capturing mic audio. This problem arises because the program only captures mic audio, and it doesn't support the desktop audio or system sound. to repair the "OBS no sound" problem on your PC is simply to shut the OBS studio software and thereafter restart it once more.
 
 ![restart](https://images.wondershare.com/filmora/article-images/restart.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **2\. Run it as Administrator**
 
@@ -66,16 +52,10 @@ You can run OBS as an administrator on Windows 10 and Windows 11 effortlessly. B
 ![run it as administrator](https://images.wondershare.com/filmora/article-images/run-it-as-administrator.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **3\. Unmute OBS**
@@ -88,13 +68,6 @@ If OBS Studio is muted in the Volume Mixer, no doubt you won’t hear any deskto
 
 ![unmute obs](https://images.wondershare.com/filmora/article-images/unmute-obs.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **4\. Check the sound settings**
 
 Click the Desktop Audio Device drop-down option if the proper device is not chosen there. Then choose the correct desktop audio device.
@@ -104,6 +77,20 @@ Click the Desktop Audio Device drop-down option if the proper device is not chos
 * Press the Apply button, then click OK to exit the window.
 
 ![check the sound settings](https://images.wondershare.com/filmora/article-images/check-the-sound-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **5\. Remove Other Programs for Audio Control**
 
@@ -116,10 +103,17 @@ Try recording with your speakers as the default playback device instead of headp
 ![audio control](https://images.wondershare.com/filmora/article-images/audio-control.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **6\. Update your audio driver**
@@ -142,10 +136,10 @@ If none of the techniques can assist you, your OBS is experiencing an undefined 
 ![reinstall obs](https://images.wondershare.com/filmora/article-images/reinstall-obs.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Use OBS Alternative
@@ -186,21 +180,18 @@ After the above efficient approaches, we have utilized to cure the "OBS No Sound
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-apple-media-access-and-download-youtube-videos-on-iphoneipad/"><u>[New] 2024 Approved Apple Media Access and Download YouTube Videos on iPhone/iPad</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-the-ultimate-guide-to-selecting-a-top-screen-recorder-obsfraps/"><u>[New] 2024 Approved The Ultimate Guide to Selecting a Top Screen Recorder (OBS/Fraps)</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-easy-audio-capturing-on-non-rooted-android-devices/"><u>[New] Easy Audio Capturing on Non-Rooted Android Devices</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-top-virtual-recording-tools-online/"><u>[Updated] 2024 Approved Top Virtual Recording Tools Online</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-redirect-macs-image-backup-to-new-folder/"><u>[Updated] In 2024, Redirect Mac's Image Backup to New Folder</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-screencapturetech-2023-highlighting-the-apeak-software-review-for-2024/"><u>[Updated] ScreenCaptureTech 2023 Highlighting the Apeak Software Review for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-unmatched-budget-friendly-camera-challenges/"><u>[Updated] Unmatched Budget-Friendly Camera Challenges</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/comparative-study-vidma-vs-other-screen-recorders-for-2024/"><u>Comparative Study Vidma vs Other Screen Recorders for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/conclusion-for-2024/"><u>Conclusion for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/dissecting-the-mismatch-of-visuals-and-capability-a-closer-look-at-valkyrie-vind-sl125/"><u>Dissecting the Mismatch of Visuals and Capability: A Closer Look at Valkyrie Vind SL125</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/effective-methods-for-converting-hevc-files-into-high-quality-mp4-format/"><u>Effective Methods for Converting HEVC Files Into High-Quality MP4 Format</u></a></li>
-<li><a href="https://common-error.techidaily.com/effortless-guidance-navigating-and-fixing-issues-with-file-explorer-in-windows-11/"><u>Effortless Guidance: Navigating and Fixing Issues with File Explorer in Windows 11</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/iptv-recording-on-various-platforms-for-2024/"><u>IPTV Recording on Various Platforms for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-application-unable-to-boot-correctly-a-user-friendly-guide-to-handling-the-0xc000007b-problem/"><u>Resolving 'Application Unable to Boot Correctly' - A User-Friendly Guide to Handling the 0xC000007B Problem</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/streamlining-post-production-with-after-effects-and-luts/"><u>Streamlining Post Production with After Effects and LUTs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/telechargement-gratuit-convertissez-vos-fichiers-mod-en-wma-sans-effort-avec-movavi/"><u>Téléchargement Gratuit : Convertissez Vos Fichiers MOD en WMA Sans Effort Avec Movavi</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-expertly-slice-your-videos-macs-finest-mp4-applications/"><u>[New] 2024 Approved Expertly Slice Your Videos Mac's Finest MP4 Applications</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-the-complete-lowdown-on-using-showmores-recorder/"><u>[New] 2024 Approved The Complete Lowdown on Using ShowMore's Recorder</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-popcorn-projections-thorough-review-of-film-snack-recorder-for-2024/"><u>[New] Popcorn Projections Thorough Review of Film Snack Recorder for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-scrutinizing-the-core-functions-of-recordcast-for-2024/"><u>[New] Scrutinizing the Core Functions of RecordCast for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-low-cost-high-performance-great-smartphones-for-gamers/"><u>[Updated] 2024 Approved Low-Cost, High Performance Great Smartphones for Gamers</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-enhancing-remote-collaboration-with-ease-mastering-skype-screen-share-capabilities-for-2024/"><u>[Updated] Enhancing Remote Collaboration with Ease Mastering Skype Screen-Share Capabilities for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-harvest-hacks-ginger-valley-edition-for-2024/"><u>[Updated] Harvest Hacks Ginger Valley Edition for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-hd-mastery-in-action-top-5-screen-recorders-reviewed/"><u>[Updated] In 2024, HD Mastery in Action Top 5 Screen Recorders Reviewed</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-step-by-step-ps4-recording-techniques-for-gamers/"><u>2024 Approved Step-by-Step PS4 Recording Techniques for Gamers</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-unlocking-the-power-of-facebook-slideshows-in-digital-marketing/"><u>2024 Approved Unlocking the Power of Facebook Slideshows in Digital Marketing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/budget-friendly-yet-blazing-fast-rgb-ram-choices-for-serious-gamers/"><u>Budget-Friendly Yet Blazing-Fast RGB RAM Choices for Serious Gamers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-archiving-your-favorites-the-complete-list-of-9-podcast-recording-steps/"><u>In 2024, Archiving Your Favorites The Complete List of 9 Podcast Recording Steps</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-step-by-step-guide-how-to-watch-social-media-videos-on-your-apple-tv/"><u>In 2024, Step by Step Guide How to Watch Social Media Videos on Your Apple TV</u></a></li>
 </ul></div>
 
