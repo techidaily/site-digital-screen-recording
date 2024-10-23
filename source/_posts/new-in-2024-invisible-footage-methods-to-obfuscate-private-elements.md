@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Invisible Footage  Methods to Obfuscate Private Elements\""
-date: 2024-08-24T20:37:23.533Z
-updated: 2024-08-25T20:37:23.533Z
+date: 2024-10-22T20:57:17.606Z
+updated: 2024-10-23T21:03:12.949Z
 tags: 
   - screen-recording
   - ai video
@@ -68,11 +68,25 @@ Recording voice-over during the recording session, adding markers, or using HotK
 
 ![Filmora Scrn Annotations ](https://images.wondershare.com/filmora/article-images/annotation-filmora-scrn.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 All files captured with the screen recorder are displayed in the software's video editor that allows you to trim or cut video clips, add captions, or use blending modes to merge the layers in your videos seamlessly.
 
 The Annotations tab lets you add captions, overlays, speech bubbles, and, most importantly, blur effects. The **Mosaic, Linear, Vertical, Horizontal** **, Horizontal Mix, and Vertical Mix** **blur** options are available to users who want to protect sensitive info in their screen recordings. Let's have a look at how you can protect the privacy of the information in your screen recordings by blurring them in Filmora Scrn.
 
 ![Filmora Scrn Blur Effects](https://images.wondershare.com/filmora/article-images/blur-effects-filmora-scrn.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 There are two extraordinary blur effects we must mention here, one is called Horizontal Mix, and the other is Vertical Mix. Words cannot express how amazing it is; let me show you some examples.
 
@@ -89,17 +103,12 @@ After I applied the Horizontal Mix blur and the Vertical Mix blur to these two p
 See, these two "private" pictures are hidden as if nothing were here. Do not believe the miracles? Why not follow the steps below to check it by yourself?
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: How to Blur and Hide Private Information with Filmora Scrn
 
 Hiding the identity of the people in your videos and concealing private information like bank account or telephone numbers is advised if you want to avoid any chance of misuse of these data.
@@ -108,9 +117,6 @@ Hiding the identity of the people in your videos and concealing private informat
 
 ![Filmora Scrn Annotations ](<https://images.wondershare.com/filmora/article-images/blurring-private> info-import.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 If you choose to capture a screen with the Filmora Scrn's screen recorder, the video file you create will be automatically imported into the software's video editor and placed into the Media Bin after the recording session is over.
 
 Filmora Scrn's video editor supports most video file formats, including AVI, MP4, or MOV files. If you want to add blur effects to videos that weren't captured with Filmora Scrn, click on the Add Files icon in the editor's Media Bin, find the video file you'd like to work on and click Open. The file you imported will be displayed in the Media Bin, so to start editing it, drag and drop it to the timeline.
@@ -126,8 +132,12 @@ Drag the effect you like the most to the timeline or drag it to the Canvas direc
 ![Filmora Scrn   ](https://images.wondershare.com/filmora/article-images/adjust-blur-effects.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 On the right side of the editor's screen, you'll be able to see Transform and Blur options. Use the Transform feature to place the blur effect over the area of the shot in which the sensitive info is located to hide it from the spectators. Alternatively, you can move or resize the blurred window by dragging it on the software's preview screen.
 
 Next to the Transform icon, you'll be able to see the Annotations icon, click on it and proceed to adjust the blur Intensity and Opacity features. You should repeat this process as many times as necessary until all the sensitive information in your video clip is blurred.
@@ -140,16 +150,11 @@ Ok, that's it. Hope you have hidden and blurred the private info in your recorde
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -157,3 +162,22 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-the-ultimate-look-at-logitechs-high-quality-4k-cam/"><u>[New] 2024 Approved The Ultimate Look at Logitech's High-Quality 4K Cam</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-efficient-chrome-os-snaps-4-techniques-to-try-in-2024/"><u>[New] Efficient Chrome OS Snaps - 4 Techniques to Try, In 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-invisible-listeners-guide-6-clandestine-recording-apps-androidios-for-2024/"><u>[New] Invisible Listeners Guide 6 Clandestine Recording Apps (Android/iOS) for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-essential-tips-for-gameplay-screen-captures-on-xbox-one/"><u>[Updated] Essential Tips for Gameplay Screen Captures on Xbox One</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-aligning-phonetablet-zoom-schedules-with-pc-plans/"><u>[Updated] In 2024, Aligning Phone/Tablet Zoom Schedules with PC Plans</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-raw-footage-to-youtube-a-step-by-step-process-unveiled/"><u>[Updated] In 2024, From Raw Footage to YouTube A Step-by-Step Process Unveiled</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-top-virtual-escapades-for-android-select-15-exciting-simulations-for-2024/"><u>[Updated] Top Virtual Escapades for Android Select 15 Exciting Simulations for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722968213173-asus-z370-e-motherboard-firmware-and-drivers-download-fast/"><u>ASUS Z370-E Motherboard Firmware & Drivers: Download Fast</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/exploring-the-differences-between-srgb-and-rgb/"><u>Exploring the Differences Between Srgb & Rgb</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/fix-unresponsive-audio-devices-step-by-step-guide-for-windows-1187-users/"><u>Fix Unresponsive Audio Devices: Step-by-Step Guide for Windows 11/8/7 Users</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-unlocking-the-potential-of-adobe-presenters-video-features/"><u>In 2024, Unlocking the Potential of Adobe Presenter's Video Features</u></a></li>
+<li><a href="https://techidaily.com/is-your-lava-agni-2-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Lava Agni 2 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/samurai-spirit-explored-in-top-10-gaming-worlds/"><u>Samurai Spirit, Explored in Top 10 Gaming Worlds</u></a></li>
+</ul></div>
+

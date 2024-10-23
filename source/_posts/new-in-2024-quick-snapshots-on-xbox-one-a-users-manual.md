@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Quick Snapshots on Xbox One  A User's Manual\""
-date: 2024-10-16T01:04:16.197Z
-updated: 2024-10-18T01:45:19.397Z
+date: 2024-10-22T20:18:47.944Z
+updated: 2024-10-23T18:01:58.939Z
 tags: 
   - screen-recording
   - ai video
@@ -53,10 +53,10 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Capturing Screenshots on Xbox One Using the Controller
@@ -65,35 +65,35 @@ There is nothing complicated about taking a screenshot of your favorite game on 
 
 ![Xbox Screenshot ](https://images.wondershare.com/filmora/article-images/xbox-screenshot.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 An increasing number of video games for Xbox One can be played in 4K resolution, but in order to play a game in a 4K resolution, you must have a 4K TV set. Moreover, the 4K and HDR capabilities your TV must be enabled before you start playing an Xbox One game in 4K. Taking a 4K screenshot on Xbox One requires you to adjust the capturing settings.
 
 Press the Xbox button on the controller, and locate the System menu. Select the Settings option from the System menu and then click on the Preferences submenu. Navigate to the Broadcast&Capture option and when the new menu appears on the screen, click on the Game clip resolution and select one of the available 4K settings.
 
 Keep in mind that 4K screenshots are significantly larger in size than those in HD or any other resolution so if you would like to share a screenshot on social media you'll first have to download it to your Windows 10 PC and resize it. What's more taking screenshots or [recording videos](https://tools.techidaily.com/wondershare/filmora/download/) on Xbox One is only possible after you launch a game.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Capture Screenshots on Xbox One Using Voice Commands
 
 ![Xbox Screenshot ](https://images.wondershare.com/filmora/article-images/xbox-voice-screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Older versions of Xbox One feature the Kinect motion sensor, while the more recent versions have the Microsoft's Cortana sensor. Both of them enable you to take screenshots using voice commands. If your Xbox One has the Kinect motion sensor, you should issue the 'Xbox take a screenshot' command. Viewing the screenshot immediately after it was taken, requires you to say 'Xbox open that' and the screenshot will pop up on the screen or you can just push and hold the Xbox button on the controller.
 
 You can say ' Hey _Cortana, take a screenshot'_ if your Xbox One features a Cortana motion sensor. However, in order to be able to issue voice commands, you must first activate this option. Head over to the Xbox One's Settings menu and locate the All Settings option. Click on System and switch on the AI Companion feature.
 
 It is important to say the command clearly so the AI can understand what you are trying to do, and for that reason, you should try to avoid capturing screenshots or recording videos via voice commands in noisy rooms.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Manage and Share Screenshots on Xbox One?
 
@@ -106,10 +106,10 @@ The console you're using features the Upload app, so in order to access it, you 
 ![Xbox Screenshot ](https://images.wondershare.com/filmora/article-images/xbox-screenshot-share.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### 2. Manage and Share Xbox Screenshots via Windows 10 PC
@@ -141,20 +141,16 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-effective-methods-for-capturing-youtube-live-broadcasts/"><u>[New] 2024 Approved Effective Methods for Capturing YouTube Live Broadcasts</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-from-live-to-recording-maximizing-your-gaming-sessions-value/"><u>[New] 2024 Approved From Live to Recording Maximizing Your Gaming Sessions' Value</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-unbeatable-free-webcam-matchups/"><u>[New] Unbeatable Free Webcam Matchups</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-efficient-screen-capture-strategies-for-effective-facetime-recording-for-2024/"><u>[Updated] Efficient Screen-Capture Strategies for Effective FaceTime Recording for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-interrupting-real-time-recording-on-quicktime/"><u>[Updated] Interrupting Real-Time Recording on QuickTime</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-night-of-the-living-dead-games-an-epic-selection-for-2024/"><u>[Updated] Night of the Living Dead Games An Epic Selection for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-the-ultimate-listening-experience-how-to-add-podcasts-via-ipadiphone-for-2024/"><u>[Updated] The Ultimate Listening Experience How to Add Podcasts via iPad/iPhone for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-from-novices-to-professionals-free-guide-on-google-meet-mastery/"><u>2024 Approved From Novices to Professionals Free Guide on Google Meet Mastery</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-unveil-full-length-videos-in-yt/"><u>2024 Approved How to Unveil Full-Length Videos in YT</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-twitters-viral-top-10-all-about-tiktoks/"><u>2024 Approved Twitter's Viral Top 10 All About TikToks</u></a></li>
-<li><a href="https://article-helps.techidaily.com/cultivating-a-thriving-audience-for-your-channel-for-2024/"><u>Cultivating a Thriving Audience for Your Channel for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/decoding-the-perfection-of-hp-envy-27s-design-for-2024/"><u>Decoding the Perfection of HP Envy 27'S Design for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-quick-guide-to-incor-written-as-a-python-list-which-represents-the-30-titles-above-the-elements-of-this-list-should-be-strings-that-are-already-comp/"><u>In 2024, Quick Guide to Incor Written as a Python List, Which Represents the 30 Titles Above. The Elements of This List Should Be Strings that Are Already Complete Sentences and Adhere to the Given Constraints. Ensure No Title Exceeds 156 Characters</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/numbers-that-shook-youtube-facts-in-visual-form-2017/"><u>Numbers that Shook! YouTube Facts in Visual Form (2017)</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/scoutingcameras-more-than-just-mycam-for-2024/"><u>ScoutingCameras More Than Just MyCam for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-novice-film-capture-scrutiny-report/"><u>[Updated] 2024 Approved Novice Film Capture Scrutiny Report</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/choosing-arc-over-safari-top-3-benefits-for-my-macos-experience/"><u>Choosing Arc over Safari: Top 3 Benefits for My macOS Experience</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-leading-ai-tools-must-have-apps-for-your-smartphone/"><u>Discover the Leading AI Tools: Must-Have Apps for Your Smartphone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/expert-strategies-for-effective-gopro-time-lapse-footage/"><u>Expert Strategies for Effective GoPro Time-Lapse Footage</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/expert-tips-for-efficiently-logging-google-online-gatherings/"><u>Expert Tips for Efficiently Logging GooGle Online Gatherings</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/how-to-create-engaging-screencasts-a-practical-guide/"><u>How to Create Engaging Screencasts A Practical Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-utilizing-smartphones-for-effective-home-based-filming/"><u>In 2024, Utilizing Smartphones for Effective Home-Based Filming</u></a></li>
+<li><a href="https://win-data.techidaily.com/iphone-software-updates-a-step-by-step-guide-using-alternative-methods/"><u>IPhone Software Updates: A Step-by-Step Guide Using Alternative Methods</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/speedy-transaction-interstellar-imagery-update/"><u>Speedy Transaction: Interstellar Imagery Update</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862872039-unveiling-the-asrock-z790i-lightning-wi-fi-compact-brilliance-gigantic-performance/"><u>Unveiling the ASROCK Z790I Lightning Wi-Fi: Compact Brilliance, Gigantic Performance</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/visualcapturew11-windows-11-simple-recording-app-for-2024/"><u>VisualCaptureW11 Windows 11 Simple Recording App for 2024</u></a></li>
 </ul></div>
 

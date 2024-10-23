@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Ken Burns Effect Techniques for Camtasia Users for 2024"
-date: 2024-10-10T18:08:28.296Z
-updated: 2024-10-17T20:22:40.823Z
+date: 2024-10-19T17:33:22.567Z
+updated: 2024-10-23T19:03:23.253Z
 tags: 
   - screen-recording
   - ai video
@@ -48,10 +48,10 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -63,16 +63,16 @@ That's not to say that Filmora only offers basic features as it has a wide range
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
@@ -100,10 +100,10 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -121,20 +121,20 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-core-principles-for-online-storytelling-craftsmanship/"><u>[Updated] In 2024, Core Principles for Online Storytelling Craftsmanship</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-inspire-your-brand-with-smart-channel-name-genesis/"><u>[Updated] Inspire Your Brand with Smart Channel Name Genesis</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-obs-tutorial-for-instagram-live-streams-your-ultimate-reference/"><u>2024 Approved OBS Tutorial for Instagram Live Streams Your Ultimate Reference</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-ultimate-10-battle-royale-matchups/"><u>2024 Approved Ultimate 10 Battle Royale Matchups</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/future-proofing-filmmaking-with-green-tools-for-2024/"><u>Future-Proofing Filmmaking with Green Tools for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-poco-f5-pro-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Poco F5 Pro 5G</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-vivo-y200e-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Vivo Y200e 5G to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-5-ways-to-record-minecraft-on-mac/"><u>In 2024, 5 Ways to Record Minecraft on Mac</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-enthusiastic-presentation-appraisal-version-08/"><u>In 2024, Enthusiastic Presentation Appraisal, Version 08</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-essential-tips-for-vimeo-video-logging/"><u>In 2024, Essential Tips for Vimeo Video Logging</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Realme C33 2023 | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Motorola Defy 2? | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-minimca-haven-unveiling-simple-homes-in-minecraft/"><u>In 2024, MiniMCA Haven Unveiling Simple Homes in Minecraft</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/unlock-multi-window-video-experience-in-edge-for-2024/"><u>Unlock Multi-Window Video Experience in Edge for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-how-to-edit-mp4-files-on-windows-8-a-step-by-step-guide-for-2024/"><u>Updated How to Edit MP4 Files on Windows 8 A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-classroom-captures-unveiling-the-ultimate-10-video-recorders-for-education/"><u>[New] 2024 Approved Classroom Captures Unveiling the Ultimate 10 Video Recorders for Education</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-optimal-sustainable-screen-capture-tools-usage-strategies/"><u>[New] 2024 Approved Optimal Sustainable Screen Capture Tools Usage Strategies</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-all-encompassing-evaluation-gecatas-live-recording/"><u>[New] In 2024, All-Encompassing Evaluation Gecata's Live Recording</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-elevate-your-communication-master-skype-calls-recording/"><u>[Updated] In 2024, Elevate Your Communication Master Skype Calls Recording</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-mastery-of-geometric-design-in-minecraft-creating-circle-and-sphere-art/"><u>[Updated] In 2024, Mastery of Geometric Design in Minecraft Creating Circle & Sphere Art</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-master-controls-navigating-the-world-of-switch-pro-and-steam-gaming/"><u>[Updated] Master Controls Navigating the World of Switch Pro and Steam Gaming</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitters-obsession-with-top-10-tiktok-videos-for-2024/"><u>[Updated] Twitter's Obsession with Top 10 TikTok Videos for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/decoding-spatial-computing-technology-understanding-its-functionality-features-and-impacts-perspectives-by-zdnet/"><u>Decoding Spatial Computing Technology: Understanding Its Functionality, Features & Impacts – Perspectives by ZDNet</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-huawei-nova-y71-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Huawei Nova Y71 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-echo-chambers-advanced-mac-audio-techniques/"><u>In 2024, Echo Chambers Advanced Mac Audio Techniques</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-smart-solutions-apply-apple-watch-open-mac/"><u>In 2024, Smart Solutions Apply Apple Watch, Open Mac</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-top-10-pioneering-free-screen-recorder-applications-for-mac/"><u>In 2024, Top 10 Pioneering Free Screen Recorder Applications for Mac</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-motorola-moto-g24-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Motorola Moto G24 Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://howto.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-xiaomi-redmi-note-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-webp-views-on-your-windows-system/"><u>Streamline WebP Views on Your Windows System</u></a></li>
 </ul></div>
 
