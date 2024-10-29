@@ -1,7 +1,7 @@
 ---
 title: "[New] Bringing People Together in Real Time Using WhatsApp Desktop for Laptops"
-date: 2024-10-18T20:01:19.306Z
-updated: 2024-10-23T20:07:13.479Z
+date: 2024-10-25T16:29:22.212Z
+updated: 2024-10-29T16:52:13.814Z
 tags: 
   - screen-recording
   - ai video
@@ -39,6 +39,13 @@ Unfortunately, you can’t use WhatsApp on the desktop to make video calls direc
 
 Anyone asking, “how can I make a video call on WhatsApp Web?” is in the right place.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Make Video Call from WhatsApp Web in Laptop
 
 Everyone who has done a little research will see that you can use WhatsApp Web to make calls and send messages. At first glance, it appears as though the controls are the same, but you are more limited in options because you can’t, seemingly, make video calls.
@@ -63,27 +70,34 @@ In a few easy steps:
 
 ![log in whatsapp](https://images.wondershare.com/filmora/article-images/install-whatsapp-in-desktop.JPG)
 
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Now you can see all your contacts on WhatsApp, and you can also add more people here.
 2. Choose a friend to start a conversation, and then tap the video call button at the top right corner. The whole process is easy to complete like on the phone.
 
 Your WhatsApp download will run from here, giving you the answer to how to make video calls in WhatsApp web – on laptops.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: WhatsApp Web Alternative
 
 There are 3 WhatsApp Web Alternatives that we can think of, off the top of our heads.
-
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. [Skype Online](https://www.skype.com/en/features/skype-web/)
 
@@ -92,10 +106,10 @@ Skype is one of the longest-running video calling and web calling apps. It gives
 ![Skype](https://images.wondershare.com/filmora/article-images/skype.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. [Google Duo](https://duo.google.com/about/)
@@ -104,38 +118,24 @@ If you can’t figure out how to make video calls on WhatsApp Web on laptops, th
 
 ![Google Duo](https://images.wondershare.com/filmora/article-images/google-duo-app.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. [Facebook Messenger](https://www.messenger.com/)
 
 If you don’t intend to do much in the way of group chatting, then video calling in Messenger is a reliable way to see friends during the lockdown. Most people have Facebook, it will work with all their products, and it is as easy to join as clicking a link. The downside is that it only works if FB knows who you are. If you closed your account with them, then you will need to start from scratch. That being said, audio and video are both clear, you can add in file sharing, and you have the option to instant message at all times. Plus, it will sync with your contacts in much the same way as Google Duo will.
 
 ![Facebook Messenger](https://images.wondershare.com/filmora/article-images/messenger-app.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Rounding Up
 
 So if you can’t work out how to make a WhatsApp call from a PC, try one of our other recommendations for keeping in touch. WhatsApp is a wonderfully secure, encrypted messaging service – but it isn’t the only one on the market. It might not even be the right product for you.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -152,22 +152,20 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-critical-selection-of-1-5-best-snippers-for-windows/"><u>[New] 2024 Approved Critical Selection of #1-5 Best Snippers for WINDOWS</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-effortless-webcam-recording-with-vlc-streaming-capabilities/"><u>[New] 2024 Approved Effortless Webcam Recording with VLC Streaming Capabilities</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-access-high-quality-youtube-images-without-paying-a-dime-for-2024/"><u>[New] Access High-Quality YouTube Images Without Paying a Dime for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-screen-capture-in-depth-look-at-top-obs-tools/"><u>[New] In 2024, Screen Capture In-Depth Look at Top OBS Tools</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-best-practices-boosting-your-game-videos-with-tags/"><u>[Updated] 2024 Approved Best Practices Boosting Your Game Videos with Tags</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-efficiently-archive-social-media-videos-with-top-5-pick/"><u>[Updated] 2024 Approved Efficiently Archive Social Media Videos with Top 5 Pick</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-enhancing-remote-sessions-with-premium-bgs/"><u>[Updated] Enhancing Remote Sessions with Premium BGs</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-essential-steps-to-designing-exceptional-youtube-thumbnails/"><u>[Updated] Essential Steps to Designing Exceptional YouTube Thumbnails</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-enhancing-youtube-beauty-mastering-video-color-dynamics/"><u>[Updated] In 2024, Enhancing YouTube Beauty Mastering Video Color Dynamics</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-pro-level-snap-tech-free-from-any-delaying-hiccups/"><u>[Updated] In 2024, Pro-Level Snap Tech Free From Any Delaying Hiccups</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-instagram-riches-guide-ranking-the-top-earner-posts-for-2024/"><u>[Updated] Instagram Riches Guide Ranking the Top Earner Posts for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-smart-pick-android-apps-for-large-video-meetings/"><u>2024 Approved Smart Pick Android Apps for Large Video Meetings</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/best-recorders-for-lecture-recording-for-2024/"><u>Best Recorders for Lecture Recording for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/elevate-your-skills-in-ai-through-15-exclusive-free-and-flexible-online-classes-authoritative-guide/"><u>Elevate Your Skills in AI Through 15 Exclusive Free and Flexible Online Classes - Authoritative Guide</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/improve-your-image-resolution-with-these-6-effective-strategies/"><u>Improve Your Image Resolution with These 6 Effective Strategies</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/real-time-capture-mastery-discover-the-top-4-livestream-strategies-for-2024/"><u>Real-Time Capture Mastery Discover the Top 4 Livestream Strategies for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/top-10-skype-recorder-to-use-2023/"><u>Top 10 Skype Recorder to Use 2023</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-step-by-step-adding-tracks-to-youtubes-playlist/"><u>[New] 2024 Approved Step-by-Step Adding Tracks to YouTube's Playlist</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-step-by-step-to-effortless-iphone-screen-recording-for-2024/"><u>[New] Step-by-Step to Effortless IPhone Screen Recording for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-ultimate-list-of-androids-gb-compatible-simulators/"><u>[New] Ultimate List of Android's GB-Compatible Simulators</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-your-first-step-on-twitter-creating-an-account/"><u>[New] Your First Step on Twitter Creating an Account</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-mastering-youtube-banner-success-a-complete-strategy/"><u>[Updated] 2024 Approved Mastering YouTube Banner Success A Complete Strategy</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-seamless-integration-of-srt-files-in-windows-macos-for-2024/"><u>[Updated] Seamless Integration of SRT Files in Windows, MacOS for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-ultimate-no-fuss-techniques-for-valorant-sessions-for-2024/"><u>[Updated] Ultimate No-Fuss Techniques for Valorant Sessions for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/essential-guide-incorporating-visual-annotations-in-edits-for-2024/"><u>Essential Guide Incorporating Visual Annotations in Edits for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-from-huawei-nova-y91-by-fonelab-android-recover-pictures/"><u>How to recover deleted pictures from Huawei Nova Y91.</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Oppo A2? | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-screen-to-air-assessing-obs-and-twitch-studios-features/"><u>In 2024, Screen to Air Assessing OBS and Twitch Studio's Features</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-ultimate-ranking-of-top-internet-recording-tools-2023/"><u>In 2024, Ultimate Ranking of Top Internet Recording Tools 2023</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/the-quintessential-browsers-screen-recorder-guide-for-professionals/"><u>The Quintessential Browsers' Screen Recorder Guide for Professionals</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-selection-the-premier-sunlight-powered-charger-models-of-2-maximizing-portability-and-efficiency-s-leading-solar-chargers/"><u>Ultimate Selection: The Premier Sunlight-Powered Charger Models of 2# Maximizing Portability and Efficiency 'S Leading Solar Chargers</u></a></li>
+<li><a href="https://change-location.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Vivo Y78t? | Dr.fone</u></a></li>
 </ul></div>
 

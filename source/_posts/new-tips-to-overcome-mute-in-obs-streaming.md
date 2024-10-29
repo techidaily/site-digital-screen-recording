@@ -1,7 +1,7 @@
 ---
 title: "[New] Tips to Overcome Mute in OBS Streaming"
-date: 2024-08-17T12:59:26.221Z
-updated: 2024-08-18T12:59:26.221Z
+date: 2024-10-24T16:39:01.572Z
+updated: 2024-10-29T16:25:54.178Z
 tags: 
   - screen-recording
   - ai video
@@ -41,6 +41,13 @@ While using OBS studio, the users might experience the difficulties of OBS not c
 
 ![restart](https://images.wondershare.com/filmora/article-images/restart.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **2\. Run it as Administrator**
 
 You can run OBS as an administrator on Windows 10 and Windows 11 effortlessly. By default, Windows always restrict the maximum resources a program can obtain to avoid one application draining too many available resources, crashing essential system programs. The method is uncomplicated, and you can perform it by yourself. Therefore, if you want to prevent OBS not recording audio difficulties, you should make OBS an administrator. Hence, we propose to run your OBS as administrator to circumvent this constraint
@@ -52,8 +59,19 @@ You can run OBS as an administrator on Windows 10 and Windows 11 effortlessly. B
 ![run it as administrator](https://images.wondershare.com/filmora/article-images/run-it-as-administrator.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **3\. Unmute OBS**
 
 If OBS Studio is muted in the Volume Mixer, no doubt you won’t hear any desktop sound. test if OBS desktop audio comes back. If not, try the next remedy below. So the first troubleshooting step is to check your Volume Mixer.
@@ -65,8 +83,12 @@ If OBS Studio is muted in the Volume Mixer, no doubt you won’t hear any deskto
 ![unmute obs](https://images.wondershare.com/filmora/article-images/unmute-obs.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **4\. Check the sound settings**
 
 Click the Desktop Audio Device drop-down option if the proper device is not chosen there. Then choose the correct desktop audio device.
@@ -78,8 +100,12 @@ Click the Desktop Audio Device drop-down option if the proper device is not chos
 ![check the sound settings](https://images.wondershare.com/filmora/article-images/check-the-sound-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **5\. Remove Other Programs for Audio Control**
 
 Try recording with your speakers as the default playback device instead of headphones. To accomplish it, right-click the Speakers system tray icon and choose Open Sound settings.
@@ -91,11 +117,12 @@ Try recording with your speakers as the default playback device instead of headp
 ![audio control](https://images.wondershare.com/filmora/article-images/audio-control.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
+
 ### **6\. Update your audio driver**
 
 If the Desktop Audio stopped recording after the Windows Driver update, you may roll back the Windows to the prior version with no difficulty. If the audio driver is not up-to-date, the OS cannot connect with the audio output device. Hence, OBS will not detect any audio. To upgrade your audio driver, follow these procedures.
@@ -115,9 +142,6 @@ If none of the techniques can assist you, your OBS is experiencing an undefined 
 
 ![reinstall obs](https://images.wondershare.com/filmora/article-images/reinstall-obs.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Use OBS Alternative
 
 When all the preceding approaches fail to address the issue, merely switch to an alternate screen recorder to generate a video. Be that as it may, one of the common troubles while recording with OBS studio is the "OBS studio sound not functioning " issue which looks to be incredibly puzzling since you can end up going through a few hours recording and editing a video yet there is no solid. Personally, Filmora's [Screen Recorder](https://tools.techidaily.com/wondershare/filmora/download/) will be pretty nice. When you are going to uncover the solution to why is OBS not recording audio, there are numerous screen and audio recorders that will be beneficial for you. One of the greatest recording applications is Filmora. The program contains built-in functions, and you may conduct various editing by cropping, dividing, or chopping the audio. Moreover, the application is quite straightforward to use which is pretty different from OBS, the one that requires practice. You may use the keyboard shortcut to start recording your screen without additional setup.
@@ -134,9 +158,6 @@ After the above efficient approaches, we have utilized to cure the "OBS No Sound
 
 ![record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ### **Features Why You Should Go for Filmora:**
 
 * It has both the versions for Windows and Mac
@@ -150,11 +171,29 @@ After the above efficient approaches, we have utilized to cure the "OBS No Sound
 * It’s possible to capture your camera output without recording the screen
 * You may export videos in any desired format by utilizing sophisticated setup tools.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-detailed-insights-for-optimal-screenrec-techniques/"><u>[New] 2024 Approved Detailed Insights for Optimal ScreenRec Techniques</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-reworking-your-online-identity-comprehensive-tiktok-username-change-protocols/"><u>[New] 2024 Approved Reworking Your Online Identity Comprehensive TikTok Username Change Protocols</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-unlocking-the-power-of-screencastify-recorder/"><u>[New] 2024 Approved Unlocking the Power of Screencastify Recorder</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-mastering-live-show-recordings-the-modern-way-for-2024/"><u>[New] Mastering Live Show Recordings The Modern Way for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-timeless-titans-a-list-of-the-top-10-classic-adventure-games/"><u>[New] Timeless Titans A List of the Top 10 Classic Adventure Games</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-characters-that-convert-ideal-story-strategies/"><u>[Updated] Characters That Convert Ideal Story Strategies</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-exploring-the-top-7-voice-customization-applications/"><u>[Updated] In 2024, Exploring the Top 7 Voice Customization Applications</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-ultimate-screen-recorder-companion-for-windows-10-for-2024/"><u>[Updated] Ultimate Screen Recorder Companion for Windows 10 for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/exhaustive-analysis-of-gecata-playback-device-for-2024/"><u>Exhaustive Analysis of Gecata Playback Device for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-creation-to-apple-your-podcasts-journey-for-2024/"><u>From Creation to Apple Your Podcast's Journey for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/how-to-perfectly-record-and-preserve-your-ps3-games/"><u>How to Perfectly Record and Preserve Your PS3 Games</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-from-idea-to-icon-making-the-list-of-top-fb-videos/"><u>In 2024, From Idea to Icon Making the List of Top FB Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/sharing-joy-iphone-memes/"><u>Sharing Joy IPhone Memes</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-behindahead-time-error-in-chrome-windows/"><u>Tackling Behind/Ahead Time Error in Chrome-Windows</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/troubleshooting-tips-how-to-get-your-windows-eboot-task-manager-up-and-running-again/"><u>Troubleshooting Tips: How to Get Your Windows Eboot Task Manager Up and Running Again</u></a></li>
+</ul></div>
+

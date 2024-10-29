@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Windows 10: Restoring Your Start Menu Quickly and Easily"
-date: 2024-08-17T13:01:04.470Z
-updated: 2024-08-18T13:01:04.470Z
+date: 2024-10-28T16:53:31.602Z
+updated: 2024-10-29T16:07:10.604Z
 tags:
   - win11
   - win10
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/60fe1a74657905b47d054d52197782d9df31df837
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1: Relog into your account
 
  Re-logging to your desktop is one of the easiest workarounds for you to try. If your Start menu was only gone occasionally, you should go with this option. Here is how you relog into your account:
@@ -51,6 +58,13 @@ thumbnail: https://thmb.techidaily.com/60fe1a74657905b47d054d52197782d9df31df837
 2) Type in your password and log in again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b3a59dfeba.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Check if your Start menu works all right now.
 
@@ -69,24 +83,16 @@ thumbnail: https://thmb.techidaily.com/60fe1a74657905b47d054d52197782d9df31df837
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8999a1831.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Then type **powershell**  and t  ick the box for**Create this task with administrative privileges** . Click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8a563ff80.png)
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) In PowerShell window, copy and paste in the following command and press the**Enter** key on your keyboard:
 
 net user newusername newpassword /add
@@ -95,9 +101,6 @@ net user newusername newpassword /add
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8bbeac77b.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 5) Restart your computer and log into the new user account.
 
 6) Your**Start** menu should work now.You can change the new local account to a Microsoft account and transfer your files and settings.
@@ -117,6 +120,13 @@ net user newusername newpassword /add
  3) Double-click**Sound, video and game controller** . Right-click your audio card driver and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b931f18df7.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When prompted with the following notification, tick the box for**Delete the driver software for this device** and click**Uninstall** .
 
@@ -142,9 +152,6 @@ net user newusername newpassword /add
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b963732280.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 7) Check if your Start menu is back.
 
 ---
@@ -157,9 +164,6 @@ net user newusername newpassword /add
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5: Uninstall Dropbox
 
  Many Windows users find that Dropbox somehow conflicted with the Start menu, making it impossible to use all the feature in the Start panel.
@@ -171,16 +175,16 @@ net user newusername newpassword /add
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b98211438e.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  2) View by**Category** , then click**Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b984aa9035.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Find Dropbox, and click**Uninstall** to get it removed from your computer.
 
 ---
@@ -207,20 +211,21 @@ net user newusername newpassword /add
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b3b34111eb.png)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) On the top of the Task Manager window, select**File** option and then choose**Run new task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8999a1831.png)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Then type **powershell**  and t  ick the box for**Create this task with administrative privileges** . Click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8a563ff80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
  4) Type**sfc /scannow** in and press the**Enter** key on your keyboard. Wait for a while for the process to complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b9c44015d6.png)
@@ -231,17 +236,10 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b9c8a8bb33.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 6) When these two tests finishes, check if your Start menu is back.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8: Reinstall Cortana
 
  The reason why your Start menu and Cortana is not working could be that they are installed wrong, somehow. You can reinstall them to get the Start menu feature back. Here is how:
@@ -249,6 +247,13 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  1) Right-click the task bar on your desktop at the bottom and click **Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b3b34111eb.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) On the top of the Task Manager window, select**File** option and then choose**Run new task** .
 
@@ -258,15 +263,19 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8a563ff80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
  4) Copy and paste the following command in and press the **Enter** key on your keyboard.
 
 Get-AppXPackage -Name Microsoft.Windows.Cortana | Foreach {Add-AppxPackage -DisableDevelopmentMo  
 de -Register "$($_.InstallLocation)\AppXManifest.xml"}
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b9cce6260c.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If this command is not working in your case, try the following command instead:
 
@@ -288,8 +297,6 @@ Get-AppXPackage -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Re
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -297,4 +304,26 @@ Get-AppXPackage -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Re
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-detailed-review-obs-as-a-top-choice-for-screen-recorders/"><u>[New] 2024 Approved Detailed Review OBS as a Top Choice for Screen Recorders</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-xbox-expansion-top-5-external-hard-drives-ranked/"><u>[New] 2024 Approved Xbox Expansion Top 5 External Hard Drives Ranked</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-a-rolling-reel-of-jokes-tiktoks-best-comedic-videos/"><u>[New] A Rolling Reel of Jokes TikTok's Best Comedic Videos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-unmasked-instagram-stories-pcandroidios-exploration-tips/"><u>[New] Unmasked Instagram Stories PC/Android/iOS Exploration Tips</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-quiet-your-feed-stop-instagrams-suggestion-system/"><u>[Updated] 2024 Approved Quiet Your Feed Stop Instagram's Suggestion System</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-recording-your-display-essential-tips-for-effective-screen-capture/"><u>[Updated] 2024 Approved Recording Your Display Essential Tips for Effective Screen Capture</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-the-complete-walkthrough-for-console-gaming-pc-recordings/"><u>[Updated] 2024 Approved The Complete Walkthrough for Console Gaming PC Recordings</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-effective-strategies-for-advertising-with-spotify/"><u>2024 Approved Effective Strategies for Advertising with Spotify</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/beginner-friendly-guide-to-iphone-screen-recordings/"><u>Beginner-Friendly Guide to iPhone Screen Recordings</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/comment-pouvez-vous-visionner-un-fichier-mp4-sur-les-systemes-dexploitation-windows-10-8-et-7/"><u>Comment Pouvez-Vous Visionner Un Fichier MP4 Sur Les Systèmes D'Exploitation Windows 10, 8 Et 7 ?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/demystifying-the-ban-gptbots-role-in-ai-driven-creativity/"><u>Demystifying the Ban: GPTBot’s Role in AI-Driven Creativity</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-modern-warfare-3-mw3-not-working-launching/"><u>Fix Modern Warfare 3 MW3 Not Working / Launching</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/frugal-hardware-efficient-obs-arrangements-for-2024/"><u>Frugal Hardware Efficient OBS Arrangements for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-motorola-moto-g23-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Motorola Moto G23 to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/1715859985827-in-2024-android-without-a-wire-heres-your-free-games-list/"><u>In 2024, Android Without A Wire? Here's Your Free Games List!</u></a></li>
+<li><a href="https://fox-links.techidaily.com/podcast-perfection-editing-techniques-in-garageband/"><u>Podcast Perfection Editing Techniques in GarageBand</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/premium-firefox-recorders-selection-for-2024/"><u>Premium Firefox Recorders Selection for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/step-by-step-to-upgrade-your-social-media-agebirthdate/"><u>Step-by-Step to Upgrade Your Social Media Age/Birthdate</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/unmatched-portable-experience-with-top-gba-simulators-android/"><u>Unmatched Portable Experience with Top GBA Simulators, Android</u></a></li>
+</ul></div>
 

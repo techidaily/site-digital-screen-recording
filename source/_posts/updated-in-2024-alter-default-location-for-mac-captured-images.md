@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Alter Default Location for Mac Captured Images"
-date: 2024-10-18T20:35:39.661Z
-updated: 2024-10-23T16:21:38.879Z
+date: 2024-10-26T16:15:38.706Z
+updated: 2024-10-29T16:44:09.632Z
 tags: 
   - screen-recording
   - ai video
@@ -48,6 +48,13 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
 
 Changing the folder where you store your screenshots is not an irreversible process, which means that you can reset the destination where the files are saved to Desktop at any point. Do not delete the new folder, because your Mac may not be able to take screenshots, afterward. The process described below is the only way you can delete a folder or add a new destination for your screenshots, and failing to comply with it may cause your Mac to malfunction.
@@ -55,10 +62,10 @@ Changing the folder where you store your screenshots is not an irreversible proc
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
@@ -70,10 +77,10 @@ Then enter a space at the end after 'location'.
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
@@ -87,10 +94,16 @@ To execute the command you have to press Enter. After Terminal finishes running 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
@@ -104,13 +117,6 @@ Make sure that your username is properly written, and then press Enter to run th
 Don't forget that deleting the folder you use as a default location for storing screenshots should only be done using the process we just described in the Terminal application, since all other methods may cause unnecessary trouble.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Max Wales
 
@@ -127,21 +133,22 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-smoothscreensaver-lightweight-recording-tool/"><u>[New] 2024 Approved SmoothScreenSaver Lightweight Recording Tool</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-becoming-a-social-media-storyteller-on-facebook/"><u>[New] Becoming a Social Media Storyteller on Facebook</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-clandestine-call-collectors-a-stealthy-apps-review-androidios/"><u>[New] Clandestine Call Collectors A Stealthy Apps Review (Android/iOS)</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-swiftrecord-the-quick-windows-11-recorder/"><u>[New] In 2024, SwiftRecord - The Quick Windows 11 Recorder</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-optimal-window-calls-8-top-rated-titles-4-1-for-2024/"><u>[New] Optimal Window Calls 8 Top Rated Titles #4-#1 for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-perfect-playback-5-innovative-techniques-for-gamers-for-2024/"><u>[New] Perfect Playback 5 Innovative Techniques for Gamers for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-the-ultimate-alternative-review-to-sharex/"><u>[Updated] 2024 Approved The Ultimate Alternative Review to ShareX</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-quitvideo-on-the-go-quickaction-tips-for-2024/"><u>[Updated] QuitVideo On-the-Go QuickAction Tips for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-elite-mac-graphics-recorder/"><u>2024 Approved Elite Mac Graphics Recorder</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/1715860615186-2024-approved-top-cycling-sims-worth-your-time/"><u>2024 Approved Top Cycling Sims Worth Your Time!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Vivo T2x 5G | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhance-gameplay-with-internationalized-rom-tweaks/"><u>Enhance Gameplay with Internationalized ROM Tweaks</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-x-without-passcode-or-face-id-by-drfone-ios/"><u>How to Unlock Apple iPhone X without Passcode or Face ID</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-web-control-panel-adjustments-in-windows-11/"><u>Mastering Web Control Panel Adjustments in Windows 11</u></a></li>
-<li><a href="https://review-topics.techidaily.com/realme-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Realme Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-does-chatgpt-4-lag-behind-in-speed-compared-to-35/"><u>Why Does ChatGPT-4 Lag Behind in Speed, Compared to 3.5?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-smarter-spending-on-cloud-data-services-insights-and-recommendations/"><u>[New] Smarter Spending on Cloud Data Services Insights & Recommendations</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-simple-steps-to-document-online-meetings-on-os-xwindows/"><u>[Updated] 2024 Approved Simple Steps to Document Online Meetings on OS X/Windows</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-ideal-mac-video-logic-tool-for-2024/"><u>[Updated] Ideal Mac Video Logic Tool for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-sims-4-live-action-gaming-capture-essentials/"><u>[Updated] Sims 4 Live-Action Gaming Capture Essentials</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-talkative-transformations-infusing-your-stories-with-motion/"><u>[Updated] Talkative Transformations Infusing Your Stories with Motion</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-transfer-tactics-for-seamless-online-video-sharing/"><u>2024 Approved Transfer Tactics for Seamless Online Video Sharing</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-8-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 8</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-for-iphone-12-mini-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For iPhone 12 mini Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/essential-guide-to-saving-tv-broadcasts-online-for-2024/"><u>Essential Guide to Saving TV Broadcasts Online for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722896007181-exclusive-insights-into-the-upcoming-macbook-with-touch-screen-functionality-price-sneak-peek/"><u>Exclusive Insights Into the Upcoming MacBook with Touch Screen Functionality – Price Sneak Peek!</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-mastering-the-art-of-obs-and-fb-live/"><u>In 2024, Mastering the Art of OBS and FB Live</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/limitless-video-snipping-program/"><u>Limitless Video Snipping Program</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-0x80070002-update-issues-on-your-pc-with-ease/"><u>Resolving 0X80070002 Update Issues on Your PC with Ease</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/selecting-the-perfect-screen-recorder-for-educational-purposes/"><u>Selecting the Perfect Screen Recorder for Educational Purposes</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/setting-the-stage-your-first-virtual-boardroom-with-google/"><u>Setting the Stage Your First Virtual Boardroom with Google</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/tech-review-showcase-exploring-the-genius-of-a-convertible-lenovo-laptop-tablet-combo-insights/"><u>Tech Review Showcase: Exploring the Genius of a Convertible Lenovo Laptop-Tablet Combo Insights</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/truescreenpro-windows-10s-choice-for-2024/"><u>TrueScreenPro Windows 10'S Choice for 2024</u></a></li>
 </ul></div>
 

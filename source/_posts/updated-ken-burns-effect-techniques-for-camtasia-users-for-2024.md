@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Ken Burns Effect Techniques for Camtasia Users for 2024"
-date: 2024-10-19T17:33:22.567Z
-updated: 2024-10-23T19:03:23.253Z
+date: 2024-10-22T16:57:13.053Z
+updated: 2024-10-29T16:12:29.981Z
 tags: 
   - screen-recording
   - ai video
@@ -48,10 +48,10 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -63,16 +63,10 @@ That's not to say that Filmora only offers basic features as it has a wide range
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
@@ -100,10 +94,10 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -121,20 +115,18 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-classroom-captures-unveiling-the-ultimate-10-video-recorders-for-education/"><u>[New] 2024 Approved Classroom Captures Unveiling the Ultimate 10 Video Recorders for Education</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-optimal-sustainable-screen-capture-tools-usage-strategies/"><u>[New] 2024 Approved Optimal Sustainable Screen Capture Tools Usage Strategies</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-all-encompassing-evaluation-gecatas-live-recording/"><u>[New] In 2024, All-Encompassing Evaluation Gecata's Live Recording</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-elevate-your-communication-master-skype-calls-recording/"><u>[Updated] In 2024, Elevate Your Communication Master Skype Calls Recording</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-mastery-of-geometric-design-in-minecraft-creating-circle-and-sphere-art/"><u>[Updated] In 2024, Mastery of Geometric Design in Minecraft Creating Circle & Sphere Art</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-master-controls-navigating-the-world-of-switch-pro-and-steam-gaming/"><u>[Updated] Master Controls Navigating the World of Switch Pro and Steam Gaming</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-twitters-obsession-with-top-10-tiktok-videos-for-2024/"><u>[Updated] Twitter's Obsession with Top 10 TikTok Videos for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/decoding-spatial-computing-technology-understanding-its-functionality-features-and-impacts-perspectives-by-zdnet/"><u>Decoding Spatial Computing Technology: Understanding Its Functionality, Features & Impacts – Perspectives by ZDNet</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-huawei-nova-y71-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Huawei Nova Y71 FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-echo-chambers-advanced-mac-audio-techniques/"><u>In 2024, Echo Chambers Advanced Mac Audio Techniques</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-smart-solutions-apply-apple-watch-open-mac/"><u>In 2024, Smart Solutions Apply Apple Watch, Open Mac</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-top-10-pioneering-free-screen-recorder-applications-for-mac/"><u>In 2024, Top 10 Pioneering Free Screen Recorder Applications for Mac</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-motorola-moto-g24-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Motorola Moto G24 Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://howto.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-xiaomi-redmi-note-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-webp-views-on-your-windows-system/"><u>Streamline WebP Views on Your Windows System</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-crafting-collabs-for-youtube-channel-expansion/"><u>[New] 2024 Approved Crafting Collabs for YouTube Channel Expansion</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-innovativemovaviscreenx-a-tech-enthusiasts-review/"><u>[New] 2024 Approved InnovativeMovaviScreenX A Tech Enthusiast’s Review</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-continuous-media-archiving-for-2024/"><u>[New] Continuous Media Archiving for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-how-to-live-stream-360-videos-on-facebook/"><u>[New] In 2024, How to Live Stream 360 Videos on Facebook</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-instantly-access-all-episodes-premium-downloader-tools-reviewed/"><u>[New] Instantly Access All Episodes Premium Downloader Tools Reviewed</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-vimeo-vs-youtube-a-content-creators-guide/"><u>[New] Vimeo Vs. YouTube A Content Creator's Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-mastering-the-art-of-digital-recording-for-gotomeet-sessions/"><u>[Updated] In 2024, Mastering the Art of Digital Recording for GoToMeet Sessions</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-nvidia-method-to-perfect-gaming-replays-for-2024/"><u>[Updated] The NVIDIA Method to Perfect Gaming Replays for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-comprehensive-guide-to-integrating-skype-with-obs/"><u>2024 Approved Comprehensive Guide to Integrating Skype with OBS</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-top-tools-for-efficient-video-capture-on-windows-11/"><u>2024 Approved Top Tools for Efficient Video Capture on Windows 11</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/effortless-fb-stream-setup-using-obs-on-laptops-mac-and-pc/"><u>Effortless FB Stream Setup Using OBS on Laptops, Mac & PC</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Vivo S17e? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/newly-disclosed-intel-reports-suggest-persistent-stability-issues-beyond-power-surge-woes/"><u>Newly Disclosed Intel Reports Suggest Persistent Stability Issues Beyond Power Surge Woes</u></a></li>
 </ul></div>
 

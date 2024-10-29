@@ -1,7 +1,7 @@
 ---
 title: "[New] Encompass Entire Webpage in View"
-date: 2024-10-17T17:55:14.652Z
-updated: 2024-10-23T20:13:52.151Z
+date: 2024-10-26T16:43:33.193Z
+updated: 2024-10-29T16:20:45.909Z
 tags: 
   - screen-recording
   - ai video
@@ -54,6 +54,13 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 1: Taking Screenshots of an Entire Page on Windows Using The Hotkeys
 
 Most frequently used web browsers such as Google Chrome or Mozilla Firefox, offer the Print option, so all you need to do in order to capture the whole page is to head over to the web page you'd like to capture, open the browser's File menu and then click on the **Print** feature. If it is easier, you can just hit the **CTRL + P** keyboard shortcut to launch the Print window.
@@ -61,6 +68,13 @@ Most frequently used web browsers such as Google Chrome or Mozilla Firefox, offe
 ![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/print-chrome-full-page.jpg)
 
 Once the printing dialogue box appears on the screen you'll be able to preview the pages of the document, adjust the printing options and select the file format. Click on the **Change** icon and select the **Microsoft XPS Document Writer**, if you are using Google Chrome to create a new document that contains the entire page. You can also create a PDF file, but this file format may include the ads or other overlaying elements on the web page. When done, click on the Print icon to save the document to the desired location on your hard drive.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 2: Zooming Out the Page for Full-Screen Webpage Screenshots
 
@@ -76,25 +90,11 @@ Built-in screen capturing options on Windows and Mac offer only a limited amount
 
 ![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/nimbusweb-full-page-screenshot.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 This is a free and easy to use add-on that is compatible with Google Chrome, Firefox and Opera browsers. Nimbus enables you to freely designate the region of the screen you'd like to capture and to even perform basic video editing tasks such as blurring the private info in the screenshot.
 
 #### 2\. [Screenshot Webpages](https://chrome.google.com/webstore/detail/screenshot-webpages/bdfnieppndfdhcgbmhfdlgdjegclkomk)
 
 ![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/screenshot-webpage-full-page-screenshot.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The Google Chrome extension lets you choose which type of screenshot you want to take, so you can take a screenshot of an entire web page in just a few simple steps. You can also add text, edit the pictures or insert annotations to each screenshot you take.
 
@@ -118,6 +118,13 @@ If you don't want to go through the trouble of installing a screenshot extension
 
 The platform lets you create PDF, PNG or JPEG files, so once you choose the file format that best meets your needs, you can simply click on the **Capture webpage** icon located near the bottom of the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 5: Using Screen Capturing Software for Full Page Screenshots
 
 Stand-alone software products that enable its users to take screenshots of entire documents and web pages are a great choice for professionals that frequently need a powerful screen capturing tool. [Screenpresso,](https://www.screenpresso.com/) [FastStone Capture](http://www.faststone.org/FSCaptureDetail.htm) or [Snagit](https://www.techsmith.com/screen-capture.html) are just a few screen recorders, that are capable of producing still and moving images of a computer display.
@@ -127,10 +134,10 @@ Taking full page screenshots on a Mac computer is made much simpler by [Paparazz
 ![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/snagit.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The TechSmith's Snagit software provides a simple way to capture any scrolling window on your computer. Just click on the **Capture** icon located in the software's **All-in-one** tab and go ahead to drag the crosshairs and designate the region of the screen you'd like to capture.
@@ -144,13 +151,6 @@ Regardless of the method you use to create a full page screenshot, one thing is 
 Leave a comment below and let us know which method of capturing full page screenshots you like to use the most.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Max Wales
 
@@ -167,22 +167,18 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-insights-into-instagram-an-in-depth-analysis-guide-for-professionals/"><u>[New] 2024 Approved Insights Into Instagram An In-Depth Analysis Guide for Professionals</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-tunefabs-innovative-approach-to-video-capturing/"><u>[New] 2024 Approved Tunefab's Innovative Approach to Video Capturing</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-how-to-make-reels-on-instagram-like-a-ninja-for-2024/"><u>[New] How to Make Reels on Instagram Like a Ninja for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-art-of-memetic-mastery/"><u>[New] The Art of Memetic Mastery</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-the-essentials-to-initiate-in-google-meet-for-2024/"><u>[New] The Essentials to Initiate in Google Meet for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-advanced-techniques-for-live-action-sims-playback/"><u>[Updated] 2024 Approved Advanced Techniques for Live-Action Sims Playback</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-mastering-the-art-of-twilight-portraits/"><u>[Updated] Mastering the Art of Twilight Portraits</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-the-art-of-digitalizing-ps3-gamesplay-for-2024/"><u>[Updated] The Art of Digitalizing PS3 Gamesplay for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-quick-guide-to-capturing-moments-during-google-meets/"><u>2024 Approved Quick Guide to Capturing Moments During Google Meets</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/advanced-3d-printing-method-for-crafting-high-tech-three-dimensional-chip-designs/"><u>Advanced 3D Printing Method for Crafting High-Tech Three-Dimensional Chip Designs</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/digital-diaries-reviewing-the-best-personal-devices/"><u>Digital Diaries Reviewing the Best Personal Devices</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/expert-insights-into-iptv-stream-logging/"><u>Expert Insights Into IPTV Stream Logging</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-jokesterjuxtaposer/"><u>In 2024, JokesterJuxtaposer</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-sharing-authenticity-a-guide-to-personal-youtube-content/"><u>In 2024, Sharing Authenticity A Guide to Personal YouTube Content</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/prioritized-improvements-to-craft-an-ideal-gpt-plugin-marketplace/"><u>Prioritized Improvements to Craft an Ideal GPT Plugin Marketplace</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/retrieving-deleted-messages-a-step-by-step-guide-to-recovering-lost-emails-in-outlook/"><u>Retrieving Deleted Messages: A Step-by-Step Guide to Recovering Lost Emails in Outlook</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-list-of-netgear-default-usernames-and-passwords-july-2024-update/"><u>Ultimate List of NETGEAR Default Usernames and Passwords (July 2024 Update)</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-mastering-image-merging-techniques/"><u>[New] 2024 Approved Mastering Image Merging Techniques</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-diy-techniques-transforming-smartphones-into-webcams/"><u>[Updated] In 2024, DIY Techniques Transforming Smartphones Into Webcams</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-premium-lineup-best-8-devices-for-superior-uhd-viewing/"><u>[Updated] Premium Lineup Best 8 Devices for Superior UHD Viewing</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-ultimate-guide-to-single-platform-gaming-in-apex-legends/"><u>[Updated] The Ultimate Guide to Single-Platform Gaming in Apex Legends</u></a></li>
+<li><a href="https://media-tips.techidaily.com/comprehensive-update-bid-farewell-to-netflix-basic-master-innovative-iphone-repair-techniques/"><u>Comprehensive Update: Bid Farewell to Netflix Basic, Master Innovative iPhone Repair Techniques</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-8-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 8 to other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-explore-cost-free-professional-cam-screen-recorders/"><u>In 2024, Explore Cost-Free, Professional Cam Screen Recorders</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Realme GT Neo 5 SE? | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-how-to-record-gameplay-with-fbx-game-recorder/"><u>In 2024, How To Record Gameplay With FBX Game Recorder</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/optimizing-your-video-capture-with-screencastify-for-2024/"><u>Optimizing Your Video Capture with Screencastify for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/top-8-safe-online-collaboration-software-for-businesses-for-2024/"><u>Top 8 Safe Online Collaboration Software for Businesses for 2024</u></a></li>
 </ul></div>
 

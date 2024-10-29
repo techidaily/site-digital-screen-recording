@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Shine Through the Game  Fixes for Dark Capture by OBS\""
-date: 2024-10-05T18:09:14.219Z
-updated: 2024-10-11T18:29:54.254Z
+date: 2024-10-25T16:02:18.327Z
+updated: 2024-10-29T16:04:20.970Z
 tags: 
   - screen-recording
   - ai video
@@ -33,6 +33,13 @@ Without administrator access, chances are that several aspects of OBS Studio wil
 
 ![run obs](https://images.wondershare.com/filmora/article-images/run-obs.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Switch OBS’s GPU
 
 In case OBS game capture black screen takes place as this software fails to get GPU it requires to capture the game, you could attempt to change GPU options for the OBS Studio to enable it to perform properly in games to capture screen.
@@ -50,10 +57,10 @@ In this approach, you also need to convert to OBS GPU to address the issue that 
 **Step 3.** Click Save to save the changes. Undoubtedly, OBS needs a small amount of GPU to handle video recording. Therefore, with high GPU performance for OBS, display capture not functioning in OBS will be addressed instantly.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Enable the Compatibility Mode
@@ -65,6 +72,19 @@ Some customers also complained that OBS black screen game capture difficulties s
 **Step 2**. In Properties, under Compatibility, tick the box of Run this software in compatibility mode. Then you may choose a decent Windows system like Windows 8.
 
 ![compatibility mode](https://images.wondershare.com/filmora/article-images/compatibility-mode.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 3.** Hit Apply and OK to take effect. On the compatibility mode, OBS game capture will not appear on a blank screen when you record the game.
 
@@ -102,11 +122,96 @@ You may click one of the "Download" options above to receive the installer accor
 
 ![filmora record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
+### ****Step 2 Start Recording Gameplay**
+
+Next, you may also pick the audio method from system sound, microphone, or both in the center of the tool. Then, click the record button in the right section of the tool to start screen recording. A floating toolbar will emerge, displaying you the important recording buttons like pause, resume, pent, stop, and more.
+
+![start recording gameplay](https://images.wondershare.com/filmora/guide/recording-04.png)
+
+### ****Step 3 Complete the Recording Process**
+
+Once done, press the "Stop" button at the leftmost portion of the floating toolbar to finish the recording process. Video playback appears, displaying you the captured video. From there, you may preview it and save it to your computer.
+
+![complete the recording process](https://images.wondershare.com/filmora/article-images/complete-the-recording-process.jpg)
+
+## Conclusion
+
+So this tutorial intends to help you through this OBS black screen problem in-game capture. we will show you efficient approaches to fix the OBS game capture displaying the black screen issue with ease. OBS game capture, not recording is incredibly aggravating for gamers, but there are several strong methods available for you to cope with this OBS studio mistake. To be particular, several reasons are offenders of your OBS black screen. With this application installed on your PC, you may record any moments from your game and share them with your friends. Since OBS Studio lacks security, you may switch to Filmora to get a great video recording output with no problem.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+### ****Step 1 Download and Install Filmora**
+
+You may click one of the "Download" options above to receive the installer according to your system OS. Then, open the installer and follow the instructions for installing the utility on your computer. Once done, launch the program, select the "Video Recorder," and pick your chosen mode if you record in full-screen or region mode at the leftmost area of the recording toolbar.
+
+![filmora record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### ****Step 2 Start Recording Gameplay**
+
+Next, you may also pick the audio method from system sound, microphone, or both in the center of the tool. Then, click the record button in the right section of the tool to start screen recording. A floating toolbar will emerge, displaying you the important recording buttons like pause, resume, pent, stop, and more.
+
+![start recording gameplay](https://images.wondershare.com/filmora/guide/recording-04.png)
+
+### ****Step 3 Complete the Recording Process**
+
+Once done, press the "Stop" button at the leftmost portion of the floating toolbar to finish the recording process. Video playback appears, displaying you the captured video. From there, you may preview it and save it to your computer.
+
+![complete the recording process](https://images.wondershare.com/filmora/article-images/complete-the-recording-process.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Conclusion
+
+So this tutorial intends to help you through this OBS black screen problem in-game capture. we will show you efficient approaches to fix the OBS game capture displaying the black screen issue with ease. OBS game capture, not recording is incredibly aggravating for gamers, but there are several strong methods available for you to cope with this OBS studio mistake. To be particular, several reasons are offenders of your OBS black screen. With this application installed on your PC, you may record any moments from your game and share them with your friends. Since OBS Studio lacks security, you may switch to Filmora to get a great video recording output with no problem.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### ****Step 1 Download and Install Filmora**
+
+You may click one of the "Download" options above to receive the installer according to your system OS. Then, open the installer and follow the instructions for installing the utility on your computer. Once done, launch the program, select the "Video Recorder," and pick your chosen mode if you record in full-screen or region mode at the leftmost area of the recording toolbar.
+
+![filmora record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### ****Step 2 Start Recording Gameplay**
@@ -135,51 +240,17 @@ You may click one of the "Download" options above to receive the installer accor
 
 ![filmora record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
-### ****Step 2 Start Recording Gameplay**
-
-Next, you may also pick the audio method from system sound, microphone, or both in the center of the tool. Then, click the record button in the right section of the tool to start screen recording. A floating toolbar will emerge, displaying you the important recording buttons like pause, resume, pent, stop, and more.
-
-![start recording gameplay](https://images.wondershare.com/filmora/guide/recording-04.png)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-### ****Step 3 Complete the Recording Process**
-
-Once done, press the "Stop" button at the leftmost portion of the floating toolbar to finish the recording process. Video playback appears, displaying you the captured video. From there, you may preview it and save it to your computer.
-
-![complete the recording process](https://images.wondershare.com/filmora/article-images/complete-the-recording-process.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-## Conclusion
-
-So this tutorial intends to help you through this OBS black screen problem in-game capture. we will show you efficient approaches to fix the OBS game capture displaying the black screen issue with ease. OBS game capture, not recording is incredibly aggravating for gamers, but there are several strong methods available for you to cope with this OBS studio mistake. To be particular, several reasons are offenders of your OBS black screen. With this application installed on your PC, you may record any moments from your game and share them with your friends. Since OBS Studio lacks security, you may switch to Filmora to get a great video recording output with no problem.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-### ****Step 1 Download and Install Filmora**
-
-You may click one of the "Download" options above to receive the installer according to your system OS. Then, open the installer and follow the instructions for installing the utility on your computer. Once done, launch the program, select the "Video Recorder," and pick your chosen mode if you record in full-screen or region mode at the leftmost area of the recording toolbar.
-
-![filmora record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### ****Step 2 Start Recording Gameplay**
@@ -188,58 +259,11 @@ Next, you may also pick the audio method from system sound, microphone, or both 
 
 ![start recording gameplay](https://images.wondershare.com/filmora/guide/recording-04.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### ****Step 3 Complete the Recording Process**
 
 Once done, press the "Stop" button at the leftmost portion of the floating toolbar to finish the recording process. Video playback appears, displaying you the captured video. From there, you may preview it and save it to your computer.
 
 ![complete the recording process](https://images.wondershare.com/filmora/article-images/complete-the-recording-process.jpg)
-
-## Conclusion
-
-So this tutorial intends to help you through this OBS black screen problem in-game capture. we will show you efficient approaches to fix the OBS game capture displaying the black screen issue with ease. OBS game capture, not recording is incredibly aggravating for gamers, but there are several strong methods available for you to cope with this OBS studio mistake. To be particular, several reasons are offenders of your OBS black screen. With this application installed on your PC, you may record any moments from your game and share them with your friends. Since OBS Studio lacks security, you may switch to Filmora to get a great video recording output with no problem.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-### ****Step 1 Download and Install Filmora**
-
-You may click one of the "Download" options above to receive the installer according to your system OS. Then, open the installer and follow the instructions for installing the utility on your computer. Once done, launch the program, select the "Video Recorder," and pick your chosen mode if you record in full-screen or region mode at the leftmost area of the recording toolbar.
-
-![filmora record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
-
-### ****Step 2 Start Recording Gameplay**
-
-Next, you may also pick the audio method from system sound, microphone, or both in the center of the tool. Then, click the record button in the right section of the tool to start screen recording. A floating toolbar will emerge, displaying you the important recording buttons like pause, resume, pent, stop, and more.
-
-![start recording gameplay](https://images.wondershare.com/filmora/guide/recording-04.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-### ****Step 3 Complete the Recording Process**
-
-Once done, press the "Stop" button at the leftmost portion of the floating toolbar to finish the recording process. Video playback appears, displaying you the captured video. From there, you may preview it and save it to your computer.
-
-![complete the recording process](https://images.wondershare.com/filmora/article-images/complete-the-recording-process.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -269,14 +293,18 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-a-compre-folio-for-understanding-du-recorders-features/"><u>[New] A Compre Folio for Understanding Du Recorder's Features</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-vidma-to-go-screen-record-and-beyond-alternatives/"><u>[New] In 2024, Vidma to Go Screen Record and Beyond Alternatives</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-ultimate-online-seminar-creation-assistant/"><u>[New] Ultimate Online Seminar Creation Assistant</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-essential-software-for-enthusiasts-top-5-ps1-emulators/"><u>2024 Approved Essential Software for Enthusiasts Top 5 PS1 Emulators</u></a></li>
-<li><a href="https://extra-information.techidaily.com/comprehensive-android-lightroom-assessment/"><u>Comprehensive Android Lightroom Assessment</u></a></li>
-<li><a href="https://driver-install.techidaily.com/efficient-fix-updating-logitech-wired-headphones/"><u>Efficient Fix: Updating Logitech Wired Headphones</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/from-first-steps-to-proficiency-in-iphone-voice-memos/"><u>From First Steps to Proficiency in iPhone Voice Memos</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-heroic-quests-ranking-gaming-epics-in-action-adventure/"><u>In 2024, Heroic Quests Ranking Gaming Epics in Action-Adventure</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-on-apple-iphone-7-plus-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock on Apple iPhone 7 Plus</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-a-beginners-companion-best-software-for-gamers-recordings-and-editing/"><u>[New] 2024 Approved A Beginner's Companion Best Software for Gamers’ Recordings & Editing</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-unveiling-the-best-skype-recorders-of-this-year/"><u>[New] 2024 Approved Unveiling the Best Skype Recorders of This Year</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-innovative-techniques-for-saving-snapchat-videos/"><u>[New] In 2024, Innovative Techniques for Saving Snapchat Videos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-unveiling-top-5-mac-snippet-applications-for-2024/"><u>[New] Unveiling Top 5 Mac Snippet Applications for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-reimagining-video-production-with-screenflow-a-mac-users-guide/"><u>[Updated] Reimagining Video Production with ScreenFlow – A Mac User's Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-complete-guide-to-recording-live-tv-on-your-windows-pc/"><u>2024 Approved Complete Guide to Recording Live TV on Your Windows PC</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-from-zero-to-hero-with-telegram-promotion-techniques/"><u>2024 Approved From Zero to Hero with Telegram Promotion Techniques</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/dealing-with-a-503-error-identifying-issues-and-applying-quick-fixes/"><u>Dealing with a 503 Error: Identifying Issues and Applying Quick Fixes</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/empowering-tiktok-sharing-on-twitter-networks/"><u>Empowering TikTok Sharing on Twitter Networks</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/guidelines-for-successful-twilight-photo-shoots-for-2024/"><u>Guidelines for Successful Twilight Photo Shoots for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-hosting-and-joining-google-meet-your-free-comprehensive-guidebook/"><u>In 2024, Hosting and Joining Google Meet Your Free, Comprehensive Guidebook</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unleash-speed-installing-new-acer-drivers-for-win10-users/"><u>Unleash Speed: Installing New Acer Drivers for Win10 Users</u></a></li>
 </ul></div>
 

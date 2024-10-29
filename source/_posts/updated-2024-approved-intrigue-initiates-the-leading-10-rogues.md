@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Intrigue Initiates  The Leading 10 Rogues\""
-date: 2024-08-24T20:34:33.610Z
-updated: 2024-08-25T20:34:33.610Z
+date: 2024-10-23T16:01:41.676Z
+updated: 2024-10-29T16:06:35.036Z
 tags: 
   - screen-recording
   - ai video
@@ -60,6 +60,13 @@ We will discuss every game one by one in detail to give you an idea about their 
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **1.[Darkest Dungeon](https://store.steampowered.com/app/262060/Darkest%5FDungeon/)**
 
 **_Platform:_** _PS4, Xbox One, Switch, PC, iOS_
@@ -70,9 +77,6 @@ In Darkest Dungeon, your misery is manifest all around you. The oppressive visua
 
 ![darkest-dungeon](https://images.wondershare.com/filmora/article-images/darkest-dungeon.png)
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 It's one thing to defeat each dungeon's horrifying inhabitants in turn-based combat, but your party members should also be more than meat shields. Your expeditions will inevitably take a toll on your body and mind, and this is the main reason that makes Darkest Dungeon so challenging.
 
 Your tactical instincts will be put to the test when it comes to teamwork and resource allocation. This is undoubtedly one of the best roguelikes to be found.
@@ -90,8 +94,12 @@ Only a couple of minutes to complete each run, this roguelike takes us on an adv
 Don't let its retro look fool you. This 2015 title is fast and intense, with a good amount of power-ups that boost your survivability. It is immediately enjoyable with its fast-paced downward action, but gaining mastery of its combat is no simple feat. Downwell is one of the best roguelikes out there, despite its intense difficulty. Its concise levels, satisfying combo system, and creative boss are among the roguelikes' best features.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **3\. [Dungeon Crawl Stone Soup](https://crawl.develz.org/)**
 
 **_Platforms:_** _Android, Web browser_
@@ -102,14 +110,15 @@ The successor to the 1997's roguelike Liney's Dungeon Crawl, Dungeon Crawl Stone
 
 ![dungeon-crawl-stone-soup](https://images.wondershare.com/filmora/article-images/dungeon-crawl-stone-soup.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 Each item, class, spell, and trait in this community-developed game has hundreds of hidden interactions that just heighten your enjoyment every time you play. Each floor increases the game's difficulty, and as you go deeper, it becomes harder to decide whether to fight or flee.
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **4\. [Hades](https://store.steampowered.com/app/1145360/Hades/)**
 
 **_Platforms:_**   _Nintendo Switch, macOS, Microsoft Windows, Macintosh operating systems_
@@ -120,11 +129,15 @@ Hades is a masterpiece when it comes to dungeon crawling and roguelike games. Yo
 
 ![hades](https://images.wondershare.com/filmora/article-images/hades.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Many blessings have been given to you by the gods of Olympus, but your quest is not an easy one. A game like this will enthrall you and entice you to keep playing until you get some better stuff for your characters. After each failure, you are resurrected in your own house, the House of Hades, where your friends and family await your following conversation. It is one of the best roguelike titles out there.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ## **5\. [Into the Breach](https://store.steampowered.com/app/590380/Into%5Fthe%5FBreach/)**
 
 **_Platforms:_** _Switch, PC_
@@ -135,13 +148,17 @@ This is the second title developed and published by Subset Games. Their first ti
 
 ![into-the-breach](https://images.wondershare.com/filmora/article-images/into-the-breach.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 There's only one way to hold off their attack, and that is to enlist some giant mechs. But you'll have to agonize over every decision if you intend to keep your team intact. The more you progress through the game's islands, the more advanced equipment you'll find, so you can turn the tide of war and save humankind.
 
 This is one of the most accessible strategy games out there, and its straightforward combat won't offend novices, but you should expect something more challenging, though rewarding, from Into the Breach.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ## **6\. [Slay the Spire](https://store.steampowered.com/app/646570/Slay%5Fthe%5FSpire/)**
 
 **_Platforms:_** _PS4, Switch, PC_
@@ -152,10 +169,14 @@ It foregoes combat mechanics solely in favor of strategy and premonition in a de
 
 ![slay-the-spire](https://images.wondershare.com/filmora/article-images/slay-the-spire.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 The game, released in 2017, has gained massive audience recognition thanks to its 10/10 Steam rating and over 60,00 reviews despite its simplistic art and simplistic interface. It is considered the best deck-builder roguelike in the market, so if you haven't tried it already, you miss out a lot.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **7\. [Crypt of the Necrodancer](https://store.steampowered.com/app/247080/Crypt%5Fof%5Fthe%5FNecroDancer/)**
 
@@ -179,9 +200,6 @@ Dead Cells is a 2D and Souls-inspired roguelike game. You revolve around procedu
 
 Various upgrades can be carried over between runs, generating a constant sense of progression. Because of this, starting a new run after a particularly messy boss fight doesn't sting quite as much as many other roguelike games might be. There are many different weapon types and perks to unlock in Dead Cells, making it more replayable and keeps it from being monotonous.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **9\. [The Binding of Isaac](https://store.steampowered.com/app/113200/The%5FBinding%5Fof%5FIsaac/)**
 
 **_Platforms:_** _PS4, Xbox One, Switch, PC, 3DS, iOS_
@@ -193,9 +211,20 @@ An indie roguelike developed by Super Meat Boy creator Edmund McMillen, The Bind
 ![binding-of-issac](https://images.wondershare.com/filmora/article-images/the-binding-of-isaac.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 In addition to some captivating gameplay, the game contains some compelling storytelling, with Biblical references providing a nice hint of lore. Although decisions are essential in roguelikes, you may also need to be quick with your reaction times with some bullet hell-style bosses.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **10\. [Otherworld Legends](https://play.google.com/store/apps/details?id=com.chillyroom.zhmr.gp&hl=en&gl=US)**
 
@@ -217,9 +246,6 @@ The Otherworld Legends game is incredibly entertaining to play with beautiful gr
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -228,11 +254,27 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-finding-the-perfect-screen-recorder-for-games/"><u>[New] 2024 Approved Finding the Perfect Screen Recorder for Games</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/from-airwaves-to-e-readers-how-to-save-web-tv-shows/"><u>From Airwaves To E-Readers How to Save Web TV Shows</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/google-hangout-improvement-strategies-roundup-4-for-2024/"><u>Google Hangout Improvement Strategies, Roundup #4 for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-fix-msi-camera-not-working-2024-tips/"><u>How to Fix MSI Camera Not Working [2024 Tips]</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/image-enhancement-101-text-addition-for-pc-and-mac-users/"><u>Image Enhancement 101 Text Addition for PC and Mac Users</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-effortless-gameplay-enhancement-with-simple-screen-recorders/"><u>In 2024, Effortless Gameplay Enhancement with Simple Screen Recorders</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-assessment-of-the-samsung-ru7300-is-this-curvy-55-4k-smart-tv-a-must-have-for-your-home-theater-setup/"><u>In-Depth Assessment of the Samsung RU7300: Is This Curvy 55 4K Smart TV a Must-Have for Your Home Theater Setup?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/map-masters-reveal-top-five-for-gold-collection-for-2024/"><u>Map Masters Reveal Top Five For Gold Collection for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-riot-game-account-identity-switches/"><u>Mastering Riot Game Account Identity Switches</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/musical-beginnings-the-top-10-tracks-for-engaging-podcast-intros-for-2024/"><u>Musical Beginnings The Top 10 Tracks for Engaging Podcast Intros for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/screenflow-masterclass-taking-your-mac-projects-to-the-next-level-for-2024/"><u>ScreenFlow Masterclass Taking Your Mac Projects to the Next Level for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-google-nest-video-doorbell-pro-advanced-security-with-identity-verification-and-item-detection-features/"><u>Unveiling the Google Nest Video Doorbell Pro: Advanced Security with Identity Verification & Item Detection Features</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-streamline-your-content-how-to-make-reaction-videos-quickly-with-filmora/"><u>Updated In 2024, Streamline Your Content How to Make Reaction Videos Quickly with Filmora</u></a></li>
+</ul></div>
+

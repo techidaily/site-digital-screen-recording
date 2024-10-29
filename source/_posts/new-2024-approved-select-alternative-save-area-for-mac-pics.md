@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Select Alternative Save Area for Mac Pics\""
-date: 2024-10-16T18:49:23.399Z
-updated: 2024-10-23T16:49:44.989Z
+date: 2024-10-24T16:57:44.574Z
+updated: 2024-10-29T16:10:51.198Z
 tags: 
   - screen-recording
   - ai video
@@ -49,16 +49,10 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
@@ -68,16 +62,10 @@ Changing the folder where you store your screenshots is not an irreversible proc
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
@@ -88,6 +76,13 @@ Then enter a space at the end after 'location'.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
 
 **defaults write com.apple.screencapture location /Users/username/Screenshots**
@@ -97,13 +92,6 @@ To execute the command you have to press Enter. After Terminal finishes running 
 **killall SystemUIServer**
 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
 
@@ -118,10 +106,10 @@ Don't forget that deleting the folder you use as a default location for storing 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -139,16 +127,17 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-from-good-to-great-transformative-tactics-with-studio/"><u>[New] From Good to Great Transformative Tactics with Studio</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-cutting-edge-screen-recorders-for-professionals/"><u>[New] In 2024, Cutting-Edge Screen Recorders for Professionals</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-aptly-convert-speech-to-text-with-googles-innovative-tech/"><u>[Updated] 2024 Approved Aptly Convert Speech to Text with Google's Innovative Tech</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-farm-frenzy-the-ultimate-group-game-guide-for-farms/"><u>[Updated] 2024 Approved Farm Frenzy The Ultimate Group Game Guide for Farms</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-cutting-edge-editing-with-youtubes-studio-editor/"><u>[Updated] Cutting-Edge Editing with YouTube's Studio Editor</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-techniques-in-archiving-web-based-music-tracks-for-2024/"><u>[Updated] Techniques in Archiving Web-Based Music Tracks for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-revealing-the-top-10-color-enhancers-in-adobes-lightroom/"><u>2024 Approved Revealing the Top 10 Color Enhancers in Adobe’s LightRoom</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-knowledge-setting-windows-filter-keys/"><u>Essential Knowledge: Setting Windows Filter Keys</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-perfecting-your-presence-mastery-of-title-and-tag-use-on-youtube/"><u>In 2024, Perfecting Your Presence Mastery of Title and Tag Use on YouTube</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/minecraft-homes-innovative-and-stylish-designs-for-2024/"><u>Minecraft Homes Innovative & Stylish Designs for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/print-spooler-service-activated-windows-7/"><u>Print Spooler Service Activated, Windows 7</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-cutting-edge-techniques-for-fb-streaming-records/"><u>[New] Cutting-Edge Techniques for FB Streaming Records</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-expert-techniques-to-masterboard-use-during-remote-collaborations-across-various-operating-systems/"><u>[New] In 2024, Expert Techniques to Masterboard Use During Remote Collaborations Across Various Operating Systems</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-microsoft-screen-recorder-download-and-use-guide-for-2024/"><u>[New] Microsoft Screen Recorder Download and Use Guide for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-a-deep-dive-into-youtube-writers-workshop-space/"><u>[Updated] In 2024, A Deep Dive Into YouTube’ Writers' Workshop Space</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-quick-recording-techniques-for-firaxis-age-of-empires-ii-for-2024/"><u>[Updated] Quick Recording Techniques for Firaxis' Age of Empires II for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-tagging-magic-elevating-game-based-youtubes/"><u>[Updated] Tagging Magic Elevating Game-Based YouTubes</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210065017-9781647849757-006-the-great-tao-of-spiritual-science-series-06-the-nature-spirituality-hsin-hsing/"><u>生命奧秘全書006：心性自然－靈性之修練與心性評量（養性篇）: The Great Tao of Spiritual Science Series 06: The Nature Spirituality "Hsin Hsing " | Free Book</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-revolutionizing-online-discovery-whats-next-for-search-engines/"><u>AI Revolutionizing Online Discovery - What's Next for Search Engines?</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/digital-twin-evolution-brochure-unlocking-innovations-with-abbyy/"><u>Digital Twin Evolution Brochure - Unlocking Innovations with ABBYY</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-vivo-y27-4g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Vivo Y27 4G Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-y100i-power-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo Y100i Power 5G to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-ultimate-collection-of-professional-video-editors-the-top-5-selections/"><u>Unveiling the Ultimate Collection of Professional Video Editors - The Top 5 Selections</u></a></li>
 </ul></div>
 

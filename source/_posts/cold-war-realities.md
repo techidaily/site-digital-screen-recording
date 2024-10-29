@@ -1,7 +1,7 @@
 ---
 title: Cold War Realities
-date: 2024-10-19T18:20:23.362Z
-updated: 2024-10-23T18:05:30.566Z
+date: 2024-10-27T16:49:38.482Z
+updated: 2024-10-29T16:42:16.553Z
 categories:
   - BestProducts
 description: This Article Describes Cold War Realities
@@ -78,10 +78,16 @@ thumbnail: https://www.lifewire.com/thmb/bptkPuLZHhXM0lJcBFRMHvXtAhQ=/400x300/fi
 * **What do buyers think?** 90% of buyers on Amazon have rated the Nintendo Switch OLED five stars, with the console having an average score of 4.8 out of 5.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Also Great
@@ -95,6 +101,13 @@ thumbnail: https://www.lifewire.com/thmb/bptkPuLZHhXM0lJcBFRMHvXtAhQ=/400x300/fi
 [$450 at Amazon](https://www.amazon.com/Valve-Handheld-Console-No-Operating-System/dp/B0BBQRYN9M?tag=lifewire-onsite-prod-20&ascsubtag=8656300%7Cn828e9c21ba084df1b24d3ffdd45b85b813%7CB0BBQRYN9M) [$459 at Walmart](https://www.walmart.com/ip/Valve-Steam-Deck-64-GB/2237665775) [$399 at Steampowered.com](https://store.steampowered.com/steamdeck)
 
 **TL;DR:** The Steam Deck makes PC gaming truly portable and much simpler than ever before. It’s all within a sleek and easy to hold shell with a great screen whether you go LED or OLED. As with the Switch, you can always dock it, and even install Windows if you want a full portable PC.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Why We Recommend This
 
@@ -141,10 +154,10 @@ thumbnail: https://www.lifewire.com/thmb/bptkPuLZHhXM0lJcBFRMHvXtAhQ=/400x300/fi
 **TL;DR:** Old enough to remember the Nintendo Game Boy? This is a lot like that with plenty of nostalgic games on-board and more to be purchased separately. It’s perfect for anyone seeking nostalgia and it’s very keenly priced too.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why We Recommend This
@@ -176,13 +189,6 @@ thumbnail: https://www.lifewire.com/thmb/bptkPuLZHhXM0lJcBFRMHvXtAhQ=/400x300/fi
 * **Who else recommends it?** TechRadar, GamesRadar, Stuff, and The Guardian have all highly rated the Hyper Mega Tech Super Pocket.
 * **What do buyers think?** Between the two models, the Hyper Mega Tech Super Pocket has an average rating of 4.5 out of 5 on Amazon. 84% of customers have rated the Capcom version 4 or 5 stars, with 90% rating the Taito the same score.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How I Test
 
  I reviewed every handheld gaming console featured here over a number of weeks. The Nintendo Switch OLED, Switch Lite, and Steam Deck were purchased by me, while the Hyper Mega Tech Super Pocket, and Logitech G Cloud were acquired on loan from the manufacturer.
@@ -190,10 +196,10 @@ thumbnail: https://www.lifewire.com/thmb/bptkPuLZHhXM0lJcBFRMHvXtAhQ=/400x300/fi
  While playing them, I focused on how fun they are to use, how portable they are, and how user-friendly they are.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Other Handheld Gaming Consoles We Considered
@@ -249,21 +255,17 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-slice-and-capture-best-cam-reevaluation/"><u>[New] 2024 Approved Slice and Capture Best Cam Reevaluation</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-expressive-leadership-examination-refined-no-8/"><u>[New] Expressive Leadership Examination - Refined No. 8</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-hit-the-jackpot-of-humor-craft-top-tier-youtube-reaction-videos-3-techniques/"><u>[New] In 2024, Hit the Jackpot of Humor – Craft Top-Tier YouTube Reaction Videos (3 Techniques)</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-optimizing-your-project-b-roll-utilization-tips-for-2024/"><u>[New] Optimizing Your Project B-Roll Utilization Tips for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-ultimate-recorder-select-top-12-no-timer-in-2024/"><u>[New] Ultimate Recorder Select Top 12, No Timer, In 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-lenovo-streamlined-screen-recording-guide/"><u>[Updated] 2024 Approved Lenovo Streamlined Screen Recording Guide</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-quick-guide-capturing-vimeo-videos/"><u>[Updated] 2024 Approved Quick Guide Capturing Vimeo Videos</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-ultimate-uniting-upskill-utopia/"><u>[Updated] In 2024, Ultimate Uniting Upskill Utopia</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-vidma-screen-recorder-review/"><u>[Updated] In 2024, Vidma Screen Recorder Review</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-the-ultimate-choice-for-affordable-virtual-meetings-online-for-2024/"><u>[Updated] The Ultimate Choice for Affordable Virtual Meetings Online for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-how-to-fade-in-and-fade-out-video-clips/"><u>2024 Approved How to Fade-In and Fade-Out Video Clips</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/enhance-your-videos-with-winxvideo-ai-superior-upscaling-recording-and-editing-tools/"><u>Enhance Your Videos with WinxVideo AI: Superior Upscaling, Recording and Editing Tools</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-vivo-y200e-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Vivo Y200e 5G Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-premier-video-capture-systems-for-online-streaming/"><u>In 2024, Premier Video Capture Systems for Online Streaming</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimize-your-computers-sounds-with-the-latest-nvidia-hd-audio-on-win11/"><u>Optimize Your Computer's Sounds with the Latest NVIDIA HD Audio on Win11</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/why-is-ipogo-not-working-on-realme-c53-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Realme C53? Fixed | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-economical-pc-screen-grab-utilities/"><u>[New] 2024 Approved Economical PC Screen Grab Utilities</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-designing-dynamic-videos-with-adobe-captivate-for-2024/"><u>[New] Designing Dynamic Videos with Adobe Captivate for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-dungeon-dynamics-the-leading-10-rogue-experiences/"><u>[New] In 2024, Dungeon Dynamics The Leading 10 Rogue Experiences</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-enhance-your-iphone-pics-in-minutes/"><u>[New] In 2024, Enhance Your iPhone Pics in Minutes</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-archiving-your-media-best-practices-for-mov-files-on-windows-pcs-for-2024/"><u>[Updated] Archiving Your Media Best Practices for .mov Files on Windows PCs for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-tailoring-audience-for-your-youtube-videos/"><u>2024 Approved Tailoring Audience for Your Youtube Videos</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-honor-90-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/logitech-speaker-software-updates-for-optimal-performance-on-windows-1078/"><u>Logitech Speaker Software Updates for Optimal Performance on Windows 10/7/8</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/multitasking-with-languages-the-ultimate-countdown-list/"><u>Multitasking with Languages: The Ultimate Countdown List</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-launch-problems-a-guide-to-getting-origin-running-in-windows-10-and-11/"><u>Resolving Launch Problems: A Guide to Getting Origin Running in Windows 10 and 11</u></a></li>
+<li><a href="https://extra-support.techidaily.com/simplifying-color-grading-a-comprehensive-look-at-luts-for-2024/"><u>Simplifying Color Grading A Comprehensive Look at LUTs for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/windows-10-syncing-guide-effortless-mov-file-management-for-2024/"><u>Windows 10 Syncing Guide Effortless .mov File Management for 2024</u></a></li>
 </ul></div>
 

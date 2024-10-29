@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Streamlining Post-Production  Adding Annotations to Videos\""
-date: 2024-10-21T20:59:18.660Z
-updated: 2024-10-23T16:08:32.411Z
+date: 2024-10-22T16:00:07.320Z
+updated: 2024-10-29T16:16:10.689Z
 tags: 
   - screen-recording
   - ai video
@@ -87,11 +87,25 @@ To add markers, watch your video and find the mistake. Pause the video, then cli
 
 ![add marker from the timeline toolbar](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step 2: Access the Modification Option
 
 Filmora lets you adjust your marker settings for your video. Right-click on the marker and select **"Modify Marker"** from the control panel.
 
 ![access the modification option](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step 3: Customize the Markers
 
@@ -99,50 +113,24 @@ In the Marker Editor window, make relevant changes such as naming the marker, ad
 
 ![customize the markers](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### **Method 2: Adding Markers through the Keyboard**
 
 After importing the clip into the timeline and identifying the points of error in your video, place the playhead on these points and press the **"M"** key on your keyboard to add a marker at the chosen timeframes.
 
 ![add maker through the keyboard](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **2\. How to Remove a Marker After Screen Recording**
 
 Once you have finished editing your mistakes, it's important to remove the markers. To do this, right-click on the marker and select **"Delete"** from the options menu to remove a specific marker, or choose **"Delete All Markers"** to remove them collectively.
 
 ![remove a marker](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-7.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -151,10 +139,10 @@ In conclusion, markers are a valuable tool for video recording and editing. They
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -172,24 +160,20 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-elite-callers-on-windows-top-8-sorted/"><u>[New] In 2024, Elite Callers on Windows Top 8 Sorted</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-top-10-free-video-communication-tools-iphone-and-android-devices/"><u>[New] In 2024, Top 10 Free Video Communication Tools - iPhone and Android Devices</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-unlock-your-full-potential-with-zd-softwares-advanced-screenshot-techniques/"><u>[New] In 2024, Unlock Your Full Potential with ZD Software's Advanced Screenshot Techniques</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-master-soft-shots-with-top-blur-mobile-tools/"><u>[New] Master Soft Shots with Top Blur Mobile Tools</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-omnipresent-iptv-networking-model/"><u>[New] Omnipresent IPTV Networking Model</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-tiktok-video-steal-mode-iphone-edition/"><u>[Updated] 2024 Approved TikTok Video Steal Mode IPhone Edition</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-accelerated-record-functionality-and-narrator-support-for-2024/"><u>[Updated] Accelerated Record Functionality & Narrator Support for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-arcadearchive-annotator/"><u>[Updated] ArcadeArchive Annotator</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-circular-innovator-box-for-2024/"><u>[Updated] Circular Innovator Box for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-maximizing-macs-potential-capturing-the-spirit-of-roblox-games/"><u>[Updated] In 2024, Maximizing Mac's Potential Capturing the Spirit of Roblox Games</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/1-steps-to-recover-erased-sms-conversations-on-an-ios-device/"><u>1. Steps to Recover Erased SMS Conversations on an iOS Device</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/discovering-logitechs-top-tier-4k-video-camera/"><u>Discovering Logitech's Top-Tier 4K Video Camera</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/elevate-website-performance-with-cookiebot-integration/"><u>Elevate Website Performance with Cookiebot Integration</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/guia-definitiva-para-girar-videos-en-formato-mp4-de-90-180-o-270-grados-sin-comprometer-su-calidad/"><u>Guía Definitiva Para Girar Videos en Formato MP4 De 90, 180 O 270 Grados Sin Comprometer Su Calidad</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-apocalypse-arena-top-8-zombie-games-showdown-ranked/"><u>In 2024, Apocalypse Arena Top 8 Zombie Games Showdown Ranked</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-stepwise-approach-implementing-luts-in-adobes-premiere-suite/"><u>In 2024, Stepwise Approach Implementing LUTs in Adobe's Premiere Suite</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-tricks-to-simulate-historical-alterations/"><u>In 2024, Tricks to Simulate Historical Alterations</u></a></li>
-<li><a href="https://games-able.techidaily.com/indulge-in-fun-the-best-10-game-apps-for-androidios-free/"><u>Indulge in Fun: The Best 10 Game Apps for Android/iOS (Free!)</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/reign-as-a-tycoon-champion-with-our-12-must-play-games/"><u>Reign as a Tycoon Champion with Our #12 Must-Play Games</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-make-your-gaming-great-not-stressful/"><u>[New] In 2024, Make Your Gaming Great, Not Stressful</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-seamless-slack-filmora-synergy-your-guide-to-meeting-organization/"><u>[Updated] 2024 Approved Seamless Slack-Filmora Synergy Your Guide to Meeting Organization</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-bridging-the-gap-between-human-perception-and-photographic-capture/"><u>[Updated] In 2024, Bridging the Gap Between Human Perception and Photographic Capture</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-the-ultimate-guide-to-online-streaming-audio-logging/"><u>[Updated] In 2024, The Ultimate Guide to Online Streaming Audio Logging</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-insiders-take-top-9-digital-mic-recorder-selections/"><u>[Updated] Insider's Take Top 9 Digital Mic Recorder Selections</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unexplained-angle-flip-sideways-vids-in-instagram-world/"><u>[Updated] Unexplained Angle Flip Sideways Vids in Instagram World</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-zoom-mastery-for-podcasters-a-complete-guide-to-exceptional-audio-capture/"><u>[Updated] Zoom Mastery for Podcasters A Complete Guide to Exceptional Audio Capture</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-stepwise-guide-to-conducting-video-chats-on-laptop-via-whatsapp/"><u>2024 Approved Stepwise Guide to Conducting Video Chats on Laptop via WhatsApp</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-vivo-v29e-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Vivo V29e</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/astral-tips-for-rebooting-ms-sql-databases/"><u>Astral Tips for Rebooting MS SQL Databases</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/getting-secure-without-breaking-the-bank-dive-into-our-comprehensive-analysis-of-the-iseebell-doorbell/"><u>Getting Secure without Breaking the Bank: Dive Into Our Comprehensive Analysis of the ISeeBell Doorbell</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-honor-play-8t-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Honor Play 8T – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-lenovo-thinkphone-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Lenovo ThinkPhone? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/quicken-or-slow-down-netflix-content-for-2024/"><u>Quicken or Slow Down Netflix Content for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-complete-guide-to-producing-professional-gopro-video-content/"><u>The Complete Guide to Producing Professional GoPro Video Content</u></a></li>
 </ul></div>
 

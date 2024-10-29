@@ -1,7 +1,7 @@
 ---
 title: "[New] Advanced Tips for Blending Modes in VFX"
-date: 2024-08-24T20:35:41.643Z
-updated: 2024-08-25T20:35:41.643Z
+date: 2024-10-26T16:01:45.572Z
+updated: 2024-10-29T16:05:37.230Z
 tags: 
   - screen-recording
   - ai video
@@ -62,17 +62,28 @@ The **Screen Mode** is best used when you are working with dark monochrome backg
 
 ![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-screen-mode.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Utilizing this mode successfully requires previous preparation because the effects you'll get if you use the Screen mode with a footage that is not best suited for this mode are far from impressive. Therefore, the video clips you want to overlay and blend with each other must be recorded perfectly in order to get the best results.
 
 The **Multiply Mode** is also one of the frequently used blending modes that **multiplies the numbers for each pixel of the overlaying video clip** with a matching pixel from the background video.
 
 ![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-multiply-mode.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 This mode will enable you to create the black background for your video effortlessly, and highlight the subjects in the video clip you intend to use as a top layer. You need to choose carefully which video clips you are going to use and how are they going to look on a dark background if you want to produce visually pleasing videos that captivate the viewer's attention.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ## How to use Blending Modes?
 
 Applying different blending modes and switching between them is easy, and it won't take more than a few minutes of your time, once you get a hold of it. Filmora Scrn features a number of different blending modes, so figuring out what each mode can do may take some time and practice. Let's have a look at how you can add multiple layers to your videos and how to use blending modes.
@@ -83,18 +94,12 @@ In case you've used Filmora Scrn's screen recorder to capture your video, the vi
 
 ![ Filmora Scrn Import Media ](https://images.wondershare.com/filmora/article-images/filmora-scrn-add-files.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 Click on the Add Files icon in the Media bin, and select the footage you want to use in your project. Drag the video clip you'd like to use as a background to a track on the timeline and then drag and drop the video or a photo to a timeline above the one on which the background clip is located.
 
 Adjust the duration of the video clips or photos you've placed on the timeline and use the preview window to determine whether or not you should readjust the size and position of the overlaying image.
 
 ![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-blending-mode-tracks.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### Step 2 - Select the Blending mode
 
 On the right side of the screen you'll be able to see several options such as Transform, Compositing, Border, and Speed, but before you proceed to select the Blending Mode you must first make sure that you've selected the video clip you want to enhance.
@@ -103,9 +108,6 @@ In the Compositing menu, you will be able to see the Blending Mode feature. Clic
 
 ![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-blending-mode-selection.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 Changing the Opacity value will enable you to reduce the transparency level of a layer while changing the values in the Transform menu will help you find the perfect position on the background for the overlaying image.
 
 #### Step 3 - Export the video
@@ -115,11 +117,19 @@ Click on the Export button if you like the results and choose whether you want t
 ![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-blending-mode-export.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 Overlaying two video clips and blending them to each other can be an effective way to make your videos look more creative or more professional by adding logos and all other information you'd like the potential viewers of your videos to see. The blending modes Filmora Scrn offers can help you achieve the visual style you want to get in your videos, but it may take you some time to learn when is the best time to use a certain mode.
@@ -132,11 +142,31 @@ Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-free-software-showdown-the-leading-10-audio-capture-utilities/"><u>[New] In 2024, Free Software Showdown The Leading 10 Audio Capture Utilities</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-dividing-devices-top-cam-rating-review/"><u>[Updated] 2024 Approved Dividing Devices Top Cam Rating Review</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-from-beginner-to-pro-mastering-mi-11-screen-captures/"><u>[Updated] 2024 Approved From Beginner to Pro Mastering Mi 11 Screen Captures</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-imagedivide-review-summary-for-2024/"><u>[Updated] ImageDivide Review Summary for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-the-ultimate-strategy-for-perfect-xbox-screen-recordings/"><u>[Updated] In 2024, The Ultimate Strategy for Perfect Xbox Screen Recordings</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-thumbnail-artistry-for-valorant-game-imagery-swiftly-executed/"><u>[Updated] In 2024, Thumbnail Artistry for Valorant Game Imagery, Swiftly Executed</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-premium-data-buffering-unit-for-sony-a7s-ii/"><u>[Updated] Premium Data Buffering Unit for Sony A7S II</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-social-media-coverage-start-scale-resolution-length-for-2024/"><u>[Updated] Social Media Coverage Start Scale, Resolution, Length for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-essential-review-of-screen-recorders-for-mp4/"><u>[Updated] The Essential Review of Screen Recorders for MP4</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-actors-agreement-for-public-viewing/"><u>2024 Approved Actors' Agreement for Public Viewing</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-comprehensive-guide-free-and-paid-tools-for-noise-reduction/"><u>2024 Approved Comprehensive Guide Free & Paid Tools for Noise Reduction</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-prime-video-capturing-applications/"><u>In 2024, Prime Video Capturing Applications</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-youtube-recommended-videos-block-the-videos-i-dont-like/"><u>In 2024, YouTube Recommended Videos - Block the Videos I Don't Like</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/panasonics-multifunctional-camera-the-fz80-analysis/"><u>Panasonic's Multifunctional Camera: The FZ80 Analysis</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211414243-9781783967858-the-way-through-the-woods/"><u>The Way Through the Woods | Free Book</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/vital-upgrades-to-transform-chatgpt-plugins-store-dynamics/"><u>Vital Upgrades to Transform ChatGPT Plugins Store Dynamics</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Lava Agni 2 5G | Dr.fone</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Archive PowerPoint Into Video Repository"
-date: 2024-08-24T20:34:13.614Z
-updated: 2024-08-25T20:34:13.614Z
+date: 2024-10-24T16:42:13.213Z
+updated: 2024-10-29T16:16:04.305Z
 tags: 
   - screen-recording
   - ai video
@@ -65,11 +65,15 @@ When all the slides are saved as images, you should launch the Windows Movie Mak
 
 ![Save PPT to Videos](https://images.wondershare.com/filmora/article-images/save-ppt-to-video-ms2007-windows-movie-maker.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 This method of saving a PowerPoint presentation as a video doesn't allow you to keep animations, transitions or multimedia files, because you have to convert all slides into image files.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ## Part 2: Saving PowerPoint 2010 Presentation as Video
 
 Unlike the previous version of the software, PowerPoint 2010 actually features an option that enables you to convert the PPT file into a video file format. Unfortunately, you can only save videos as WMV files, that have some major downsides. Be it as it may, the process of saving a PowerPoint presentation as a video on this version of the software won't take too much of your time.
@@ -78,16 +82,10 @@ After you create a presentation, save it as you normally would. You should then 
 
 ![Save PPT to Videos](https://images.wondershare.com/filmora/article-images/save-ppt-to-video-ms2010.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 When the Save and Send menu appears on the screen you should find the Create a Video option and click on it.
 
 ![Save PPT to Videos](https://images.wondershare.com/filmora/article-images/save-ppt-to-video-ms2010-create-video.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Create a Video box that contains video settings will pop up on the screen and you should click on the Computer&HD Displays option in order to adjust the size and the quality of your video.
 
 ![ Save PPT to Videos ](https://images.wondershare.com/filmora/article-images/ppt2010-create-video-settings.jpg)
@@ -100,14 +98,15 @@ Click on the Create Video icon once you've made all adjustments and go ahead to 
 
 ![ Save PPT to Videos ](https://images.wondershare.com/filmora/article-images/ppt2010-create-video.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 The conversion process will take a while, but after it is over, you'll be able to share the PowerPoint presentation video on video sharing platforms or social media networks.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 3: How to Save a PowerPoint 2013 or 2016 Presentation as a video on Windows OS
 
 The steps you'll need to take in order to save your PPT 2013 or 2016 as a video are nearly identical to those on PowerPoint 2010\. The only difference is that on recent versions of the software you can save the video in MP4 file format that is better suited for online distribution than the WMV file format. Here's how you can convert PPT to video in PowerPoint 2013.
@@ -116,14 +115,22 @@ Collapse the File menu and select the Export option, then click on the Create a 
 
 ![Save PPT to Videos](https://images.wondershare.com/filmora/article-images/ppt-save-as-video.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 Once the Create a Video window emerges on the screen, you should click on the Computer and HD Displays option, so you can adjust the video quality and size settings.
 
 ![Save PPT to Videos](https://images.wondershare.com/filmora/article-images/ppt-save-as-video-settings.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 After fine-tuning the video settings, you can proceed to click on the Use Recorded Timings and Narrations menu. If you don't want to include narration or recorded timings in your video, you can set the duration of each slide individually with the Timings feature that is located at the bottom of the screen.
 
@@ -134,24 +141,45 @@ Hitting the Create a Video button will bring up the Save As window that will ena
 ![ Save PPT to Videos ](https://images.wondershare.com/filmora/article-images/ppt-save-as-video-2013.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 4: Saving PowerPoint Presentation as video on Mac OS
 
 Mac users who want to save PPT files as videos can easily do so, but the videos they create can only be saved as .mov files that are compatible with [QuickTime](https://tools.techidaily.com/wondershare/filmora/download/) player and file conversion software. The Mac version of PowerPoint doesn't allow you to include multimedia, transitions or animations in your videos, and for that reason, it is important to remove all such content from the presentation before you start the conversion process. The following steps are applicable in 2008 and 2011 PowerPoint for Mac
 
 ![Save PPT to Videos](https://images.wondershare.com/filmora/article-images/save-ppt-as-video-mac.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Click on the File menu and select the Save as Movie option. After the new window appears on the screen you should click on the Movie Options button, located near the bottom of the screen.
 
 ![Save PPT to Videos](https://images.wondershare.com/filmora/article-images/save-ppt-as-video-mac-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 The Movie Options dialogue box will pop up, and you should click on the Movie Options icon to set slide durations, add transitions between slides, create a video loop or choose the size of the video and its quality.
 
 ![Save PPT to Videos](https://images.wondershare.com/filmora/article-images/save-ppt-as-video-mac-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Hit OK to close the Movie Options, and then click Save to convert the PPT into a video file.
 
@@ -163,13 +191,18 @@ Which method of converting PPT to video files do you like to use the most? Would
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -177,3 +210,19 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-save-and-stream-gotomeet-on-desktops-and-phones/"><u>[New] 2024 Approved Save and Stream GoToMeet on Desktops & Phones</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-windows-10s-leading-screen-capture-tools-a-comprehensive-list/"><u>[Updated] 2024 Approved Windows 10'S Leading Screen Capture Tools A Comprehensive List</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-for-experts-only-top-5-best-drones-to-buy/"><u>[Updated] For Experts Only – Top 5 Best Drones to Buy</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-leading-edge-in-mobile-chats-discover-the-top-1-cookie-haven-by-lilys-bakery-for-2024/"><u>[Updated] Leading Edge in Mobile Chats Discover the Top 1 Cookie Haven by Lily's Bakery for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-advancing-google-meet-sessions-implementing-effects-and-masks/"><u>2024 Approved Advancing Google Meet Sessions Implementing Effects & Masks</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/capturing-competition-the-best-methods-for-recording-games/"><u>Capturing Competition The Best Methods for Recording Games</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-guide-what-to-do-when-you-encounter-a-missing-d3dx939dll-error-message/"><u>Fix Guide: What to Do When You Encounter a Missing d3dx9_39.dll Error Message</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-xperia-5-v-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Xperia 5 V Pictures An Easy Method Explained.</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-11-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 11 To Other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-xiaomi-redmi-k70e-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Xiaomi Redmi K70E to Another | Dr.fone</u></a></li>
+</ul></div>
+
