@@ -1,7 +1,7 @@
 ---
 title: Solve HDMI Sound Problems When Connecting Laptop to TV/Monitor
-date: 2024-08-17T12:58:57.006Z
-updated: 2024-08-18T12:58:57.006Z
+date: 2024-11-01T09:18:47.468Z
+updated: 2024-11-03T18:03:54.080Z
 tags:
   - win11
   - win10
@@ -45,6 +45,14 @@ If you get**HDMI no sound** error in**Windows 10** , don’t worry. You’re not
 1. Right-click on the sound volume icon in the lower right corner of Windows. A context menu will pop up. Click **Playback devices** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_59a3d159c97f2.png)
 2. In the**Playback** tab, select**Digital Output Device** or**HDMI** option. Click**Set Default** and click**OK** . Then the HDMI sound output will be set as default.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-29.png)
 
  If you do not see the Digital Output Device or HDMI option in the Playback tab, right-click on the blank place, then click Show disconnected devices and Show disabled devices on the context menu. Then set it as the default device.
@@ -54,8 +62,12 @@ If you get**HDMI no sound** error in**Windows 10** , don’t worry. You’re not
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Solution 3: Update the Sound Driver
 
  Your HDMI no sound problem can be caused by corrupt or missing audio driver issues. To fix the problem, you can try to update the sound driver.
@@ -70,33 +82,35 @@ If you get**HDMI no sound** error in**Windows 10** , don’t worry. You’re not
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/DE-scan-now-6.0.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Realtek-High-Definition-Audio.jpg)
 4. Restart your computer for the changes to take effect.
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Solution 4: Switch to ChromeOS
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/ChromeOSDesktop.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Windows is a very old technology. Sure, Windows 10 is relatively new, but it’s still just the latest iteration of a decades-old operating system, designed for a bygone era (pre-internet).
 
  Now that we have the internet, fast connection speeds, free cloud storage, and endless web apps (like Gmail, Google Docs, Slack, Facebook, Dropbox and Spotify), the entire Windows way of doing things – with locally installed programs and local file storage – is totally outdated.
@@ -127,8 +141,6 @@ And that’s just the start of the benefits…
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -136,4 +148,18 @@ And that’s just the start of the benefits…
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-quick-and-easy-xbox-one-image-snaps-for-gaming/"><u>[Updated] 2024 Approved Quick & Easy Xbox One Image Snaps for Gaming</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-revisiting-lost-content-2-methods-for-retrieving-yt-deletions/"><u>[Updated] 2024 Approved Revisiting Lost Content 2 Methods for Retrieving YT Deletions</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-trending-topics-tally-10-tweets-triumphing/"><u>[Updated] 2024 Approved Trending Topics Tally 10 Tweets Triumphing</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-filmoras-route-to-convert-avi-to-eye-catching-gifs-for-2024/"><u>[Updated] Filmora’s Route to Convert AVI to Eye-Catching GIFs for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-from-novices-to-professionals-free-guide-on-google-meet-mastery/"><u>[Updated] In 2024, From Novices to Professionals Free Guide on Google Meet Mastery</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unique-gifting-made-simple-discover-top-10-custom-box-sellers/"><u>2024 Approved Unique Gifting Made Simple Discover Top 10 Custom Box Sellers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-visual-harmony-on-screen-mastering-zooms-edge-magic/"><u>2024 Approved Visual Harmony on Screen Mastering Zoom's Edge Magic</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/a-compreenas-guide-to-high-quality-mov-recording-in-windows-10/"><u>A Compreenas Guide to High-Quality MOV Recording in Windows 10</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-zooming-in-enhance-your-tiktok-videos/"><u>In 2024, Zooming In Enhance Your TikTok Videos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/laptop-and-mobile-embarking-on-the-google-meet-experience/"><u>Laptop & Mobile Embarking on the Google Meet Experience</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/transform-gratuitamente-h265hevc-in-h264-per-windows-10-e-sistemi-macos/"><u>Transform Gratuitamente H.265/HEVC in H.264 Per Windows (10) E Sistemi macOS</u></a></li>
+</ul></div>
 

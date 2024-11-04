@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Elevate Your Video Edits  Ken Burns in Camtasia\""
-date: 2024-10-25T16:40:22.351Z
-updated: 2024-10-29T16:22:33.688Z
+date: 2024-10-28T16:26:02.518Z
+updated: 2024-11-04T05:11:40.038Z
 tags: 
   - screen-recording
   - ai video
@@ -48,10 +48,10 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -63,10 +63,10 @@ That's not to say that Filmora only offers basic features as it has a wide range
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
@@ -94,10 +94,10 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -115,19 +115,15 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-discover-top-asmr-for-iosandroid-devices/"><u>[New] 2024 Approved Discover Top ASMR for iOS/Android Devices</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-streamlining-virtual-meetings-best-practices-for-teams/"><u>[New] 2024 Approved Streamlining Virtual Meetings Best Practices for Teams</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-expert-guide-to-instantaneous-deletion-of-youtube-posts-for-2024/"><u>[New] Expert Guide to Instantaneous Deletion of Youtube Posts for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-simultaneous-video-documentation/"><u>[Updated] 2024 Approved Simultaneous Video Documentation</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-best-video-recording-gear-guide/"><u>[Updated] Best Video Recording Gear Guide</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-x-sound-engineer-desktop-suite/"><u>[Updated] In 2024, X-Sound Engineer Desktop Suite</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-tailoring-drone-video-quality-with-expert-gimbal-choices/"><u>[Updated] Tailoring Drone Video Quality with Expert Gimbal Choices</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-quick-fixes-enhancing-images-in-windows-10s-photos-editor/"><u>2024 Approved Quick Fixes Enhancing Images in Windows 10'S Photos Editor</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-clearing-up-the-darkness-tips-for-non-black-screens-with-obs/"><u>In 2024, Clearing Up the Darkness Tips for Non-Black Screens with OBS</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-nes-switch-brawlers-the-ultimate-10-game-guide/"><u>In 2024, NES Switch Brawlers The Ultimate 10-Game Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/steams-hidden-feature-easily-switching-to-offline-gameplay-on-any-device/"><u>Steam's Hidden Feature: Easily Switching to Offline Gameplay on Any Device</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-tips-dealing-with-subwoofer-distortion-and-hum-issues/"><u>Troubleshooting Tips: Dealing with Subwoofer Distortion & Hum Issues</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlock-your-screen-without-pin-in-windows-11/"><u>Unlock Your Screen Without PIN in Window's 11</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/vrecorder-guide-downloading-and-setting-up-instantly/"><u>VRecorder Guide Downloading & Setting Up Instantly</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-vct-pro-capture-assessment-full-review/"><u>[New] 2024 Approved VCT Pro Capture Assessment Full Review</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-the-ultimate-checklist-for-twitch-broadcasting/"><u>[New] In 2024, The Ultimate Checklist for Twitch Broadcasting</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-irecorder-insights-for-tech-enthusiasts/"><u>[New] IRecorder Insights for Tech Enthusiasts</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-streamlining-your-screen-share-experience-with-meet/"><u>[Updated] 2024 Approved Streamlining Your Screen Share Experience with Meet</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-jumpstart-success-with-top-30-youtube-intra-designers-insights/"><u>[Updated] Jumpstart Success with Top 30 YouTube Intra Designers' Insights</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-premium-bargains-no-cost-screen-recorder-extensions-for-chromeos/"><u>2024 Approved Premium Bargains No-Cost Screen Recorder Extensions for ChromeOS</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Oppo Find N3? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/photos-and-instagram-effortless-integration-for-2024/"><u>Photos & Instagram Effortless Integration for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/reviewing-cybernetic-tools-for-live-video-capture/"><u>Reviewing Cybernetic Tools for Live Video Capture</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-from-iphone-xs-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives From iPhone XS</u></a></li>
 </ul></div>
 

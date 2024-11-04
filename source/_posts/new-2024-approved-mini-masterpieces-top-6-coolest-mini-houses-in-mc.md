@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Mini Masterpieces  Top 6 Coolest Mini-Houses in MC\""
-date: 2024-08-03T15:53:37.968Z
-updated: 2024-08-04T15:53:37.968Z
+date: 2024-10-28T02:45:14.876Z
+updated: 2024-11-04T05:26:37.364Z
 tags: 
   - screen-recording
   - ai video
@@ -31,28 +31,18 @@ Playing Minecraft is always a fun and enjoyable activity. But if you don't have 
 
 #### 1\. Small Medieval house
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![small-medieval-house-poster](https://images.wondershare.com/filmora/article-images/small-medieval-house-poster.jpg)
 
 Medieval houses are famous and widely build houses in Minecraft and they are considered to be the cool Minecraft house ideas. There are two types of medieval houses, large castles build of stones & hidden layers, and simple rustic village dwellings. This Small Medieval House is a combination of both. It provides you a feel of the Castle by keeping it simple and rustic. This house is made up of stonework. This is a simple and easy-to-build house that can be built with limited material. The tutorial will help you go through the entire process step by step to help you better understand this process.
 
 #### 2\. Underground Base
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ![underground-base-poster](https://images.wondershare.com/filmora/article-images/underground-base-poster.jpg)
 
 It is a new trend in Minecraft to build an underground basement that has an entrance through stairs. Building this underground base can be convenient for those who have limited material to use in building an on-ground house. It is a simple-to-build house that requires less effort and time. First, you have to hollow the area where you want to build this underground base. Then, build the stairs and cover the space with glass. You can also add plants and flowers around your base to make it look outstanding. The tutorial will help you with each and every step of building this base. Follow each step the way it is described for preferred and required results. The best thing about this underground house is it doesn't allow mold to grow on the walls of your house, unlike a real-life basement, thanks to Minecraft developers. This is one of the cool Minecraft house ideas for beginners.
 
 #### 3\. Treehouse
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![treehouse-poster](https://images.wondershare.com/filmora/article-images/treehouse-poster.jpg)
 
 This is a cool Minecraft house idea that is suitable if you have ample material to use because it requires more material than both of the above house ideas. It is a perfect house idea that will help you escape the creepers that become visible out at night. Apart from that, it also provides a wide and distant view of the local area. This house can be built on already available trees or you can also create a brand new tree first. This treehouse might seem difficult to build but the tutorial will help you go through the entire process.
@@ -65,18 +55,12 @@ This Cozy Compact House is a cool Minecraft house idea for those who want a simp
 
 #### 5\. Suburban House
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![suburban-house-poster](https://images.wondershare.com/filmora/article-images/suburban-house-poster.jpg)
 
 If you are looking for something practical and familiar to build, this suburban house is a cool Minecraft house idea for you to implement. It has all features of a suburban house from its exterior to its interior, and from its look to its shape. This is a two-story house that contains a garage, and a porch. This house is made up of concrete and stones. The tutorial describes each step in every detail to help you understand the entire process conveniently.
 
 #### 6\. Beach House
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![beach-house-poster](https://images.wondershare.com/filmora/article-images/beach-house-poster.jpg)
 
 Are you bored of building the same and traditional houses? Then try this Beach House. It is different and unique from all other house ideas on this list. This modern-looking house seems to be a complex house idea but it can be built with simple steps and materials. This hut-like house contains a swimming pool beside it, which increases its beauty. The tutorial contains the entire process of building this house step by step to help you understand the process better and more conveniently. If you are looking for a cool Minecraft house idea, then this is what you should go for.
@@ -87,9 +71,6 @@ In order to build something, it is important to have an outline of it in your mi
 
  [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -98,11 +79,38 @@ Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-essential-guide-to-selecting-best-church-livestreamers/"><u>[New] In 2024, Essential Guide to Selecting Best Church Livestreamers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-the-ultimate-guide-fbx-free-gametime-tracking/"><u>[New] The Ultimate Guide FBX-Free Gametime Tracking</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-video-editor-selection-guide-understanding-filmora-and-democracy-creator-for-2024/"><u>[New] Video Editor Selection Guide Understanding Filmora and Democracy Creator for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-best-non-gaming-video-capture-and-screen-save-software/"><u>[Updated] 2024 Approved Best Non-Gaming Video Capture and Screen Save Software</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-visual-verdict-sj6-clash-with-xiaomis-yi-4k-geniuses/"><u>[Updated] 2024 Approved Visual Verdict SJ6 Clash with Xiaomi’s Yi 4K Geniuses</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-tiny-titans-top-games-anthology/"><u>[Updated] In 2024, Tiny Titans' Top Games Anthology</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-video-talk-with-ease-how-to-utilize-whatsapp-web-on-your-notebook-for-2024/"><u>[Updated] Video Talk with Ease How to Utilize WhatsApp Web on Your Notebook for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-honor-x50-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Honor X50 to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-chrome-os-best-free-video-capture-tools-compilation/"><u>In 2024, Chrome OS Best Free Video Capture Tools Compilation</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/mastering-the-social-media-lands-point-10-secrets-for-fb-optimization/"><u>Mastering the Social Media Lands Point 10 Secrets for FB Optimization</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/rapid-periscope-livestream-optimization-methods-for-2024/"><u>Rapid Periscope Livestream Optimization Methods for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

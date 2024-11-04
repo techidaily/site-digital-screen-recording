@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Alter Default Location for Mac Captured Images"
-date: 2024-10-26T16:15:38.706Z
-updated: 2024-10-29T16:44:09.632Z
+date: 2024-10-30T22:31:15.053Z
+updated: 2024-11-03T16:09:36.833Z
 tags: 
   - screen-recording
   - ai video
@@ -49,10 +49,10 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
@@ -62,10 +62,10 @@ Changing the folder where you store your screenshots is not an irreversible proc
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
@@ -75,13 +75,6 @@ Create a new folder on the desired location on your hard drive, and then launch 
 Then enter a space at the end after 'location'.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
 
@@ -94,16 +87,10 @@ To execute the command you have to press Enter. After Terminal finishes running 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
@@ -117,6 +104,13 @@ Make sure that your username is properly written, and then press Enter to run th
 Don't forget that deleting the folder you use as a default location for storing screenshots should only be done using the process we just described in the Terminal application, since all other methods may cause unnecessary trouble.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -133,22 +127,16 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-smarter-spending-on-cloud-data-services-insights-and-recommendations/"><u>[New] Smarter Spending on Cloud Data Services Insights & Recommendations</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-simple-steps-to-document-online-meetings-on-os-xwindows/"><u>[Updated] 2024 Approved Simple Steps to Document Online Meetings on OS X/Windows</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-ideal-mac-video-logic-tool-for-2024/"><u>[Updated] Ideal Mac Video Logic Tool for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-sims-4-live-action-gaming-capture-essentials/"><u>[Updated] Sims 4 Live-Action Gaming Capture Essentials</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-talkative-transformations-infusing-your-stories-with-motion/"><u>[Updated] Talkative Transformations Infusing Your Stories with Motion</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-transfer-tactics-for-seamless-online-video-sharing/"><u>2024 Approved Transfer Tactics for Seamless Online Video Sharing</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-8-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 8</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/complete-guide-for-iphone-12-mini-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For iPhone 12 mini Lock Screen | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/essential-guide-to-saving-tv-broadcasts-online-for-2024/"><u>Essential Guide to Saving TV Broadcasts Online for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722896007181-exclusive-insights-into-the-upcoming-macbook-with-touch-screen-functionality-price-sneak-peek/"><u>Exclusive Insights Into the Upcoming MacBook with Touch Screen Functionality – Price Sneak Peek!</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-mastering-the-art-of-obs-and-fb-live/"><u>In 2024, Mastering the Art of OBS and FB Live</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/limitless-video-snipping-program/"><u>Limitless Video Snipping Program</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-0x80070002-update-issues-on-your-pc-with-ease/"><u>Resolving 0X80070002 Update Issues on Your PC with Ease</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/selecting-the-perfect-screen-recorder-for-educational-purposes/"><u>Selecting the Perfect Screen Recorder for Educational Purposes</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/setting-the-stage-your-first-virtual-boardroom-with-google/"><u>Setting the Stage Your First Virtual Boardroom with Google</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/tech-review-showcase-exploring-the-genius-of-a-convertible-lenovo-laptop-tablet-combo-insights/"><u>Tech Review Showcase: Exploring the Genius of a Convertible Lenovo Laptop-Tablet Combo Insights</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/truescreenpro-windows-10s-choice-for-2024/"><u>TrueScreenPro Windows 10'S Choice for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-detecting-silent-communication-on-snapstreak-for-2024/"><u>[New] Detecting Silent Communication on Snapstreak for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-conducting-collaborative-discussions-in-a-hassle-free-manner-via-skype-across-operating-systems/"><u>[New] In 2024, Conducting Collaborative Discussions in a Hassle-Free Manner via Skype Across Operating Systems</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-download-and-installation-made-easy-for-ez-grabber-users/"><u>[New] In 2024, Download and Installation Made Easy for EZ Grabber Users</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-top-10-best-webcam-covers/"><u>[New] Top 10 Best Webcam Covers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-imagescope-critique-platform/"><u>[Updated] 2024 Approved ImageScope Critique Platform</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-how-to-use-your-switch-pro-controller-on-steam-for-2024/"><u>[Updated] How to Use Your Switch Pro Controller on Steam for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/cinema-crafting-excellence-top-5-camera-skills-to-hone/"><u>Cinema Crafting Excellence Top 5 Camera Skills to Hone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/essential-steps-for-clear-ipad-recording-for-2024/"><u>Essential Steps for Clear iPad Recording for 2024</u></a></li>
+<li><a href="https://win-webster.techidaily.com/instrucciones-sencillas-para-limpiar-con-seguridad-tu-disco-duro-por-medio-de-la-bios-e-instalar-de-nuevo-windows-sin-problemas/"><u>Instrucciones Sencillas Para Limpiar Con Seguridad Tu Disco Duro Por Medio De La BIOS E Instalar De Nuevo Windows Sin Problemas</u></a></li>
+<li><a href="https://win-bits.techidaily.com/transfer-data-from-hard-drive-to-solid-state-drive-using-two-methods-on-windows-1011/"><u>Transfer Data From Hard Drive to Solid State Drive Using Two Methods on Windows 10/11</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-easy-ways-to-solve-ps4-random-crashes-and-freezes/"><u>Troubleshooting Tips - Easy Ways to Solve PS4 Random Crashes and Freezes</u></a></li>
 </ul></div>
 

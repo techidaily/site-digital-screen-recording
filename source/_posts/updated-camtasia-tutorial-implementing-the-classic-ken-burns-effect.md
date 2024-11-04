@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Camtasia Tutorial  Implementing the Classic Ken Burns Effect\""
-date: 2024-08-17T12:58:45.549Z
-updated: 2024-08-18T12:58:45.549Z
+date: 2024-10-28T08:57:19.780Z
+updated: 2024-11-04T03:04:05.018Z
 tags: 
   - screen-recording
   - ai video
@@ -47,6 +47,13 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 If you are looking for the best alternative to Camtasia 9 that makes adding the Ken Burns effect and other video editing features much easier, then Wondershare Filmora should be on your list of considerations. Apart from the Ken Burns effect, Filmora is a perfect video editing tool for beginner content creators, YouTubers, and casual editors who don't want access to professional-grade features or want to pay a lot of money to edit their videos.
@@ -54,6 +61,13 @@ If you are looking for the best alternative to Camtasia 9 that makes adding the 
 That's not to say that Filmora only offers basic features as it has a wide range of options available to video editors including green screen, motion tracking, transitions, audio recording, a diverse variety of presets, and a lot more. Both amateur video creators and hobbyists can get a lot out of the Wondershare Filmora editing tool.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
 
@@ -79,13 +93,18 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -93,6 +112,25 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-excellent-auditory-recording-devices-for-classrooms/"><u>[New] 2024 Approved Excellent Auditory Recording Devices for Classrooms</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-expert-insights-bridging-obs-and-facebook-live-streaming/"><u>[New] 2024 Approved Expert Insights Bridging OBS and Facebook Live Streaming</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-assessing-gopro-hero5-session-quality-for-2024/"><u>[New] Assessing GoPro Hero5 Session Quality for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/1716069892915-new-employing-in-device-recording-for-screen-capture-across-huaweis-mate-and-p-series-for-2024/"><u>[New] Employing In-Device Recording for Screen Capture Across Huawei’s Mate and P Series. For 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-horizon-captured-which-camera-takes-the-lead/"><u>[New] Horizon Captured Which Camera Takes the Lead?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-strategic-brand-alliances-for-video-influencers/"><u>[New] In 2024, Strategic Brand Alliances for Video Influencers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-comparing-livestream-tools-is-streamlabs-the-answer-to-your-broadcast-needs/"><u>[Updated] 2024 Approved Comparing Livestream Tools Is Streamlabs the Answer to Your Broadcast Needs?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-efficient-screenshot-with-audio-layered/"><u>[Updated] 2024 Approved Efficient Screenshot With Audio Layered</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-expert-advice-on-flawless-ipad-screen-captures-for-2024/"><u>[Updated] Expert Advice on Flawless iPad Screen Captures for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-affordable-pc-display-recorder-apps/"><u>[Updated] In 2024, Affordable PC Display Recorder Apps</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-editing-images-erasing-unwanted-backdrops/"><u>2024 Approved Editing Images Erasing Unwanted Backdrops</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-reviving-camera-victory-over-obs-glitches/"><u>2024 Approved Reviving Camera Victory Over OBS Glitches</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-screencapture-unveiled-the-ultimate-review-of-camstudio/"><u>2024 Approved ScreenCapture Unveiled The Ultimate Review of CamStudio</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connect-and-share-on-social-giants-facebook-twitterverse-instagramming-youtube-streams/"><u>Connect and Share on Social Giants: Facebook, Twitterverse, InstaGramming, YouTube Streams</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolve-your-windows-crash-with-ntkrnlmpexe-a-step-by-step-solution/"><u>Resolve Your Windows Crash with 'ntkrnlmp.exe' - A Step-by-Step Solution</u></a></li>
+<li><a href="https://win-tips.techidaily.com/top-10-strategien-zur-behebung-von-windows-11-explorer-absturzen/"><u>Top 10 Strategien Zur Behebung Von Windows 11-Explorer-Abstürzen</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Tecno Phantom V Fold? | Dr.fone</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Advanced Tips for Blending Modes in VFX\""
-date: 2024-10-23T16:17:05.392Z
-updated: 2024-10-29T16:37:59.828Z
+date: 2024-10-29T18:42:18.011Z
+updated: 2024-11-04T05:58:13.090Z
 tags: 
   - screen-recording
   - ai video
@@ -58,6 +58,13 @@ The **Normal mode** is a part of the standard set of blending modes in almost al
 
 ![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-normal-mode.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The **Screen Mode** is best used when you are working with dark monochrome backgrounds because it reduces the dark areas in the video thus enabling you to blend the top layer into the background seamlessly.
 
 ![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-screen-mode.jpg)
@@ -69,13 +76,20 @@ The **Multiply Mode** is also one of the frequently used blending modes that **m
 ![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-multiply-mode.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 This mode will enable you to create the black background for your video effortlessly, and highlight the subjects in the video clip you intend to use as a top layer. You need to choose carefully which video clips you are going to use and how are they going to look on a dark background if you want to produce visually pleasing videos that captivate the viewer's attention.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to use Blending Modes?
 
@@ -87,18 +101,18 @@ In case you've used Filmora Scrn's screen recorder to capture your video, the vi
 
 ![ Filmora Scrn Import Media ](https://images.wondershare.com/filmora/article-images/filmora-scrn-add-files.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Click on the Add Files icon in the Media bin, and select the footage you want to use in your project. Drag the video clip you'd like to use as a background to a track on the timeline and then drag and drop the video or a photo to a timeline above the one on which the background clip is located.
 
 Adjust the duration of the video clips or photos you've placed on the timeline and use the preview window to determine whether or not you should readjust the size and position of the overlaying image.
 
 ![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-blending-mode-tracks.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Step 2 - Select the Blending mode
 
@@ -115,26 +129,6 @@ Changing the Opacity value will enable you to reduce the transparency level of a
 Click on the Export button if you like the results and choose whether you want to save the file on your hard-disc or upload it to YouTube, Facebook or Vimeo directly from Filmora Scrn.
 
 ![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-blending-mode-export.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -157,19 +151,20 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-apex-series-select-7-top-fps-games/"><u>[New] 2024 Approved Apex Series Select 7 Top FPS Games</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-professional-workshop-embedding-countdown-features-in-obs/"><u>[New] Professional Workshop Embedding Countdown Features in OBS</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-pixelperfect-the-modern-recorder-diagnosis-for-2024/"><u>[Updated] 'PixelPerfect' The Modern Recorder Diagnosis for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-budget-friendly-android-video-call-alternatives-for-2024/"><u>[Updated] Budget-Friendly Android Video Call Alternatives for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-enhancing-team-coordination-through-thoughtful-office-spaces/"><u>[Updated] In 2024, Enhancing Team Coordination Through Thoughtful Office Spaces</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-quick-guide-initiating-and-managing-android-zoom-calls/"><u>[Updated] In 2024, Quick Guide Initiating & Managing Android Zoom Calls</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-windows-11-capture-top-eight-tools-ranked/"><u>[Updated] In 2024, Windows 11 Capture Top Eight Tools Ranked</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-the-ultimate-guide-to-choosing-a-tunefab-recorder-for-2024/"><u>[Updated] The Ultimate Guide to Choosing a Tunefab Recorder for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/epic-games-launcher-troubleshooting-guide-black-screen-resolved/"><u>Epic Games Launcher Troubleshooting Guide - Black Screen Resolved</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/essential-tips-for-glow-in-the-dark-portraiture-for-2024/"><u>Essential Tips for Glow-in-the-Dark Portraiture for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-pick-your-favorite-top-ios-apps-for-facebook-video-loading/"><u>In 2024, Pick Your Favorite Top iOS Apps for Facebook Video Loading</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-big-four-a-guide-to-facebook-twitter-instagram-and-youtube/"><u>Navigating the Big Four: A Guide to Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://win-dash.techidaily.com/seamless-connectivity-download-bluetooth-adapter-support-software-for-your-windows-pc-windows-11-7-8-with-zexmte-compatibility/"><u>Seamless Connectivity: Download Bluetooth Adapter Support Software for Your Windows PC (Windows 11, 7, 8 with Zexmte Compatibility)</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-easing-high-encoding-issues-in-obs/"><u>[New] Easing High Encoding Issues in OBS</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-advanced-strategies-for-recording-and-saving-gameplay-on-ps4/"><u>[Updated] 2024 Approved Advanced Strategies for Recording and Saving Gameplay on PS4</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-step-by-step-easy-snapchat-videos-with-multiple-snaps/"><u>[Updated] 2024 Approved Step-by-Step Easy Snapchat Videos with Multiple Snaps</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-best-green-screen-recording-tools/"><u>[Updated] Best Green Screen Recording Tools</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-premier-racing-games-roundup/"><u>[Updated] Premier Racing Games Roundup</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-maiden-recording-appraisal-article/"><u>2024 Approved Maiden Recording Appraisal Article</u></a></li>
+<li><a href="https://win-able.techidaily.com/battling-persistent-glitches-ensuring-stable-playthroughs-of-age-of-wonders-planetfall-on-your-computer/"><u>Battling Persistent Glitches: Ensuring Stable Playthroughs of 'Age of Wonders: Planetfall' On Your Computer</u></a></li>
+<li><a href="https://fox-place.techidaily.com/expert-tips-on-restoring-lost-information-from-defective-memory-cards/"><u>Expert Tips on Restoring Lost Information From Defective Memory Cards</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-7-ways-to-unlock-a-locked-motorola-moto-g13-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Motorola Moto G13 Phone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-lava-storm-5g-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Lava Storm 5G FRP</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-zoom-in-or-out-tailoring-your-youtube-viewing-pace/"><u>In 2024, Zoom in or Out? Tailoring Your YouTube Viewing Pace</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/propel-your-virtual-presence-with-these-gadgets/"><u>Propel Your Virtual Presence with These Gadgets</u></a></li>
+<li><a href="https://win-able.techidaily.com/seamless-prores-editing-on-windows-get-the-codec-and-playback-solution/"><u>Seamless ProRes Editing on Windows - Get the Codec and Playback Solution</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/the-timeless-tale-of-roguelike-and-roguelite/"><u>The Timeless Tale of Roguelike and Roguelite</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/top-10-online-screen-video-recorders-for-2024/"><u>Top 10 Online Screen Video Recorders for 2024</u></a></li>
 </ul></div>
 
