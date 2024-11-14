@@ -1,7 +1,7 @@
 ---
 title: Exploring the Mighty Performance Within a Small Form Factor - A Comprehensive Review of Xbox Series S
-date: 2024-10-28T01:28:41.694Z
-updated: 2024-11-03T17:13:21.745Z
+date: 2024-11-08T18:26:12.800Z
+updated: 2024-11-12T22:05:40.028Z
 categories:
   - BestProducts
 description: This Article Describes Exploring the Mighty Performance Within a Small Form Factor - A Comprehensive Review of Xbox Series S
@@ -36,16 +36,16 @@ Lifewire / Gannon Burgett
 
 4
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Apple iMac 21.5-inch 4K
 
 ![Apple iMac 21.5-inch 4K](https://www.lifewire.com/thmb/hOzU-Ut_6g-s5JwzT08s3wa0tSo=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_1LW4045927-1-625cb1ba7a894cc38db8565dd81072b3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Gannon Burgett
 
@@ -90,10 +90,10 @@ Lifewire / Gannon Burgett
 ![Apple iMac 21.5-inch 4K](https://www.lifewire.com/thmb/gM_JxuZjDbSUs7DYtXIwUIqqz0Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4045927-3-d30c5f8414e94cbd9b1ec8aea9b18950.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Gannon Burgett
@@ -105,13 +105,6 @@ Lifewire / Gannon Burgett
  Setting up the iMac is as simple as unwrapping it from its protective cover, setting it on the desk, plugging it in with the included power cord, and pressing the power button. As it boots up, we turned on the Magic Keyboard and Magic Mouse 2\. By the time the iMac was to the setup screen — a process that took approximately 60 seconds — the two were already paired with the computer and ready to be used.
 
  Going through the setup process took us approximately five minutes, which included setting up our iCloud account and getting the various login settings in place. We opted to set this up as a new computer, but there’s also the ability to set it up from an Apple Time Capsule backup or transfer content from a PC via USB. The amount of time those options take will vary depending on the device you’re transferring the information from as well as the amount of data being transferred.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Display: Bright, brilliant, and ready to shine**
 
@@ -143,18 +136,18 @@ Lifewire / Gannon Burgett
 
  All-in-all, the iMac seems to punch right at or above its specifications when compared to similar hardware. It’s not going to be pumping out 8K footage, but for basic 4K video editing and image post-processing, the graphics card is more than enough. As for productivity, there’s not much you can throw at the iMac that it can’t handle. The only thing we noticed slowing down the computer was the 8GB of RAM when we had over a dozen applications open, but that can be fixed by upgrading to the 16GB or 32GB model (although it’s not a cheap upgrade).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Network: Fast and reliable**
 
  The 21.5-inch 4K iMac features both wired and wireless connectivity for internet access. As previously mentioned, the iMac features a Gigabit Ethernet (RJ-45) port on the rear of the computer for a hardwired internet connection. For Wi-Fi, the iMac uses an 802.11ac network adapter with support for IEEE 802.11a/b/g/n.
 
  In our hardwired tests, the iMac maxed out our Gigabit fiber optic internet no problem, with steady download and upload speeds. Wireless connectivity was equally impressive, regardless of whether the iMac was in the same room as the router or a few rooms over. We didn’t notice any drops throughout our tests and both uploading and downloading content was consistent.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Camera: Decent built-in option for basic tasks**
 
@@ -162,7 +155,21 @@ Lifewire / Gannon Burgett
 
 ![Apple iMac 21.5-inch 4K](https://www.lifewire.com/thmb/rFu0_k9BjbUxQdoEYOcNGU35LJA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4045927-2-a3d2f38b9509480ba41bbb5b33815d1a.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Gannon Burgett
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Software: Everything you need and nothing more**
 
@@ -172,31 +179,11 @@ Lifewire / Gannon Burgett
 
  Unlike Windows, macOS doesn’t come with any bloatware either. There’s a number of pre-installed apps developed by Apple, including four new ones borrowed from Apple’s mobile operating system, iOS, but most of the pre-installed apps are the standard array of programs you’d expect to see on any modern computer.
 
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Price: The Apple tax is real**
 
  The 21.5-inch 4K iMac we tested with the aforementioned specifications retails for $1,499\. Compared to other Windows PCs with similar specifications, the iMac is without pricey for the specs it offers. However, this is par for the course with Apple, so much so that the term “Apple tax” has become a commonly-used phrase. What you’re paying for is the entire package, wrapped up in one of the best-looking frames out there.
 
  Could you build a PC with better specs for far less money? Absolutely. But it won’t be running macOS and it certainly won’t be as slim and streamlined as the iMac. If you’re invested in the Apple ecosystem and don’t need to shell out for the more expensive 27-inch 5K iMac, the 21.5-inch 4K iMac is priced much more reasonably and still has plenty to offer.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Competition: A unique option in a small market**
 
@@ -215,6 +202,13 @@ Lifewire / Gannon Burgett
 **Beautiful display in a thin, powerful machine.**
 
  The 21.5-inch 4K iMac is a solid all-in-one computer that packs a lot of power into a tiny, well-designed package. It’s not going to blow anyone away on benchmarks and it’s not cheap for the internal components you’re getting, but it has a lot to offer for multimedia and productivity. That’s not to mention the sheer convenience of having everything simply work out of the box.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
 
@@ -253,14 +247,24 @@ Lifewire / Gannon Burgett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-unleashing-your-macs-screen-sharing-potential/"><u>[New] 2024 Approved Unleashing Your Mac's Screen Sharing Potential</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-overwatch-gameplay-captured-step-by-step-guide/"><u>[New] Overwatch Gameplay Captured - Step by Step Guide</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-leading-steps-to-mute-movie-filming/"><u>[Updated] 2024 Approved Leading Steps to Mute Movie Filming</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-audience-centric-approaches-to-voiceover-on-slides-for-2024/"><u>[Updated] Audience-Centric Approaches to Voiceover on Slides for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-seamlessslide-visual-harmony-on-macsierra/"><u>[Updated] SeamlessSlide Visual Harmony on MacSierra</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-pajama-plots-performed-a-critical-study-of-bedtime-storytelling-vids/"><u>2024 Approved Pajama Plots Performed A Critical Study of Bedtime Storytelling Vids</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/comment-resoudre-le-probleme-de-mise-a-jour-supprimee-dans-windows-10-guide-complet-avec-5-solutions-et-une-astuce/"><u>Comment Résoudre Le Problème De Mise À Jour Supprimée Dans Windows 10 : Guide Complet Avec 5 Solutions Et Une Astuce</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-overcoming-missed-frames-in-real-time-streaming/"><u>In 2024, Overcoming Missed Frames in Real-Time Streaming</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-path-failure-on-pc-operating-systems/"><u>Tackling PATH Failure on PC Operating Systems</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-ultimate-guide-top-10-high-quality-no-cost-recording-tools/"><u>[New] 2024 Approved Ultimate Guide Top 10 High-Quality, No-Cost Recording Tools</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-all-time-highest-chart-youtubes-premier-video-list/"><u>[New] In 2024, All-Time Highest Chart YouTube's Premier Video List</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-silence-issue-fixing-audio-absence-in-obs-for-2024/"><u>[New] Silence Issue Fixing Audio Absence in OBS for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-step-by-step-for-winning-anime-projects-via-movie-maker/"><u>[Updated] 2024 Approved Step-by-Step for Winning Anime Projects via Movie Maker</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-easy-steps-to-record-and-screen-capture-ios-2023-for-2024/"><u>[Updated] Easy Steps to Record and Screen Capture [iOS, 2023] for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-examining-librevid-recorder-for-live-streaming/"><u>[Updated] Examining LibreVid Recorder for Live Streaming</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-pro-level-comparison-2022s-gopro-hero5-and-virb-streamers/"><u>[Updated] Pro-Level Comparison 2022'S GoPro Hero5 & VIRB Streamers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-repairing-an-inoperative-obs-video-feed/"><u>[Updated] Repairing an Inoperative OBS Video Feed</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-ultimate-affordable-game-controllers-under-100/"><u>[Updated] Ultimate Affordable Game Controllers Under $100</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/flac320kbps-mp3/"><u>「優れた品質保持：FLACファイルを320kbps MP3への上級なアップコンバート手法」</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-understanding-instagrams-tunes-and-their-legal-boundaries/"><u>2024 Approved Understanding Instagram’s Tunes and Their Legal Boundaries</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-unleashing-potential-learning-steams-switch-controller/"><u>2024 Approved Unleashing Potential Learning Steam's Switch Controller</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elite-educational-event-emitter/"><u>Elite Educational Event Emitter</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/fbx-methods-for-perfect-gaming-saves/"><u>FBX Methods for Perfect Gaming Saves</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-infinix-hot-40i-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Infinix Hot 40i FRP Locks</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-game-on-camera-off-top-methods-to-record-sims-4-triumphs-and-tribulations/"><u>In 2024, Game On, Camera Off? Top Methods to Record Sims 4 Triumphs and Tribulations</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-ultimate-screencast-handbook-adept-techniques-and-tools/"><u>In 2024, Ultimate Screencast Handbook Adept Techniques & Tools</u></a></li>
+<li><a href="https://blog-min.techidaily.com/solutions-for-fixing-nonfunctional-apple-internalexternal-usb-superdrives/"><u>Solutions for Fixing Nonfunctional Apple Internal/External USB SuperDrives</u></a></li>
 </ul></div>
 

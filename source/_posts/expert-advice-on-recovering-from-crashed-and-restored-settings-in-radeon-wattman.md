@@ -1,7 +1,7 @@
 ---
 title: Expert Advice on Recovering From Crashed and Restored Settings in Radeon Wattman
-date: 2024-08-10T18:09:31.359Z
-updated: 2024-08-11T18:09:31.359Z
+date: 2024-11-09T00:50:27.067Z
+updated: 2024-11-12T23:13:12.768Z
 tags:
   - win11
   - win10
@@ -15,18 +15,6 @@ thumbnail: https://thmb.techidaily.com/56f4900e7c7d867bb901f7b64e907d973f9debc0b
 
 ## Expert Advice on Recovering From Crashed and Restored Settings in Radeon Wattman
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58d895485ccdd.jpg)  
   
  Since Anniversary Update of Windows 10, which was in August in 2016, AMD users have been reporting that Radeon WattMan sometimes stops working on their PCs.
@@ -52,9 +40,6 @@ Up till now, AMD has yet to put forward an explanation for this unexpected probl
   
  1) Press **Windows key** and **X** at the same time, then choose **Device Manager**.
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da122aa7042.png)  
   
  2) Expand category **Display adapters**. Then double click the AMD Radeon device driver that you can see.
@@ -67,9 +52,6 @@ Up till now, AMD has yet to put forward an explanation for this unexpected probl
   
  4) If the **Roll Back Driver** button here is **grey out**, that means this option is unavailable in your situation. You need to go to the options below for more help.
   
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da1595caf55.jpg)
   
 **Option 2:** **Clean re-install display card driver**  
@@ -82,9 +64,6 @@ Up till now, AMD has yet to put forward an explanation for this unexpected probl
   
  2) Now, choose **AMD Catalyst** program or other **AMD programs**, then choose **Uninstall**.
   
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da1d980a082.jpg)  
   
  3) Now, press **Windows key** and **X** at the same time and choose **Device Manager**.
@@ -97,10 +76,6 @@ Up till now, AMD has yet to put forward an explanation for this unexpected probl
   
  5) Navigate to **Driver** tab, then choose **Uninstall**.  
   
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da1e9101343.jpg)
 
  When prompted with the following notification, click **OK** to continue.
@@ -111,9 +86,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
   
  Your PC will automatically restart when the uninstall finishes. Please make sure that you have saved all your important files before the restart.
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58da1f79327c3.jpg)  
   
  7) You can go to the support website of AMD to locate the driver you need. The baisc procedure is not that difficult, go to AMD support, then search for the driver that matches your operating system.
@@ -130,21 +102,12 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
   
  Some users reported that this problem is caused by faulty RAM, which is not unusual if you are constantly having problem with your graphics card driver or the display on your computer. Hence, you should run a RAM check on your computer to see if this is the cause and then fix it accordingly.
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 1) Press Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5816b9195578f.png) and **R** at the same time to invoke a **Run** command. Type **mdsched.exe** in the run box and hit **Enter**.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/mdsched-exe.png)  
   
  2) You could choose **Restart now and check for problems (recommended)** to check the status of your memory card right now, or choose **Check for problems the next time I start my computer** if you are too occupied now.  
   
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/restart-now-and-check-for-problems-recommended.jpg)
 
  3) You will be seeing this page showing the progress of the check and number of passes it will run on memory.  
@@ -172,8 +135,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -181,6 +142,30 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-itop-screen-recorder-review-should-you-install-it/"><u>[New] 2024 Approved ITop Screen Recorder Review Should You Install It?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-the-finest-gaming-keyboards-for-fanatics-on-a-budget/"><u>[New] 2024 Approved The Finest Gaming Keyboards for Fanatics on a Budget</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-unleashing-the-best-mobile-moba-battles/"><u>[New] In 2024, Unleashing the Best Mobile MOBA Battles</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-making-moolah-the-snapchat-way-for-2024/"><u>[New] Making Moolah The Snapchat Way for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-screen-free-serenity-top-10-indoor-games-for-non-networked-play-android-for-2024/"><u>[New] Screen-Free Serenity Top 10 Indoor Games for Non-Networked Play (Android) for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/pectacular-screen-synergy-the-perfect-partner-pairing-for-an-mcn/"><u>[New] Spectacular Screen Synergy The Perfect Partner Pairing for an MCN</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-best-action-cams-reduce-jitter-for-smooth-videos/"><u>[Updated] Best Action Cams Reduce Jitter for Smooth Videos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-the-ultimate-list-of-ps2-games-for-ios-emulation/"><u>[Updated] In 2024, The Ultimate List of PS2 Games for iOS Emulation</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-whats-the-optimal-frame-rate-comparing-30-vs-60hz-recording/"><u>[Updated] In 2024, What's the Optimal Frame Rate? Comparing 30 Vs. 60Hz Recording</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-instagram-integration-with-youtube-video-sharing-for-2024/"><u>[Updated] Instagram Integration with YouTube Video Sharing for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-securely-save-your-windows-8-screenshots/"><u>2024 Approved Securely Save Your Windows 8 Screenshots</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/addressing-sync-disruptions-expert-advice-for-non-syncing-gmail-accounts/"><u>Addressing Sync Disruptions: Expert Advice for Non-Syncing Gmail Accounts</u></a></li>
+<li><a href="https://win-blog.techidaily.com/beat-bosses-without-lag-fixing-resident-evil-villages-fps-drops-for-an-optimal-pc-gaming-session/"><u>Beat Bosses Without Lag - Fixing Resident Evil Village's FPS Drops for an Optimal PC Gaming Session</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/blurry-or-crisp-master-partial-blurring-on-devices-for-2024/"><u>Blurry or Crisp? Master Partial Blurring on Devices for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-novice-to-pro-your-complete-reddit-post-blueprint-for-2024/"><u>From Novice to Pro Your Complete Reddit Post Blueprint for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-latest-tech-trends-toms-hardware-haven/"><u>Navigating the Latest Tech Trends - Tom's Hardware Haven</u></a></li>
+</ul></div>
 
-
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

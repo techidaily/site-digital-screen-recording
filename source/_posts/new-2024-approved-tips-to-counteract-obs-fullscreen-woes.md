@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Tips to Counteract OBS Fullscreen Woes\""
-date: 2024-10-29T19:37:45.825Z
-updated: 2024-11-04T04:20:56.538Z
+date: 2024-11-09T02:14:05.492Z
+updated: 2024-11-13T03:05:38.424Z
 tags: 
   - screen-recording
   - ai video
@@ -71,20 +71,27 @@ Step 5: Find OBS Studio Application file and right-click on it and select Proper
 
 ![found obs studio application file](https://images.wondershare.com/filmora/article-images/found-obs-studio-application-file.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 6: Go to Compatibility tab and turn on “Run This Program In Compatibility Mode For”. Select Windows 8 from the list.
 
 ![obs64 properties run](https://images.wondershare.com/filmora/article-images/obs64-properties-run.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 7: Click on Apply and OK button.
 
 Relaunch OBS Studio and check if the problem is solved.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Way 4\. Turn Your Gameplay to Windowed Mode
 
@@ -103,10 +110,10 @@ Step 4: Click on Start Recording and move to your Windowed game screen. After re
 Step 5: Thereafter, you can move your game to full screen mode. On OBS, you can then select Fullscreen Projector and select your monitor. Start recording again and see if OBS can capture the full screen now.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Way 5\. Re-install OBS
@@ -118,6 +125,13 @@ Step 1: Go to Control Panel > Programs and Features option.
 Step 2: From the list of installed applications, find OBS Studio and click on Uninstall/Change button.
 
 ![re install obs uninstall](https://images.wondershare.com/filmora/article-images/re-install-obs-uninstall.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 3: Once OBS Studio is successfully uninstalled, open your web browser and visit “obsproject.com”.
 
@@ -152,10 +166,10 @@ Step 3: Click on Record button when you are ready. You will get a few buffer sec
 Step 4: When you are done, click on Stop button or press the Hotkey you have set to start and stop recording. You can edit the video and click on Export to save it on your hard drive.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -170,33 +184,27 @@ Step 1: Download and install Wondershare Filmora. Launch Filmora and click on PC
 
 ![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 2: Select the recording screen size as full screen.
 
 ![set audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 3: Click on Record button when you are ready. You will get a few buffer seconds to switch to your application or game in full screen mode. Thereafter, Filmora will start recording in the background.
 
 Step 4: When you are done, click on Stop button or press the Hotkey you have set to start and stop recording. You can edit the video and click on Export to save it on your hard drive.
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -231,39 +239,19 @@ Step 1: Download and install Wondershare Filmora. Launch Filmora and click on PC
 ![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 2: Select the recording screen size as full screen.
 
 ![set audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 3: Click on Record button when you are ready. You will get a few buffer seconds to switch to your application or game in full screen mode. Thereafter, Filmora will start recording in the background.
 
 Step 4: When you are done, click on Stop button or press the Hotkey you have set to start and stop recording. You can edit the video and click on Export to save it on your hard drive.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -293,18 +281,20 @@ OBS full screen not working is a common issue that many users have reported on v
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-excellent-phones-apps-for-masterful-gopro-edits/"><u>[New] In 2024, Excellent Phones' Apps for Masterful GoPro Edits</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-premium-online-meeting-applications-no-zoom-for-2024/"><u>[New] Premium Online Meeting Applications (No Zoom) for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-revolutionize-your-laptop-experience-innovative-methods-for-screen-capture-for-2024/"><u>[New] Revolutionize Your Laptop Experience Innovative Methods for Screen Capture for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-screensnapper-revisited-apowersofts-latest-pc-tool-for-2024/"><u>[New] ScreenSnapper Revisited Apowersoft's Latest PC Tool for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/10-best-online-learning-sites-like-udemy-for-2024/"><u>10 Best Online Learning Sites Like Udemy for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-the-top-5-techniques-for-quiet-filming-experiences/"><u>2024 Approved The Top 5 Techniques for Quiet Filming Experiences</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/automating-meeting-times-a-google-meet-essential-for-2024/"><u>Automating Meeting Times A Google Meet Essential for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/examining-realities-intertwined-what-is-mixed-reality-for-2024/"><u>Examining Realities Intertwined What Is Mixed Reality for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-latest-software-for-your-tp-link-usb-400-bluetooth-adapter-updates-available/"><u>Get the Latest Software for Your TP-Link USB 400 - Bluetooth Adapter Updates Available</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-standard-definition-to-high-dynamic-range-a-comprehensive-tutorial/"><u>In 2024, From Standard Definition to High Dynamic Range - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-leading-call-customization-applications/"><u>In 2024, Leading Call Customization Applications</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-perfect-pairing-best-6-video-capture-tools-for-macos/"><u>In 2024, Perfect Pairing Best 6 Video Capture Tools for MacOS</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210761645-9781683647140-trusting-the-gold/"><u>Trusting the Gold | Free Book</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-masterful-use-of-digital-boards-in-web-meetings-across-appleandroid-and-laptops/"><u>[New] 2024 Approved Masterful Use of Digital Boards in Web Meetings Across Apple/Android & Laptops</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-zip-archive-to-srt-easy-steps-for-subtitles-conversion/"><u>[New] 2024 Approved ZIP Archive to SRT Easy Steps for Subtitles Conversion</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-elevate-presentations-harnessing-aiseesoft-screen-recordings-for-2024/"><u>[New] Elevate Presentations Harnessing Aiseesoft Screen Recordings for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-maximize-learning-mac-methods-to-document-lectures-for-2024/"><u>[New] Maximize Learning Mac Methods to Document Lectures for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-the-foundational-guide-to-navigating-zoom-meetings/"><u>[Updated] 2024 Approved The Foundational Guide to Navigating Zoom Meetings</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-ultimate-review-of-ispring-recording-tech/"><u>[Updated] The Ultimate Review of iSpring Recording Tech</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-illumination-innovations-advanced-lighting-in-video-making/"><u>2024 Approved Illumination Innovations Advanced Lighting in Video Making</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-podcast-blurbs-techniques-and-illustrations/"><u>2024 Approved The Art of Podcast Blurbs Techniques and Illustrations</u></a></li>
+<li><a href="https://os-tips.techidaily.com/a-festive-gps-your-ultimate-guide-to-navigating-with-santas-sleigh-on-waze-during-the-holidays/"><u>A Festive GPS: Your Ultimate Guide to Navigating with Santa's Sleigh on Waze During the Holidays</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-unveiling-the-methodology-for-quality-ps3-game-screenings/"><u>In 2024, Unveiling the Methodology for Quality PS3 Game Screenings</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-unveiling-the-premier-5-windows-snipping-apps/"><u>In 2024, Unveiling the Premier 5 Windows Snipping Apps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/new-solutions-for-renderer-setup-failures-in-2eighty-one-technology-fixes/"><u>New Solutions for Renderer Setup Failures in 2Eighty-One Technology Fixes</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/powerful-wireless-experience-comprehensive-review-of-the-netgear-nighthawk-x1-8ad7200-router/"><u>Powerful Wireless Experience: Comprehensive Review of the Netgear Nighthawk X1 8AD7200 Router</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/secure-stock-images-avoiding-watermarks-for-2024/"><u>Secure Stock Images Avoiding Watermarks for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/vts-vts/"><u>VTSファイル改造プロセス: VTS変換ツールでの手順解説</u></a></li>
 </ul></div>
 

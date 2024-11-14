@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Elevate Your Video Edits  Ken Burns in Camtasia\""
-date: 2024-10-28T16:26:02.518Z
-updated: 2024-11-04T05:11:40.038Z
+date: 2024-11-07T19:19:22.572Z
+updated: 2024-11-12T23:36:35.848Z
 tags: 
   - screen-recording
   - ai video
@@ -48,10 +48,10 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -63,10 +63,10 @@ That's not to say that Filmora only offers basic features as it has a wide range
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
@@ -94,10 +94,16 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -115,15 +121,21 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-vct-pro-capture-assessment-full-review/"><u>[New] 2024 Approved VCT Pro Capture Assessment Full Review</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-the-ultimate-checklist-for-twitch-broadcasting/"><u>[New] In 2024, The Ultimate Checklist for Twitch Broadcasting</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-irecorder-insights-for-tech-enthusiasts/"><u>[New] IRecorder Insights for Tech Enthusiasts</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-streamlining-your-screen-share-experience-with-meet/"><u>[Updated] 2024 Approved Streamlining Your Screen Share Experience with Meet</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-jumpstart-success-with-top-30-youtube-intra-designers-insights/"><u>[Updated] Jumpstart Success with Top 30 YouTube Intra Designers' Insights</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-premium-bargains-no-cost-screen-recorder-extensions-for-chromeos/"><u>2024 Approved Premium Bargains No-Cost Screen Recorder Extensions for ChromeOS</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Oppo Find N3? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/photos-and-instagram-effortless-integration-for-2024/"><u>Photos & Instagram Effortless Integration for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/reviewing-cybernetic-tools-for-live-video-capture/"><u>Reviewing Cybernetic Tools for Live Video Capture</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-from-iphone-xs-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives From iPhone XS</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-map-masterpieces-excellent-quests-for-gold/"><u>[New] 2024 Approved Map Masterpieces Excellent Quests for Gold</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-stream-it-record-it-facebook-live-tips-and-tricks/"><u>[New] In 2024, Stream It, Record It Facebook Live Tips & Tricks</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-ultimate-guide-to-purchasing-asmr-microphones/"><u>[New] Ultimate Guide to Purchasing ASMR Microphones</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-essential-steps-for-effective-screen-capture-in-adobe-captivity/"><u>[Updated] 2024 Approved Essential Steps for Effective Screen Capture in Adobe Captivity</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-tailoring-meet-backdrop-for-enhanced-presentations/"><u>[Updated] 2024 Approved Tailoring Meet Backdrop for Enhanced Presentations</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-empowerment-in-entertainment-top-10-inspirational-women/"><u>[Updated] In 2024, Empowerment in Entertainment Top 10 Inspirational Women</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-solved-dead-obs-camera-for-2024/"><u>[Updated] Solved Dead OBS Camera for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-honor-play-40c-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-asrocks-latest-gem-a-breathtaking-32-inch-480hz-oled-screen-to-elevate-your-experience/"><u>Discover ASROCK's Latest Gem: A Breathtaking 32-Inch 480Hz OLED Screen to Elevate Your Experience</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebooks-strategy-questioned-over-giphy-integration/"><u>Facebook's Strategy Questioned Over Giphy Integration</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-your-iphones-sound-malfunction-eliminating-silence-and-echoes/"><u>How to Repair Your iPhone's Sound Malfunction - Eliminating Silence & Echoes</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-best-practices-for-video-game-archiving-on-playstation-4/"><u>In 2024, Best Practices for Video Game Archiving on PlayStation 4</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Samsung Galaxy M14 5G? | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-how-to-angle-videos-for-improved-viewership/"><u>In 2024, How to Angle Videos for Improved Viewership</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-itel-p55t-easily-by-drfone-android/"><u>In 2024, How To Unlock a Itel P55T Easily?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-oppo-a79-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Oppo A79 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
 </ul></div>
 

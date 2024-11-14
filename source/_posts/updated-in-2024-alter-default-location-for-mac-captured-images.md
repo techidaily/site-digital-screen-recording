@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Alter Default Location for Mac Captured Images"
-date: 2024-10-30T22:31:15.053Z
-updated: 2024-11-03T16:09:36.833Z
+date: 2024-11-08T08:16:25.219Z
+updated: 2024-11-12T22:01:39.066Z
 tags: 
   - screen-recording
   - ai video
@@ -49,10 +49,10 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
@@ -62,10 +62,10 @@ Changing the folder where you store your screenshots is not an irreversible proc
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
@@ -76,6 +76,13 @@ Then enter a space at the end after 'location'.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
 
 **defaults write com.apple.screencapture location /Users/username/Screenshots**
@@ -85,13 +92,6 @@ To execute the command you have to press Enter. After Terminal finishes running 
 **killall SystemUIServer**
 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
 
@@ -106,10 +106,10 @@ Don't forget that deleting the folder you use as a default location for storing 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -127,16 +127,21 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-detecting-silent-communication-on-snapstreak-for-2024/"><u>[New] Detecting Silent Communication on Snapstreak for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-conducting-collaborative-discussions-in-a-hassle-free-manner-via-skype-across-operating-systems/"><u>[New] In 2024, Conducting Collaborative Discussions in a Hassle-Free Manner via Skype Across Operating Systems</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-download-and-installation-made-easy-for-ez-grabber-users/"><u>[New] In 2024, Download and Installation Made Easy for EZ Grabber Users</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-top-10-best-webcam-covers/"><u>[New] Top 10 Best Webcam Covers</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-imagescope-critique-platform/"><u>[Updated] 2024 Approved ImageScope Critique Platform</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-how-to-use-your-switch-pro-controller-on-steam-for-2024/"><u>[Updated] How to Use Your Switch Pro Controller on Steam for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/cinema-crafting-excellence-top-5-camera-skills-to-hone/"><u>Cinema Crafting Excellence Top 5 Camera Skills to Hone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/essential-steps-for-clear-ipad-recording-for-2024/"><u>Essential Steps for Clear iPad Recording for 2024</u></a></li>
-<li><a href="https://win-webster.techidaily.com/instrucciones-sencillas-para-limpiar-con-seguridad-tu-disco-duro-por-medio-de-la-bios-e-instalar-de-nuevo-windows-sin-problemas/"><u>Instrucciones Sencillas Para Limpiar Con Seguridad Tu Disco Duro Por Medio De La BIOS E Instalar De Nuevo Windows Sin Problemas</u></a></li>
-<li><a href="https://win-bits.techidaily.com/transfer-data-from-hard-drive-to-solid-state-drive-using-two-methods-on-windows-1011/"><u>Transfer Data From Hard Drive to Solid State Drive Using Two Methods on Windows 10/11</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-easy-ways-to-solve-ps4-random-crashes-and-freezes/"><u>Troubleshooting Tips - Easy Ways to Solve PS4 Random Crashes and Freezes</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-capture-every-pixel-of-pc-gaming-bliss-6-ways/"><u>[New] Capture Every Pixel of PC Gaming Bliss (6 Ways)</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-how-to-create-or-schedule-a-google-meet-in-2024/"><u>[New] How to Create or Schedule A Google Meet, In 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-key-practices-for-soundless-media-gathering/"><u>[New] In 2024, Key Practices for Soundless Media Gathering</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-ultimate-guide-to-best-android-video-capture-software-5/"><u>[New] In 2024, Ultimate Guide to Best Android Video Capture Software #5</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-recording-conferences-on-a-budget-friendly-platform/"><u>[Updated] 2024 Approved Recording Conferences on a Budget-Friendly Platform</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-advanced-setup-setting-up-an-elapsed-time-display-in-obs-for-2024/"><u>[Updated] Advanced Setup Setting up an Elapsed Time Display in OBS for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-essential-tools-for-perfect-linux-screenshots/"><u>[Updated] In 2024, Essential Tools for Perfect Linux Screenshots</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-firefoxs-social-media-edge-top-downloader-extensions-and-addons-for-fb-content/"><u>[Updated] In 2024, FireFox's Social Media Edge Top Downloader Extensions and Addons for FB Content</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-infinix-smart-8-pro-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/high-definition-excellence-selecting-the-top-youtube-converters-for-2024/"><u>High Definition Excellence Selecting the Top YouTube Converters for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/how-can-you-stream-a-pre-recorded-video-live-on-facebook-for-2024/"><u>How Can You Stream A Pre-Recorded Video Live on Facebook for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-selecting-premium-microphones-for-ultra-hd-videography/"><u>In 2024, Selecting Premium Microphones for Ultra-HD Videography</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-elevating-your-music-mix-changing-volume-in-audacity/"><u>New Elevating Your Music Mix Changing Volume in Audacity</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-iphone-photo-challenges-8-insider-strategies-for-a-perfect-gallery/"><u>Overcoming iPhone Photo Challenges: 8 Insider Strategies for a Perfect Gallery</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/tycoon-titans-the-12-game-series-for-budding-business-masters-for-2024/"><u>Tycoon Titans The #12 Game Series for Budding Business Masters for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/word-mp3/"><u>Word から MP3 へ - テキストを音声に変換して保存方法</u></a></li>
 </ul></div>
 
