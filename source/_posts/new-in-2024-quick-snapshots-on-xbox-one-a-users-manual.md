@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Quick Snapshots on Xbox One  A User's Manual\""
-date: 2024-11-06T04:19:39.828Z
-updated: 2024-11-12T19:05:31.722Z
+date: 2024-11-07T17:52:16.890Z
+updated: 2024-11-14T06:07:07.316Z
 tags: 
   - screen-recording
   - ai video
@@ -59,10 +59,10 @@ There is nothing complicated about taking a screenshot of your favorite game on 
 ![Xbox Screenshot ](https://images.wondershare.com/filmora/article-images/xbox-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 An increasing number of video games for Xbox One can be played in 4K resolution, but in order to play a game in a 4K resolution, you must have a 4K TV set. Moreover, the 4K and HDR capabilities your TV must be enabled before you start playing an Xbox One game in 4K. Taking a 4K screenshot on Xbox One requires you to adjust the capturing settings.
@@ -71,21 +71,22 @@ Press the Xbox button on the controller, and locate the System menu. Select the 
 
 Keep in mind that 4K screenshots are significantly larger in size than those in HD or any other resolution so if you would like to share a screenshot on social media you'll first have to download it to your Windows 10 PC and resize it. What's more taking screenshots or [recording videos](https://tools.techidaily.com/wondershare/filmora/download/) on Xbox One is only possible after you launch a game.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Capture Screenshots on Xbox One Using Voice Commands
 
 ![Xbox Screenshot ](https://images.wondershare.com/filmora/article-images/xbox-voice-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Older versions of Xbox One feature the Kinect motion sensor, while the more recent versions have the Microsoft's Cortana sensor. Both of them enable you to take screenshots using voice commands. If your Xbox One has the Kinect motion sensor, you should issue the 'Xbox take a screenshot' command. Viewing the screenshot immediately after it was taken, requires you to say 'Xbox open that' and the screenshot will pop up on the screen or you can just push and hold the Xbox button on the controller.
@@ -105,10 +106,10 @@ The console you're using features the Upload app, so in order to access it, you 
 ![Xbox Screenshot ](https://images.wondershare.com/filmora/article-images/xbox-screenshot-share.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### 2. Manage and Share Xbox Screenshots via Windows 10 PC
@@ -125,13 +126,6 @@ What is your favorite method of taking screenshots on Xbox One? We're anxious to
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -147,16 +141,15 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-game-time-capture-essential-tips-for-recording-sports/"><u>2024 Approved Game-Time Capture Essential Tips for Recording Sports</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-how-to-capture-and-save-your-beloved-hulu-seasons-quickly-and-conveniently/"><u>2024 Approved How To Capture & Save Your Beloved Hulu Seasons Quickly & Conveniently</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-quickly-connect-live-with-whatsapp-desktop-in-laptop-settings/"><u>2024 Approved Quickly Connect Live with WhatsApp Desktop in Laptop Settings</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-x-audiomaster-personal-computing/"><u>2024 Approved X-AudioMaster Personal Computing</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-revolution-in-employment-trends/"><u>AI Revolution in Employment Trends</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-resolving-issues-for-a-nonfunctional-logitech-g633-microphone/"><u>Diagnosing and Resolving Issues for a Nonfunctional Logitech G633 Microphone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-nokia-g42-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Nokia G42 5G Devices | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-honor-magic-6-pro-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Honor Magic 6 Pro PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-overcoming-challenges-in-ppt-screen-capture/"><u>In 2024, Overcoming Challenges in PPT Screen Capture</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/sequenced-fantasy-quest-how-to-watch-tolkiens-masterpiece-in-proper-order/"><u>Sequenced Fantasy Quest: How to Watch Tolkien’s Masterpiece in Proper Order</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solution-found-fixing-the-local-steam-client-cannot-connect-problem-on-pc-and-mac/"><u>Solution Found! Fixing the 'Local Steam Client Cannot Connect' Problem on PC and Mac</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-avoiding-poverty-earning-in-beauty-media/"><u>[New] 2024 Approved Avoiding Poverty Earning in Beauty Media</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-change-screenshot-saving-location-on-mac/"><u>[New] Change Screenshot Saving Location on Mac</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-boosting-gaming-engagement-with-high-quality-steam-captures/"><u>[Updated] Boosting Gaming Engagement with High Quality Steam Captures</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-effortless-screen-capturing-with-your-iphone-7-for-2024/"><u>[Updated] Effortless Screen Capturing with Your iPhone 7 for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-enigmatic-engagements-in-top-escape-venues/"><u>[Updated] In 2024, Enigmatic Engagements in Top Escape Venues</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-initiating-a-thriving-youtube-channel-avoid-these-8-essential-blunders/"><u>2024 Approved Initiating a Thriving YouTube Channel? Avoid These 8 Essential Blunders!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/budget-friendly-smart-viewing-insignia-ns-43df710na19-with-amazons-alexa-and-uhd-support/"><u>Budget-Friendly Smart Viewing: Insignia NS-43DF710NA19 with Amazon's Alexa and UHD Support</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-to-resolve-iomap64-blue-screen-error-in-win108/"><u>Quick Guide to Resolve IOMap64 Blue Screen Error in Win10/8</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-photoshop-scratch-disks-at-capacity-effective-solutions/"><u>Solving Photoshop Scratch Disks at Capacity: Effective Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-a-crash-free-experience-with-everspace-2-on-windows-computers/"><u>Ultimate Guide to a Crash-Free Experience with Everspace 2 on Windows Computers</u></a></li>
 </ul></div>
 

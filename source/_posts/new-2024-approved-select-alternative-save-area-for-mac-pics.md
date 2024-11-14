@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Select Alternative Save Area for Mac Pics\""
-date: 2024-11-09T06:52:15.005Z
-updated: 2024-11-12T18:22:47.472Z
+date: 2024-11-07T22:20:11.924Z
+updated: 2024-11-14T00:10:23.881Z
 tags: 
   - screen-recording
   - ai video
@@ -48,18 +48,18 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
 
 Changing the folder where you store your screenshots is not an irreversible process, which means that you can reset the destination where the files are saved to Desktop at any point. Do not delete the new folder, because your Mac may not be able to take screenshots, afterward. The process described below is the only way you can delete a folder or add a new destination for your screenshots, and failing to comply with it may cause your Mac to malfunction.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
 
@@ -70,10 +70,10 @@ Then enter a space at the end after 'location'.
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
@@ -87,10 +87,10 @@ To execute the command you have to press Enter. After Terminal finishes running 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
@@ -106,10 +106,10 @@ Don't forget that deleting the folder you use as a default location for storing 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -127,21 +127,21 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-happy-enrollment-and-logout-flowchart/"><u>[New] Happy Enrollment & Logout Flowchart</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-camrecorder-essential-techniques-for-gaming-pros/"><u>[New] In 2024, CamRecorder Essential Techniques for Gaming Pros</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-humorhub-design-your-own-jokes-and-gifs/"><u>[Updated] HumorHub Design Your Own Jokes and Gifs</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-becoming-an-expert-at-obs-studio-android-focus/"><u>[Updated] In 2024, Becoming an Expert at OBS Studio Android Focus</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-comparative-study-on-vlc-video-capture/"><u>[Updated] In 2024, Comparative Study on VLC Video Capture</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-smart-choices-the-finest-android-screenshot-tools-5-for-2024/"><u>[Updated] Smart Choices The Finest Android Screenshot Tools, 5 for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-top-10-moba-games-for-android-gamers-unveiled-for-2024/"><u>[Updated] Top 10 MOBA Games for Android Gamers Unveiled for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-ultimate-free-video-meeting-checklist-with-desktop-views/"><u>[Updated] Ultimate Free Video Meeting Checklist - With Desktop Views</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/diving-into-action-how-to-shoot-impressive-underwater-gopro-videos/"><u>Diving Into Action How to Shoot Impressive Underwater GoPro Videos</u></a></li>
-<li><a href="https://win-able.techidaily.com/eliminating-stuttering-for-smoother-gameplay-a-guide-to-optimizing-gta-5/"><u>Eliminating Stuttering for Smoother Gameplay: A Guide to Optimizing GTA 5</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhancing-the-efficacy-of-cancer-therapies-with-endocannabinoid-modulation/"><u>Enhancing the Efficacy of Cancer Therapies with Endocannabinoid Modulation</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/essential-narrative-youtube-stars-to-watch-out-for/"><u>Essential Narrative YouTube Stars to Watch Out For</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/expert-breakdown-vsdc-review-and-alternative-comparisons/"><u>Expert Breakdown VSDC Review & Alternative Comparisons</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/league-of-legends-speech-problems-heres-how-you-can-solve-them/"><u>League of Legends Speech Problems? Here's How You Can Solve Them</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/plex-vs-studio-prodigies-for-2024/"><u>Plex vs Studio Prodigies for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/winning-ways-top-8-video-capture-applications-for-windows-for-2024/"><u>Winning Ways Top 8 Video Capture Applications for Windows for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-capturing-clear-and-clean-vocal-audio-for-your-videos/"><u>[New] 2024 Approved Capturing Clear and Clean Vocal Audio for Your Videos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-essential-free-mp3-recorder-for-skype-chats/"><u>[New] 2024 Approved Essential Free MP3 Recorder for Skype Chats</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-the-elite-list-of-youtube-player-applications/"><u>[New] The Elite List of YouTube Player Applications</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-audio-enabled-mac-video-recorder/"><u>[Updated] 2024 Approved Audio-Enabled Mac Video Recorder</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-pawsome-playtime-12-android-titles-to-try-now/"><u>[Updated] 2024 Approved Pawsome Playtime 12 Android Titles to Try Now</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-mastery-of-digital-recording-step-by-step-insight-for-2024/"><u>[Updated] Mastery of Digital Recording - Step-by-Step Insight for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-solutions-resolving-the-windows-0xc000012f-stop-error/"><u>Effortless Solutions: Resolving the Windows 0xC000012F Stop Error</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-itel-p40plus-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Itel P40+ to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-apple-iphone-8-lock-screen-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From Apple iPhone 8 Lock Screen</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-top-5-video-frame-captures-for-mac/"><u>In 2024, Top 5 Video Frame Captures for Mac</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-unlocking-the-art-of-film-preservation-in-tech-era/"><u>In 2024, Unlocking the Art of Film Preservation in Tech Era</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-game-capture-clarified-for-2024/"><u>In-Game Capture Clarified for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-honor-90-pro-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Honor 90 Pro Phone Now with These Tips</u></a></li>
+<li><a href="https://howto.techidaily.com/play-store-stuck-on-downloading-of-realme-c53-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Realme C53? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/prodvd-clone-master-quick-and-secure-rip-and-convert-for-windows-10-users/"><u>ProDVD Clone Master: Quick and Secure Rip & Convert for Windows 10 Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-window-apps-with-easy-internet-troubleshooting-steps/"><u>Streamline Window Apps with Easy Internet Troubleshooting Steps</u></a></li>
 </ul></div>
 

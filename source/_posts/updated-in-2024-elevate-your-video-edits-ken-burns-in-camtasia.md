@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Elevate Your Video Edits  Ken Burns in Camtasia\""
-date: 2024-11-07T19:19:22.572Z
-updated: 2024-11-12T23:36:35.848Z
+date: 2024-11-12T17:06:31.310Z
+updated: 2024-11-13T21:53:31.662Z
 tags: 
   - screen-recording
   - ai video
@@ -48,10 +48,10 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -63,10 +63,10 @@ That's not to say that Filmora only offers basic features as it has a wide range
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
@@ -94,16 +94,10 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -121,21 +115,24 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-map-masterpieces-excellent-quests-for-gold/"><u>[New] 2024 Approved Map Masterpieces Excellent Quests for Gold</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-stream-it-record-it-facebook-live-tips-and-tricks/"><u>[New] In 2024, Stream It, Record It Facebook Live Tips & Tricks</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-ultimate-guide-to-purchasing-asmr-microphones/"><u>[New] Ultimate Guide to Purchasing ASMR Microphones</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-essential-steps-for-effective-screen-capture-in-adobe-captivity/"><u>[Updated] 2024 Approved Essential Steps for Effective Screen Capture in Adobe Captivity</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-tailoring-meet-backdrop-for-enhanced-presentations/"><u>[Updated] 2024 Approved Tailoring Meet Backdrop for Enhanced Presentations</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-empowerment-in-entertainment-top-10-inspirational-women/"><u>[Updated] In 2024, Empowerment in Entertainment Top 10 Inspirational Women</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-solved-dead-obs-camera-for-2024/"><u>[Updated] Solved Dead OBS Camera for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-honor-play-40c-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Honor Play 40C | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-asrocks-latest-gem-a-breathtaking-32-inch-480hz-oled-screen-to-elevate-your-experience/"><u>Discover ASROCK's Latest Gem: A Breathtaking 32-Inch 480Hz OLED Screen to Elevate Your Experience</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebooks-strategy-questioned-over-giphy-integration/"><u>Facebook's Strategy Questioned Over Giphy Integration</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-repair-your-iphones-sound-malfunction-eliminating-silence-and-echoes/"><u>How to Repair Your iPhone's Sound Malfunction - Eliminating Silence & Echoes</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-best-practices-for-video-game-archiving-on-playstation-4/"><u>In 2024, Best Practices for Video Game Archiving on PlayStation 4</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Samsung Galaxy M14 5G? | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-how-to-angle-videos-for-improved-viewership/"><u>In 2024, How to Angle Videos for Improved Viewership</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-itel-p55t-easily-by-drfone-android/"><u>In 2024, How To Unlock a Itel P55T Easily?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-oppo-a79-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Oppo A79 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-az-vision-recorder-complete-application-audits-and-substitutes/"><u>[New] 2024 Approved AZ Vision Recorder Complete Application Audits & Substitutes</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-breaking-down-the-finest-liquid-simulation-games/"><u>[New] Breaking Down the Finest Liquid Simulation Games</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-comparing-sharex-with-industry-leaders/"><u>[New] Comparing ShareX with Industry Leaders</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-expert-advice-on-iphone-7-display-recording/"><u>[New] Expert Advice on iPhone 7 Display Recording</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-how-to-conduct-screenshares-in-zoom/"><u>[New] How to Conduct Screenshares in Zoom</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-share-videos-directly-on-twitter-via-mobile-devices-only/"><u>[New] In 2024, Share Videos Directly on Twitter via Mobile Devices Only</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-the-ultimate-mix-of-youtube-and-instagram-feeds/"><u>[New] In 2024, The Ultimate Mix of YouTube & Instagram Feeds</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-explore-5-premier-mac-cam-recording-software-beyond-bandicam/"><u>[Updated] Explore 5 Premier Mac Cam Recording Software Beyond Bandicam</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-macbook-airs-hidden-potential-expertise-in-screen-capturing-for-2024/"><u>[Updated] MacBook Air's Hidden Potential Expertise in Screen Capturing for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-secure-your-device-footage-with-mi-11-techniques/"><u>[Updated] Secure Your Device Footage with Mi 11 Techniques</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-comprehensive-guide-to-lg-media-and-distribution-avenues/"><u>A Comprehensive Guide to LG Media & Distribution Avenues</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/best-mac-capture-software-excluding-traditional-bandicam/"><u>Best Mac Capture Software Excluding Traditional Bandicam</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-12-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 12 without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-fine-tuning-dimensions-aspect-ratio-essentials/"><u>In 2024, Fine-Tuning Dimensions Aspect Ratio Essentials</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/post-turing-ponderings-new-lenses-for-intelligence-judgement/"><u>Post-Turing Ponderings: New Lenses for Intelligence Judgement</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-pc-game-file-corruption-issues-updated-techniques-for-2eplust4/"><u>Resolving PC Game File Corruption Issues - Updated Techniques for 2E+t4</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-samsung-galaxy-f34-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Samsung Galaxy F34 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/snap-shooting-techniques-for-zoom-calls/"><u>Snap Shooting Techniques for Zoom Calls</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-top-10-best-cartoon-video-maker-apps-on-android-and-iphone/"><u>Updated 2024 Approved Top 10 Best Cartoon Video Maker Apps on Android and iPhone</u></a></li>
 </ul></div>
 

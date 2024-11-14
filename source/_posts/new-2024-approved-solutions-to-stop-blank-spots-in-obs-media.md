@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Solutions to Stop Blank Spots in OBS Media\""
-date: 2024-11-11T07:48:04.798Z
-updated: 2024-11-13T09:16:36.372Z
+date: 2024-11-08T05:48:48.965Z
+updated: 2024-11-13T18:33:25.191Z
 tags: 
   - screen-recording
   - ai video
@@ -58,13 +58,6 @@ Step 3: You have to reduce Output Resolution from the current or default setting
 
 ![obs reduce the output resolution](https://images.wondershare.com/filmora/article-images/obs-reduce-the-output-resolution.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 4: Click Apply for saving the changes followed by Ok button.
 
 ## Way 3\. Reduce The Video Bitrate
@@ -109,6 +102,13 @@ Follow the onscreen instruction to complete the process and restart your compute
 
 ![device manager update network driver](https://images.wondershare.com/filmora/article-images/device-manager-update-network-driver-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Way 6\. Turn Off Your Firewall and Antivirus
 
 There can be instances where firewalls can block the port for RTMP. It can interfere with the internet connection leading to dropping frames. Similarly, antivirus software messes with any third-party software and prevents regular operations. You have to temporarily turn off real-time protection as well as the antivirus software. Here are the steps to follow.
@@ -121,11 +121,25 @@ Step 3: Turn off firewall for domain, private and public network temporarily to 
 
 ![turn off your firewall and antivirus](https://images.wondershare.com/filmora/article-images/turn-off-your-firewall-and--antivirus.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 4: Go to Virus & Threat Protection.
 
 Step 5: Under Virus & Threat Protection section. Click on Manage Settings.
 
 ![window security manage settings](https://images.wondershare.com/filmora/article-images/window-security-manage-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 6: Turn on real-time Protection option as well as other available options as applicable.
 
@@ -149,16 +163,16 @@ Step 2: Choose recording screen dimensions and audio sources. You can enable Rec
 
 ![set audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 3: Click on Record button to start recording. Use F9 hotkey to stop recording. You can your recording instantly and click on Export button to save on your hard drive.
 
 ![export the masterpiece](https://images.wondershare.com/filmora/article-images/export-the-masterpiece.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -279,10 +293,10 @@ Step 3: Click on Record button to start recording. Use F9 hotkey to stop recordi
 ![export the masterpiece](https://images.wondershare.com/filmora/article-images/export-the-masterpiece.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -303,6 +317,19 @@ Step 3: Right-click on the OBS icon and select Run As Administrator option.
 
 ![obs run as an administrator](https://images.wondershare.com/filmora/article-images/obs-run-as-an-administrator.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Way 2\. Reduce The Output Resolution
 
 When you reduce the resolution, the video quality gets lowered. But for smooth streaming and recording, you have no other option. When you reduce resolution, you require less CPU usage and less internet bandwidth. Here are the steps to follow.
@@ -316,13 +343,6 @@ Step 3: You have to reduce Output Resolution from the current or default setting
 ![obs reduce the output resolution](https://images.wondershare.com/filmora/article-images/obs-reduce-the-output-resolution.jpg)
 
 Step 4: Click Apply for saving the changes followed by Ok button.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Way 3\. Reduce The Video Bitrate
 
@@ -428,6 +448,13 @@ Step 3: Right-click on the OBS icon and select Run As Administrator option.
 
 ![obs run as an administrator](https://images.wondershare.com/filmora/article-images/obs-run-as-an-administrator.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Way 2\. Reduce The Output Resolution
 
 When you reduce the resolution, the video quality gets lowered. But for smooth streaming and recording, you have no other option. When you reduce resolution, you require less CPU usage and less internet bandwidth. Here are the steps to follow.
@@ -439,13 +466,6 @@ Step 2: Select Video tab. You will see Base and Output resolution.
 Step 3: You have to reduce Output Resolution from the current or default setting.
 
 ![obs reduce the output resolution](https://images.wondershare.com/filmora/article-images/obs-reduce-the-output-resolution.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 4: Click Apply for saving the changes followed by Ok button.
 
@@ -463,6 +483,13 @@ Step 4: Click on Apply and OK button.
 
 ![obs reduce the video birate](https://images.wondershare.com/filmora/article-images/obs-reduce-the-video-birate.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Way 4\. Change OBS Process Priority
 
 By changing the OBS process priority from Normal to Above Normal, there could be more processing power availability for OBS Studio. It helps in solving the problem of frame drop by driving performance from the system for better encoding and rendering. Here are the steps for changing OBS process priority.
@@ -474,13 +501,6 @@ Step 3: Go to Advanced tab and look for Process Priority.
 Step 4: You will have to change it to 'Above Normal' from ‘Normal’.
 
 Step 5: Click Apply followed by Ok button.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Way 5\. Update Network Driver
 
@@ -498,13 +518,6 @@ Follow the onscreen instruction to complete the process and restart your compute
 
 ![device manager update network driver](https://images.wondershare.com/filmora/article-images/device-manager-update-network-driver-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Way 6\. Turn Off Your Firewall and Antivirus
 
 There can be instances where firewalls can block the port for RTMP. It can interfere with the internet connection leading to dropping frames. Similarly, antivirus software messes with any third-party software and prevents regular operations. You have to temporarily turn off real-time protection as well as the antivirus software. Here are the steps to follow.
@@ -516,13 +529,6 @@ Step 2: Open Firewall & Network Protection.
 Step 3: Turn off firewall for domain, private and public network temporarily to fix dropping frame issue.
 
 ![turn off your firewall and antivirus](https://images.wondershare.com/filmora/article-images/turn-off-your-firewall-and--antivirus.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 4: Go to Virus & Threat Protection.
 
@@ -584,19 +590,18 @@ OBS drop frame is probably the most common issue reported by OBS users. Whenever
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-quick-steps-to-convert-macs-image-file-types/"><u>[New] 2024 Approved Quick Steps to Convert Mac's Image File Types</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-unleash-creativity-designing-awe-inspiring-covers-for-instagram-highlights/"><u>[New] 2024 Approved Unleash Creativity Designing Awe-Inspiring Covers for Instagram Highlights</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-decode-and-listen-srt-files-in-winosx/"><u>[New] In 2024, Decode and Listen SRT Files in Win/OSX</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-steps-to-activate-windows-11-auto-hdr-option/"><u>[New] In 2024, Steps to Activate Windows 11 Auto-HDR Option</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-the-hd-chronicles-of-twitters-visual-content-for-2024/"><u>[New] The HD Chronicles of Twitter's Visual Content for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-top-10-forgetful-fun-mobile-idle-escapes/"><u>[New] Top 10 Forgetful Fun Mobile Idle Escapes</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-expert-insights-into-mov-file-recording-on-latest-win-11-edition-for-2024/"><u>[Updated] Expert Insights Into .MOV File Recording on Latest Win 11 Edition for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-how-to-use-whiteboard-in-zoom-meeting/"><u>[Updated] How to Use Whiteboard in Zoom Meeting</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-tips-for-recording-high-quality-mov-video-on-windows-11/"><u>[Updated] Tips for Recording High-Quality MOV Video on Windows 11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/essential-tips-for-reverting-your-airpods-back-to-original-state-ideal-scenarios-explored-gadgetguru/"><u>Essential Tips for Reverting Your AirPods Back to Original State – Ideal Scenarios Explored | GadgetGuru</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-optimize-your-viewing-experience-on-youtube-with-speed-settings/"><u>In 2024, Optimize Your Viewing Experience on YouTube with Speed Settings</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-top-video-platforms-safe-and-streamlined-sme-solutions/"><u>In 2024, Top Video Platforms Safe & Streamlined SME Solutions</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-poco-c65-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Poco C65 and Browser | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-future-of-search-can-gpt-disrupt-it/"><u>The Future of Search: Can GPT Disrupt It?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-audio-layers-for-professional-videography-premiere-pro-edition/"><u>[New] 2024 Approved Audio Layers for Professional Videography Premiere Pro Edition</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-seamless-transitions-made-simple-screen-record-with-aiseesoft/"><u>[New] 2024 Approved Seamless Transitions Made Simple Screen Record With Aiseesoft</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-top-tier-tech-a-comparison-of-the-best-9-microphone-apps/"><u>[New] 2024 Approved Top-Tier Tech A Comparison of the Best 9 Microphone Apps</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-radeon-relive-download-and-review/"><u>[New] Radeon Relive Download and Review</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-unified-webcamscreen-capture-strategies/"><u>[New] Unified Webcam/Screen Capture Strategies</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-visual-cohesion-through-simple-fading-techniques/"><u>[New] Visual Cohesion Through Simple Fading Techniques</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-unlocking-screen-record-features-in-hp-computers-for-2024/"><u>[Updated] Unlocking Screen Record Features in HP Computers for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2023s-ultimate-guide-to-choosing-the-right-roku-stick-and-smart-televisions-expert-insights-from-zdnet/"><u>2023'S Ultimate Guide to Choosing the Right Roku Stick and Smart Televisions – Expert Insights From ZDNET</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-metaverse-musings-top-30-quotes-for-immersive-living/"><u>2024 Approved Metaverse Musings Top 30 Quotes for Immersive Living</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/oleaut32dll-absent-heres-how-you-can-correctly-fix-it/"><u>Oleaut32.dll Absent? Here's How You Can Correctly Fix It</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-the-hurdle-of-initializing-resident-evil-5-on-personal-computers/"><u>Overcoming the Hurdle of Initializing Resident Evil 5 on Personal Computers</u></a></li>
+<li><a href="https://games-able.techidaily.com/split-screen-showdown-top-mobile-games-for-dual-players-15-great-options/"><u>Split Screen Showdown: Top Mobile Games for Dual Players (15 Great Options)</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-top-subtitle-editors-for-mac-alternatives-to-subtitle-edit/"><u>Updated Top Subtitle Editors for Mac Alternatives to Subtitle Edit</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Onboard Recorder Use in Huawei Mate and P Series (Mate 10, Mate 20; P20, P10)"
-date: 2024-11-07T19:37:38.265Z
-updated: 2024-11-12T17:48:00.525Z
+date: 2024-11-08T01:44:37.011Z
+updated: 2024-11-13T20:44:29.710Z
 tags: 
   - screen-recording
   - ai video
@@ -51,10 +51,10 @@ In case you were looking for a way to record a screen on a Huawei Smartphone, yo
 ![Record Screen on Huawei](https://images.wondershare.com/filmora/article-images/record-screen-on-huawei.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Capture Screen on a Huawei Smartphone
@@ -66,13 +66,6 @@ With the built-in [screen record](https://tools.techidaily.com/wondershare/filmo
 Pull-down notification panel from the top, find the Screen Recorder shortcut icon, and tap it to enable the screen recording feature. A notification will appear on your screen asking you if you want to enable the phone's screencasting feature. Read the notification and instructions carefully and tap Agree to start the screen recording. To stop recording, just go to the notification panel again, and tap the screen recorder icon again and the screen recording will be stopped.
 
 ![Huawei Smartphone screen recorder](https://images.wondershare.com/filmora/article-images/huawei-screen-recorder-shortcut.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### 2. Pressing Buttons to Record Huawei Screen
 
@@ -90,6 +83,19 @@ Before using the double knuckles to record the screen activities, you need to en
 
 ![Huawei Smartphone screen recorder](https://images.wondershare.com/filmora/article-images/hauwei-record-screen-knuckle-gesture-setting.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If you want to record the screen video, just knock the screen with two knuckles twice continuously when your Huawei phone is not sleeping. Read the information on the popped up window and tap **Agree** to start the screen recording. You can stop the screen recording by knocking the screen twice with two knuckles again.
 
 The maximum duration of the screen recording you can make can't exceed the five-minute limit. If you would like to capture longer videos of your screen, you can do so by using free third-party [screen recording apps for Android](https://tools.techidaily.com/wondershare/filmora/download/), such as AZ Recorder. But if you are using the built-in screen recording feature on Huawei smartphone, the recording function of the third-party apps will be disabled.
@@ -99,10 +105,10 @@ The maximum duration of the screen recording you can make can't exceed the five-
 All screen recordings you create will be displayed in the phone's **Gallery** app. Locate the Screenshots or Screen Recordings folder on the Albums tab and then tap on the Share icon if you would like to post the recording on social media or send it to a friend. Hit the Delete button to remove the recording from your phone. Follow the on-screen instructions to complete either of these two processes.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -112,10 +118,10 @@ Capturing your phone's screen can help you entertain your friends and followers 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -133,24 +139,16 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-the-ultimate-guide-to-steam-pro-controllers-on-switch/"><u>[New] In 2024, The Ultimate Guide to Steam Pro Controllers on Switch</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ey-tactics-for-identifying-potential-youtube-co-stars-for-2024/"><u>[New] Key Tactics for Identifying Potential YouTube Co-Stars for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-midgard-alliance-the-ragnarok-saga-begins/"><u>[New] Midgard Alliance The Ragnarök Saga Begins</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-future-of-3d-color-grading-tools/"><u>[New] The Future of 3D Color Grading Tools</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-capture-and-share-live-to-the-max-with-4-pro-tips-on-fb/"><u>[Updated] 2024 Approved Capture and Share Live to The Max with 4 Pro Tips on FB</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-digital-detailing-expert-tips-for-attaching-dates-in-photography-for-2024/"><u>[Updated] Digital Detailing Expert Tips for Attaching Dates in Photography for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-direct-engagement-syncing-instagram-with-facebook/"><u>[Updated] Direct Engagement Syncing Instagram with Facebook</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-evaluationcast-breakdown/"><u>[Updated] EvaluationCast Breakdown</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-expert-advice-on-archiving-lol-fights-for-2024/"><u>[Updated] Expert Advice on Archiving LOL Fights for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-documenting-xbox-gaming-tips-and-tricks/"><u>[Updated] In 2024, Documenting Xbox Gaming Tips & Tricks</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-navigating-the-nuances-of-professional-voice-over-workflow/"><u>[Updated] Navigating the Nuances of Professional Voice Over Workflow</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-superior-selection-androids-leading-video-call-for-large-groups/"><u>[Updated] Superior Selection Android's Leading Video Call for Large Groups</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-real-time-recording-for-gamers-explained/"><u>2024 Approved Real-Time Recording for Gamers Explained</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/2024-approved-top-5-best-websites-to-add-emojis-to-photo-online/"><u>2024 Approved Top 5 Best Websites to Add Emojis to Photo Online</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/google-meet-a-self-teached-path-for-hosts-and-attendees/"><u>Google Meet A Self-Teached Path for Hosts & Attendees</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-vivo-y78plus-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Vivo Y78+ to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-lightning-lanes-moving-iphone-photos-to-pc/"><u>In 2024, Lightning Lanes Moving iPhone Photos to PC</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-the-landscape-of-motion-sensing-technology/"><u>In 2024, Navigating the Landscape of Motion Sensing Technology</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/propel-your-career-navigating-workspaces-transformed-by-ai/"><u>Propel Your Career: Navigating Workspaces Transformed by AI</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-windows-guide-free-tools-for-capturing-live-tv/"><u>[New] Windows Guide Free Tools for Capturing Live TV</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-comparing-leading-screen-recorder-software/"><u>[Updated] Comparing Leading Screen Recorder Software</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-ultimate-5-minute-timelapse-video-maker/"><u>[Updated] Ultimate 5-Minute Timelapse Video Maker</u></a></li>
+<li><a href="https://win-answers.techidaily.com/3dvd/"><u>「地域ブロック3に制限されたDVDのプレイバック手順とトラブルシューティング」</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-how-to-pick-a-preferred-screen-recorder-app/"><u>2024 Approved How to Pick a Preferred Screen Recorder App</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-xiaomi-redmi-note-12t-pro-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Xiaomi Redmi Note 12T Pro Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-vivo-g2-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Vivo G2</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/securing-every-moment-tips-for-reliable-capture-of-google-meet-sessions-for-2024/"><u>Securing Every Moment Tips for Reliable Capture of Google Meet Sessions for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/strategies-to-fix-an-expanded-pagefilesys-file-size-problem/"><u>Strategies to Fix an Expanded Pagefile.sys File Size Problem</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/techniques-for-high-quality-in-game-recordings-for-2024/"><u>Techniques for High-Quality In-Game Recordings for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-great-digital-migration-4-reasons-people-abandon-facebook/"><u>The Great Digital Migration: 4 Reasons People Abandon Facebook</u></a></li>
 </ul></div>
 

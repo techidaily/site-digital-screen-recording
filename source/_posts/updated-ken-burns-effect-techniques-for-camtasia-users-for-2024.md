@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Ken Burns Effect Techniques for Camtasia Users for 2024"
-date: 2024-10-22T16:57:13.053Z
-updated: 2024-10-29T16:12:29.981Z
+date: 2024-11-08T20:20:19.182Z
+updated: 2024-11-14T03:15:33.497Z
 tags: 
   - screen-recording
   - ai video
@@ -48,10 +48,10 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -63,10 +63,10 @@ That's not to say that Filmora only offers basic features as it has a wide range
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
@@ -94,10 +94,10 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -115,18 +115,24 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-crafting-collabs-for-youtube-channel-expansion/"><u>[New] 2024 Approved Crafting Collabs for YouTube Channel Expansion</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-innovativemovaviscreenx-a-tech-enthusiasts-review/"><u>[New] 2024 Approved InnovativeMovaviScreenX A Tech Enthusiast’s Review</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-continuous-media-archiving-for-2024/"><u>[New] Continuous Media Archiving for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-how-to-live-stream-360-videos-on-facebook/"><u>[New] In 2024, How to Live Stream 360 Videos on Facebook</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-instantly-access-all-episodes-premium-downloader-tools-reviewed/"><u>[New] Instantly Access All Episodes Premium Downloader Tools Reviewed</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-vimeo-vs-youtube-a-content-creators-guide/"><u>[New] Vimeo Vs. YouTube A Content Creator's Guide</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-mastering-the-art-of-digital-recording-for-gotomeet-sessions/"><u>[Updated] In 2024, Mastering the Art of Digital Recording for GoToMeet Sessions</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-nvidia-method-to-perfect-gaming-replays-for-2024/"><u>[Updated] The NVIDIA Method to Perfect Gaming Replays for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-comprehensive-guide-to-integrating-skype-with-obs/"><u>2024 Approved Comprehensive Guide to Integrating Skype with OBS</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-top-tools-for-efficient-video-capture-on-windows-11/"><u>2024 Approved Top Tools for Efficient Video Capture on Windows 11</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/effortless-fb-stream-setup-using-obs-on-laptops-mac-and-pc/"><u>Effortless FB Stream Setup Using OBS on Laptops, Mac & PC</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Vivo S17e? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/newly-disclosed-intel-reports-suggest-persistent-stability-issues-beyond-power-surge-woes/"><u>Newly Disclosed Intel Reports Suggest Persistent Stability Issues Beyond Power Surge Woes</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-instagrams-best-but-unseen-your-guide/"><u>[New] 2024 Approved Instagram's Best, But Unseen - Your Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-your-pc-snipping-guide-the-best-tools-to-try-first/"><u>[New] 2024 Approved Your PC Snipping Guide The Best Tools to Try First</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-become-a-streaming-star-utilizing-obs-capabilities/"><u>[New] Become a Streaming Star Utilizing OBS Capabilities</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-diving-deep-into-gopro-variants-comprehensive-guide-for-2024/"><u>[New] Diving Deep Into Gopro Variants Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-the-leading-virtual-realities-iphone-and-android-guide/"><u>[New] In 2024, The Leading Virtual Realities IPhone & Android Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-professional-insights-into-recording-quality-conversations-on-facetime/"><u>[Updated] 2024 Approved Professional Insights Into Recording Quality Conversations on FaceTime</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-worlds-beyond-borders-best-10-mmo-adventures-for-free/"><u>[Updated] 2024 Approved Worlds Beyond Borders Best 10 MMO Adventures for Free</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-asmr-sound-mastery-selecting-the-ideal-microphone/"><u>[Updated] ASMR Sound Mastery Selecting the Ideal Microphone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-essential-virtual-road-racers-guide/"><u>[Updated] In 2024, Essential Virtual Road Racers Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-the-essentials-of-navigating-ez-grabber-interface/"><u>[Updated] In 2024, The Essentials of Navigating EZ Grabber Interface</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-premiere-10-battle-royale-titles-for-2024/"><u>[Updated] Premiere 10 Battle Royale Titles for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conversion-gratuite-de-fichiers-wma-en-formats-vob-en-ligne-utiliser-movavi/"><u>Conversion Gratuite De Fichiers WMA en Formats VOB en Ligne - Utiliser Movavi</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/elite-fighting-top-10-royale-action-experiences/"><u>Elite Fighting Top 10 Royale Action Experiences</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-on-fixing-a-nonfunctional-logitech-g230-mic-a-step-by-step-guide/"><u>Expert Advice on Fixing a Nonfunctional Logitech G230 Mic - A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-samsung-galaxy-a54-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Samsung Galaxy A54 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-the-ultimate-pc-workaround-for-console-gaming-recordings/"><u>In 2024, The Ultimate PC Workaround for Console Gaming Recordings</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/mastering-google-meet-setup-and-scheduling-guide/"><u>Mastering Google Meet Setup and Scheduling Guide</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-g24-power-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from G24 Power</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/tips-and-tricks-voice-overseas-that-elevate-your-film-projects/"><u>Tips & Tricks Voice Overseas That Elevate Your Film Projects</u></a></li>
 </ul></div>
 

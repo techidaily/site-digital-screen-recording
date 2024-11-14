@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, E-Education Video Logging\""
-date: 2024-10-24T16:48:28.700Z
-updated: 2024-10-29T16:20:43.708Z
+date: 2024-11-10T04:03:36.460Z
+updated: 2024-11-13T21:48:55.218Z
 tags: 
   - screen-recording
   - ai video
@@ -48,13 +48,6 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Record Webinars
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-rose-win.png)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-rose-mac.png)](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -73,6 +66,13 @@ Select the Quick Capture option in the software's welcome screen and proceed to 
 
 ![Filmora scrn setup](https://images.wondershare.com/filmora/guide/setup-screen.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Enabling the Camera option will allow you to capture your screen simultaneously while recording a video with your webcam. This option is particularly useful for people that want to create a webinar that also features them as narrators.
 
 The Audio option contains Microphone and Computer audio options that can be used to select the microphone you are going to utilize during the screen recording session.
@@ -80,6 +80,13 @@ The Audio option contains Microphone and Computer audio options that can be used
 #### 3. Recording a webinar
 
 ![Filmora scrn setup](https://images.wondershare.com/filmora/guide/scrn-record-screen.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 In order to start recording your webinar, you just need to click on the Record button. Filmora Scrn also allows you to record your **webcam** and your **secondary display**, which is very convenient for webinar recording. During the session, you can add [markers](https://tools.techidaily.com/wondershare/filmora/download/) to the footage you're producing by pressing the F8 key on your keyboard or pause the session with the F9 key.
 
@@ -100,17 +107,10 @@ Following these simple steps will help you produce insightful and well-rounded w
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-rose-win.png)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-rose-mac.png)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Tips for Recording Webinars
@@ -122,10 +122,10 @@ Making sure that all the settings are adjusted properly and that the amount of b
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -143,24 +143,24 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://techno-recovery.techidaily.com/email-protected-exciting-rumors-and-anticipated-innovations-for-apples-upcoming-event/"><u>[Email Protected]: Exciting Rumors and Anticipated Innovations for Apple's Upcoming Event</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/verage-revenue-what-every-view-contributes-to-creators/"><u>[New] Average Revenue What Every View Contributes to Creators</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-comparing-the-most-popular-linux-snapshots-tools-for-2024/"><u>[New] Comparing the Most Popular Linux Snapshots Tools for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-best-of-nintendo-switch-fighting-apps-guide-max-156/"><u>[New] In 2024, Best of Nintendo Switch Fighting Apps Guide (Max 156)</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-efficiently-photograph-your-pcs-view/"><u>[New] In 2024, Efficiently Photograph Your PC's View</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-revolutionary-software-evolving-the-way-we-record-games/"><u>[New] In 2024, Revolutionary Software Evolving the Way We Record Games</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-pinnacle-gold-text-rendering-in-top-8-3d-web-spaces-for-2024/"><u>[New] Pinnacle Gold Text Rendering in Top 8 3D Web Spaces for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-broadcasting-conferences-with-no-expense-account-for-2024/"><u>[Updated] Broadcasting Conferences with No Expense Account for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-minecrafts-oriental-elegance-6-top-ideas/"><u>[Updated] In 2024, Minecraft's Oriental Elegance 6 Top Ideas</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-premium-window-calls-top-8-standout-titles-for-2024/"><u>[Updated] Premium Window Calls Top 8 Standout Titles for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-pro-tips-for-pioneering-board-use-in-webinars-android-iphone-and-windows-users/"><u>[Updated] Pro Tips for Pioneering Board Use in Webinars Android, iPhone & Windows Users</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-the-blueprint-to-instagram-profit-partnerships-beyond-likes-and-shares/"><u>[Updated] The Blueprint to Instagram Profit Partnerships Beyond Likes and Shares</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-expertly-record-your-win11-display/"><u>2024 Approved Expertly Record Your Win11 Display</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-soundsreview-summary/"><u>2024 Approved SoundsReview Summary</u></a></li>
-<li><a href="https://fox-access.techidaily.com/high-definition-spectacle-our-top-7-camera-lineup/"><u>High-Definition Spectacle Our Top 7 Camera Lineup</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Realme Note 50 | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/overcoming-connectivity-hiccups-making-your-apple-watch-record-standing-accurately/"><u>Overcoming Connectivity Hiccups: Making Your Apple Watch Record Standing Accurately</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/top-8-best-screen-recorders-with-no-lag-for-2024/"><u>Top 8 Best Screen Recorders with No Lag for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-lost-arks-frame-rate-challenges-and-performance-drops/"><u>Troubleshooting Lost Ark's Frame Rate Challenges and Performance Drops</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-obs-meets-shadowcast/"><u>[Updated] 2024 Approved OBS Meets ShadowCast</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-circle-construction-in-minecraft-the-ultimate-guide-for-2024/"><u>[Updated] Circle Construction in Minecraft The Ultimate Guide for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-unlock-video-communication-using-whatsapp-browser-on-your-notebook-pc/"><u>[Updated] In 2024, Unlock Video Communication Using WhatsApp Browser on Your Notebook PC</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-streaming-titans-clash-streamlabs-versus-obs-in-the-arena/"><u>[Updated] Streaming Titans Clash Streamlabs versus OBS in the Arena</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-top-tier-free-screen-capture-programs-2023-edition-for-2024/"><u>[Updated] Top-Tier Free Screen Capture Programs – 2023 Edition for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-windows-snapshot-mastery-3-easy-approaches/"><u>[Updated] Windows Snapshot Mastery (3 Easy Approaches)</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-scout-platforms-securing-partnerships-with-youtube-content-creators/"><u>2024 Approved Scout Platforms Securing Partnerships with YouTube Content Creators</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/cost-free-webm-viewing-a-list-of-industry-standouts/"><u>Cost-Free WebM Viewing A List of Industry Standouts</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Nokia C12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-captureitease-2023s-best-screen-recording-tools/"><u>In 2024, CaptureItEase 2023'S Best Screen Recording Tools</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Realme Narzo 60 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/master-your-screencasts-in-depth-analytical-review-for-2024/"><u>Master Your Screencasts In-Depth Analytical Review for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-0x800704b3-network-error-on-windows/"><u>Overcoming the 0X800704B3 Network Error on Windows</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-platform-security-tips/"><u>Social Platform Security Tips</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-ultimate-guide-to-earning-on-youtube-shorts-for-2024/"><u>The Ultimate Guide to Earning on Youtube Shorts for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/top-calming-virtual-worlds-on-pc-for-2024/"><u>Top Calming Virtual Worlds on PC for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ultimate-guide-fixing-startech-drivers-for-windows-1087-systems/"><u>Ultimate Guide: Fixing StarTech Drivers for Windows 10/8/7 Systems</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/upgrade-guide-transitioning-your-windows-10-system/"><u>Upgrade Guide: Transitioning Your Windows 10 System</u></a></li>
 </ul></div>
 
