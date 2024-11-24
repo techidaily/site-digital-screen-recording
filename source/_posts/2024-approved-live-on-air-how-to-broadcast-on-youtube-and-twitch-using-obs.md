@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Live on Air  How to Broadcast on YouTube & Twitch Using OBS\""
-date: 2024-08-24T20:25:48.048Z
-updated: 2024-08-25T20:25:48.048Z
+date: 2024-11-23T00:17:39.650Z
+updated: 2024-11-23T21:47:27.904Z
 tags: 
   - screen-recording
   - ai video
@@ -18,18 +18,15 @@ thumbnail: https://thmb.techidaily.com/3ce7ce4cef66cdb03e7ac7e019dea8d112e1795f8
 ## Live on Air: How to Broadcast on YouTube & Twitch Using OBS
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 1: Introduction
 
 If you want to enhance your audience reach, consider multi-streaming to Twitch and your other preferred sites. Mainstreaming enables you to broadcast on Twitch and YouTube or stream on Twitch and Facebook, or all three! At the same time, with everyone spending more time indoors amid the global crisis, it appears we’re all seeking a diversion and many gamers are asking themselves how to broadcast on YouTube or Twitch. One of the easiest methods to broadcast on Twitch and YouTube Gaming at the same time is via OBS. Streamers may broadcast to more than 30 streaming platforms concurrently using an easy-to-understand user interface. The service is created in a manner that won’t place any demand on your PC hardware or the bandwidth you have available.
 
 Well, it all boils down to choosing. But if you want to know the streaming networks with the highest traffic, those platforms are Twitch and YouTube Gaming. Twitch is a mainstreaming service that enables you to broadcast on more than 30 of your favorite platforms simultaneously. It merely takes a few minutes to join your numerous live streaming accounts and interact directly with the popular encoding program OBS. You may also multi streams on Twitch and your other favorite streaming services. Knowing what the correct gear is when you’re starting as a streamer may be intimidating, but we come with good news. Nowadays the entry-level for streaming has reduced quite a bit owing to hardware becoming more affordable, but also because many PCs are already prepared to manage a broadcast or can be readily updated to support one.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ## Part 2: Stream to Twitch with OBS
 
 If you want to obtain the very greatest quality broadcast, you're searching for some fantastic software. In the case of Windows, one of the most common solutions is Open Broadcaster Software (OBS) (OBS). Many people are first drawn to OBS since it's free to use owing to being open source. Luckily, it's also a feature-rich piece of software that can handle practically anything you throw at it. If you're new to OBS or to streaming in general, it might be a bit frightening at first.
@@ -40,23 +37,14 @@ Before you stream anything anyplace, you need to provide OBS with the credential
 
 In all circumstances, you need to either produce a stream key in your account settings on the appropriate provider or link your account to OBS if it's supported like it is on Twitch. Simply signing in with your credentials is by far the simplest approach, and OBS utilizes streaming, so you're not providing any of your personal login information directly to it. YouTube likewise offers a similar kind of authentication.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![twitch](https://images.wondershare.com/filmora/article-images/twitch.jpg)
 
 ### Step 2\. Installing and Setting OBS
 
 OBS Studio is available for all main operating systems such as Windows, Mac OS, and, Linux. You may get the utility by clicking here. Run and install the software to get started. When you launch the program for the first time, OBS Studio performs an Auto-Configuration Wizard. It provides you the choice of selecting between ‘Optimize for streaming’ and ‘Optimize for recording’. Click on the ‘Optimize for streaming’ if you wish to live broadcast your game. The wizard will next examine your system’s performance. It examines and helps adjust your system resolution, bitrate, encoder, and internet connection.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![installing and setting obs](https://images.wondershare.com/filmora/article-images/installing-and-setting-obs.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ### Step 3\. Configuring OBS Studio for Streaming to Twitch
 
 Now that you're set up to the stream, the first step is to select your resolution, frame rate, and bitrate. The greater each of them, the more bandwidth and horsepower you'll require from your PC. If you've got a high-speed internet connection and a strong PC, then you can probably stream at 1080p60 at a high bitrate. But you also need to balance this with offering a stream that's not going to buffer like wild for your viewers who could be on poorer connections. Remember, if you're not a partner on Twitch, you won't have transcoding, thus the experience might be awful for viewers with sluggish connections.
@@ -65,17 +53,15 @@ Once you’re done setting up OBS, you can dig into the advanced capabilities su
 
 ![configuring obs studio](https://images.wondershare.com/filmora/article-images/configuring-obs-studio.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step 4\. Adding Scene and Sources
 
 A scene may be simply added in OBS by clicking on the addition symbol indicated in the picture below. Once you have chosen this, you will simply be prompted to pick a name for the scene. All of your overlays, sources, and basic on-screen items will need to be introduced through a specified scene. Once you have created your scene and titled it, make sure it is chosen and proceed to the box on the right side of the picture below to click the plus symbol. This brings up the many sources you may pick from for your freshly constructed scenario. The good thing is, once you have inserted a source in one scene, you can simply use it again in another.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![adding scene and sources](https://images.wondershare.com/filmora/article-images/adding-scene-and-sources.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 5\. Adding a Twitch Chat
 
@@ -84,8 +70,9 @@ Adding your twitch chat to your broadcasts may help make your viewers feel more 
 ![twitch chat](https://images.wondershare.com/filmora/article-images/twitch-chat.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3: Stream to YouTube with OBS
 
 You may get it by browsing OBS Studio’s official website. If you’re using Windows 11, you shouldn’t be concerned about compatibility, since OBS is completely tuned to function with it. You may also broadcast game videos on YouTube. YouTube Gaming is a service devoted to gaming content providers and their viewers. Similar to Twitch and Facebook Gaming, it’s YouTube’s area for the gaming community. Once you’re done downloading and installing OBS, run it. You should be welcomed with a window with a dark screen and objects below it.
@@ -98,16 +85,21 @@ You may get it by browsing OBS Studio’s official website. If you’re using Wi
 
 ![streamkey](https://images.wondershare.com/filmora/article-images/streamkey.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ****Step 3:** Once authenticated, it’s time to travel to YouTube Studio. Choose the Camera icon on the upper right-hand side of the main YouTube page and then select Go Live.
 
 ![go live](https://images.wondershare.com/filmora/article-images/go-live.jpg)
 
 ****Step 4:** Now click Schedule Stream, and check to make sure that all the parameters are accurate and that the video is correctly labeled and described. When ready, choose Create Stream.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![schedule stream](https://images.wondershare.com/filmora/article-images/schedule-stream.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Link OBS to YouTube**
 
@@ -115,15 +107,16 @@ You may get it by browsing OBS Studio’s official website. If you’re using Wi
 
 ![link obs to youtube](https://images.wondershare.com/filmora/article-images/link-obs-to-youtube.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ****Step 2:** Go to the Stream tab using the left-hand menu and pick YouTube -RTMPS from the Service drop-down box.
 
 ****Step 3:** Click Audio on the left-hand menu. Each audio device on that page represents one possible audio source in your broadcast. If you want viewers to hear in-game or desktop audio, assign one of the Desktop Audio options to your system’s audio output. If you want your viewers to hear you, pick your microphone from the drop-down next to Mic/Auxiliary Audio.
 
 ****Step 4:** In the main window, click the Plus symbol beneath the Sources heading near the bottom. If you wish to broadcast game video, choose Game Capture displayed on the pop-up menu. You have a couple of different choices for collecting your film. You may capture any full-screen program, a single window, or a foreground window. You may also enable transparency, capture third-party overlays, and more. Click OK to finish.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ![game capture](https://images.wondershare.com/filmora/article-images/game-capture.jpg)
 
 ****Start Streaming**
@@ -131,6 +124,10 @@ You may get it by browsing OBS Studio’s official website. If you’re using Wi
 With all of the aforementioned settings in place and your YouTube channel ready to accept your broadcast, there’s only one thing to do: Start live streaming! If you want to start right now, click the Start Streaming button situated in the bottom right corner. Now it’s time to start streaming. To begin, click the Go Live icon in the upper left corner of your YouTube dashboard. Once the OBS makes the connection to YouTube, the broadcast will be available in the preview window.
 
 ![start streaming](https://images.wondershare.com/filmora/article-images/start-streaming.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 5: Conclusion
 
@@ -158,10 +155,19 @@ OBS is an open-source [video recorder](https://tools.techidaily.com/wondershare/
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-setting-up-your-google-meet-profile/"><u>[New] 2024 Approved Setting Up Your Google Meet Profile</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-freely-accessible-cutting-edge-video-editor-tools-for-2024/"><u>[Updated] Freely Accessible Cutting Edge Video Editor Tools for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-quick-tips-screen-record-and-camera-integration-on-android/"><u>[Updated] Quick Tips Screen Record & Camera Integration on Android</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-achieve-professional-level-recordings-with-these-top-4-methods-on-hp-devices/"><u>2024 Approved Achieve Professional-Level Recordings with These Top 4 Methods on HP Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-excessive-cpu-load-by-svchostexe-in-windows-10-solutions-and-tips/"><u>Fixing Excessive CPU Load by svchost.exe in Windows 10 – Solutions and Tips</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-heimdalls-eye-the-watchers-of-ragnarok/"><u>In 2024, Heimdall's Eye The Watchers of Ragnarok</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-nightshade-method-for-artwork-defense-against-ai/"><u>Navigating the Nightshade Method for Artwork Defense Against AI</u></a></li>
+<li><a href="https://win-blog.techidaily.com/no-more-crashes-expert-tips-for-a-smooth-guilty-gear-strive-experience-on-windows/"><u>No More Crashes: Expert Tips for a Smooth Guilty Gear Strive Experience on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/safeguarding-your-os-managing-usb-device-use/"><u>Safeguarding Your OS: Managing USB Device Use</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/secure-or-not-third-party-gpt-software/"><u>Secure or Not? Third-Party GPT Software</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/unlocking-steam-gameplay-footage-secrets/"><u>Unlocking Steam Gameplay Footage Secrets</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-vn-video-editor-pro-apk-is-it-a-worthy-video-editing-app-in-2024/"><u>Updated VN Video Editor Pro Apk - Is It A Worthy Video Editing App, In 2024</u></a></li>
+</ul></div>
 

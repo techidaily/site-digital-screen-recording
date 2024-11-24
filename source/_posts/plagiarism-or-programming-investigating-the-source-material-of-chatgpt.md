@@ -1,7 +1,7 @@
 ---
 title: Plagiarism or Programming? Investigating the Source Material of ChatGPT
-date: 2024-11-08T16:44:18.343Z
-updated: 2024-11-13T17:57:16.821Z
+date: 2024-11-16T17:47:32.273Z
+updated: 2024-11-23T21:57:05.950Z
 tags:
   - chatgpt
   - open-ai
@@ -37,24 +37,15 @@ thumbnail: https://thmb.techidaily.com/49f07ba1564e1ad5829085791d56fbd558cd9b6be
 
  Despite ChatGPT's immense popularity, it's still not ready to significantly impact the search engine industry for several reasons. Here are a few of them:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. ChatGPT Is Trained on a Limited Set of Data
 
  ChatGPT has been trained on the information that was available until the end of 2021\. When asking the chatbot about anything that happened in 2022 and later, it apologizes for not having that information.
 
 ![ChatGPT Apologizing For Not Having any Information About Events Happened in 2022](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-apologizing-for-not-having-information-about-events-happened-in-2022.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Therefore, processing real-time information is the first significant hurdle ChatGPT needs to overcome to compete directly with search engines.
 
@@ -64,6 +55,10 @@ thumbnail: https://thmb.techidaily.com/49f07ba1564e1ad5829085791d56fbd558cd9b6be
 
 ![ChatGPT Saying It Can Also Generate Wrong Answers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-saying-it-can-also-generate-wrong-answers-and-explains-why-it-does-so.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. ChatGPT Is Less Credible
 
  On search engines, you know where information is coming from. Each time you search for something, you know the source of the webpage (i.e., brand or website). By putting in some effort, you can also check the authenticity of authors.
@@ -72,7 +67,15 @@ thumbnail: https://thmb.techidaily.com/49f07ba1564e1ad5829085791d56fbd558cd9b6be
 
 ![ChatGPT  Saying It Can't Add References](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-saying-it-can-t-add-references.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can[sign up and start using ChatGPT](https://www.makeuseof.com/how-to-use-chatgpt-by-openai/) in just a few minutes. If you haven't tried it yet, take advantage of it to enhance your productivity. Although ChatGPT isn't ready to disrupt the search engine industry just yet, does it have the potential to do so in the future?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is ChatGPT Capable of Disrupting Search Engines in the Future?
 
@@ -89,16 +92,7 @@ thumbnail: https://thmb.techidaily.com/49f07ba1564e1ad5829085791d56fbd558cd9b6be
  On the other hand, search engines give you results based on your queries, so you need to fine-tune your keyword selection to get the best results.
 
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Soon Could ChatGPT Significantly Impact the Search Engine Industry?
@@ -114,20 +108,6 @@ thumbnail: https://thmb.techidaily.com/49f07ba1564e1ad5829085791d56fbd558cd9b6be
  For example, ChatGPT can quickly answer whether cats eat carrots since it is a solid fact. However, it may not effectively satisfy the search intent of some queries (such as how-to explainer guides) where users expect to see images alongside textual information.
 
 ![ChatGPT Saying It Can't Generate Images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-saying-it-can-t-generate-images.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Let ChatGPT Evolve
 
@@ -152,20 +132,22 @@ thumbnail: https://thmb.techidaily.com/49f07ba1564e1ad5829085791d56fbd558cd9b6be
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-how-to-shun-crossplay-in-apex-legends-your-guide-to-platform-choices/"><u>[New] 2024 Approved How to Shun Crossplay in Apex Legends - Your Guide to Platform Choices</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-optimal-6-crafted-urban-home-concepts/"><u>[New] 2024 Approved Optimal 6 Crafted Urban Home Concepts</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-innovation-unveiled-the-complete-moto-z2-review-for-2024/"><u>[New] Innovation Unveiled The Complete Moto Z2 Review for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-samsung-gear-360-replacements-latest-innovations-in-camera-tech-for-2024/"><u>[New] Samsung Gear 360 Replacements Latest Innovations in Camera Tech for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-streamlined-recording-of-academic-sessions-on-macs-for-2024/"><u>[New] Streamlined Recording of Academic Sessions on Macs for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-unlock-artistic-methods-in-fb-video-ad-production/"><u>[New] Unlock Artistic Methods in FB Video Ad Production</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-stream-wars-evaluation-who-comes-out-on-top-obs-or-twitch-studio/"><u>[Updated] 2024 Approved Stream Wars Evaluation Who Comes Out on Top, OBS or Twitch Studio?</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-a-comprehensive-guide-to-embellishing-images-and-vids-in-windows-10s-photo-app/"><u>[Updated] A Comprehensive Guide to Embellishing Images and Vids in Windows 10'S Photo App</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-mastering-the-art-of-powerpoint-presentation-video-documentation/"><u>[Updated] In 2024, Mastering the Art of PowerPoint Presentation Video Documentation</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-navigating-the-world-of-zooms-camera-snapping-easily-for-2024/"><u>[Updated] Navigating the World of Zoom's Camera Snapping Easily for 2024</u></a></li>
-<li><a href="https://win-web.techidaily.com/6kej5rg65pa55qgi5lml5lqm77ya5lplusu5q2j5qqu5qgi566h55cg5zmo5zyo5bem6ykk5lin5yplusv6kaw5zwp6agm55qe5bplusr6ycf5oml5q61/"><u>解決方案之二：修正檔案管理器在左邊不可視問題的快速手段</u></a></li>
-<li><a href="https://article-files.techidaily.com/efficient-tools-and-tips-for-webp-to-jpeg-transformation/"><u>Efficient Tools and Tips for WebP to JPEG Transformation</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-pioneering-6-networks-supporting-business-development/"><u>In 2024, Pioneering 6 Networks Supporting Business Development</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-picks-must-watch-family-films-on-amazon-prime-video-this-july-2024/"><u>Top Picks: Must-Watch Family Films on Amazon Prime Video This July 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-rated-web-hosting-providers-in-depth-analysis-and-reviews-by-tech-experts-zdnet/"><u>Top-Rated Web Hosting Providers : In-Depth Analysis & Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-prime-hashtag-combinations-driving-view-count-higher/"><u>[New] 2024 Approved Prime Hashtag Combinations Driving View Count Higher</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-crafting-kingdom-the-path-to-youtube-mastery-for-2024/"><u>[New] Crafting Kingdom The Path to YouTube Mastery for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-streamlining-video-sequence-assembly-through-blends/"><u>[New] In 2024, Streamlining Video Sequence Assembly Through Blends</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-screensnapper-pro-the-ultimate-guide-to-capturing-your-world-for-2024/"><u>[New] ScreenSnapper Pro The Ultimate Guide to Capturing Your World for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-essential-full-screen-recorder-reviews-pcmac-edition/"><u>[Updated] 2024 Approved Essential Full-Screen Recorder Reviews PC/Mac Edition</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-audience-hooks-writing-captivating-podcast-descriptions/"><u>[Updated] Audience Hooks Writing Captivating Podcast Descriptions</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-effortless-group-chats-joining-zoom-on-your-android/"><u>[Updated] In 2024, Effortless Group Chats Joining Zoom on Your Android</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-premiere-add-ons-for-firefox-recording/"><u>[Updated] In 2024, Premiere Add-Ons for Firefox Recording</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-sundae-screening-comprehensive-tutorial-on-frozen-camera-app/"><u>[Updated] In 2024, Sundae Screening Comprehensive Tutorial on Frozen Camera App</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-uniting-sections-smoothly-inshot-transition-essentials/"><u>[Updated] Uniting Sections Smoothly Inshot Transition Essentials</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-screen-capture-without-breaking-the-bank-our-top-picks/"><u>2024 Approved Screen Capture Without Breaking the Bank Our Top Picks</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-simplicity-in-skewing-photographic-content/"><u>2024 Approved Simplicity in Skewing Photographic Content</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-photos-from-xiaomi-redmi-13c-by-fonelab-android-recover-photos/"><u>Best Android Data Recovery - Retrieve Lost Photos from Xiaomi Redmi 13C.</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-4-ways-to-mirror-apple-iphone-xs-to-laptop-via-usb-or-wi-fi-drfone-by-drfone-ios/"><u>In 2024, 4 Ways to Mirror Apple iPhone XS to Laptop via USB or Wi-Fi | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-instagrams-latest-trends-for-successful-influencer-journeys/"><u>In 2024, Instagram's Latest Trends for Successful Influencer Journeys</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/1715701188920-internal-screen-recording-huawei-mate-1020-and-p-series-devices-p20-p10/"><u>Internal Screen Recording Huawei Mate 10/20 & P Series Devices (P20, P10).</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/leading-screenshot-and-record-tools-for-firefox-for-2024/"><u>Leading Screenshot & Record Tools for Firefox for 2024</u></a></li>
 </ul></div>
 

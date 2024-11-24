@@ -1,7 +1,7 @@
 ---
 title: "[New] Samurai Spirit, Explored in Top 10 Gaming Worlds"
-date: 2024-11-07T06:08:14.934Z
-updated: 2024-11-13T17:15:01.159Z
+date: 2024-11-21T21:30:23.235Z
+updated: 2024-11-23T22:37:01.714Z
 tags: 
   - screen-recording
   - ai video
@@ -135,13 +135,25 @@ This is another astounding game like Ghost of Tsushima. It is a battle-intense g
 
 This game may not show you some of the amazing landscapes of china but it will surely provide you with amazing thrill and adventure. It doesn't contain samurai war but it puts you in an open world that is full of enemies and other characters. The main player, Krato is joined by his son Atreus and helps him defeat the enemies using bow and arrows. Players will unlock the powers of Kratos during his journey. The powers that you will explore during this journey will amaze you. These mythical powers will help you fight and defeat your most powerful enemies.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 These games like Ghost of Tsushima are unique and different in their own way but all these games revolve around the same combat system. Choose any of these games depending upon your preference and choice. These games will provide you with the same experience and thrill as Ghost of Tsushima. You will not get bored while playing the above games. Choose a game and start the thrill of fighting melee combats and intense battle fights.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -158,29 +170,18 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-androids-photo-editor-showdown-can-pickup-claim-victory/"><u>[New] 2024 Approved Android's Photo Editor Showdown Can PickUp Claim Victory?</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-bi-panel-screen-transcription/"><u>[New] 2024 Approved Bi-Panel Screen Transcription</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-economical-hardware-peak-performance-via-obs/"><u>[New] 2024 Approved Economical Hardware - Peak Performance via OBS</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-capturing-the-action-a-twitch-broadcasters-handbook/"><u>[New] Capturing the Action A Twitch Broadcaster's Handbook</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-from-novice-to-geometric-master-crafting-perfect-circular-and-spherical-objects/"><u>[New] In 2024, From Novice to Geometric Master Crafting Perfect Circular & Spherical Objects</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-premium-windows-11-webcam-recorder-lineup/"><u>[New] Premium Windows 11 Webcam Recorder Lineup</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-how-to-make-a-ken-burns-effect-in-camtasia-9/"><u>[Updated] 2024 Approved How to Make a Ken Burns Effect in Camtasia 9?</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-rewiring-windows-photo-viewer-on-windows-10-two-methods-explored/"><u>[Updated] 2024 Approved Rewiring Windows Photo Viewer on Windows 10 - Two Methods Explored</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-precise-mac-photo-tips-mastering-five-quick-and-effective-methods/"><u>[Updated] In 2024, Precise Mac Photo Tips Mastering Five Quick and Effective Methods</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-apple-iphone-13-without-a-passcode-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your Apple iPhone 13 Without a Passcode</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/affordable-upgrade-swap-your-apple-vision-pro-and-meta-quest-3-for-enhanced-xr-gear-at-a-fraction-of-the-cost/"><u>Affordable Upgrade: Swap Your Apple Vision Pro & Meta Quest 3 for Enhanced XR Gear at a Fraction of the Cost</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/elevate-ps2-gameplay-on-ios-devices-for-2024/"><u>Elevate PS2 Gameplay on iOS Devices for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/expert-picked-screen-capturers-of-movies-for-2024/"><u>Expert-Picked Screen Capturers of Movies for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/lava-yuva-3-pro-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Lava Yuva 3 Pro support - Forgotten screen lock.</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-runtime-issues-with-malwarebytes-in-modern-windows-systems/"><u>Overcoming Runtime Issues with Malwarebytes in Modern Windows Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-link-failures-spotify-in-windows-11-environments/"><u>Resolving Link Failures: Spotify in Windows 11 Environments</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-to-installing-sound-blaster-z-drivers-on-windows-10-pcs/"><u>Step-by-Step Guide to Installing Sound Blaster Z Drivers on Windows 10 PCs</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-streamlined-methods-to-store-mov-on-your-windows-pc/"><u>[New] 2024 Approved Streamlined Methods to Store .mov on Your Windows PC</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-comprehensive-guide-record-webcam-in-hd-via-vlc/"><u>[New] Comprehensive Guide Record Webcam in HD via VLC</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-mastering-capturing-with-camstudio-complete/"><u>[Updated] 2024 Approved Mastering Capturing with CamStudio Complete</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-framingfraction-analysis/"><u>2024 Approved FramingFraction Analysis</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-gopros-battle-royale-hero5-b-stacked-against-session/"><u>2024 Approved GoPro's Battle Royale Hero5 B Stacked Against Session</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Motorola Defy 2? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-your-computer-from-freezing-in-counter-strike-2-cs2-latest-troubleshooting-tips/"><u>How to Stop Your Computer From Freezing in Counter-Strike 2 (CS2) - Latest Troubleshooting Tips</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-curated-top-picks-top-6-mac-video-capture-tools/"><u>In 2024, Curated Top Picks Top 6 Mac Video Capture Tools</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-how-to-animate-and-make-your-own-effects/"><u>In 2024, How to Animate and Make Your Own Effects</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-zte-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass ZTE FRP Without Computer</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/leading-5-digital-videography-devices/"><u>Leading 5 Digital Videography Devices</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/securesave-professionals-assessment/"><u>SecureSave Professionals' Assessment</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2055421-9780835631402-thought-forms/"><u>Thought Forms | Free Book</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

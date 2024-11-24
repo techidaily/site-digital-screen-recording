@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Quick Snapshots on Xbox One  A User's Manual\""
-date: 2024-11-07T17:52:16.890Z
-updated: 2024-11-14T06:07:07.316Z
+date: 2024-11-23T00:43:43.989Z
+updated: 2024-11-23T20:42:18.793Z
 tags: 
   - screen-recording
   - ai video
@@ -52,6 +52,10 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Capturing Screenshots on Xbox One Using the Controller
 
 There is nothing complicated about taking a screenshot of your favorite game on Xbox One using the device's controller. All you have to do is double-click on the Xbox button and the screenshot will be captured. A sidebar will appear on the screen asking you if you want to take a screenshot or record the last 30 seconds of the gameplay. Just hit the Y button to save the screenshot. A dialog box will appear on the screen informing you that the screenshot has been saved successfully.
@@ -59,10 +63,7 @@ There is nothing complicated about taking a screenshot of your favorite game on 
 ![Xbox Screenshot ](https://images.wondershare.com/filmora/article-images/xbox-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 An increasing number of video games for Xbox One can be played in 4K resolution, but in order to play a game in a 4K resolution, you must have a 4K TV set. Moreover, the 4K and HDR capabilities your TV must be enabled before you start playing an Xbox One game in 4K. Taking a 4K screenshot on Xbox One requires you to adjust the capturing settings.
@@ -72,10 +73,7 @@ Press the Xbox button on the controller, and locate the System menu. Select the 
 Keep in mind that 4K screenshots are significantly larger in size than those in HD or any other resolution so if you would like to share a screenshot on social media you'll first have to download it to your Windows 10 PC and resize it. What's more taking screenshots or [recording videos](https://tools.techidaily.com/wondershare/filmora/download/) on Xbox One is only possible after you launch a game.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Capture Screenshots on Xbox One Using Voice Commands
@@ -83,10 +81,7 @@ Keep in mind that 4K screenshots are significantly larger in size than those in 
 ![Xbox Screenshot ](https://images.wondershare.com/filmora/article-images/xbox-voice-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Older versions of Xbox One feature the Kinect motion sensor, while the more recent versions have the Microsoft's Cortana sensor. Both of them enable you to take screenshots using voice commands. If your Xbox One has the Kinect motion sensor, you should issue the 'Xbox take a screenshot' command. Viewing the screenshot immediately after it was taken, requires you to say 'Xbox open that' and the screenshot will pop up on the screen or you can just push and hold the Xbox button on the controller.
@@ -106,10 +101,7 @@ The console you're using features the Upload app, so in order to access it, you 
 ![Xbox Screenshot ](https://images.wondershare.com/filmora/article-images/xbox-screenshot-share.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 2. Manage and Share Xbox Screenshots via Windows 10 PC
@@ -141,15 +133,16 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-avoiding-poverty-earning-in-beauty-media/"><u>[New] 2024 Approved Avoiding Poverty Earning in Beauty Media</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-change-screenshot-saving-location-on-mac/"><u>[New] Change Screenshot Saving Location on Mac</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-boosting-gaming-engagement-with-high-quality-steam-captures/"><u>[Updated] Boosting Gaming Engagement with High Quality Steam Captures</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-effortless-screen-capturing-with-your-iphone-7-for-2024/"><u>[Updated] Effortless Screen Capturing with Your iPhone 7 for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-enigmatic-engagements-in-top-escape-venues/"><u>[Updated] In 2024, Enigmatic Engagements in Top Escape Venues</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-initiating-a-thriving-youtube-channel-avoid-these-8-essential-blunders/"><u>2024 Approved Initiating a Thriving YouTube Channel? Avoid These 8 Essential Blunders!</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/budget-friendly-smart-viewing-insignia-ns-43df710na19-with-amazons-alexa-and-uhd-support/"><u>Budget-Friendly Smart Viewing: Insignia NS-43DF710NA19 with Amazon's Alexa and UHD Support</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-guide-to-resolve-iomap64-blue-screen-error-in-win108/"><u>Quick Guide to Resolve IOMap64 Blue Screen Error in Win10/8</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-photoshop-scratch-disks-at-capacity-effective-solutions/"><u>Solving Photoshop Scratch Disks at Capacity: Effective Solutions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-a-crash-free-experience-with-everspace-2-on-windows-computers/"><u>Ultimate Guide to a Crash-Free Experience with Everspace 2 on Windows Computers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-unleash-your-potential-detailed-guide-for-ps4-recordings-with-obs/"><u>[New] 2024 Approved Unleash Your Potential Detailed Guide for PS4 Recordings with OBS</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-superior-pfv-optimization-in-tardy-action/"><u>[New] In 2024, Superior PFV Optimization in Tardy Action</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-maximizing-play-in-apex-legends-without-cross-platform-limitations/"><u>[New] Maximizing Play in Apex Legends Without Cross-Platform Limitations</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-polish-your-tiktok-edits-advanced-strategies-for-success/"><u>[Updated] How to Polish Your TikTok Edits Advanced Strategies for Success</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-asgard-unleashed-echoes-of-ragnarok/"><u>[Updated] In 2024, Asgard Unleashed Echoes of Ragnarök</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-unveiling-effective-methods-to-end-w10-photo-app-freezes/"><u>[Updated] In 2024, Unveiling Effective Methods to End W10 Photo App Freezes</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-quintessential-browsers-screen-recorder-guide-for-professionals-for-2024/"><u>[Updated] The Quintessential Browsers' Screen Recorder Guide for Professionals for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/extraia-rapidamente-um-dvd-para-mp4-h264hevc-com-o-ripador-de-dvd-winx-platinum-guia-oficial-e-passo-a-passo/"><u>Extraia Rapidamente Um DVD Para MP4 (H.264/HEVC) Com O Ripador De DVD WinX Platinum – Guia Oficial E Passo a Passo</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-embracing-diversity-easeus-tech-assessment/"><u>In 2024, Embracing Diversity, EaseUS Tech Assessment</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/leading-2024-netgear-routers-your-ultimate-guide/"><u>Leading 2024 NETGEAR Routers: Your Ultimate Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/quick-fixes-for-driver-cannot-be-found-in-itbm-software/"><u>Quick Fixes for 'Driver Cannot Be Found' In ITBM Software</u></a></li>
 </ul></div>
 
