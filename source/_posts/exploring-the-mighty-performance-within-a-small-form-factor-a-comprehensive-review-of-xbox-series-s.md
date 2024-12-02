@@ -1,7 +1,7 @@
 ---
 title: Exploring the Mighty Performance Within a Small Form Factor - A Comprehensive Review of Xbox Series S
-date: 2024-11-18T23:45:31.180Z
-updated: 2024-11-23T22:44:39.980Z
+date: 2024-11-27T00:27:02.633Z
+updated: 2024-12-02T00:14:17.835Z
 categories:
   - BestProducts
 description: This Article Describes Exploring the Mighty Performance Within a Small Form Factor - A Comprehensive Review of Xbox Series S
@@ -13,12 +13,16 @@ thumbnail: https://www.lifewire.com/thmb/FGI8xerKt3icyDzp_h8bugBgHPo=/400x300/fi
 
 4
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple iMac 21.5-inch 4K
 
 ![Apple iMac 21.5-inch 4K](https://www.lifewire.com/thmb/dIY3bLJSRioBJmHFFCGQjcgcxbU=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_1LW4045927-1-625cb1ba7a894cc38db8565dd81072b3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Gannon Burgett
@@ -43,10 +47,6 @@ Lifewire / Gannon Burgett
 ## Apple iMac 21.5-inch 4K
 
 ![Apple iMac 21.5-inch 4K](https://www.lifewire.com/thmb/hOzU-Ut_6g-s5JwzT08s3wa0tSo=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_1LW4045927-1-625cb1ba7a894cc38db8565dd81072b3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Lifewire / Gannon Burgett
 
@@ -75,13 +75,13 @@ Lifewire / Gannon Burgett
 ![Apple iMac 21.5-inch 4K](https://www.lifewire.com/thmb/TCcSm-nkER9HhHM8YIPMWbaezRA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4045927-4-fa6cf253bfd44ab991c366691b68bdf5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Gannon Burgett
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Design: Beautiful, with room for improvements**
@@ -98,15 +98,7 @@ Lifewire / Gannon Burgett
 
 ![Apple iMac 21.5-inch 4K](https://www.lifewire.com/thmb/gM_JxuZjDbSUs7DYtXIwUIqqz0Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4045927-3-d30c5f8414e94cbd9b1ec8aea9b18950.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Gannon Burgett
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Setup Process: One plug and you’re good to go**
 
@@ -115,6 +107,10 @@ Lifewire / Gannon Burgett
  Setting up the iMac is as simple as unwrapping it from its protective cover, setting it on the desk, plugging it in with the included power cord, and pressing the power button. As it boots up, we turned on the Magic Keyboard and Magic Mouse 2\. By the time the iMac was to the setup screen — a process that took approximately 60 seconds — the two were already paired with the computer and ready to be used.
 
  Going through the setup process took us approximately five minutes, which included setting up our iCloud account and getting the various login settings in place. We opted to set this up as a new computer, but there’s also the ability to set it up from an Apple Time Capsule backup or transfer content from a PC via USB. The amount of time those options take will vary depending on the device you’re transferring the information from as well as the amount of data being transferred.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Display: Bright, brilliant, and ready to shine**
 
@@ -158,11 +154,11 @@ Lifewire / Gannon Burgett
 
 ![Apple iMac 21.5-inch 4K](https://www.lifewire.com/thmb/rFu0_k9BjbUxQdoEYOcNGU35LJA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4045927-2-a3d2f38b9509480ba41bbb5b33815d1a.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Gannon Burgett
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Software: Everything you need and nothing more**
 
@@ -195,6 +191,10 @@ Lifewire / Gannon Burgett
 **Beautiful display in a thin, powerful machine.**
 
  The 21.5-inch 4K iMac is a solid all-in-one computer that packs a lot of power into a tiny, well-designed package. It’s not going to blow anyone away on benchmarks and it’s not cheap for the internal components you’re getting, but it has a lot to offer for multimedia and productivity. That’s not to mention the sheer convenience of having everything simply work out of the box.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
 
@@ -233,24 +233,22 @@ Lifewire / Gannon Burgett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-choosing-between-obs-and-fraps-for-capture/"><u>[New] Choosing Between OBS and Fraps for Capture</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-exclusive-list-12-flawless-non-timebound-tools/"><u>[New] Exclusive List 12 Flawless Non-Timebound Tools</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-punchline-studio-sign-up-and-share-your-humor/"><u>[New] In 2024, PunchLine Studio Sign Up & Share Your Humor</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-the-complete-newcomers-guide-to-conducting-zoom-webinars/"><u>[Updated] 2024 Approved The Complete Newcomer's Guide to Conducting Zoom Webinars</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-unlocking-potential-crafting-dynamic-images-with-your-ipad/"><u>[Updated] 2024 Approved Unlocking Potential Crafting Dynamic Images with Your iPad</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-essential-mac-tools-for-screen-capture-discovering-the-top-5-for-2024/"><u>[Updated] Essential Mac Tools for Screen Capture, Discovering the Top 5 for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-from-casual-gamer-to-pro-elevating-your-minecraft-recordings-with-a-mac/"><u>[Updated] From Casual Gamer to Pro Elevating Your Minecraft Recordings with a Mac</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-masterful-text-setups-in-adobe-after-effects/"><u>[Updated] Masterful Text Setups in Adobe After Effects</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-the-intricate-dance-of-photos-into-a-unified-display/"><u>[Updated] The Intricate Dance of Photos Into a Unified Display</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-master-the-art-of-video-annotation-using-markers-with-ease/"><u>2024 Approved Master the Art of Video Annotation Using Markers with Ease</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-honor-x50i-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Honor X50i | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-itel-a05s-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Itel A05s Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-leveraging-obs-features-to-boost-zoom-performance/"><u>In 2024, Leveraging OBS' Features to Boost Zoom Performance</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-the-best-webcam-recorders-for-windows-10/"><u>In 2024, The Best Webcam Recorders for Windows 10</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-samsung-galaxy-a34-5g-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Samsung Galaxy A34 5G Phone? Unlock It Now</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/pro-video-capture-a-comprehensive-fraps-test-for-2024/"><u>Pro Video Capture A Comprehensive Fraps Test for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/professional-screen-grabber-for-win11-for-2024/"><u>Professional Screen Grabber for Win11 for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/the-complete-breakdown-of-game-capture-in-overwatch-for-2024/"><u>The Complete Breakdown of Game Capture in Overwatch for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ering-the-truth-behind-4-second-youtube-subscriptions-for-2024/"><u>Uncovering the Truth Behind 4-Second YouTube Subscriptions for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-top-choices-for-screen-recorders-that-dont-tie-you-down/"><u>[New] 2024 Approved Top Choices for Screen Recorders That Don't Tie You Down</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-expert-strategies-for-high-quality-macbook-webcam-recordings/"><u>[New] Expert Strategies for High-Quality MacBook Webcam Recordings</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-behind-the-screen-essential-post-vidcon-gatherings/"><u>[New] In 2024, Behind the Screen Essential Post-VidCon Gatherings</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-expert-guide-to-the-10-greatest-pc-cameras/"><u>[Updated] Expert Guide to the 10 Greatest PC Cameras</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-comprehensive-tips-for-youtube-video-capture/"><u>[Updated] In 2024, Comprehensive Tips for YouTube Video Capture</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-mastery-in-stardew-navigating-the-intricacies-of-ginger-isle/"><u>[Updated] Mastery in Stardew Navigating the Intricacies of Ginger Isle</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-ultimate-visionary-tools-our-choice-of-top-11-bridging-cams/"><u>[Updated] Ultimate Visionary Tools Our Choice of Top 11 Bridging Cams</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-26-low-cost-strategies-capture-webinars-without-spending-money/"><u>2024 Approved 26 Low-Cost Strategies Capture Webinars Without Spending Money</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-foremost-5-cloud-recording-tools/"><u>2024 Approved Foremost 5 Cloud Recording Tools</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-ranking-the-leading-video-conferencing-applications/"><u>2024 Approved Ranking the Leading Video Conferencing Applications</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-thriving-in-zoom-chats-key-techniques-for-engaging-online-conversations/"><u>2024 Approved Thriving in Zoom Chats Key Techniques for Engaging Online Conversations</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-look-at-steam-vs-gog-digital-storefront-divergences/"><u>A Look at Steam vs GOG: Digital Storefront Divergences</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/accessing-social-network-videos-seamlessly-on-apple-tv-for-2024/"><u>Accessing Social Network Videos Seamlessly on Apple TV for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-mastering-minecrafts-geometric-forms-circular-and-spherical-creation/"><u>In 2024, Mastering Minecraft's Geometric Forms Circular & Spherical Creation</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-top-10-fb-videos-to-mp4-converter-toolkit/"><u>In 2024, Top 10 FB Videos to MP4 Converter Toolkit</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-windows-spotlight-failures-a-comprehensive-guide-for-windows-11-users/"><u>Overcoming Windows Spotlight Failures: A Comprehensive Guide for Windows 11 Users</u></a></li>
+<li><a href="https://fox-links.techidaily.com/top-10-best-text-plugins-for-ae-users/"><u>Top 10 Best Text Plugins for AE Users</u></a></li>
 </ul></div>
 
