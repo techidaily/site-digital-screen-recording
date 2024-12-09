@@ -1,7 +1,7 @@
 ---
 title: Plagiarism or Programming? Investigating the Source Material of ChatGPT
-date: 2024-11-28T20:02:40.167Z
-updated: 2024-12-02T01:13:17.803Z
+date: 2024-12-08T17:07:51.649Z
+updated: 2024-12-09T16:04:28.643Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/49f07ba1564e1ad5829085791d56fbd558cd9b6be
 
  Is this technology going to disrupt the search engine industry? This question is on the minds of most tech enthusiasts. Here, we'll discuss how ChatGPT differs from search engines and whether it is a threat to them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Does ChatGPT Differ From Search Engines?
 
  The most significant difference between ChatGPT and search engines is how they respond to user requests.
@@ -29,17 +33,9 @@ thumbnail: https://thmb.techidaily.com/49f07ba1564e1ad5829085791d56fbd558cd9b6be
 
 ![Comparing Response of ChatGPT With Google Search Engine](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/comparing-response-of-chatgpt-with-google-search-engine.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Shortly put, ChatGPT can help you find a definite answer to any question without having to search through numerous web pages on search engines. So, the chatbot eliminates additional effort, answers your question more precisely, and saves you time.
 
  However, it's important to understand[how ChatGPT works](https://www.makeuseof.com/how-does-chatgpt-work/) so that you can use it efficiently. By having a better understanding of how it was created and trained and how it generates responses, you will be able to make the most of it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why Hasn't ChatGPT Affected the Search Engines So Far?
 
@@ -52,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/49f07ba1564e1ad5829085791d56fbd558cd9b6be
 ![ChatGPT Apologizing For Not Having any Information About Events Happened in 2022](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-apologizing-for-not-having-information-about-events-happened-in-2022.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Therefore, processing real-time information is the first significant hurdle ChatGPT needs to overcome to compete directly with search engines.
@@ -72,7 +68,7 @@ thumbnail: https://thmb.techidaily.com/49f07ba1564e1ad5829085791d56fbd558cd9b6be
 ![ChatGPT  Saying It Can't Add References](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-saying-it-can-t-add-references.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can[sign up and start using ChatGPT](https://www.makeuseof.com/how-to-use-chatgpt-by-openai/) in just a few minutes. If you haven't tried it yet, take advantage of it to enhance your productivity. Although ChatGPT isn't ready to disrupt the search engine industry just yet, does it have the potential to do so in the future?
@@ -92,7 +88,7 @@ thumbnail: https://thmb.techidaily.com/49f07ba1564e1ad5829085791d56fbd558cd9b6be
  On the other hand, search engines give you results based on your queries, so you need to fine-tune your keyword selection to get the best results.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Soon Could ChatGPT Significantly Impact the Search Engine Industry?
@@ -108,6 +104,10 @@ thumbnail: https://thmb.techidaily.com/49f07ba1564e1ad5829085791d56fbd558cd9b6be
  For example, ChatGPT can quickly answer whether cats eat carrots since it is a solid fact. However, it may not effectively satisfy the search intent of some queries (such as how-to explainer guides) where users expect to see images alongside textual information.
 
 ![ChatGPT Saying It Can't Generate Images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-saying-it-can-t-generate-images.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Let ChatGPT Evolve
 
@@ -132,24 +132,22 @@ thumbnail: https://thmb.techidaily.com/49f07ba1564e1ad5829085791d56fbd558cd9b6be
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-gameboy-advance-mastered-android-emulator-selection-for-2024/"><u>[New] GameBoy Advance Mastered Android Emulator Selection for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-engaging-recorders-within-huawei-mate-and-p-series-for-video-capture/"><u>[New] In 2024, Engaging Recorders Within Huawei Mate and P-Series for Video Capture</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-pros-verdict-4-superior-fullscreen-capture-applications/"><u>[New] Pro's Verdict 4 Superior Fullscreen Capture Applications</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-the-secret-to-slowed-movies-mastery-your-step-by-step-guide-on-instagram-reels-for-2024/"><u>[New] The Secret to Slowed Movies Mastery – Your Step by Step Guide on Instagram Reels for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-top-mac-screen-recorders-ranked-a-comprehensive-analysis-for-2024/"><u>[New] Top Mac Screen Recorders Ranked A Comprehensive Analysis for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-basicwin10recorder-easy-to-use-software-for-2024/"><u>[Updated] BasicWin10Recorder - Easy to Use Software for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-lg-bp550s-breakthrough-the-2023-technology-sprint/"><u>[Updated] LG BP550's Breakthrough The 2023 Technology Sprint</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-maximize-game-time-top-10-ps5-external-hddssd-for-2024/"><u>[Updated] Maximize Game Time Top 10 PS5 External HDD/SSD for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comment-choisir-le-meilleur-logiciel-de-sous-titrage-pour-vos-clips-video-en-2er-mois-2024/"><u>Comment Choisir Le Meilleur Logiciel De Sous-Titrage Pour Vos Clips Vidéo en 2Er Mois 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/dall-e-3-unveils-editing-capabilities-yet-room-for-enhancement-remains/"><u>DALL-E 3 Unveils Editing Capabilities, Yet Room for Enhancement Remains</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/expert-advice-incorporating-voiceovers-for-visual-impact/"><u>Expert Advice Incorporating Voiceovers for Visual Impact</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-time-taming-learn-youtube-video-length-cuts/"><u>In 2024, Time Taming Learn YouTube Video Length Cuts</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-zooming-out-your-guide-to-flawless-borders/"><u>In 2024, Zooming Out Your Guide to Flawless Borders</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/inside-scoop-on-the-google-pixel-watch-3-speculated-release-dates-pricing-and-technical-specifications-revealed/"><u>Inside Scoop on the Google Pixel Watch 3: Speculated Release Dates, Pricing & Technical Specifications Revealed</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/miui-screen-recorder-review-and-alternatives-for-2024/"><u>MIUI Screen Recorder Review and Alternatives for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/1715860466221-tapping-into-built-in-screen-recording-features-of-huaweis-mate-and-p-lineup-for-2024/"><u>Tapping Into Built-In Screen Recording Features of Huawei's Mate & P Lineup. For 2024</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/transfert-dun-systeme-hdd-a-ssd-avec-commentcloner-pour-windows-7810/"><u>Transfert D'un Système HDD À SSD Avec CommentCloner Pour Windows 7/8/10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726029612744-and/"><u>ビデオトリミング・カットエディティング - 冗長セクション排除&編集技術</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-all-about-color-grading/"><u>[Updated] All About Color Grading</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-designing-captivating-instagram-feed-summaries-for-2024/"><u>[Updated] Designing Captivating Instagram Feed Summaries for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-focus-on-details-masterful-close-up-techniques-for-gaming/"><u>[Updated] In 2024, Focus on Details Masterful Close-Up Techniques for Gaming</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-assessing-the-dominance-of-splitcam-recording/"><u>2024 Approved Assessing the Dominance of SplitCam Recording</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-fraps-vs-competitors-screen-recorder-showdown/"><u>2024 Approved Fraps vs Competitors Screen Recorder Showdown</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-premier-ios-ps2-emulation-tools/"><u>2024 Approved Premier iOS PS2 Emulation Tools</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/correcting-time-jumps-fixing-obs-studio-problems/"><u>Correcting Time Jumps Fixing OBS Studio Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-address-and-repair-phasmophobia-game-freezes-for-a-smooth-experience-2024-version/"><u>How to Address and Repair Phasmophobia Game Freezes for a Smooth Experience (2024 Version)</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-elevate-your-videos-the-essential-guide-to-screencasts-today/"><u>In 2024, Elevate Your Videos The Essential Guide to Screencasts Today</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-gadget-showdown-unlocking-iphone-vs-galaxy-with-facial-scans/"><u>In 2024, Gadget Showdown Unlocking iPhone Vs. Galaxy with Facial Scans</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-how-to-optimize-your-teams-virtual-meetings/"><u>In 2024, How to Optimize Your Team's Virtual Meetings</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-ios-guide-to-premium-ps2-emulation-software/"><u>In 2024, IOS Guide to Premium PS2 Emulation Software</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-pixelated-palaces-starter-designs-for-new-minecrafters/"><u>In 2024, Pixelated Palaces Starter Designs for New Minecrafters</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-world-of-remote-xbox-play/"><u>Navigating the World of Remote Xbox Play</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95660839-9781786780591-seven-steps-into-angel-light/"><u>Seven Steps into Angel Light | Free Book</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/snickerscribble-program-for-2024/"><u>SnickerScribble Program for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, How to Record Screen and Video on Android? [4 Methods]"
-date: 2024-11-09T20:24:37.039Z
-updated: 2024-11-14T04:22:39.909Z
+date: 2024-12-06T16:48:36.046Z
+updated: 2024-12-09T19:16:49.928Z
 tags: 
   - screen-recording
   - ai video
@@ -63,6 +63,10 @@ Open the Google Play application on your phone and search for the Lollipop Scree
 
 ![ Lollipop Screen Recorder ](https://images.wondershare.com/filmora/article-images/lollipop-screen-recorder.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Lollipop Screen Recorder features only three settings, that let you choose whether you want to shoot in Landscape or Portrait mode, change the resolution of the video recording and enable the audio recording feature.
 
 It is important to pay attention to the size of the file you are producing, especially if you want to send it to someone because if you pick the maximum Recording Resolution, the video file of your screen recording is going to be huge. Tutorials in which you show how an app is used or how to fix a certain problem on an Android Phone can benefit from the Record Microphone Audio option because it will enable you to explain the steps with your voice.
@@ -70,6 +74,10 @@ It is important to pay attention to the size of the file you are producing, espe
 #### Step 3  Recording the screen of an Android device
 
 ![ Lollipop Screen Recorder ](https://images.wondershare.com/filmora/article-images/lollipop-screen-recorder-start-recording.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now that you've adjusted all the settings for a screen recording session, you should click on the circular icon located in the upper right corner of the app.
 
@@ -92,10 +100,7 @@ _[Find out more video recorders for Android Phones and Tablets](https://tools.te
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: Connecting Your Android Devices to Windows PC or Mac to Capture Screen
@@ -113,10 +118,7 @@ Android Debug Bridge is a command-line utility that can control your Android Sma
 ![ Record Android Screen via Computer](https://images.wondershare.com/filmora/article-images/record-android-screen-via-computer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Locate the SDK's installation folder on your PC, and click on the ADB option in the Platform Tools menu. Hold the Shift key and right-click and then select the 'Open PowerShell Widow Here' option. How this message looks like depends on the version of Windows OS you have, so alternatively, it may read 'Open Command Prompt Here'.
@@ -140,10 +142,7 @@ Inserting the following command into the terminal: adb shell screenrecord/sdcard
 ![ Record Android Screen via Computer](https://images.wondershare.com/filmora/article-images/record-android-screen-via-computer-command-line.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The session cannot be longer than three minutes, but if you want to stop recording sooner than that, you can simply hold the CTRL+C while the terminal window is still active.
@@ -153,13 +152,6 @@ The session cannot be longer than three minutes, but if you want to stop recordi
 **Cons:** If you choose to record the screen of your Android device using this method, you should be aware of the fact that you won't be able to record audio and that a screen recording can't be longer than 3 minutes.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 2: Capture Android Screen on a Computer with Mirroring Software
 
@@ -209,22 +201,19 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-breakthrough-techniques-for-streaming-success-obs-studio-android/"><u>[New] 2024 Approved Breakthrough Techniques for Streaming Success OBS Studio (Android)</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-best-top-xbox-hdds-your-ultimate-list-for-2024/"><u>[New] Best Top Xbox HDDs Your Ultimate List for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-seamless-video-sharing-from-youtube-to-fb/"><u>[New] In 2024, Seamless Video Sharing From YouTube to FB</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-unlock-full-potential-obs-and-facebook-integration/"><u>[New] In 2024, Unlock Full Potential OBS & Facebook Integration</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-techniques-for-text-overlays-in-igtv-content/"><u>[Updated] 2024 Approved Techniques for Text Overlays in IGTV Content</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-the-art-of-tiktok-dance-a-step-by-step-guide-for-mac-users/"><u>[Updated] 2024 Approved The Art of TikTok Dance A Step-by-Step Guide for Mac Users</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-how-to-capture-your-iphones-screen-seamlessly/"><u>[Updated] How to Capture Your iPhone's Screen Seamlessly</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/1715701060736-2023s-best-screen-recorder-discover-with-camstudio/"><u>2023'S Best Screen Recorder? Discover with CamStudio!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-11-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 11 To Other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-kinemaster-elevating-your-game-play-experience-on-android-devices/"><u>In 2024, KineMaster Elevating Your Game Play Experience on Android Devices</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-screenshot-expertise-checker/"><u>In 2024, ScreenShot Expertise Checker</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-the-ultimate-guide-to-choosing-between-free-and-paid-zoom-transcribers/"><u>In 2024, The Ultimate Guide to Choosing Between Free & Paid Zoom Transcribers</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-which-screen-recording-app-wins-bandicam-vs-camtasia-analysis/"><u>In 2024, Which Screen Recording App Wins? Bandicam Vs Camtasia Analysis</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/questband-meta-2023-release-latest-news-pricing-and-specifications/"><u>QuestBand Meta 2023 Release: Latest News, Pricing & Specifications</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolving-the-dark-screen-hurdle-a-players-handbook-for-cyberpunk-ebooten2077-successes/"><u>Resolving the Dark Screen Hurdle: A Player's Handbook for Cyberpunk Ebooten2077 Successes</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-real-score-of-youtube-video-success-beyond-basic-view-counts-for-2024/"><u>The Real Score of YouTube Video Success Beyond Basic View Counts for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/unlocking-hdr-potential-with-photo-hdr-techniques/"><u>Unlocking HDR Potential with Photo-HDR Techniques</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-secure-survival-housing-in-minecraft/"><u>[New] Secure Survival Housing in Minecraft</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-the-comprehensive-look-at-apeaksofts-recording-software/"><u>[New] The Comprehensive Look at Apeaksoft’s Recording Software</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-finding-your-ideal-video-capture-solution-bandicam-vs-camtasia-for-2024/"><u>[Updated] Finding Your Ideal Video Capture Solution Bandicam Vs Camtasia for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-explore-the-pinnacle-of-hydro-interactive-games/"><u>[Updated] In 2024, Explore the Pinnacle of Hydro Interactive Games</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-premium-notebooks-select-the-best-for-professional-edits/"><u>[Updated] In 2024, Premium Notebooks Select the Best for Professional Edits</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-inclusive-iptv-broadcast-architecture-for-2024/"><u>[Updated] Inclusive IPTV Broadcast Architecture for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-fb-media-migration-tools-for-windowsmacos-users/"><u>2024 Approved FB Media Migration Tools for Windows/macOS Users</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-ignite-your-audience-top-10-igtv-trends-brands-cant-miss/"><u>2024 Approved Ignite Your Audience Top 10 IGTV Trends Brands Can't Miss</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-max-char-count-and-workarounds/"><u>ChatGPT: Max Char Count & Workarounds?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/elevate-visuals-best-practices-for-impactful-ig-video-loops/"><u>Elevate Visuals Best Practices for Impactful IG Video Loops</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/headlighting-enhancements-for-expert-drivers/"><u>Headlighting Enhancements for Expert Drivers</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-steps-to-activate-windows-11-auto-hdr-option/"><u>In 2024, Steps to Activate Windows 11 Auto-HDR Option</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/secure-recording-of-conversations-what-you-need-to-know-about-whatsapp-for-2024/"><u>Secure Recording of Conversations What You Need to Know About WhatsApp for 2024</u></a></li>
 </ul></div>
 

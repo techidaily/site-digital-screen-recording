@@ -1,7 +1,7 @@
 ---
 title: "Quick Fixes for Missing Sound in OBS for 2024"
-date: 2024-11-10T02:06:42.342Z
-updated: 2024-11-13T23:52:51.020Z
+date: 2024-12-03T16:41:56.657Z
+updated: 2024-12-09T17:11:43.324Z
 tags: 
   - screen-recording
   - ai video
@@ -42,17 +42,7 @@ While using OBS studio, the users might experience the difficulties of OBS not c
 ![restart](https://images.wondershare.com/filmora/article-images/restart.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **2\. Run it as Administrator**
@@ -65,6 +55,10 @@ You can run OBS as an administrator on Windows 10 and Windows 11 effortlessly. B
 
 ![run it as administrator](https://images.wondershare.com/filmora/article-images/run-it-as-administrator.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **3\. Unmute OBS**
 
 If OBS Studio is muted in the Volume Mixer, no doubt you won’t hear any desktop sound. test if OBS desktop audio comes back. If not, try the next remedy below. So the first troubleshooting step is to check your Volume Mixer.
@@ -76,10 +70,11 @@ If OBS Studio is muted in the Volume Mixer, no doubt you won’t hear any deskto
 ![unmute obs](https://images.wondershare.com/filmora/article-images/unmute-obs.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **4\. Check the sound settings**
@@ -92,13 +87,6 @@ Click the Desktop Audio Device drop-down option if the proper device is not chos
 
 ![check the sound settings](https://images.wondershare.com/filmora/article-images/check-the-sound-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **5\. Remove Other Programs for Audio Control**
 
 Try recording with your speakers as the default playback device instead of headphones. To accomplish it, right-click the Speakers system tray icon and choose Open Sound settings.
@@ -110,10 +98,11 @@ Try recording with your speakers as the default playback device instead of headp
 ![audio control](https://images.wondershare.com/filmora/article-images/audio-control.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **6\. Update your audio driver**
@@ -124,13 +113,6 @@ If the Desktop Audio stopped recording after the Windows Driver update, you may 
 * From there, expand the Sound, video, and game controller, then right-click the audio driver and Update.
 
 ![update your audio driver](https://images.wondershare.com/filmora/article-images/update-your-audio-driver.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **7\. Reinstall OBS**
 
@@ -180,22 +162,15 @@ After the above efficient approaches, we have utilized to cure the "OBS No Sound
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-how-to-record-and-edit-video-using-the-adobe-connect/"><u>[New] 2024 Approved How to Record and Edit Video Using the Adobe Connect</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-comparing-mp4-recorders-the-latest-edition-for-2024/"><u>[New] Comparing MP4 Recorders - The Latest Edition for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-elevating-your-content-choosing-right-youtube-duosgroups-for-2024/"><u>[New] Elevating Your Content Choosing Right YouTube Duos/Groups for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-youtube-beats-now-at-your-fingertips-in-imovie-editing/"><u>[New] In 2024, YouTube Beats, Now at Your Fingertips in iMovie Editing</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-navigate-the-digital-landscape-effective-use-of-screen-sharing-on-skype-at-home/"><u>[New] Navigate the Digital Landscape Effective Use of Screen Sharing on Skype at Home</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-diverse-iptv-platforms-integration/"><u>[Updated] Diverse IPTV Platforms Integration</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-arcadearchive-annotator/"><u>[Updated] In 2024, ArcadeArchive Annotator</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-giggles-guide-to-sign-insign-out/"><u>[Updated] In 2024, Giggles Guide to Sign-In/Sign-Out</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-payment-for-publishing-consumer-based-merchandise-viewpoints-in-2024/"><u>[Updated] Payment for Publishing Consumer-Based Merchandise Viewpoints, In 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-warriors-echoes-celebrating-ghost-of-tsushima-analogues/"><u>[Updated] Warrior's Echoes Celebrating Ghost of Tsushima Analogues</u></a></li>
-<li><a href="https://extra-information.techidaily.com/becoming-a-maestro-at-zoom-broadcasting-on-youtube-for-2024/"><u>Becoming a Maestro at Zoom Broadcasting on YouTube for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/free-12-best-video-players-and-apps-for-pc-and-mobile-devices-for-2024/"><u>FREE 12 Best Video Players and Apps for PC and Mobile Devices for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Vivo Y55s 5G (2023)? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-itel-p40plus-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Itel P40+</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-how-to-record-webcam-chat/"><u>In 2024, How to Record Webcam Chat</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/inside-the-world-of-zdsoft-video-capturing-for-2024/"><u>Inside the World of ZDSoft Video Capturing for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/top-social-networking-sites-facebook-twitter-instagram-and-youtube/"><u>Top Social Networking Sites: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-delineating-distinctions-full-angle-vs-immersive-video/"><u>[New] 2024 Approved Delineating Distinctions Full-Angle Vs. Immersive Video</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-tech-savvy-tips-for-lenovo-display-capture/"><u>[New] 2024 Approved Tech-Savvy Tips for Lenovo Display Capture</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-5-exceptional-pc-emulators-for-playing-ps1-games/"><u>[New] In 2024, 5 Exceptional PC Emulators for Playing PS1 Games</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-pro-level-playback-advanced-techniques-for-capturing-minecraft-games-on-mac/"><u>[New] Pro-Level Playback Advanced Techniques for Capturing Minecraft Games on Mac</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-game-away-your-worries-the-coolest-titles/"><u>[Updated] Game Away Your Worries The Coolest Titles</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-transforming-igtv-with-multi-language-captioning/"><u>[Updated] In 2024, Transforming IGTV with Multi-Language Captioning</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-leading-tech-for-remote-team-engagement-for-2024/"><u>[Updated] Leading Tech for Remote Team Engagement for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exploring-the-core-of-m1-apples-innovation-for-2024/"><u>Exploring the Core of M1 Apple's Innovation for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-epic-escapades-in-playtime-paradise/"><u>In 2024, Epic Escapades in Playtime Paradise</u></a></li>
+<li><a href="https://solve-info.techidaily.com/mastering-sql-server-resilience-essential-techniques-for-optimal-disaster-recovery/"><u>Mastering SQL Server Resilience: Essential Techniques for Optimal Disaster Recovery</u></a></li>
 </ul></div>
 
