@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  The Pro's Pathway to Professional Video Conferencing with Slack & Filmora\""
-date: 2024-12-07T21:05:22.255Z
-updated: 2024-12-09T21:33:58.090Z
+date: 2024-12-10T22:28:51.977Z
+updated: 2024-12-15T18:54:14.058Z
 tags: 
   - screen-recording
   - ai video
@@ -37,6 +37,10 @@ So, follow our lead on how to schedule a meeting in a few clicks.
 * [Part 2: How to Record Slack Meetings](#part2)
 * [Part 3: Slack Video Call Settings](#part3)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part1: How to Schedule a Meeting on Slack
 
 To schedule a meeting anywhere is a tedious task, but, luckily, not on Slack. Figuring out the free slots on your guest's schedule can now be automated using Outlook or Google Calendar app to schedule a meeting on Slack.
@@ -46,6 +50,10 @@ All it takes is a few clicks to schedule a meeting on Slack. And after you sched
 1.Open your Slack account and choose a workspace. In the chatbox, click on the **Shortcut** icon.
 
 ![Click Shortcut Icon](https://images.wondershare.com/filmora/article-images/click-shortcut-icon.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2.Scroll down to find the option of **Create Event** (To schedule a meeting this way, you must first install the Outlook Calendar or Google Calendar)
 
@@ -59,12 +67,16 @@ All it takes is a few clicks to schedule a meeting on Slack. And after you sched
 
 ![Share Slack Meeting](https://images.wondershare.com/filmora/article-images/share-slack-meeting.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5.Choose a channel to share the Slack meeting or copy the link to paste in other workspaces.
 
 ![Choose Slack Channel](https://images.wondershare.com/filmora/article-images/choose-slack-channel.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to Record Slack Meetings
@@ -80,7 +92,7 @@ Here is how you can record Slack meeting.
 ![Add Slack Apps](https://images.wondershare.com/filmora/article-images/add-slack-apps.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2.Now, in the search bar, type and search **Zoom**. Click on the **Add** This will take you to the Slack App Directory.
@@ -95,13 +107,13 @@ Here is how you can record Slack meeting.
 
 ![Allow Zoom On Slack](https://images.wondershare.com/filmora/article-images/allow-zoom-on-slack.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5.Now, go to your workspace and type the **"/zoom"**command in the chatbox. Tap on the **Zoom** meeting tab.
 
 ![Slack Zoom Chatbox](https://images.wondershare.com/filmora/article-images/slack-zoom-chatbox.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6.Click on **Authorize** **Zoom** and adjust the settings.
 
@@ -111,17 +123,9 @@ Here is how you can record Slack meeting.
 
 ![Join Slack Meeting](https://images.wondershare.com/filmora/article-images/join-slack-meeting.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 8.Finally, tap on the **Record**icon to record Slack meeting. You can click on the **Pause** button or **Stop** to finish recording. Once the recording finishes, it will be automatically sent to your public or private channel(depending on the type of Slack meeting you scheduled).
 
 ![Record Slack Meeting](https://images.wondershare.com/filmora/article-images/record-slack-meeting.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: Slack Video Call Settings
 
@@ -138,11 +142,7 @@ Moreover, if you wish to stay on mute and still engage with the speaker, just cl
 ![Slack Emoji Message](https://images.wondershare.com/filmora/article-images/slack-emoji-message.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -168,20 +168,21 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-comprehensive-guide-to-xbox-screen-recording-success/"><u>[New] 2024 Approved Comprehensive Guide to Xbox Screen Recording Success</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-dialing-up-the-drama-captivating-tiktok-intros-via-mac/"><u>[New] 2024 Approved Dialing Up the Drama Captivating TikTok Intros via Mac</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-ideal-virtual-sets-crafting-excellent-google-meet-backdrops/"><u>[New] 2024 Approved Ideal Virtual Sets Crafting Excellent Google Meet Backdrops</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-craft-engaging-titlescaptions-with-microsofts-photos-app-win-11-for-2024/"><u>[New] Craft Engaging Titles/Captions with Microsoft's Photos App (Win 11) for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-top-8-strategies-for-striking-thumbnails-in-youtube-circles/"><u>[Updated] Top 8 Strategies for Striking Thumbnails in YouTube Circles</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-ultimate-campaigns-selecting-the-best-7-total-war-victories-for-2024/"><u>[Updated] Ultimate Campaigns Selecting the Best 7 Total War Victories for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-ideal-portals-to-rewind-at-your-computer-ps3-edition/"><u>2024 Approved Ideal Portals to Rewind at Your Computer (PS3 Edition)</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-precision-in-practice-detailed-manual-on-windows-pc-live-tv-capture/"><u>2024 Approved Precision in Practice Detailed Manual on Windows PC Live TV Capture</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/capturing-every-moment-unveiling-5-exceptional-streamer-webcams-for-2024/"><u>Capturing Every Moment Unveiling 5 Exceptional Streamer Webcams for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-top-8-unrestricted-character-ais-expert-options-without-limitations/"><u>Discover Top 8 Unrestricted Character AIs: Expert Options Without Limitations</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-dissecting-the-prospects-of-active-presenter-for-techies/"><u>In 2024, Dissecting the Prospects of Active Presenter for Techies</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-spiritual-soundtracks-where-to-find-christian-tunes/"><u>In 2024, Spiritual Soundtracks Where to Find Christian Tunes</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-the-framework-for-exceptional-ppt-video-documentation/"><u>In 2024, The Framework for Exceptional PPT Video Documentation</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/sing-your-heart-out-top-karaoke-devices-to-enjoy/"><u>Sing Your Heart Out: Top Karaoke Devices to Enjoy</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722963817593-step-by-step-guide-installing-your-nexiq-usb-connection-driver-today/"><u>Step-by-Step Guide: Installing Your Nexiq USB Connection Driver Today!</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-androids-prime-portable-gba-simulators-ranked/"><u>[New] 2024 Approved Android's Prime Portable GBA Simulators Ranked</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-essential-guide-recording-netflix-videos-on-a-mac/"><u>[New] Essential Guide Recording Netflix Videos on a Mac</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-best-practices-for-6-trendy-mc-houses/"><u>[New] In 2024, Best Practices for 6 Trendy MC Houses</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-capturing-creativity-the-ultimate-guide-to-roblox-videos-on-a-mac-for-2024/"><u>[Updated] Capturing Creativity The Ultimate Guide to Roblox Videos on a Mac for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-expert-strategies-in-photo-editing-for-profound-impact-for-2024/"><u>[Updated] Expert Strategies in Photo Editing for Profound Impact for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-simplifying-the-process-recording-on-xbox-one/"><u>[Updated] In 2024, Simplifying the Process Recording on Xbox One</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-secrets-of-screen-grabs-exposed-for-2024/"><u>[Updated] Secrets of Screen Grabs Exposed for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-amplify-pictorial-points-using-rings-of-radial-focus/"><u>2024 Approved Amplify Pictorial Points Using Rings of Radial Focus</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-techniques-for-stronger-video-content-with-b-clips/"><u>2024 Approved Techniques for Stronger Video Content with B-Clips</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/4k-unveiled-hp-dreamcolors-technological-leap-for-2024/"><u>4K Unveiled HP DreamColor's Technological Leap for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/computex-2024-ai-hardwares-new-era-begins/"><u>Computex 2024: AI Hardware's New Era Begins</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/crafting-perfect-youtube-music-sets/"><u>Crafting Perfect YouTube Music Sets</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/essential-steps-for-iphone-7-screen-capture-for-2024/"><u>Essential Steps for iPhone 7 Screen Capture for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-quick-ways-to-transfer-contacts-from-apple-iphone-7-plus-to-iphone-withwithout-itunes-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Quick Ways to Transfer Contacts from Apple iPhone 7 Plus to iPhone With/Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-oppo-a1x-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Oppo A1x 5G? Look No Further | Dr.fone</u></a></li>
 </ul></div>
 

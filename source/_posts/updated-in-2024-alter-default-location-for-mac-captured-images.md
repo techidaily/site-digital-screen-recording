@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Alter Default Location for Mac Captured Images"
-date: 2024-12-05T17:01:32.643Z
-updated: 2024-12-09T16:15:03.254Z
+date: 2024-12-08T23:48:47.898Z
+updated: 2024-12-15T23:09:54.282Z
 tags: 
   - screen-recording
   - ai video
@@ -32,7 +32,7 @@ Here's how you can change the location where the screenshots you take using the 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The All-in-One Screen Recorder & Video Editor
@@ -53,7 +53,7 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
@@ -63,7 +63,7 @@ Changing the folder where you store your screenshots is not an irreversible proc
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
@@ -74,10 +74,6 @@ Then enter a space at the end after 'location'.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
 
 **defaults write com.apple.screencapture location /Users/username/Screenshots**
@@ -87,6 +83,10 @@ To execute the command you have to press Enter. After Terminal finishes running 
 **killall SystemUIServer**
 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
 
@@ -101,7 +101,7 @@ Don't forget that deleting the folder you use as a default location for storing 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Max Wales
@@ -119,18 +119,20 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-critical-analysis-leading-screencast-applications-of-today/"><u>[New] Critical Analysis Leading Screencast Applications of Today</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-no-money-all-fcp-unveiled-methods/"><u>[New] In 2024, No Money, All FCP – Unveiled Methods</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-bring-laughter-to-life-with-adobe-meme-tools-for-2024/"><u>[Updated] Bring Laughter to Life with Adobe Meme Tools for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-elevate-your-ppt-presentations-avoiding-common-voiceover-pitfalls/"><u>2024 Approved Elevate Your PPT Presentations Avoiding Common Voiceover Pitfalls</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-proven-practice-for-preserving-playthroughs-tips-and-tricks-for-recording-roblox-gameplay-on-a-mac/"><u>2024 Approved Proven Practice for Preserving Playthroughs Tips & Tricks for Recording Roblox Gameplay on a Mac</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-translating-views-into-dollars-on-youtube-via-cpm/"><u>2024 Approved Translating Views Into Dollars on YouTube via CPM</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-two-screen-triumph-best-recorder-verdict/"><u>2024 Approved Two-Screen Triumph Best Recorder Verdict</u></a></li>
-<li><a href="https://win-unique.techidaily.com/excels-hidden-temporary-files-discovery-and-restoration-strategies-for-unintended-deletions/"><u>Excel's Hidden Temporary Files: Discovery & Restoration Strategies for Unintended Deletions</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-crafting-visual-harmony-a-color-grading-journey/"><u>In 2024, Crafting Visual Harmony A Color Grading Journey</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-essential-android-tools-5-leading-ps2-emulator-apps/"><u>In 2024, Essential Android Tools 5 Leading PS2 Emulator Apps</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-quick-guide-to-optimized-and-streamlined-mac-screenshots-via-keyboard-shortcuts/"><u>In 2024, Quick Guide to Optimized and Streamlined Mac Screenshots via Keyboard Shortcuts</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-top-ranked-apps-for-video-conferencing-and-collaboration/"><u>In 2024, Top-Ranked Apps for Video Conferencing and Collaboration</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-continuous-shutdown-restart-cycles-for-windows-10-computers/"><u>Troubleshoot Continuous Shutdown-Restart Cycles for Windows 10 Computers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-how-to-record-and-edit-video-using-the-adobe-connect/"><u>[New] 2024 Approved How to Record and Edit Video Using the Adobe Connect</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-golden-geographies-the-best-maps-for-treasure-hunters/"><u>[New] Golden Geographies The Best Maps for Treasure Hunters</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-heroic-quests-ranking-gaming-epics-in-action-adventure/"><u>[Updated] 2024 Approved Heroic Quests Ranking Gaming Epics in Action-Adventure</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-the-ultimate-12-selection-of-smart-flip-screen-vlog-cameras/"><u>[Updated] 2024 Approved The Ultimate 12 Selection of Smart Flip-Screen Vlog Cameras</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-unveiling-drone-excellence-the-q500-experience/"><u>[Updated] 2024 Approved Unveiling Drone Excellence The Q500 Experience</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-oppo-a79-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-navigating-the-dynamic-world-of-drone-racing-and-top-5-high-speed-drones/"><u>2024 Approved Navigating the Dynamic World of Drone Racing & Top 5 High-Speed Drones</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-optimal-ram-assignment-for-superior-minecraft-gaming/"><u>2024 Approved Optimal Ram Assignment for Superior Minecraft Gaming</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/android-brightening-essentials-stepwise-demystification/"><u>Android Brightening Essentials - Stepwise Demystification</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-ai-an-insight-into-its-associated-perils/"><u>Decoding AI: An Insight Into Its Associated Perils</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-solve-the-you-lack-authorization-to-join-fortnite-game/"><u>How to Solve the 'You Lack Authorization to Join Fortnite Game'</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-how-to-record-webcam-chat/"><u>In 2024, How to Record Webcam Chat</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/inside-the-world-of-zdsoft-video-capturing-for-2024/"><u>Inside the World of ZDSoft Video Capturing for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/er-filmmaking-for-channelnode-increase-strategies-for-2024/"><u>Partner Filmmaking for Channelnode Increase Strategies for 2024</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/scam-proof-your-life-learn-key-tactics-with-yl-software-insights/"><u>Scam-Proof Your Life: Learn Key Tactics with YL Software Insights</u></a></li>
 </ul></div>
 

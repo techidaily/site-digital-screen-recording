@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Easier Cinematography  Perfecting Fade Effects\""
-date: 2024-12-06T16:03:19.375Z
-updated: 2024-12-09T16:13:16.151Z
+date: 2024-12-13T16:15:04.572Z
+updated: 2024-12-15T22:56:18.605Z
 tags: 
   - screen-recording
   - ai video
@@ -29,10 +29,6 @@ The fade-in effect is commonly used to slowly introduce a shot to a viewer but i
 
 You may already know that [professional video editing software packages](https://tools.techidaily.com/wondershare/filmora/download/), like Adobe Premiere, enable its users to add fade-in and fade-out effects to videos, but in this article, we are going to show you how to create add fade-in and fade-out effects to videos in easier ways. So let's explore the steps you'll need to take in order to add these effects to your videos.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4 Ways to Add Fade in & Fade Out Effects to Video in Filmora
 
 If you’re using the latest version of Filmora, there’re several ways you can use to fade in and fade out clips. If you haven’t installed Filmora yet, click the button below to start.
@@ -40,7 +36,7 @@ If you’re using the latest version of Filmora, there’re several ways you can
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Add Dissolve Transitions to Video to Fade in and Fade out Video Footage
@@ -53,18 +49,10 @@ Here is how to add dissolve transition in Filmora.
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * After importing video footage into Filmora, drag and drop them in the timeline.
 * Go to the Transition tab and find Dissolve under the Basic category. If you didn’t see it, you can use the search bar to find it.
 
 ![Add Dissolve to Fade video in Filmora9 ](https://images.wondershare.com/filmora/article-images/dissolve-transtion-filmora9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * Drag the Dissolve transition to the beginning part of the clip, and then drag the Dissolve transition again to the end of the clip.
 
@@ -72,13 +60,13 @@ Besides applying Dissolve transition to fade video, you can also try the Fade or
 
 ![Ripple & Dissolve Transtions in Filmora9 ](https://images.wondershare.com/filmora/article-images/ripple-dissolve-transtions.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * You can adjust the duration of the Dissolve transition to get a better result.
 
 You can learn more about Dissolve transition at our guide [How to add Dissolve Transitions in Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Apply Fade Motion Effects to Video
 
@@ -88,12 +76,12 @@ Besides the regular dissolve and fade transitions, you can also apply motion fad
 
 ![Add  Fade Motion Effects to video in Filmora  ](https://images.wondershare.com/filmora/article-images/fade-motion-effects-animation.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Expand it and you will find that there are several fade effects available, such as fade-zoom in, fade-zoom out, fade slide from top to bottom, fade slide from bottom to top, fade from left to right, or fade right to left.
 * Double click on the fade effect that you want to use and the fade motion effect will be added to the clip automatically.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Add Sample Colors at the beginning and end of the video clip
 
@@ -117,11 +105,19 @@ Here are Preset and Customize options available, in order to create a fade effec
 
 ![Add animation keyframe to create Fade effect in Filmora ](https://images.wondershare.com/filmora/article-images/animation-customize.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Move the playhead in the timeline and then click the Add button accordingly, and then adjust the Opacity slider to make a fade effect.
 
 So easy, isn’t it? You can now download the software and make fade-in and fade-out effects with the animation keyframing in Filmora. You can read on to unlock more creative usage of the [animation keyframing](https://tools.techidaily.com/wondershare/filmora/download/).
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Besides fade-in and fade-out videos, Filmora can fade in and fade out audio easily. Check the details in our guide about how to fade in and [fade out audio in Filmora](https://tools.techidaily.com/wondershare/filmora/download/) or watch the video tutorial below.
 
@@ -130,6 +126,10 @@ Besides fade-in and fade-out videos, Filmora can fade in and fade out audio easi
 YouTuber Aaron Bowman has made a tutorial about the Filmora transitions, explaining how to add fade in fade out effects to videos, control the duration of transitions, as well as how to use the keyframing animations to create transitions.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -146,18 +146,22 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-photography-fundamentals-tips-and-apps-for-android/"><u>[New] 2024 Approved Photography Fundamentals Tips & Apps for Android</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-premium-online-sound-snatchers/"><u>[New] Premium Online Sound Snatchers</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-fix-successful-non-operational-obs-camera/"><u>[Updated] 2024 Approved Fix Successful Non-Operational OBS Camera</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-expert-analysis-top-9-digital-recording-tools-assessed/"><u>[Updated] Expert Analysis Top 9 Digital Recording Tools Assessed</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-prime-liking-article-headliner/"><u>[Updated] Prime Liking Article Headliner</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-fluidity-in-filming-a-deep-dive-into-inshots-transition-features/"><u>2024 Approved Fluidity in Filming A Deep Dive Into Inshot's Transition Features</u></a></li>
-<li><a href="https://facebook.techidaily.com/8-critical-facebook-features-for-dynamic-workplace-collaboration/"><u>8 Critical Facebook Features for Dynamic Workplace Collaboration</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On OnePlus Nord N30 SE? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-auto-gpt-comprehensive-ubuntu-setup-instructions/"><u>Mastering Auto-GPT: Comprehensive Ubuntu Setup Instructions</u></a></li>
-<li><a href="https://video-capture.techidaily.com/novice-cinematographers-initial-work-analysis-and-replacements-for-2024/"><u>Novice Cinematographer's Initial Work Analysis & Replacements for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/quickscreen-recorder-plus-guided-soundtrack-companion/"><u>QuickScreen Recorder + Guided Soundtrack Companion</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/snappy-screen-recording-tool-for-pcs/"><u>Snappy Screen Recording Tool for PCs</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/voice-recording-access-review-and-evaluate-for-2024/"><u>Voice Recording Access, Review & Evaluate for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-ultimate-list-most-captivating-phone-based-idlers/"><u>[New] 2024 Approved Ultimate List Most Captivating Phone-Based Idlers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-warriors-pantheon-valhalla-rebirth/"><u>[New] Warriors' Pantheon Valhalla Rebirth</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-efficient-techniques-for-adobe-presenter-capture/"><u>[Updated] 2024 Approved Efficient Techniques for Adobe Presenter Capture</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-unlocking-google-meets-whiteboard-capabilities-on-diverse-tech-ecosystems/"><u>[Updated] 2024 Approved Unlocking Google Meet's Whiteboard Capabilities on Diverse Tech Ecosystems</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-channel-catalysts-affiliates-aiding-budgeted-buzzers/"><u>[Updated] Channel Catalysts Affiliates Aiding Budgeted Buzzers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-how-to-harness-the-power-of-obs-on-android-gadgets-for-2024/"><u>[Updated] How to Harness the Power of OBS on Android Gadgets for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-prime-time-action-film-transcription/"><u>[Updated] In 2024, Prime Time Action Film Transcription</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-audio-quality-boost-for-skype-calls/"><u>2024 Approved Audio Quality Boost for Skype Calls</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/advanced-material-dashboard-pro-enhanced-management-with-livewire-in-laravel-a-collaboration-between-creative-tim-and-updivision/"><u>Advanced Material Dashboard Pro: Enhanced Management with Livewire in Laravel - A Collaboration Between Creative Tim and Updivision</u></a></li>
+<li><a href="https://fox-search.techidaily.com/get-your-favorite-content-from-telecinco-expert-guide-to-video-downloads/"><u>Get Your Favorite Content From Telecinco: Expert Guide to Video Downloads</u></a></li>
+<li><a href="https://techidaily.com/how-to-erase-private-data-from-apple-iphone-8-plus-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-advanced-techniques-for-capturing-high-quality-skype-calls/"><u>In 2024, Advanced Techniques for Capturing High-Quality Skype Calls</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-unlocking-recmasters-potential-in-screen-capture/"><u>In 2024, Unlocking Recmaster's Potential in Screen Capture</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-witness-the-blend-the-top-ten-funny-and-deep-ig-meme-accounts/"><u>In 2024, Witness the Blend The Top Ten Funny & Deep IG Meme Accounts</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/top-3-affordable-switch-game-counterparts-for-2024/"><u>Top 3 Affordable Switch Game Counterparts for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-addressing-the-not-installed-error-in-eac-launch-sequence/"><u>Troubleshooting Guide: Addressing the Not Installed Error in EAC Launch Sequence</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-holding-off-on-a-new-gaming-laptop-might-be-smart-key-reasons-explored/"><u>Why Holding Off on a New Gaming Laptop Might Be Smart – Key Reasons Explored</u></a></li>
 </ul></div>
 

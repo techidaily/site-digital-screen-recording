@@ -1,7 +1,7 @@
 ---
 title: Cold War Realities
-date: 2024-12-06T17:47:47.278Z
-updated: 2024-12-09T16:47:27.317Z
+date: 2024-12-11T18:09:22.370Z
+updated: 2024-12-15T21:25:05.234Z
 categories:
   - BestProducts
 description: This Article Describes Cold War Realities
@@ -36,7 +36,7 @@ thumbnail: https://www.lifewire.com/thmb/bptkPuLZHhXM0lJcBFRMHvXtAhQ=/400x300/fi
 [Jump to Review](https://www.lifewire.com/#toc-easiest-on-the-budget-hyper-mega-tech-super-pocket)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Just Buy This (All Around Best)
@@ -81,6 +81,10 @@ thumbnail: https://www.lifewire.com/thmb/bptkPuLZHhXM0lJcBFRMHvXtAhQ=/400x300/fi
 * **Who else recommends it?** TechRadar, Wired, T3, Tom’s Guide, Digital Trends, and CNET recommend the Nintendo Switch OLED.
 * **What do buyers think?** 90% of buyers on Amazon have rated the Nintendo Switch OLED five stars, with the console having an average score of 4.8 out of 5.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Also Great
 
 [Valve Steam Deck](https://www.amazon.com/Valve-Handheld-Console-No-Operating-System/dp/B0BBQRYN9M?tag=lifewire-onsite-prod-20&ascsubtag=8656300%7Cn828e9c21ba084df1b24d3ffdd45b85b813%7CB0BBQRYN9M)
@@ -92,10 +96,6 @@ thumbnail: https://www.lifewire.com/thmb/bptkPuLZHhXM0lJcBFRMHvXtAhQ=/400x300/fi
 [$450 at Amazon](https://www.amazon.com/Valve-Handheld-Console-No-Operating-System/dp/B0BBQRYN9M?tag=lifewire-onsite-prod-20&ascsubtag=8656300%7Cn828e9c21ba084df1b24d3ffdd45b85b813%7CB0BBQRYN9M) [$459 at Walmart](https://www.walmart.com/ip/Valve-Steam-Deck-64-GB/2237665775) [$399 at Steampowered.com](https://store.steampowered.com/steamdeck)
 
 **TL;DR:** The Steam Deck makes PC gaming truly portable and much simpler than ever before. It’s all within a sleek and easy to hold shell with a great screen whether you go LED or OLED. As with the Switch, you can always dock it, and even install Windows if you want a full portable PC.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Why We Recommend This
 
@@ -141,6 +141,10 @@ thumbnail: https://www.lifewire.com/thmb/bptkPuLZHhXM0lJcBFRMHvXtAhQ=/400x300/fi
 
 **TL;DR:** Old enough to remember the Nintendo Game Boy? This is a lot like that with plenty of nostalgic games on-board and more to be purchased separately. It’s perfect for anyone seeking nostalgia and it’s very keenly priced too.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Why We Recommend This
 
  The Hyper Mega Tech Super Pocket approaches the handheld gaming market differently from other consoles. It’s focused squarely on offering great retro gaming experiences.
@@ -170,10 +174,6 @@ thumbnail: https://www.lifewire.com/thmb/bptkPuLZHhXM0lJcBFRMHvXtAhQ=/400x300/fi
 * **Who else recommends it?** TechRadar, GamesRadar, Stuff, and The Guardian have all highly rated the Hyper Mega Tech Super Pocket.
 * **What do buyers think?** Between the two models, the Hyper Mega Tech Super Pocket has an average rating of 4.5 out of 5 on Amazon. 84% of customers have rated the Capcom version 4 or 5 stars, with 90% rating the Taito the same score.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How I Test
 
  I reviewed every handheld gaming console featured here over a number of weeks. The Nintendo Switch OLED, Switch Lite, and Steam Deck were purchased by me, while the Hyper Mega Tech Super Pocket, and Logitech G Cloud were acquired on loan from the manufacturer.
@@ -181,7 +181,7 @@ thumbnail: https://www.lifewire.com/thmb/bptkPuLZHhXM0lJcBFRMHvXtAhQ=/400x300/fi
  While playing them, I focused on how fun they are to use, how portable they are, and how user-friendly they are.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Other Handheld Gaming Consoles We Considered
@@ -190,15 +190,15 @@ thumbnail: https://www.lifewire.com/thmb/bptkPuLZHhXM0lJcBFRMHvXtAhQ=/400x300/fi
 
 ![Logitech G Cloud.](https://www.lifewire.com/thmb/SMW56Oe3oBSahp0Lznq6lQGJiTU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LogitechGCloud1-c2a2bb36b9ff4fa7bf3d6d8e65253de1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Logitech G Cloud.
 
 Lifewire / Jennifer Allen
 
  The[Logitech G Cloud](https://www.amazon.com/Logitech-Handheld-Long-Battery-Touchscreen-Lightweight-Tablet/dp/B09T9FHZLH?tag=lifewire-onsite-prod-20&ascsubtag=8656300%7Cn828e9c21ba084df1b24d3ffdd45b85b813%7C) is a device that allows you to play games via the cloud with ease. It supports Xbox Game Pass, GeForce Now, and Steam Cloud, effectively working as a custom Android tablet.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What to Look For
 
@@ -241,18 +241,19 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-ultimate-visuals-top-18-camcorders-for-4k-content/"><u>[Updated] In 2024, Ultimate Visuals - Top 18 Camcorders for 4K Content</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-favorite-list-ideal-mac-devices-for-video-grabbing/"><u>2024 Approved Favorite List Ideal Mac Devices for Video Grabbing</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-voice-logging-access-and-evaluation/"><u>2024 Approved Voice Logging Access & Evaluation</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/essential-knowledge-for-saving-app-activity/"><u>Essential Knowledge for Saving App Activity</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-days-gone-pc-launch-issues-a-comprehensive-guide/"><u>How to Fix 'Days Gone' PC Launch Issues: A Comprehensive Guide</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-xiaomi-redmi-k70e-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Xiaomi Redmi K70E | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-itel-p55-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Itel P55 | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-how-to-live-stream-on-twitter/"><u>In 2024, How to Live Stream on Twitter</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-superhero-sprouts-top-kid-friendly-gaming-stories/"><u>In 2024, Superhero Sprouts Top Kid-Friendly Gaming Stories</u></a></li>
-<li><a href="https://extra-information.techidaily.com/innovative-10-solutions-for-seamless-video-background-swapping/"><u>Innovative 10 Solutions for Seamless Video Background Swapping</u></a></li>
-<li><a href="https://common-error.techidaily.com/simple-solutions-troubleshoot-your-lenovos-non-responsive-fingerprint-scanner/"><u>Simple Solutions: Troubleshoot Your Lenovo's Non-Responsive Fingerprint Scanner</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Tecno Pop 8 | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On OnePlus Ace 3? | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-10-best-ways-to-watch-cricket-live-streaming/"><u>[New] 2024 Approved 10 Best Ways To Watch Cricket Live Streaming</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-crafting-the-perfect-soundtrack-for-your-vimeo-content/"><u>[New] Crafting the Perfect Soundtrack for Your Vimeo Content</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-flagship-firefox-screenshot-tools/"><u>[New] In 2024, Flagship Firefox Screenshot Tools</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-mac-users-guide-to-recording-and-reviewing-educational-talks-for-2024/"><u>[New] Mac Users' Guide to Recording and Reviewing Educational Talks for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-gently-lower-sound-amplitude-tutorial-for-2024/"><u>[Updated] Gently Lower Sound Amplitude Tutorial for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-perfecting-sound-levels-in-recordings-step-by-step-guide/"><u>[Updated] In 2024, Perfecting Sound Levels in Recordings Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-united-reviews-the-expert-on-easeus-for-2024/"><u>[Updated] United Reviews The Expert on EaseUS for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-unveiling-the-secrets-to-link-sharing-on-instagram/"><u>[Updated] Unveiling the Secrets to Link Sharing on Instagram</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-how-to-archive-your-minecraft-sessions-on-a-mac-computer/"><u>2024 Approved How to Archive Your Minecraft Sessions on a Mac Computer</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-transform-your-presence-advanced-tricks-for-live-video-graphics/"><u>2024 Approved Transform Your Presence Advanced Tricks for Live Video Graphics</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/grassroots-game-gatherings-the-free-film-guide-for-2024/"><u>Grassroots Game Gatherings - The Free Film Guide for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-fix-the-we-encountered-an-error-oculus-app-installation-issue-in-windows-1110/"><u>How to Fix the “We Encountered an Error” Oculus App Installation Issue in Windows 11/10</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/mastering-video-cover-updates-on-facebook/"><u>Mastering Video Cover Updates on Facebook</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/street-smart-showdown-top-hand-to-hand-video-games/"><u>Street Smart Showdown Top Hand-to-Hand Video Games</u></a></li>
 </ul></div>
 

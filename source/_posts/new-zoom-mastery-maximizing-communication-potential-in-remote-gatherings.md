@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Zoom Mastery  Maximizing Communication Potential in Remote Gatherings\""
-date: 2024-12-06T19:15:49.542Z
-updated: 2024-12-09T17:20:13.687Z
+date: 2024-12-14T16:09:40.598Z
+updated: 2024-12-15T22:20:19.389Z
 tags: 
   - screen-recording
   - ai video
@@ -35,10 +35,6 @@ That said, if you are new to the app and want to learn **how to chat in Zoom**, 
 * [Part 4: Disable chat in Zoom](#disable%5Fzoom%5Fchat)
 * [Part 5: FAQ About Zoom Meeting Chats](#zoom%5Fchat%5Ffaq)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: What Is Zoom Chat and Chat Settings for Secure Zoom Meeting Chat
 
 **Zoom chat** is a way of conversing with the participant(s) of a meeting via text messages. This is somewhat similar to what people did back in the Yahoo! Messenger era. However, unlike Yahoo! Messenger, Zoom doesn’t have open rooms where users could find new friends. Instead, it allows to chat only with those who are connected to each other through a conference call.
@@ -55,6 +51,10 @@ Checked by default, the **Change my status to “Away” when I am inactive for*
 
 ![Zoom Meeting Chat Settings](https://images.wondershare.com/filmora/article-images/zoom-meeting-chat-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * **Unblocking**
 
 The **Manage blocked users** button next to the **Blocked users** label lets you view the list all the users you have blocked. The **Unblock** button at the bottom of the **Blocked users** box allows you to unblock the users for chatting.
@@ -66,7 +66,7 @@ The radio buttons under this section let you choose which type of chat messages 
 ![Zoom Meeting Chat Nofitications Settings](https://images.wondershare.com/filmora/article-images/zoom-meeting-chat-notification-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * **Other Notifications**
@@ -81,9 +81,17 @@ The **Do not disturb from** checkbox allows you to define the duration of the da
 
 When the **Show message preview** box is unchecked, Zoom prevents the text of the chat messages from appearing on the screen, and you must open the message to view its content.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to Chat in Zoom
 
 When it comes to texting there are several options available for you to choose **how to chat in Zoom**. For instance, you can send a message to everyone in the chat or send a private message to one of the participants, mention participant(s) while typing a message, and can even send a file to them if need be. You can learn how to do all these by following their corresponding methods given below:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. How to Mention People in Zoom Chat?
 
@@ -115,10 +123,6 @@ Launch Zoom app and sign into your account. Click the **Chat** icon from the top
 
 At the time of this writing, **Zoom chat** supports almost all types of files. However, by signing in to your account on Zoom’s web portal, you can restrict them by their extensions. For example, you can configure your Zoom account to send only the files with JPG, ZIP, or RAR extensions.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: How to Save Zoom Chats
 
 Zoom also allows you to save your text conversions for future references. You can either save the chats manually, or configure Zoom to do that for you automatically. Both the processes are explained below:
@@ -132,7 +136,7 @@ Launch a web browser and sign in to your Zoom account on the web portal. From th
 ![Zoom Meeting Basic In meeting settings](https://images.wondershare.com/filmora/article-images/set-zoom-meeting-basic.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Step 2: Enable Autosave
@@ -142,11 +146,7 @@ Turn on the toggle switch next to **Auto saving chats** to configure your Zoom a
 ![Zoom Meeting Chat  Auto save](https://images.wondershare.com/filmora/article-images/auto-saving-chat-in-zoom-meeting.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. How to Save Zoom Chats Manually
@@ -158,7 +158,7 @@ During a meeting/conference session, click the **Chat** icon from the bottom to 
 ![Zoom Meeting Chat  Save](https://images.wondershare.com/filmora/article-images/save-chat-in-zoom-meeting-manually.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Step 2: Save the Chat Manually
@@ -167,13 +167,13 @@ Click the **More** icon (with three horizontal dots) from the bottom-right corne
 
 **Note:** By default, the chats are saved in a **Notepad** file, and can be found in the **Documents** folder of your account.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 4: How to Disable Chat in Zoom as a Host?
 
 If you are hosting a Zoom meeting, you can control the way people chat. To elaborate, you can either allow or disallow **Zoom private chat** for the members in a particular session, or can permanently disable the chat feature for your Zoom account altogether. To learn how to configure Zoom for both of these, you can follow the steps given below:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. How to Disable Zoom Private Chat?
 
@@ -244,22 +244,24 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-resurrect-the-past-the-ultimate-list-of-top-5-ps1-games-for-pc/"><u>[New] 2024 Approved Resurrect the Past The Ultimate List of Top 5 PS1 Games for PC</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-techniques-for-high-quality-rl-footage/"><u>[New] 2024 Approved Techniques for High-Quality RL Footage</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-the-ultimate-resource-navigating-through-mobizens-screen-recording-landscape/"><u>[New] 2024 Approved The Ultimate Resource Navigating Through Mobizen's Screen Recording Landscape</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-tips-to-overcome-mute-in-obs-streaming/"><u>[New] Tips to Overcome Mute in OBS Streaming</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-fastest-time-lapse-capturing-system-5/"><u>[Updated] 2024 Approved Fastest Time-Lapse Capturing System #5</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-crafting-content-that-captivates-the-square-video-formula-on-fb-for-2024/"><u>[Updated] Crafting Content That Captivates The Square Video Formula on FB for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-how-to-make-awesome-youtube-channel-art-ultimate-guide/"><u>[Updated] How to Make Awesome YouTube Channel Art [Ultimate Guide]</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-latest-idevice-screenshots-capture-hacks/"><u>[Updated] Latest iDevice Screenshots Capture Hacks</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-recording-wonders-the-best-screenshot-tools-for-2024/"><u>[Updated] Recording Wonders The Best Screenshot Tools for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-essential-chromes-leading-fb-video-grabs/"><u>2024 Approved Essential Chromes Leading FB Video Grabs</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-on-iphone-7-plus-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons On iPhone 7 Plus? Find the Best Solution Here</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-best-investments-elite-4k-dslr-mounting-solutions/"><u>In 2024, Best Investments Elite 4K DSLR Mounting Solutions</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/in-2024-structuring-a-significant-tiktok-close-up/"><u>In 2024, Structuring a Significant TikTok Close-Up</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/maintaining-data-integrity-while-switching-to-earlier-android-app-versions-the-ultimate-how-to-guide/"><u>Maintaining Data Integrity While Switching to Earlier Android App Versions: The Ultimate How-To Guide</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/techniques-for-efficient-zoom-meeting-recordings/"><u>Techniques for Efficient Zoom Meeting Recordings</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-to-scoring-amazing-savings-on-amazon-prime-day-2024-this-october/"><u>The Ultimate Guide to Scoring Amazing Savings on Amazon Prime Day 2024 This October</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-using-apple-vision-pro-ensuring-crisp-screenshots-and-smooth-recording-without-glitches/"><u>The Ultimate Guide to Using Apple Vision Pro - Ensuring Crisp Screenshots and Smooth Recording Without Glitches</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-expert-strategies-for-choosing-valheim-crops/"><u>[New] 2024 Approved Expert Strategies for Choosing Valheim Crops</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-complete-evaluation-the-ultimate-test-of-gecata-logging/"><u>[New] Complete Evaluation The Ultimate Test of Gecata Logging</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-gaming-and-video-content-showdown-twitch-and-youtube-compared/"><u>[New] In 2024, Gaming and Video Content Showdown Twitch & YouTube Compared</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-how-to-optimize-audio-capture-top-5-windows-11-strategies/"><u>[New] In 2024, How to Optimize Audio Capture Top 5 Windows 11 Strategies</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-mastering-typefaces-for-effects-select-10-titles-for-2024/"><u>[New] Mastering Typefaces for Effects Select 10 Titles for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-simplify-your-audio-life-master-vrecorder-installs/"><u>[New] Simplify Your Audio Life - Master VRecorder Installs</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-3d-worlds-on-your-android-mastering-vr-and-360-videos-for-2024/"><u>[Updated] 3D Worlds on Your Android Mastering VR & 360 Videos for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-beginner-friendly-approach-to-iphone-screen-casts-for-2024/"><u>[Updated] Beginner-Friendly Approach to Iphone Screen Casts for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-firecapture-pro-for-ff/"><u>[Updated] FireCapture Pro for FF</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-leveraging-periscope-for-real-time-engagement/"><u>2024 Approved Leveraging Periscope for Real-Time Engagement</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-reviewcast-analysis/"><u>2024 Approved ReviewCast Analysis</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/cost-effective-charm-how-the-motorola-one-mimics-an-iphone-at-a-bargain-price/"><u>Cost-Effective Charm: How the Motorola One Mimics an iPhone at a Bargain Price</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-essential-ps2-emulators-for-ios-devices/"><u>In 2024, Essential PS2 Emulators for IOS Devices</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-optimal-obs-configuration-for-budget-pcs/"><u>In 2024, Optimal OBS Configuration for Budget PCs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-depth-analysis-the-essence-of-the-google-podcast-application-for-2024/"><u>In-Depth Analysis The Essence of the Google Podcast Application for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-look-at-the-benefits-of-googles-nest-wifi-the-ideal-choice-for-flawless-home-internet-coverage/"><u>In-Depth Look at the Benefits of Google's Nest Wifi: The Ideal Choice for Flawless Home Internet Coverage</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-connectivity-issues-for-spotify-on-windows-11/"><u>Mastering Connectivity Issues for Spotify on Windows 11</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/savvy-obs-arrangement-for-economical-pcs-for-2024/"><u>Savvy OBS Arrangement for Economical PCs for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/windows-10-new-features-at-a-glance/"><u>Windows 10 New Features at a Glance</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Exploring the Mighty Performance Within a Small Form Factor - A Comprehensive Review of Xbox Series S
-date: 2024-12-08T20:16:59.297Z
-updated: 2024-12-09T19:21:32.957Z
+date: 2024-12-14T21:18:21.162Z
+updated: 2024-12-15T19:45:56.786Z
 categories:
   - BestProducts
 description: This Article Describes Exploring the Mighty Performance Within a Small Form Factor - A Comprehensive Review of Xbox Series S
@@ -18,7 +18,7 @@ thumbnail: https://www.lifewire.com/thmb/FGI8xerKt3icyDzp_h8bugBgHPo=/400x300/fi
 ![Apple iMac 21.5-inch 4K](https://www.lifewire.com/thmb/dIY3bLJSRioBJmHFFCGQjcgcxbU=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_1LW4045927-1-625cb1ba7a894cc38db8565dd81072b3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Gannon Burgett
@@ -86,11 +86,11 @@ Lifewire / Gannon Burgett
 
 ![Apple iMac 21.5-inch 4K](https://www.lifewire.com/thmb/gM_JxuZjDbSUs7DYtXIwUIqqz0Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4045927-3-d30c5f8414e94cbd9b1ec8aea9b18950.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Gannon Burgett
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Setup Process: One plug and you’re good to go**
 
@@ -99,6 +99,10 @@ Lifewire / Gannon Burgett
  Setting up the iMac is as simple as unwrapping it from its protective cover, setting it on the desk, plugging it in with the included power cord, and pressing the power button. As it boots up, we turned on the Magic Keyboard and Magic Mouse 2\. By the time the iMac was to the setup screen — a process that took approximately 60 seconds — the two were already paired with the computer and ready to be used.
 
  Going through the setup process took us approximately five minutes, which included setting up our iCloud account and getting the various login settings in place. We opted to set this up as a new computer, but there’s also the ability to set it up from an Apple Time Capsule backup or transfer content from a PC via USB. The amount of time those options take will vary depending on the device you’re transferring the information from as well as the amount of data being transferred.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Display: Bright, brilliant, and ready to shine**
 
@@ -113,13 +117,13 @@ Lifewire / Gannon Burgett
 ![Apple iMac 21.5-inch 4K](https://www.lifewire.com/thmb/IKZ75jBAosAG3M1Py_-E0ElYAfM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4045927-5-a705ea67b88b4cf694c53e4715a9aceb-f57b3be92a934d8ab579d90728e23fe8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Gannon Burgett
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Performance: Impressive performance from an all-in-one**
@@ -144,10 +148,6 @@ Lifewire / Gannon Burgett
 
  In our hardwired tests, the iMac maxed out our Gigabit fiber optic internet no problem, with steady download and upload speeds. Wireless connectivity was equally impressive, regardless of whether the iMac was in the same room as the router or a few rooms over. We didn’t notice any drops throughout our tests and both uploading and downloading content was consistent.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Camera: Decent built-in option for basic tasks**
 
  The only camera on the 4K iMac is the integrated webcam, which sits dead center above the display. We would’ve liked to see a 1080p or even 4K webcam included, but the 720p resolution is good enough for basic video messaging.
@@ -155,7 +155,7 @@ Lifewire / Gannon Burgett
 ![Apple iMac 21.5-inch 4K](https://www.lifewire.com/thmb/rFu0_k9BjbUxQdoEYOcNGU35LJA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4045927-2-a3d2f38b9509480ba41bbb5b33815d1a.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Gannon Burgett
@@ -199,7 +199,7 @@ Lifewire / Gannon Burgett
 * [Lenovo ThinkCentre M720 Tower](https://www.lifewire.com/lenovo-thinkcentre-m720-tower-review-4776238)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specs
@@ -233,24 +233,14 @@ Lifewire / Gannon Burgett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-ideal-ios-platform-for-psp-emulation-our-top-5-list-of-2023/"><u>[New] 2024 Approved Ideal iOS Platform for PSP Emulation - Our Top 5 List of 2023</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-virtual-horizons-where-is-the-new-frontier-of-vr/"><u>[New] 2024 Approved Virtual Horizons Where Is the New Frontier of VR?</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/rime-source-directory-downloading-youtube-video-intros/"><u>[New] Prime Source Directory Downloading YouTube Video Intros</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-master-techniques-for-live-sport-broadcast-recording/"><u>[Updated] 2024 Approved Master Techniques for Live Sport Broadcast Recording</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-transforming-live-engagements-into-lasting-media/"><u>[Updated] 2024 Approved Transforming Live Engagements Into Lasting Media</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-discover-the-ideal-screencasting-software-for-teachers-for-2024/"><u>[Updated] Discover the Ideal Screencasting Software for Teachers for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-beginner-friendly-approach-to-videography-using-adobe-connect-platform/"><u>[Updated] In 2024, Beginner-Friendly Approach to Videography Using Adobe Connect Platform</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-profiling-perfection-a-visual-guide/"><u>[Updated] In 2024, Profiling Perfection A Visual Guide</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-cost-effective-gaming-selecting-the-best-keyboard-choices/"><u>2024 Approved Cost-Effective Gaming Selecting the Best Keyboard Choices</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-discord-how-to-restore-audio-during-screen-sharing/"><u>Fixing Discord: How to Restore Audio During Screen Sharing</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-vivo-x-flip-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Vivo X Flip? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-poco-f5-pro-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Poco F5 Pro 5G Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-simplified-methods-to-record-gotomeeting-chats/"><u>In 2024, Simplified Methods to Record GoToMeeting Chats</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-top-8-economical-video-call-applications-cross-system-compatibility/"><u>In 2024, Top 8 Economical Video Call Applications Cross-System Compatibility</u></a></li>
-<li><a href="https://article-posts.techidaily.com/iphones-best-camera-combo-utilities/"><u>IPhone's Best Camera Combo Utilities</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-compatibility-keep-your-dragon-age-origins-game-smooth-on-windows-11-without-any-crashes/"><u>Mastering Compatibility: Keep Your Dragon Age: Origins Game Smooth on Windows 11 Without Any Crashes</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-top-rated-4k-video-conversion-software-2023-edition/"><u>New 2024 Approved Top-Rated 4K Video Conversion Software 2023 Edition</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/top-tactics-3-ways-to-record-and-keep-your-live-discord-events-alive/"><u>Top Tactics 3 Ways to Record and Keep Your Live Discord Events Alive</u></a></li>
-<li><a href="https://blog-min.techidaily.com/ultimate-list-of-family-fun-cartoon-films-everyone-should-watch/"><u>Ultimate List of Family-Fun Cartoon Films Everyone Should Watch</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-best-collection-sites-for-quick-access-to-youtube-vids/"><u>[New] 2024 Approved Best Collection Sites for Quick Access to YouTube Vids</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-simplified-workflow-streamlined-screen-capture-on-mac-using-keystroke-shortcuts/"><u>[New] In 2024, Simplified Workflow Streamlined Screen Capture on Mac Using Keystroke Shortcuts</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-mastering-ps2-replay-on-android-devices-top-picks/"><u>[New] Mastering PS2 Replay on Android Devices - Top Picks</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-top-5-pro-digital-cameras-for-smooth-twitch-broadcasts/"><u>[New] Top 5 Pro Digital Cameras for Smooth Twitch Broadcasts</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-artistic-additions-free-designs-for-youtube-crafting/"><u>[Updated] Artistic Additions Free Designs for YouTube Crafting</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-fixing-the-full-screen-freeze-in-obs/"><u>[Updated] Fixing the Full-Screen Freeze in OBS</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-ranking-the-top-text-motion-tracking-solutions/"><u>New In 2024, Ranking the Top Text Motion Tracking Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-gaming-fixes-resolving-continuous-aliens-fireteam-elite-software-failures/"><u>PC Gaming Fixes: Resolving Continuous Aliens: Fireteam Elite Software Failures</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-huawei-p60-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Huawei P60</u></a></li>
 </ul></div>
 

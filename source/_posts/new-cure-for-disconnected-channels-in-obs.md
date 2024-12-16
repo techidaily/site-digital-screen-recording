@@ -1,7 +1,7 @@
 ---
 title: "[New] Cure for Disconnected Channels in OBS"
-date: 2024-12-08T19:51:33.388Z
-updated: 2024-12-09T17:12:12.548Z
+date: 2024-12-12T19:44:51.241Z
+updated: 2024-12-15T18:52:34.923Z
 tags: 
   - screen-recording
   - ai video
@@ -35,19 +35,11 @@ Edit system and microphone audio seperately
 
 All in all, to record desktop audio with OBS, you have to enter a third-party audio driver. To find out the intricacies of this solution, you may read the solutions as follow:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **1\. Close the OBS and Restart**
 
 While using OBS studio, the users might experience the difficulties of OBS not capturing mic audio. This problem arises because the program only captures mic audio, and it doesn't support the desktop audio or system sound. to repair the "OBS no sound" problem on your PC is simply to shut the OBS studio software and thereafter restart it once more.
 
 ![restart](https://images.wondershare.com/filmora/article-images/restart.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **2\. Run it as Administrator**
 
@@ -58,10 +50,6 @@ You can run OBS as an administrator on Windows 10 and Windows 11 effortlessly. B
 * Right Click on OBS Studio and click Run as administrator
 
 ![run it as administrator](https://images.wondershare.com/filmora/article-images/run-it-as-administrator.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **3\. Unmute OBS**
 
@@ -83,6 +71,14 @@ Click the Desktop Audio Device drop-down option if the proper device is not chos
 
 ![check the sound settings](https://images.wondershare.com/filmora/article-images/check-the-sound-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **5\. Remove Other Programs for Audio Control**
 
 Try recording with your speakers as the default playback device instead of headphones. To accomplish it, right-click the Speakers system tray icon and choose Open Sound settings.
@@ -92,6 +88,14 @@ Try recording with your speakers as the default playback device instead of headp
 * Select the Set Default option and click the Apply button.
 
 ![audio control](https://images.wondershare.com/filmora/article-images/audio-control.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **6\. Update your audio driver**
 
@@ -103,7 +107,7 @@ If the Desktop Audio stopped recording after the Windows Driver update, you may 
 ![update your audio driver](https://images.wondershare.com/filmora/article-images/update-your-audio-driver.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **7\. Reinstall OBS**
@@ -117,7 +121,7 @@ If none of the techniques can assist you, your OBS is experiencing an undefined 
 ![reinstall obs](https://images.wondershare.com/filmora/article-images/reinstall-obs.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Use OBS Alternative
@@ -135,10 +139,6 @@ For macOS 10.12 or later
 After the above efficient approaches, we have utilized to cure the "OBS No Sound" problem on your PC. You may straight-away choose Filmora and erase the abnormalities hassle-free. . Filmora Screen Recorder is recognized as one of the most powerful screen record applications which are comparable to OBS, it has extremely amazing performance in screen recording. Case in case, you can capture a lossless video with lossless audio quality. It is an easy-to-use editor for both novices as well as pros. The program is available for Mac platforms and Windows for free. However, the exported video will have a watermark of Filmora that may be removed in the premium version. If you hanker to have a flexible recording, Filmora Screen Recorder will satisfy your desire as well. You may set the audio source and recording location manually with one easy click. No need to add that all the shortcuts, attributes of the output, and mouse motions are all configurable. Moreover, users may build dramatic titles by adding all sorts of colors and fonts to the contents.
 
 ![record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Features Why You Should Go for Filmora:**
 
@@ -162,14 +162,15 @@ After the above efficient approaches, we have utilized to cure the "OBS No Sound
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-elevate-your-craft-canvas-hidden-design-secrets-for-2024/"><u>[New] Elevate Your Craft Canva's Hidden Design Secrets for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-unleashing-potential-enhancing-your-tiktok-videos/"><u>[New] Unleashing Potential Enhancing Your TikTok Videos</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-exclusive-video-editing-software-just-for-vimeo-pros/"><u>[Updated] In 2024, Exclusive Video Editing Software Just For Vimeo Pros</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-iphone-pro-photography-mastery-of-leading-lines/"><u>[Updated] IPhone Pro Photography Mastery of Leading Lines</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-pinterest-video-downloader-guide-the-leading-no-cost-alternatives-for-2024/"><u>[Updated] Pinterest Video Downloader Guide The Leading No-Cost Alternatives for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/20-guidelines-livestream-webinars-at-no-extra-charge-for-2024/"><u>20 Guidelines Livestream Webinars at No Extra Charge for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/best-10-battle-royale-games/"><u>Best 10 Battle Royale Games</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-evaluating-screencast-software-the-bandicamcamtasia-comparison/"><u>In 2024, Evaluating Screencast Software The Bandicam/Camtasia Comparison</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-screencastify-a-comprehensive-recording-how-to/"><u>In 2024, Screencastify A Comprehensive Recording How-To</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-daily-earnings-for-top-podcasters/"><u>[New] 2024 Approved Daily Earnings for Top Podcasters</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-beginners-guide-to-iphone-video-capture/"><u>[New] Beginner's Guide to Iphone Video Capture</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-flipping-photos-for-followers-a-rotational-approach-for-insta-success-for-2024/"><u>[New] Flipping Photos for Followers A Rotational Approach for Insta Success for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-going-beyond-why-you-might-want-an-alternate-to-vidmas-reader/"><u>2024 Approved Going Beyond Why You Might Want an Alternate to Vidma's Reader</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-infinite-possibilities-on-a-track-top-5-racing-simulators-reviewed/"><u>2024 Approved Infinite Possibilities on a Track Top 5 Racing Simulators Reviewed</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-overcoming-connectivity-issues-in-remote-recording/"><u>2024 Approved Overcoming Connectivity Issues in Remote Recording</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/innovate-wellness-experiences-top-7-smart-plugins/"><u>Innovate Wellness Experiences: Top 7 Smart Plugins</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ration-boost-with-leading-hr-tapes-for-2024/"><u>Inspiration Boost with Leading HR Tapes for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-no-longer-available-iphone-last-line-issue-a-comprehensive-guide/"><u>Resolving 'No Longer Available' IPhone Last Line Issue: A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/why-experts-rate-apple-ipad-pro-11-as-the-pinnacle-of-performance-in-2018/"><u>Why Experts Rate Apple iPad Pro (11) as the Pinnacle of Performance in 2018</u></a></li>
 </ul></div>
 
