@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Ultimate Guide to Single-Platform Gaming in Apex Legends\""
-date: 2024-09-07T17:55:08.935Z
-updated: 2024-09-08T17:55:08.935Z
+date: 2024-12-17T18:47:36.665Z
+updated: 2024-12-24T17:18:50.965Z
 tags: 
   - screen-recording
   - ai video
@@ -41,12 +41,6 @@ Apex Legends Gameplay Basics:
 
 ![](https://images.wondershare.com/filmora/article-images/Apex-gameplay.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 In this battle royal game, you are a part of a 3-person squad. There are 14 playable characters to choose from, and they are called legends in the game. If you compare all legends, you will find that they are equal in strength, speed, and firepower. It's their special abilities that make them different from each other. Every character has a unique ability that can help you in-game to leverage other players. So, you can choose a legend that suits your playstyle and is a perfect fit for your squad.
 
 Teamwork is very critical in this game. When you jump into the battleground, there are two teammates on your side. Make sure to stick with them during the match if you want to win it. By working together, you can protect each other and outmatch the enemies by combining your abilities. You can stay connected with your teammates using the in-game communication system. You can mark different locations, highlight threats, pinpoint the location of gear pieces, and tell your teammates in which direction you are going.
@@ -75,12 +69,6 @@ Step1, to disable it, you need to go to the setting button at the lobby's right 
 
 Step 2, under the gameplay tab, scroll down, and you can find cross-platform play.![apex-setting2](https://images.wondershare.com/filmora/article-images/apex-setting2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121334/18498" target="_top" id="2121334">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121334/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### **Does it have cross-progression?**
 
 Unfortunately, because of technical and legal issues, no. It means that your characters/purchased items will not be synced through platforms. Simply put, you will have to start all over again if you change your platform.
@@ -105,22 +93,10 @@ If you want to get Apex's best experience on Xbox consoles, you should play it o
 
 ![](https://images.wondershare.com/filmora/article-images/Apex-ps4.png)You can also play Apex Legends on Sony PlayStation 4\. Although you can play it on the standard PS4, if you want to get the best gaming experience, then you should play it on PS4 Pro. On PS4, you need to have a PlayStation Plus subscription if you want to play online multiplayer games, but in the case of Apex Legends, you do not need it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Sony PlayStation 5**
 
 ![ps5-poster](https://images.wondershare.com/filmora/article-images/ps5-poster.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Sony PlayStation 5 is a next-generation console, and luckily Apex Legends is already playable on it. PS5 offers improved performance and better graphics as compared to its previous versions. If you were previously playing on PS4 and just switched to PS5, you can also retain all your progress and skins on PS5 also. You can use the same EA account and start enjoying Apex Legends on 1440p screen resolution.
 
 **PC**
@@ -142,12 +118,6 @@ PC Requirements For Apex Legends:
 
  ![](https://images.wondershare.com/filmora/article-images/Apex-switch.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 On March 9, 2021, EA released a version of this game for Nintendo switch. Currently, it is playable on the switch, and you can only match up with switch players, but soon it will be available to play with cross-platform support. It is a big achievement for EA to make this game playable on a small screen.
 
 ---
@@ -168,12 +138,6 @@ Bonus：Want to record and edit your wonderful Apex gameplay? Give it a go on Wo
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -186,12 +150,6 @@ Follow @Richard Bennett
 
 ![](https://images.wondershare.com/filmora/article-images/apex-poster.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 From the past few months, a few questions are asked: Can we crossplay in Apex Legends? How to disable crossplay? How about cross-progression? Further, which platform is the best to play on? What's the difference between Steam and Origin?
 
 In this article, all of the questions above will be answered. No doubt, we have seen a massive increase in the popularity of Apex Legends. Millions of players are grouping in EA's battle royal game, and it is quite clear why they like it so much. It is a free-to-play game with some quality graphics and gameplay. This game's core is based around looting and shooting, and it offers a few interesting twists in the battle royal format.
@@ -216,18 +174,6 @@ One thing that you must keep in mind while playing this game is that killing an 
 
 Although this game is free of cost, it offers several in-game purchases. You can purchase Apex Coins, which is an in-game currency. ![](https://images.wondershare.com/filmora/article-images/Apex-ingame-purchase.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 You can use it to purchase loot boxes that contain skins and costumes. There are two locked characters in the game also, and you need to purchase them with Apex coins. So, you can get the maximum out of this game by spending some money and giving time to this game.
 
 ---
@@ -244,26 +190,8 @@ Step1, to disable it, you need to go to the setting button at the lobby's right 
 
 ![ape-setting1](https://images.wondershare.com/filmora/article-images/apex-setting1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step 2, under the gameplay tab, scroll down, and you can find cross-platform play.![apex-setting2](https://images.wondershare.com/filmora/article-images/apex-setting2.png)
 
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### **Does it have cross-progression?**
 
 Unfortunately, because of technical and legal issues, no. It means that your characters/purchased items will not be synced through platforms. Simply put, you will have to start all over again if you change your platform.
@@ -278,24 +206,12 @@ The best thing about Apex Legends is that it has multiplatform support. You can 
 
 ![](https://images.wondershare.com/filmora/article-images/xbox-one.jpg)You can play Apex Legends on Xbox One S, but you may need to compromise a little bit and play on a low resolution for better fps. Although the game will run just fine, you may need to make some adjustments to your graphics settings. You can play this game on 720p on Xbox One S, so make sure to sit a little closer to your screen to see everything.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 If you want to get Apex's best experience on Xbox consoles, you should play it on Xbox One X. If you switch from Xbox one S to Xbox one X, you will see a significant difference in the game performance. On the X version, you can run the game on 1080p. It offers overall better performance in terms of gameplay as compared to other Xbox variants.
 
 **Xbox Series X and S**
 
 ![](https://images.wondershare.com/filmora/article-images/xbox-seriesx.jpg)Xbox series S and X are the latest generations of Xbox. They rival their competitor PS5 and offer competitive performance when you compare these consoles with a PS5\. They do offer better gaming performance and better graphics. But, the question is, Can you play Apex on the latest generations of Xbox? The answer is yes. You will get better performance in terms of graphics and FPS but currently, the game isn't fully optimized for the latest generations. In the coming days it is expected that the game will be optimized for the latest consoles and you can enjoy the game to the fullest. Currently, you can enjoy 1440p gaming on these consoles and can get up to 120fps.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Sony PlayStation 4**
 
 ![](https://images.wondershare.com/filmora/article-images/Apex-ps4.png)You can also play Apex Legends on Sony PlayStation 4\. Although you can play it on the standard PS4, if you want to get the best gaming experience, then you should play it on PS4 Pro. On PS4, you need to have a PlayStation Plus subscription if you want to play online multiplayer games, but in the case of Apex Legends, you do not need it.
@@ -345,12 +261,6 @@ Bonus：Want to record and edit your wonderful Apex gameplay? Give it a go on Wo
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -379,10 +289,28 @@ Follow @Richard Bennett
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-expert-advice-downloading-editing-and-personalizing-whatsapp-tones-for-both-platforms/"><u>[New] 2024 Approved Expert Advice Downloading, Editing & Personalizing WhatsApp Tones for Both Platforms</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-android-screen-recording-tutorial-essentials-for-2024/"><u>[New] Android Screen Recording Tutorial Essentials for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-camtasia-tutorial-implementing-the-classic-ken-burns-effect-for-2024/"><u>[New] Camtasia Tutorial Implementing the Classic Ken Burns Effect for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-how-to-screenshot-on-mac-5-simple-ways/"><u>[New] How to Screenshot on Mac - 5 Simple Ways</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-imagesegment-scrutiny-review/"><u>[New] ImageSegment Scrutiny Review</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-complete-overview-screenflow-v4-for-macos/"><u>[Updated] Complete Overview ScreenFlow v4 for macOS</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-innovating-communication-integrate-google-meets-in-daily-life/"><u>[Updated] In 2024, Innovating Communication Integrate Google Meets in Daily Life</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-innovative-ways-to-archive-voice-transcripts-from-whatsapp-for-2024/"><u>[Updated] Innovative Ways to Archive Voice Transcripts From WhatsApp for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-pixelprobe-criticism-engine-for-2024/"><u>[Updated] PixelProbe Criticism Engine for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-top-6-minecraft-survival-house-ideas/"><u>2024 Approved Top 6 Minecraft Survival House Ideas</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/capture-the-moment-an-examination-of-camstudio-for-2024/"><u>Capture the Moment An Examination of CamStudio for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-road-warriors-top-virtual-races-listed/"><u>In 2024, Road Warriors Top Virtual Races Listed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/maximize-savings-on-tech-products-with-amazons-prime-day-specials-2amoonguide-2024-edition/"><u>Maximize Savings on Tech Products with Amazon's Prime Day Specials - 2Amoonguide 2024 Edition</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/new-privacy-update-notice/"><u>New Privacy Update Notice</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/reconnect-your-phone-troubleshooting-guide-for-iphones-struggling-with-cellular-signal-after-ios-1721-upgrade/"><u>Reconnect Your Phone: Troubleshooting Guide for iPhones Struggling with Cellular Signal After iOS 17.2.1 Upgrade</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-samsung-galaxy-f14-5g-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Samsung Galaxy F14 5G for Parents | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Infinix Note 30 5G? | Dr.fone</u></a></li>
+</ul></div>
 
-
-
-
-
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

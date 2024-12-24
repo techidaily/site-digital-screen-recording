@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Flawless Gameplay  Controlling Games via Switch Pro Controller in Steam\""
-date: 2024-12-10T19:32:34.775Z
-updated: 2024-12-16T00:30:05.057Z
+date: 2024-12-19T19:27:30.878Z
+updated: 2024-12-24T20:55:32.283Z
 tags: 
   - screen-recording
   - ai video
@@ -42,6 +42,10 @@ This article will tell you how to enable your Nintendo Switch Pro controller to 
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Wired Connection for Switch Pro Controllers**
 
 Windows describe it as a DirectInput controller instead of an XInput controller, so getting it to work with PC games can prove tedious. However, thanks to Value-adding full Switch controller support to Steam, you will probably be able to play most of your favorite games.
@@ -51,6 +55,10 @@ Windows describe it as a DirectInput controller instead of an XInput controller,
 **Step2:** Connect the other end of the cable to your PC.
 
 ![switch-pro-controller-connected-with-cable](https://images.wondershare.com/filmora/article-images/switch-pro-controller-connected-with-cable.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 There you have it! Windows 10 will recognize your controller as a "Pro Controller." You can now proceed with installing Steam.
 
@@ -75,14 +83,10 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 
 ![switch-pro-controller-setting-up](https://images.wondershare.com/filmora/article-images/switch-pro-controller-setting-up.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Once Steam is set up, you can begin using it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **How To Setup Steam To Use Your Switch Pro Controller On Pc**
@@ -90,7 +94,7 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 ![switch-pro-controller-steam-set-up](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The Best Way to make sure your Pro Controller works properly with your PC game is to use Steam's Big Picture mode, which uses a comfortable lean-back system to allow you to navigate.
@@ -105,6 +109,10 @@ When configured through Steam, you should use the Pro Controller with any Steam 
 
 ![switch-pro-controller-steam-set-up2](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Enter the Switch Pro Controller overlay from Steam's controller options while running in Big Picture mode. There are several ways to map the inputs on the Pro Controller, but default configurations are usually sufficient for most games. By changing the controller mapping based on the situation, you can fix any problems on the fly.
 
 ## **What To Do With Non-Steam Games?**
@@ -117,19 +125,11 @@ The main problem here now is how windows will detect your switch pro controller 
 
 **Solution2:** The second method is to use a software-based XInput Wrapper. There is plenty of software out there that provides this functionality. Just configure your switch pro controller with them, and you can easily use it on non-steam games.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Final Verdict**
 
 This is how you can use your switch pro controller with your PC. Now you can easily enjoy your favorite games on one of the finest controllers available in the market today. All you need to do is, follow some simple steps mentioned in this article, and you are good to go. You can connect it both with wire and wirelessly. It is comparatively easy to connect it through the wire, and the performance of the controller is also slightly better when it is connected through a wire.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -146,20 +146,21 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-cutting-edge-tools-for-digital-video-capture-for-2024/"><u>[New] Cutting-Edge Tools for Digital Video Capture for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-freedom-in-sight-comparing-free-screen-capture-tools/"><u>[New] Freedom in Sight Comparing Free Screen Capture Tools</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-easeus-recexperts-review/"><u>[New] In 2024, EaseUS RecExperts Review</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-capturing-your-laptop-simple-lenovo-steps/"><u>[Updated] Capturing Your Laptop Simple Lenovo Steps</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-professional-mov-file-handling-on-your-latest-windows-11-system/"><u>2024 Approved Professional .MOV File Handling on Your Latest Windows 11 System</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/cultivating-excellence-the-top-7-stardew-mods-ranked-7-14-for-2024/"><u>Cultivating Excellence - The Top 7 Stardew Mods (Ranked #7-14) for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-go-joystick-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Vivo S17t? | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-exploring-beyond-manycam-enhanced-alternatives/"><u>In 2024, Exploring Beyond ManyCam Enhanced Alternatives?</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/mastering-instagram-video-streaming-quickness-for-2024/"><u>Mastering Instagram Video Streaming Quickness for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/streamlined-techniques-to-log-and-preserve-gotomeetings/"><u>Streamlined Techniques to Log and Preserve GoToMeetings</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/summer-screen-escapades-top-10-classic-kids-films/"><u>Summer Screen Escapades Top 10 Classic Kid's Films</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-oneplus-ace-2v-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset OnePlus Ace 2V | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-stepwise-approach-to-voice-recognition-integration-in-powerpoint-presentations-for-2024/"><u>The Stepwise Approach to Voice Recognition Integration in PowerPoint Presentations for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-and-shielding-your-data-privacy-from-potential-threats-posed-by-adaptive-language-models-like-chatgpt/"><u>Understanding and Shielding Your Data Privacy From Potential Threats Posed by Adaptive Language Models Like ChatGPT</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unveiling-virtual-excellence-top-5-upcoming-playstation-vr-titles/"><u>Unveiling Virtual Excellence Top 5 Upcoming PlayStation VR Titles</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-playlists-that-rule-spotifys-top-10/"><u>[New] In 2024, Playlists that Rule Spotify's Top 10</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-telltale-signs-your-chat-is-hidden/"><u>[New] Telltale Signs Your Chat Is Hidden</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-worlds-beyond-borders-best-10-mmo-adventures-for-free/"><u>[New] Worlds Beyond Borders Best 10 MMO Adventures for Free</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-win-11s-10-finest-webcams-for-high-quality-capture/"><u>[Updated] 2024 Approved Win 11'S 10 Finest Webcams For High-Quality Capture</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-a-quick-guide-downloading-fb-videos-on-multiple-oses/"><u>[Updated] A Quick Guide Downloading FB Videos on Multiple OSes</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-elitemac-pro-high-definition-visuals-plus-audiophile-recordings-for-2024/"><u>[Updated] EliteMac Pro High-Definition Visuals + Audiophile Recordings for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-premier-chillout-pc-game-hits/"><u>[Updated] Premier Chillout PC Game Hits</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-android-and-ios-leaderboard-of-ps2-emulation-software/"><u>2024 Approved Android & iOS Leaderboard of PS2 Emulation Software</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-exploring-the-capabilities-of-bandicam-for-multimedia-creators/"><u>2024 Approved Exploring the Capabilities of Bandicam for Multimedia Creators</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-foremost-frame-starters-leading-16-youtube-videos-for-more-watchers/"><u>2024 Approved Foremost Frame Starters Leading 16 YouTube Videos for More Watchers</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/blueprints-for-constructing-a-high-definition-video-editing-beast-for-2024/"><u>Blueprints for Constructing a High-Definition Video Editing Beast for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210374568-9780760370827-city-witchery/"><u>City Witchery | Free Book</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-get-your-pc-to-recognize-usb-devices-on-windows-10-solution-included/"><u>How To Get Your PC To Recognize USB Devices On Windows 10 (Solution Included)</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-tecno-spark-go-2023-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Tecno Spark Go (2023) Device</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Oppo Reno 11 5G | Dr.fone</u></a></li>
 </ul></div>
 

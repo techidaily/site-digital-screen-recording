@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Cure for Disconnected Channels in OBS"
-date: 2024-12-13T20:19:22.072Z
-updated: 2024-12-15T23:09:29.772Z
+date: 2024-12-18T17:23:16.901Z
+updated: 2024-12-24T21:01:47.859Z
 tags: 
   - screen-recording
   - ai video
@@ -31,23 +31,19 @@ Edit system and microphone audio seperately
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Solutions to Fix OBS Not Recording Audio
 
 All in all, to record desktop audio with OBS, you have to enter a third-party audio driver. To find out the intricacies of this solution, you may read the solutions as follow:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **1\. Close the OBS and Restart**
 
 While using OBS studio, the users might experience the difficulties of OBS not capturing mic audio. This problem arises because the program only captures mic audio, and it doesn't support the desktop audio or system sound. to repair the "OBS no sound" problem on your PC is simply to shut the OBS studio software and thereafter restart it once more.
 
 ![restart](https://images.wondershare.com/filmora/article-images/restart.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **2\. Run it as Administrator**
 
@@ -59,6 +55,10 @@ You can run OBS as an administrator on Windows 10 and Windows 11 effortlessly. B
 
 ![run it as administrator](https://images.wondershare.com/filmora/article-images/run-it-as-administrator.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **3\. Unmute OBS**
 
 If OBS Studio is muted in the Volume Mixer, no doubt you won’t hear any desktop sound. test if OBS desktop audio comes back. If not, try the next remedy below. So the first troubleshooting step is to check your Volume Mixer.
@@ -69,10 +69,6 @@ If OBS Studio is muted in the Volume Mixer, no doubt you won’t hear any deskto
 
 ![unmute obs](https://images.wondershare.com/filmora/article-images/unmute-obs.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **4\. Check the sound settings**
 
 Click the Desktop Audio Device drop-down option if the proper device is not chosen there. Then choose the correct desktop audio device.
@@ -82,10 +78,6 @@ Click the Desktop Audio Device drop-down option if the proper device is not chos
 * Press the Apply button, then click OK to exit the window.
 
 ![check the sound settings](https://images.wondershare.com/filmora/article-images/check-the-sound-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **5\. Remove Other Programs for Audio Control**
 
@@ -107,7 +99,7 @@ If the Desktop Audio stopped recording after the Windows Driver update, you may 
 ![update your audio driver](https://images.wondershare.com/filmora/article-images/update-your-audio-driver.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **7\. Reinstall OBS**
@@ -119,6 +111,14 @@ If none of the techniques can assist you, your OBS is experiencing an undefined 
 * Click on OBS Studio and then pick “Uninstall”
 
 ![reinstall obs](https://images.wondershare.com/filmora/article-images/reinstall-obs.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Use OBS Alternative
 
@@ -137,7 +137,7 @@ After the above efficient approaches, we have utilized to cure the "OBS No Sound
 ![record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Features Why You Should Go for Filmora:**
@@ -162,22 +162,21 @@ After the above efficient approaches, we have utilized to cure the "OBS No Sound
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-essential-frames-from-apples-display-max-length-156/"><u>[New] Essential Frames From Apple's Display (Max Length 156)</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-obs-armada-cameras-at-full-power-again/"><u>[New] In 2024, OBS Armada Cameras at Full Power Again</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-tailored-techniques-for-logging-high-quality-roblox-sessions-on-a-mac/"><u>[New] Tailored Techniques for Logging High-Quality Roblox Sessions on a Mac</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-tips-on-troubleshooting-frozen-obs-fullscreen-problem-for-2024/"><u>[New] Tips on Troubleshooting Frozen OBS Fullscreen Problem for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-master-your-movie-recording-pc-mac-and-mobile-devices/"><u>[Updated] 2024 Approved Master Your Movie Recording PC, Mac & Mobile Devices</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-unleash-creativity-with-these-5-windows-11-record-methods-for-2024/"><u>[Updated] Unleash Creativity with These 5 Windows 11 Record Methods for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-a-list-films-must-watch-channel-compilation/"><u>2024 Approved A-List Films Must-Watch Channel Compilation</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-best-online-audio-solutions-2023-guide/"><u>2024 Approved Best Online Audio Solutions 2023 Guide</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/assessing-the-dominance-of-splitcam-recording/"><u>Assessing the Dominance of SplitCam Recording</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-honor-magic-5-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Honor Magic 5 to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-capture-and-save-the-essentials-of-pc-display-recordings/"><u>In 2024, Capture & Save The Essentials of PC Display Recordings</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-oppo-a58-4g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Oppo A58 4G Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/rediscovering-your-friends-fixing-mc-lan-disconnects-on-windows/"><u>Rediscovering Your Friends: Fixing MC LAN Disconnects on Windows</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/repair-your-mpeg-media-effective-solutions-for-fixing-damaged-video-files/"><u>Repair Your MPEG Media: Effective Solutions for Fixing Damaged Video Files</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/screenshot-savvy-free-high-quality-capturing-tools-for-both-oses/"><u>Screenshot Savvy Free, High-Quality Capturing Tools for Both OSes</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/smoothly-record-your-desktop-on-win11/"><u>Smoothly Record Your Desktop on Win11</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-itel-p55-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Itel P55 5G FRP Bypass</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-fullscreen-image-of-page-layout/"><u>[New] Fullscreen Image of Page Layout</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-leading-free-console-reproduction-devices/"><u>[New] In 2024, Leading Free Console Reproduction Devices</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-live-streaming-guide-facebook-via-androidios-devices/"><u>[New] Live Streaming Guide Facebook via Android/iOS Devices</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-mellow-playtime-10-top-rated-stress-erasers-for-2024/"><u>[New] Mellow Playtime 10 Top-Rated Stress Erasers for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-united-experts-easeus-expert-reviews/"><u>[Updated] 2024 Approved United Experts EaseUS Expert Reviews</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-step-by-step-guide-to-making-engaging-audio-promos/"><u>[Updated] A Step-by-Step Guide to Making Engaging Audio Promos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-exacting-speech-recognition-via-googles-precision-tools-for-2024/"><u>[Updated] Exacting Speech Recognition via Google's Precision Tools for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-the-prime-list-top-rated-camcorders-reviewed/"><u>[Updated] The Prime List Top-Rated Camcorders Reviewed</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-8-budget-friendly-cross-platform-video-conferencing-tools-revealed/"><u>2024 Approved 8 Budget-Friendly, Cross-Platform Video Conferencing Tools Revealed</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-essential-youtube-for-asmr-enthusiasts/"><u>2024 Approved Essential YouTube for ASMR Enthusiasts</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-asus-rog-phone-7-ultimate-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Samsung Galaxy A23 5G? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-from-apple-iphone-8-plus-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock from Apple iPhone 8 Plus or iPad?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-stream-like-a-pro-top-5-devices-for-live-recording-success/"><u>In 2024, Stream Like a Pro Top 5 Devices for Live Recording Success</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/er-10-sound-scaling-options-pcs-and-phones/"><u>Premier 10 Sound Scaling Options PCs & Phones</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209879123-9780923550738-the-book-of-528/"><u>The Book of 528 | Free Book</u></a></li>
 </ul></div>
 
