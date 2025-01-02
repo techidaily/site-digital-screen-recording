@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Ultimate Guide to AI-Infused Gaming Broadcasts\""
-date: 2024-12-19T16:41:40.817Z
-updated: 2024-12-24T21:23:34.034Z
+date: 2024-12-30T04:52:33.650Z
+updated: 2025-01-01T16:28:14.032Z
 tags: 
   - screen-recording
   - ai video
@@ -56,10 +56,6 @@ For macOS 10.12 or later
 
 ![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Using AI Portrait doesn't require any kind of technical skills or expertise. One can easily apply the AI Portrait effect with a single click. So, let's get started with the step-by-step guide. Make sure you have already recorded your gameplay and your own video. If not, record it first to process with the following steps.
 
 **Step 01:** Open Filmora X. If it is not already installed on your PC, you can download it from [here](https://tools.techidaily.com/wondershare/filmora/download/) and install it on your PC.
@@ -74,6 +70,10 @@ Using AI Portrait doesn't require any kind of technical skills or expertise. One
 
 ![game-streaming-with-ai-portrait-step3](https://images.wondershare.com/filmora/article-images/game-streaming-with-ai-portrait-step3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 04:** Select your self-recording and click on effects. Go to the AI Portraits. It shows all the AI Portrait effects.
 
 ![game-streaming-with-ai-portrait-step4](https://images.wondershare.com/filmora/article-images/game-streaming-with-ai-portrait-step4.png)
@@ -82,37 +82,37 @@ Using AI Portrait doesn't require any kind of technical skills or expertise. One
 
 ![game-streaming-with-ai-portrait-step5](https://images.wondershare.com/filmora/article-images/game-streaming-with-ai-portrait-step5.png)
 
-**Step 06:** Once it is applied to the footage, it will separate the background from the character and remove the background.
-
-![game-streaming-with-ai-portrait-step6](https://images.wondershare.com/filmora/article-images/game-streaming-with-ai-portrait-step6.png)
-
 <!-- affiliate ads begin -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+**Step 06:** Once it is applied to the footage, it will separate the background from the character and remove the background.
+
+![game-streaming-with-ai-portrait-step6](https://images.wondershare.com/filmora/article-images/game-streaming-with-ai-portrait-step6.png)
 
 **Step 07:** Adjust the footage by making it smaller and moving to the lower-left corner of the screen. We are good to go.
 
 ![game-streaming-with-ai-portrait-step7](https://images.wondershare.com/filmora/article-images/game-streaming-with-ai-portrait-step7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 08:** If in some part of the video you want to show something covered by the character, you can easily change the character's position using keyframes for a smooth movement. To make sure the character footage is selected, pause the video when you want to change the position of the character and click on the keyframe button above the timeline.
 
 ![game-streaming-with-ai-portrait-step8](https://images.wondershare.com/filmora/article-images/game-streaming-with-ai-portrait-step8.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 09:** It will automatically add a keyframe. Now move forward into the timeline, drag the character's position to your preferred position, and hit OK. It will move the character from the old position to the new position smoothly.
 
 ![game-streaming-with-ai-portrait-step9](https://images.wondershare.com/filmora/article-images/game-streaming-with-ai-portrait-step9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 10:** If you want to move the character to the same position, move forward into the timeline and drag it to the same position.
 
 ![game-streaming-with-ai-portrait-step10](https://images.wondershare.com/filmora/article-images/game-streaming-with-ai-portrait-step10.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Conclusion
 
@@ -123,7 +123,7 @@ After following and applying all the steps, your game streaming video is ready t
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -141,16 +141,18 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-best-5-video-webcams-equipped-with-microphones/"><u>[New] 2024 Approved Best 5 Video Webcams Equipped With Microphones</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-game-on-select-sandbox-adventures-await/"><u>[New] 2024 Approved Game On Select Sandbox Adventures Await</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-strategic-planning-for-virtual-teams-mastering-slack-and-filmora-coordination-for-2024/"><u>[New] Strategic Planning for Virtual Teams Mastering Slack & Filmora Coordination for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-5-best-gaming-webcams-streammers-must-try-for-2024/"><u>[Updated] 5 Best Gaming Webcams Streammers Must Try for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/budget-friendly-high-quality-gaming-keyboards-unveiled-for-2024/"><u>Budget-Friendly, High-Quality Gaming Keyboards Unveiled for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/command-prompt-oddities-learn-5-amusing-anomalies/"><u>Command Prompt Oddities: Learn 5 Amusing Anomalies</u></a></li>
-<li><a href="https://discover-great.techidaily.com/guia-facil-para-digitalizar-y-convertir-cintas-de-vhs-en-discos-dvd-mediante-tu-computadora/"><u>Guía Fácil Para Digitalizar Y Convertir Cintas De VHS en Discos DVD Mediante Tu Computadora</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-phone-without-pin-by-drfone-android/"><u>How to Unlock Xiaomi Phone without PIN</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-eliminating-obstacles-to-successful-srt-premiere-export/"><u>In 2024, Eliminating Obstacles to Successful SRT Premiere Export</u></a></li>
-<li><a href="https://video-capture.techidaily.com/swift-capture-full-spectrum-viewing-for-2024/"><u>Swift Capture Full Spectrum Viewing for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-the-latest-social-media-deceptions-new-twitter-scams-exposed/"><u>Unveiling the Latest Social Media Deceptions: New Twitter Scams Exposed</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-easy-steam-capture-for-cyberpunk-2077-adventures/"><u>[New] 2024 Approved Easy Steam Capture for Cyberpunk 2077 Adventures</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-noise-free-videography-utilizing-free-tools-or-purchasing/"><u>[New] 2024 Approved Noise-Free Videography Utilizing Free Tools or Purchasing</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-free-mobile-overlay-tools-top-10-innovative-photo-enhancers-for-2024/"><u>[New] Free Mobile Overlay Tools - Top 10 Innovative Photo Enhancers for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-snapchat-mastery-the-essential-guide-to-smartphone-screen-recording/"><u>[New] In 2024, Snapchat Mastery The Essential Guide to Smartphone Screen Recording</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-instagram-story-hacks-your-path-to-prominence/"><u>[New] Instagram Story Hacks Your Path to Prominence</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-strategy-supreme-the-top-7-battlefield-commanders/"><u>[Updated] In 2024, Strategy Supreme The Top 7 Battlefield Commanders</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-streamline-screen-capture-on-google-chat/"><u>[Updated] In 2024, Streamline Screen Capture on Google Chat</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-sharpen-your-skills-with-these-essential-pixlr-tips/"><u>2024 Approved Sharpen Your Skills with These Essential Pixlr Tips</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/essential-skills-androids-screen-recording-functionality-for-2024/"><u>Essential Skills Android's Screen Recording Functionality for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/find-and-update-essential-steps-to-acquire-the-latest-drivers-for-your-acer-aspire-notebook/"><u>Find & Update: Essential Steps to Acquire the Latest Drivers for Your Acer Aspire Notebook</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-step-up-your-file-game-compiling-top-20-free-spacious-cloud-storage-solutions/"><u>In 2024, Step Up Your File Game Compiling Top 20 Free, Spacious Cloud Storage Solutions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/maintain-your-high-performance-laptop-at-the-ideal-temp-with-this-must-have-accessory-according-to-zdnet/"><u>Maintain Your High-Performance Laptop at the Ideal Temp with This Must-Have Accessory - According to ZDNET</u></a></li>
+<li><a href="https://extra-support.techidaily.com/secrets-to-composing-compelling-video-blogging-plots-for-2024/"><u>Secrets to Composing Compelling Video Blogging Plots for 2024</u></a></li>
 </ul></div>
 

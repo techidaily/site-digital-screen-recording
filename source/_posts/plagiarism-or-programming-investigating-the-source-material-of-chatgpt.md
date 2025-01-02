@@ -1,7 +1,7 @@
 ---
 title: Plagiarism or Programming? Investigating the Source Material of ChatGPT
-date: 2024-12-17T18:28:48.788Z
-updated: 2024-12-24T18:42:50.501Z
+date: 2024-12-29T02:16:53.816Z
+updated: 2025-01-01T22:52:02.788Z
 tags:
   - chatgpt
   - open-ai
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/49f07ba1564e1ad5829085791d56fbd558cd9b6be
  Despite ChatGPT's immense popularity, it's still not ready to significantly impact the search engine industry for several reasons. Here are a few of them:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. ChatGPT Is Trained on a Limited Set of Data
@@ -47,11 +47,11 @@ thumbnail: https://thmb.techidaily.com/49f07ba1564e1ad5829085791d56fbd558cd9b6be
 
 ![ChatGPT Apologizing For Not Having any Information About Events Happened in 2022](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-apologizing-for-not-having-information-about-events-happened-in-2022.jpg)
 
- Therefore, processing real-time information is the first significant hurdle ChatGPT needs to overcome to compete directly with search engines.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Therefore, processing real-time information is the first significant hurdle ChatGPT needs to overcome to compete directly with search engines.
 
 ### 2\. ChatGPT Can Generate Incorrect Response
 
@@ -60,11 +60,7 @@ thumbnail: https://thmb.techidaily.com/49f07ba1564e1ad5829085791d56fbd558cd9b6be
 ![ChatGPT Saying It Can Also Generate Wrong Answers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-saying-it-can-also-generate-wrong-answers-and-explains-why-it-does-so.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. ChatGPT Is Less Credible
@@ -92,7 +88,7 @@ thumbnail: https://thmb.techidaily.com/49f07ba1564e1ad5829085791d56fbd558cd9b6be
  On the other hand, search engines give you results based on your queries, so you need to fine-tune your keyword selection to get the best results.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Soon Could ChatGPT Significantly Impact the Search Engine Industry?
@@ -108,6 +104,10 @@ thumbnail: https://thmb.techidaily.com/49f07ba1564e1ad5829085791d56fbd558cd9b6be
  For example, ChatGPT can quickly answer whether cats eat carrots since it is a solid fact. However, it may not effectively satisfy the search intent of some queries (such as how-to explainer guides) where users expect to see images alongside textual information.
 
 ![ChatGPT Saying It Can't Generate Images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-saying-it-can-t-generate-images.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Let ChatGPT Evolve
 
@@ -132,18 +132,19 @@ thumbnail: https://thmb.techidaily.com/49f07ba1564e1ad5829085791d56fbd558cd9b6be
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-microrecorder-assessment-onscreen-snaps/"><u>[New] 2024 Approved MicroRecorder Assessment Onscreen Snaps</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-enjoy-classic-games-anywhere-with-the-top-5-pc-based-gb-emulators-for-2024/"><u>[New] Enjoy Classic Games Anywhere with the Top 5 PC-Based GB Emulators for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-prime-hd-video-capture-ultimate-recorder-reviews/"><u>[New] In 2024, Prime HD Video Capture Ultimate Recorder Reviews</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-master-commanders-unleashed-ranking-7-total-war-champions-for-2024/"><u>[New] Master Commanders Unleashed Ranking 7 Total War Champions for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-the-ultimate-guide-to-increasing-fb-likes-with-top-apps-for-2024/"><u>[New] The Ultimate Guide to Increasing FB Likes with Top Apps for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-elite-mac-audio-enhanced-screen-recorder/"><u>[Updated] 2024 Approved Elite Mac Audio-Enhanced Screen Recorder</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-blueprint-of-tomorrow-eco-friendly-urban-strategies-for-2024/"><u>[Updated] The Blueprint of Tomorrow Eco-Friendly Urban Strategies for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-evaluating-the-effectiveness-of-vidma-screen-recorders/"><u>2024 Approved Evaluating the Effectiveness of Vidma Screen Recorders</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-oppo-a1x-5g-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Oppo A1x 5G System Crash Issue | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/audio-device-non-responsive-in-windows-10-solution-found/"><u>Audio Device Non-Responsive in Windows 10 - Solution Found</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-airplay-to-download-effortless-apods-access-for-2024/"><u>From AirPlay to Download Effortless APods Access for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/stay-connected-top-tips-for-using-roku-in-hotels-and-dorms-on-the-go/"><u>Stay Connected: Top Tips for Using Roku in Hotels and Dorms on the Go</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/the-guide-to-capturing-web-radio-frequencies-flawlessly-for-2024/"><u>The Guide to Capturing Web Radio Frequencies Flawlessly for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-10-proven-strategies-for-earning-money-with-your-videos-on-vimeo-for-2024/"><u>[New] 10 Proven Strategies for Earning Money with Your Videos on Vimeo for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-epic-martial-arts-arcade-classics-revisited-for-2024/"><u>[New] Epic Martial Arts Arcade Classics Revisited for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-iphone-lens-mastery-unleashing-creativity/"><u>[New] IPhone Lens Mastery - Unleashing Creativity</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-essential-online-repositories-12-sites-with-free-photography-samples/"><u>[Updated] 2024 Approved Essential Online Repositories - 12 Sites with Free Photography Samples</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-crafting-perfect-slack-filmo-meeting-experiences/"><u>[Updated] In 2024, Crafting Perfect Slack-Filmo Meeting Experiences</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-screen-capture-simplicity-with-cybernetic-tools/"><u>[Updated] Screen Capture Simplicity with Cybernetic Tools</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-complete-hulu-recording-manual-for-pc-mac-and-mobile-users/"><u>[Updated] The Complete Hulu Recording Manual for PC, Mac & Mobile Users</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/2024s-top-choices-a-detailed-comparison-of-superior-ups-battery-backups/"><u>2024'S Top Choices: A Detailed Comparison of Superior UPS Battery Backups</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-epson-wf-2630-driver-software-for-windows-7-81-and-10-quick-installation-guide/"><u>Get Epson WF-2630 Driver Software for Windows 7, 8.1 & 10 – Quick Installation Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-motorola-moto-g84-5g-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Motorola Moto G84 5G?</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Vivo Y36i | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-expressive-articulation-examination-iteration-8/"><u>In 2024, Expressive Articulation Examination, Iteration 8</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-silent-swords-righteous-battles-the-next-top-gaming-list/"><u>In 2024, Silent Swords, Righteous Battles The Next Top Gaming List</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/insta-self-portraits-are-they-truly-accurate-in-2024/"><u>Insta Self-Portraits Are They Truly Accurate, In 2024</u></a></li>
 </ul></div>
 

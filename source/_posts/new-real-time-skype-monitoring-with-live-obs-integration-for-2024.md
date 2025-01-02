@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Real-Time Skype Monitoring with Live OBS Integration for 2024\""
-date: 2024-12-18T17:38:53.281Z
-updated: 2024-12-24T17:30:55.465Z
+date: 2024-12-30T22:56:07.145Z
+updated: 2025-01-01T17:02:18.118Z
 tags: 
   - screen-recording
   - ai video
@@ -21,6 +21,10 @@ Video interviews for remote jobs are quite common these days because of this qui
 
 So in this article I will discuss that how can you record your skype videos using OBS. Skype has been extensively used for quite a long time now and it hasn’t lost its edge over the years but has actually upgraded and improved its services with time. Coming to OBS which is an open-source software used widely for streaming purposes. It provides an incredible experience courtesy of its variety of editing and recording options. The audio can be recorded from the system and the microphone. And video can be fetched from the webcam. Along with the recording of specific section of the screen.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Recording Skype Calls with OBS
 
 To begin with shedding some light on the OBS program:
@@ -33,19 +37,15 @@ Initially, you’ll be required to have skype installed on your desktop along wi
 
 ![skype calling settings advanced calling](https://images.wondershare.com/filmora/article-images/skype-calling-settings-advanced-calling.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 After this you have to open the OBS program and set it up for skype calls, firs thing is to create a new scene, then you're going to hit the plus button and select the capture device. Now you can see yourself on camera and screen can easily be cropped, while holding ‘Alt’, on OBS so fix it according to your liking. Then press ‘lock’ using the NDI plug-in.
 
 ![obs program set up for skype](https://images.wondershare.com/filmora/article-images/obs-program-set-up-for-skype.jpg)
 
+![obs vlc videos source](https://images.wondershare.com/filmora/article-images/obs-vlc-videos-source.jpg)
+
 <!-- affiliate ads begin -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-![obs vlc videos source](https://images.wondershare.com/filmora/article-images/obs-vlc-videos-source.jpg)
 
 To setup NDI plugin you have to visit <https://github.com/Palakis/obs-ndi/releases/tag/4.9.1> and check for the compatible version with your operating system. On this website the plugin is available for windows, mac and Linux.
 
@@ -54,10 +54,6 @@ To setup NDI plugin you have to visit <https://github.com/Palakis/obs-ndi/releas
 And after addition of plug in you would want to click on ‘+’ again and select NDI plugin and you can select the source video which is going to be the received video.
 
 ![obs additon of plug in](https://images.wondershare.com/filmora/article-images/obs-additon-of-plug-in.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 And clicking on it will open a new window where you have to select the guest feed, which will be possible once the call has begun. The call connected will appear on the NDI plugin window.
 
@@ -100,14 +96,10 @@ For macOS 10.12 or later
 
 ![filmora configure all the audio devices](https://images.wondershare.com/filmora/guide/recording-05.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * After the configuration, you can click on the big red button to start the recording.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQs Regarding Skype Recording
@@ -154,10 +146,6 @@ For macOS 10.12 or later
 * This window gives you options regarding screen size, resolution and devices which will record your audio and videos.
 
 ![filmora regard screen size](https://images.wondershare.com/filmora/guide/recording-04.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * This window is to configure all the audio and video devices. So you can get audio from any device and similarly video devices can also be configured.
 
@@ -166,7 +154,7 @@ For macOS 10.12 or later
 * After the configuration, you can click on the big red button to start the recording.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQs Regarding Skype Recording
@@ -215,7 +203,7 @@ For macOS 10.12 or later
 ![filmora regard screen size](https://images.wondershare.com/filmora/guide/recording-04.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * This window is to configure all the audio and video devices. So you can get audio from any device and similarly video devices can also be configured.
@@ -265,19 +253,31 @@ For macOS 10.12 or later
 
 ![filmra record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * This window gives you options regarding screen size, resolution and devices which will record your audio and videos.
 
 ![filmora regard screen size](https://images.wondershare.com/filmora/guide/recording-04.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * This window is to configure all the audio and video devices. So you can get audio from any device and similarly video devices can also be configured.
 
 ![filmora configure all the audio devices](https://images.wondershare.com/filmora/guide/recording-05.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * After the configuration, you can click on the big red button to start the recording.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## FAQs Regarding Skype Recording
 
@@ -334,22 +334,22 @@ So form the above discussion it can be concluded that OBS for screen recording c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/-faqs-about-youtube-shorts-thumbnail-not-showing-problem-for-2024/"><u>[New] 7 FAQs About YouTube Shorts Thumbnail Not Showing Problem for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-tips-for-a-seamless-phone-screen-record-for-2024/"><u>[New] Tips for a Seamless Phone Screen Record for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-ultimate-screenplay-crafting-site/"><u>[New] Ultimate Screenplay Crafting Site</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/1716068642267-updated-2024-approved-leading-12-screen-recorders-no-time-limit/"><u>[Updated] 2024 Approved Leading 12 Screen Recorders, No Time Limit!</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-digital-stagecraft-unlocking-voice-manipulation-with-affordable-technology-for-2024/"><u>[Updated] Digital Stagecraft Unlocking Voice Manipulation with Affordable Technology for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-exclusive-ranking-of-advanced-online-tutorial-providers-excluding-udemy-for-2024/"><u>[Updated] Exclusive Ranking of Advanced Online Tutorial Providers (Excluding Udemy) for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-expert-insights-on-saving-smartphone-moments-for-2024/"><u>[Updated] Expert Insights on Saving Smartphone Moments for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-grasping-the-greener-side-of-valheim-top-seeds-list-for-2024/"><u>[Updated] Grasping the Greener Side of Valheim Top Seeds List for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-unleashing-creativity-with-aiseesofts-screencast-innovations/"><u>[Updated] Unleashing Creativity with Aiseesoft's Screencast Innovations</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-intenseflame-screen-recorders/"><u>2024 Approved IntenseFlame Screen Recorders</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/artistic-integrity-vs-tech-might-the-sarah-silverman-suit/"><u>Artistic Integrity Vs. Tech Might: The Sarah Silverman Suit</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/bulk-up-your-surface-pro-memory-for-less-how-to-easily-double-storage-and-cut-costs-in-just-7-steps-tips-by-zdnet/"><u>Bulk Up Your Surface Pro Memory for Less: How to Easily Double Storage and Cut Costs in Just 7 Steps | Tips by ZDNET</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-samsung-galaxy-a05-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Samsung Galaxy A05 Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-leading-sites-for-3d-type-artistry/"><u>In 2024, Leading Sites for 3D Type Artistry</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/optimizing-video-sequences-blend-modes-application-for-2024/"><u>Optimizing Video Sequences Blend Modes Application for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/quick-and-easy-steps-to-download-the-latest-microsoft-driver-updates-for-windows-10-8-or-7/"><u>Quick & Easy Steps to Download the Latest Microsoft Driver Updates for Windows 10, 8, or 7</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/thoroughly-reviewed-chilled-treats-screenshot-capture/"><u>Thoroughly Reviewed Chilled Treats Screenshot Capture</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-comprehensive-insights-mastering-lenovo-screenshot-techniques-for-2024/"><u>[New] Comprehensive Insights Mastering Lenovo Screenshot Techniques for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-advanced-techniques-in-fbx-game-capture-systems/"><u>[New] In 2024, Advanced Techniques in FBX Game Capture Systems</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-yearly-roundup-premium-skype-recorder-options/"><u>[New] In 2024, Yearly Roundup Premium Skype Recorder Options</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-inside-ppros-full-screen-vista-your-handbook-for-2024/"><u>[New] Inside PPro's Full-Screen Vista Your Handbook for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-accelerated-video-maker-time-lapse-edition/"><u>[Updated] 2024 Approved Accelerated Video Maker Time-Lapse Edition</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-revenue-revolution-leveraging-the-youtube-premium-opportunity/"><u>[Updated] 2024 Approved Revenue Revolution Leveraging the YouTube Premium Opportunity</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-bridge-gaps-in-generations-of-viewers-6-interactive-tests-to-find-your-youtube-match/"><u>[Updated] In 2024, Bridge Gaps in Generations of Viewers 6 Interactive Tests to Find Your YouTube Match</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-snapshotwiz-10-pro-windows-screen-master/"><u>[Updated] In 2024, SnapshotWiz 10 Pro - Windows Screen Master</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-the-art-of-mastering-funimate/"><u>[Updated] In 2024, The Art of Mastering Funimate</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-navigating-the-complexities-of-obs-a-beginners-guide-for-2024/"><u>[Updated] Navigating the Complexities of OBS A Beginner’s Guide for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-optimal-ppt-presentation-capture-methods-for-2024/"><u>[Updated] Optimal PPT Presentation Capture Methods for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-simultaneous-scheduling-on-iphoneandroid-with-zoom-desktop-timeline/"><u>[Updated] Simultaneous Scheduling on iPhone/Android with Zoom Desktop Timeline</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-a-step-by-step-approach-to-rl-streaming/"><u>2024 Approved A Step-by-Step Approach to RL Streaming</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-the-complete-guide-to-voiced-ppt-mastery/"><u>2024 Approved The Complete Guide to Voiced PPT Mastery</u></a></li>
+<li><a href="https://fox-that.techidaily.com/accurate-apple-screen-time-monitoring-how-to-prevent-misreported-website-usage-on-iphones/"><u>Accurate Apple Screen Time Monitoring: How to Prevent Misreported Website Usage on iPhones</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/mac-centric-review-the-complete-guide-to-screenflow-v4/"><u>Mac-Centric Review The Complete Guide to ScreenFlow V4</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/sifting-through-the-advantages-and-disadvantages-of-vr/"><u>Sifting Through the Advantages and Disadvantages of VR</u></a></li>
 </ul></div>
 

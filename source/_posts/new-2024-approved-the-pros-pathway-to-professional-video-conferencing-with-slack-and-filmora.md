@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  The Pro's Pathway to Professional Video Conferencing with Slack & Filmora\""
-date: 2024-12-23T19:18:25.250Z
-updated: 2024-12-24T16:34:12.951Z
+date: 2024-12-25T22:48:48.219Z
+updated: 2025-01-01T22:13:32.445Z
 tags: 
   - screen-recording
   - ai video
@@ -37,10 +37,6 @@ So, follow our lead on how to schedule a meeting in a few clicks.
 * [Part 2: How to Record Slack Meetings](#part2)
 * [Part 3: Slack Video Call Settings](#part3)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part1: How to Schedule a Meeting on Slack
 
 To schedule a meeting anywhere is a tedious task, but, luckily, not on Slack. Figuring out the free slots on your guest's schedule can now be automated using Outlook or Google Calendar app to schedule a meeting on Slack.
@@ -59,6 +55,10 @@ All it takes is a few clicks to schedule a meeting on Slack. And after you sched
 
 ![Schedule Slack Meeting](https://images.wondershare.com/filmora/article-images/schedule-slack-meeting.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4.The Slack meeting will be displayed in the chat instantly. You can click on the **Share** icon.
 
 ![Share Slack Meeting](https://images.wondershare.com/filmora/article-images/share-slack-meeting.jpg)
@@ -66,10 +66,6 @@ All it takes is a few clicks to schedule a meeting on Slack. And after you sched
 5.Choose a channel to share the Slack meeting or copy the link to paste in other workspaces.
 
 ![Choose Slack Channel](https://images.wondershare.com/filmora/article-images/choose-slack-channel.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to Record Slack Meetings
 
@@ -84,40 +80,40 @@ Here is how you can record Slack meeting.
 ![Add Slack Apps](https://images.wondershare.com/filmora/article-images/add-slack-apps.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2.Now, in the search bar, type and search **Zoom**. Click on the **Add** This will take you to the Slack App Directory.
 
 ![Slack App Directory](https://images.wondershare.com/filmora/article-images/slack-app-directory.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3.Tap on **Add** **to** **Slack**.
 
 ![Add To Slack](https://images.wondershare.com/filmora/article-images/add-to-slack.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4.**Allow**Zoom to access your data and enable the app.
 
 ![Allow Zoom On Slack](https://images.wondershare.com/filmora/article-images/allow-zoom-on-slack.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5.Now, go to your workspace and type the **"/zoom"**command in the chatbox. Tap on the **Zoom** meeting tab.
 
 ![Slack Zoom Chatbox](https://images.wondershare.com/filmora/article-images/slack-zoom-chatbox.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6.Click on **Authorize** **Zoom** and adjust the settings.
 
 ![Authorize Zoom On Slack](https://images.wondershare.com/filmora/article-images/authorize-zoom-on-slack.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7.Click on **Join** to start the meeting.
 
@@ -142,7 +138,11 @@ Moreover, if you wish to stay on mute and still engage with the speaker, just cl
 ![Slack Emoji Message](https://images.wondershare.com/filmora/article-images/slack-emoji-message.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -168,20 +168,21 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-essential-list-of-high-quality-recorders-for-mac-users/"><u>[New] 2024 Approved Essential List of High-Quality Recorders for Mac Users</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-game-on-unlock-the-secrets-of-effective-lol-recording/"><u>[New] 2024 Approved Game-On! - Unlock the Secrets of Effective LOL Recording</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-effortless-transferring-5-pathways-to-download-igtv-on-computers-for-2024/"><u>[New] Effortless Transferring 5 Pathways to Download IGTV on Computers for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-the-ultimate-compilation-top-6-downloader-apps-for-facebooks-lite-version/"><u>[New] In 2024, The Ultimate Compilation Top 6 Downloader Apps for Facebook's Lite Version</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-depth-look-mycam-cams-performance/"><u>[New] In-Depth Look MyCam Cam's Performance</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-streamline-your-in-game-communication-pioneering-tips-for-vocal-modifications-pubg/"><u>[New] Streamline Your In-Game Communication Pioneering Tips for Vocal Modifications (PUBG)</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/outube-content-management-for-instagram-profiles-for-2024/"><u>[New] YouTube Content Management for Instagram Profiles for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-5-essential-sites-revolutionizing-how-we-style-text/"><u>[Updated] 5 Essential Sites Revolutionizing How We Style Text</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-exclusive-reviews-top-5-external-hdds-for-xbox-gamers/"><u>[Updated] In 2024, Exclusive Reviews Top 5 External HDDs for Xbox Gamers</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-premier-external-hard-drive-choices-for-xbox/"><u>[Updated] In 2024, Premier External Hard Drive Choices for Xbox</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-understanding-the-invisible-aspects-of-stories-for-2024/"><u>[Updated] Understanding the Invisible Aspects of Stories for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/capturing-action-choosing-from-5-leading-game-stream-webcams-for-2024/"><u>Capturing Action Choosing From 5 Leading Game Stream Webcams for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-turn-on-incognito-mode-in-chrome-edge-firefox-safari-and-opera/"><u>How to Turn on Incognito Mode in Chrome, Edge, Firefox, Safari, and Opera</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-reflex-product-assembly/"><u>In 2024, Reflex Product Assembly</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-windows-10-sound-engineers-manual/"><u>The Windows 10 Sound Engineer's Manual</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-high-definition-revealed-logitechs-4k-webcam-review/"><u>[New] 2024 Approved High-Definition Revealed Logitech's 4K Webcam Review</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-the-ultimate-screen-capture-showdown-free-vs-paid-cam-recorders/"><u>[New] 2024 Approved The Ultimate Screen Capture Showdown Free vs Paid Cam Recorders</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-digital-media-mapper-for-2024/"><u>[New] Digital Media Mapper for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-the-essential-enhancements-for-a-superstar-stardew-fan/"><u>[New] The Essential Enhancements for a Superstar Stardew Fan</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-tech-insightfulness-a-global-experts-assessment/"><u>[Updated] 2024 Approved Tech Insightfulness A Global Experts' Assessment</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-navigating-through-youtube-shorts-knowledge/"><u>[Updated] In 2024, Navigating Through YouTube Shorts Knowledge</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-crafting-professional-livestreams-on-youtube-and-twitch-using-obs/"><u>2024 Approved Crafting Professional Livestreams on YouTube and Twitch Using OBS</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-quick-quirks-of-professional-photo-editing/"><u>2024 Approved Quick Quirks of Professional Photo Editing</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/discovering-luxury-and-innovation-in-every-aspect-the-skagen-falster-3-smartwatch-unveiled/"><u>Discovering Luxury and Innovation in Every Aspect - The Skagen Falster 3 Smartwatch Unveiled</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-stutter-in-starfield-gameplay-a-comprehensive-guide-to-smooth-soundscape/"><u>Fixing Stutter in Starfield Gameplay - A Comprehensive Guide to Smooth Soundscape</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/full-analysis-compreenaside-with-camstudio-screencap-for-2024/"><u>Full Analysis Compreenaside with CamStudio Screencap for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-sending-voice-notes-with-your-iphone-effortlessly/"><u>Guide: Sending Voice Notes with Your iPhone Effortlessly</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-master-your-mobile-communications-skype-and-zoom-on-android/"><u>In 2024, Master Your Mobile Communications Skype & Zoom on Android</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-tips-for-superior-sound-recordings-without-a-microphone/"><u>In 2024, Tips for Superior Sound Recordings Without a Microphone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-vivo-s17t-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Vivo S17t to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/the-finest-lineup-top-7-aim-focused-titles/"><u>The Finest Lineup Top 7 Aim-Focused Titles</u></a></li>
 </ul></div>
 
