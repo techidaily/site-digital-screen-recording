@@ -1,7 +1,7 @@
 ---
 title: Cold War Realities
-date: 2024-12-27T23:38:55.936Z
-updated: 2025-01-02T05:27:00.119Z
+date: 2025-01-05T19:56:43.029Z
+updated: 2025-01-09T21:08:59.370Z
 categories:
   - BestProducts
 description: This Article Describes Cold War Realities
@@ -78,7 +78,7 @@ thumbnail: https://www.lifewire.com/thmb/bptkPuLZHhXM0lJcBFRMHvXtAhQ=/400x300/fi
 * **What do buyers think?** 90% of buyers on Amazon have rated the Nintendo Switch OLED five stars, with the console having an average score of 4.8 out of 5.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Also Great
@@ -92,6 +92,10 @@ thumbnail: https://www.lifewire.com/thmb/bptkPuLZHhXM0lJcBFRMHvXtAhQ=/400x300/fi
 [$450 at Amazon](https://www.amazon.com/Valve-Handheld-Console-No-Operating-System/dp/B0BBQRYN9M?tag=lifewire-onsite-prod-20&ascsubtag=8656300%7Cn828e9c21ba084df1b24d3ffdd45b85b813%7CB0BBQRYN9M) [$459 at Walmart](https://www.walmart.com/ip/Valve-Steam-Deck-64-GB/2237665775) [$399 at Steampowered.com](https://store.steampowered.com/steamdeck)
 
 **TL;DR:** The Steam Deck makes PC gaming truly portable and much simpler than ever before. It’s all within a sleek and easy to hold shell with a great screen whether you go LED or OLED. As with the Switch, you can always dock it, and even install Windows if you want a full portable PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Why We Recommend This
 
@@ -125,10 +129,6 @@ thumbnail: https://www.lifewire.com/thmb/bptkPuLZHhXM0lJcBFRMHvXtAhQ=/400x300/fi
 * **Who else recommends it?** The Verge, Forbes, IGN, PCGamer, and Wired have all recommended the Steam Deck with the Steam Deck OLED considered a particular highlight.
 * **What do buyers think?** The Steam Deck has sold over 3 million units on the Steam website. Relatively recently featured on Amazon, it has 86% four- or five-star ratings across 564 reviews.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Easiest on the Budget
 
 [Hyper Mega Tech Super Pocket](https://www.walmart.com/ip/Hyper-Mega-Tech-Capcom-Super-Pocket-Retro-System/5194946970)
@@ -140,10 +140,6 @@ thumbnail: https://www.lifewire.com/thmb/bptkPuLZHhXM0lJcBFRMHvXtAhQ=/400x300/fi
 [$60 at Walmart](https://www.walmart.com/ip/Hyper-Mega-Tech-Capcom-Super-Pocket-Retro-System/5194946970) [$56 at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fblaze-entertainment-hyper-mega-tech-taito-super-pocket-green-black%2F6549862.p%3FskuId%3D6549862)
 
 **TL;DR:** Old enough to remember the Nintendo Game Boy? This is a lot like that with plenty of nostalgic games on-board and more to be purchased separately. It’s perfect for anyone seeking nostalgia and it’s very keenly priced too.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Why We Recommend This
 
@@ -174,6 +170,10 @@ thumbnail: https://www.lifewire.com/thmb/bptkPuLZHhXM0lJcBFRMHvXtAhQ=/400x300/fi
 * **Who else recommends it?** TechRadar, GamesRadar, Stuff, and The Guardian have all highly rated the Hyper Mega Tech Super Pocket.
 * **What do buyers think?** Between the two models, the Hyper Mega Tech Super Pocket has an average rating of 4.5 out of 5 on Amazon. 84% of customers have rated the Capcom version 4 or 5 stars, with 90% rating the Taito the same score.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How I Test
 
  I reviewed every handheld gaming console featured here over a number of weeks. The Nintendo Switch OLED, Switch Lite, and Steam Deck were purchased by me, while the Hyper Mega Tech Super Pocket, and Logitech G Cloud were acquired on loan from the manufacturer.
@@ -187,7 +187,7 @@ thumbnail: https://www.lifewire.com/thmb/bptkPuLZHhXM0lJcBFRMHvXtAhQ=/400x300/fi
 ![Logitech G Cloud.](https://www.lifewire.com/thmb/SMW56Oe3oBSahp0Lznq6lQGJiTU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LogitechGCloud1-c2a2bb36b9ff4fa7bf3d6d8e65253de1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Logitech G Cloud.
@@ -197,7 +197,7 @@ Lifewire / Jennifer Allen
  The[Logitech G Cloud](https://www.amazon.com/Logitech-Handheld-Long-Battery-Touchscreen-Lightweight-Tablet/dp/B09T9FHZLH?tag=lifewire-onsite-prod-20&ascsubtag=8656300%7Cn828e9c21ba084df1b24d3ffdd45b85b813%7C) is a device that allows you to play games via the cloud with ease. It supports Xbox Game Pass, GeForce Now, and Steam Cloud, effectively working as a custom Android tablet.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What to Look For
@@ -241,24 +241,17 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-cutting-down-high-bitrate-obs-streams/"><u>[New] In 2024, Cutting Down High-Bitrate OBS Streams</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-leading-brands-car-compatible-viewing-devices/"><u>[New] Leading Brands' Car-Compatible Viewing Devices</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-simplified-methods-capturing-powerpoint-talks/"><u>[New] Simplified Methods Capturing PowerPoint Talks</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-your-yearly-list-prime-free-video-editing-software/"><u>[New] Your Yearly List Prime Free Video Editing Software</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solved-display-settings-not-showing-windows-11/"><u>[Solved] Display Settings Not Showing Windows 11</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-easy-guide-to-entering-google-meet-on-devices/"><u>[Updated] 2024 Approved Easy Guide to Entering Google Meet on Devices</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-effective-strategies-to-document-competitive-play/"><u>[Updated] In 2024, Effective Strategies to Document Competitive Play</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-leading-hd-video-capture-technology/"><u>[Updated] In 2024, Leading HD Video Capture Technology</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-the-complete-guide-to-selecting-and-raising-valheim-crops/"><u>[Updated] The Complete Guide to Selecting & Raising Valheim Crops</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-unleashing-creativity-advanced-obs-techniques-explained/"><u>[Updated] Unleashing Creativity Advanced OBS Techniques Explained</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-optimizing-colors-in-films-via-luts/"><u>2024 Approved Optimizing Colors in Films via Luts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/beginner-friendly-yoga-dvd-collection-the-ultimate-guide-to-fitness-and-weight-loss/"><u>Beginner-Friendly Yoga DVD Collection: The Ultimate Guide to Fitness and Weight Loss</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/8-evidenced-tools-for-video-propagation-for-2024/"><u>Best 8 Evidenced Tools for Video Propagation for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/is-higher-frame-rate-better-weighing-30-vs-60fps-in-video/"><u>Is Higher Frame Rate Better? Weighing 30 Vs. 60Fps in Video</u></a></li>
-<li><a href="https://review-topics.techidaily.com/meizu-messages-recovery-recover-deleted-messages-from-meizu-by-fonelab-android-recover-messages/"><u>Meizu Messages Recovery - Recover Deleted Messages from Meizu</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-asus-rog-phone-8-pro-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Asus ROG Phone 8 Pro – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/optimizing-screen-recording-on-iphoneipad/"><u>Optimizing Screen Recording on iPhone/iPad</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-cooldown-chart-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Oppo Reno 9A | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/k-your-content-potential-best-ideas-for-youtube-themes-for-2024/"><u>Unlock Your Content Potential Best Ideas for YouTube Themes for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-mastering-screencasts-a-step-by-step-manual/"><u>[New] 2024 Approved Mastering Screencasts A Step-by-Step Manual</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-navigate-through-dynamic-gifs-find-these-best-recorders-in-winos/"><u>[New] 2024 Approved Navigate Through Dynamic GIFs Find These Best Recorders in WinOS</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-navigating-the-world-of-screen-capture-with-bandicam/"><u>[New] 2024 Approved Navigating the World of Screen Capture with Bandicam</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-optimizing-apex-dive-deep-into-single-platform-solitude/"><u>[New] 2024 Approved Optimizing Apex Dive Deep Into Single-Platform Solitude</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/aster-the-art-of-video-editing-with-top-7-sounds-selections/"><u>[New] Master the Art of Video Editing with Top 7 Sounds Selections</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-bringing-vision-to-life-the-art-of-post-color-enhancement/"><u>2024 Approved Bringing Vision to Life The Art of Post-Color Enhancement</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-thrills-of-yakuza-like-a-dragon-top-recommendation-for-fans-and-newcomers-alike/"><u>Discover the Thrills of Yakuza: Like a Dragon – Top Recommendation for Fans and Newcomers Alike!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-data-from-realme-gt-5-pro-by-fonelab-android-recover-data/"><u>Easy steps to recover deleted data from Realme GT 5 Pro</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-iphone-13-mini-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On iPhone 13 mini</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-craft-exceptional-videos-on-iphone-pro-tips-from-the-experts-8/"><u>In 2024, Craft Exceptional Videos on iPhone Pro Tips From the Experts (8)</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-vivo-y36i-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Vivo Y36i to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-email-management-pin-gmail-to-windows-taskbar/"><u>Streamline Email Management: Pin Gmail to Windows Taskbar</u></a></li>
 </ul></div>
 

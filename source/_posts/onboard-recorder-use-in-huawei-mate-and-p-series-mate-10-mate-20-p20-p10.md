@@ -1,7 +1,7 @@
 ---
 title: "Onboard Recorder Use in Huawei Mate and P Series (Mate 10, Mate 20; P20, P10)"
-date: 2024-12-25T22:45:42.627Z
-updated: 2025-01-02T05:05:09.213Z
+date: 2025-01-04T18:03:20.454Z
+updated: 2025-01-09T19:44:12.249Z
 tags: 
   - screen-recording
   - ai video
@@ -51,7 +51,11 @@ In case you were looking for a way to record a screen on a Huawei Smartphone, yo
 ![Record Screen on Huawei](https://images.wondershare.com/filmora/article-images/record-screen-on-huawei.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Capture Screen on a Huawei Smartphone
@@ -65,7 +69,7 @@ Pull-down notification panel from the top, find the Screen Recorder shortcut ico
 ![Huawei Smartphone screen recorder](https://images.wondershare.com/filmora/article-images/huawei-screen-recorder-shortcut.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 2. Pressing Buttons to Record Huawei Screen
@@ -84,21 +88,17 @@ Before using the double knuckles to record the screen activities, you need to en
 
 ![Huawei Smartphone screen recorder](https://images.wondershare.com/filmora/article-images/hauwei-record-screen-knuckle-gesture-setting.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If you want to record the screen video, just knock the screen with two knuckles twice continuously when your Huawei phone is not sleeping. Read the information on the popped up window and tap **Agree** to start the screen recording. You can stop the screen recording by knocking the screen twice with two knuckles again.
 
 The maximum duration of the screen recording you can make can't exceed the five-minute limit. If you would like to capture longer videos of your screen, you can do so by using free third-party [screen recording apps for Android](https://tools.techidaily.com/wondershare/filmora/download/), such as AZ Recorder. But if you are using the built-in screen recording feature on Huawei smartphone, the recording function of the third-party apps will be disabled.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Where to Find the Recorded Videos
 
 All screen recordings you create will be displayed in the phone's **Gallery** app. Locate the Screenshots or Screen Recordings folder on the Albums tab and then tap on the Share icon if you would like to post the recording on social media or send it to a friend. Hit the Delete button to remove the recording from your phone. Follow the on-screen instructions to complete either of these two processes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -107,7 +107,7 @@ Capturing your phone's screen can help you entertain your friends and followers 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Max Wales
@@ -125,24 +125,24 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-top-ranked-mac-pro-video-maker-plus-audio/"><u>[New] 2024 Approved Top-Ranked Mac Pro Video Maker Plus Audio</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-ultimate-ios-guide-to-premier-psp-emulators/"><u>[New] 2024 Approved Ultimate iOS Guide to Premier PSP Emulators</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-apeak-captures-attention-an-in-depth-screen-recorder-examination-for-2024/"><u>[New] Apeak Captures Attention An In-Depth Screen Recorder Examination for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-best-practices-in-photo-captioning-tools/"><u>[New] Best Practices in Photo Captioning Tools</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-live-broadcast-perfection-comparing-top-screen-recorders-for-2024/"><u>[New] Live Broadcast Perfection Comparing Top Screen Recorders for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-streamlining-virtual-screen-display-in-google-meet-chats/"><u>[Updated] 2024 Approved Streamlining Virtual Screen Display in Google Meet Chats</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-get-a-faster-live-streaming-on-periscope/"><u>[Updated] How to Get a Faster Live Streaming on Periscope</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-steps-to-skyrocket-your-youtube-subscribers-count/"><u>[Updated] Steps to Skyrocket Your YouTube Subscribers Count</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-sweet-snack-snapshot-review-deep-insight-for-2024/"><u>[Updated] Sweet Snack Snapshot Review Deep Insight for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-capture-call-transcript-for-study/"><u>2024 Approved Capture Call Transcript for Study</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-start-with-zoom-your-initial-steps-into-webinar-hosting/"><u>2024 Approved Start with Zoom Your Initial Steps Into Webinar Hosting</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/checking-the-current-status-of-xbox-live-servers-is-everything-running-smoothly/"><u>Checking the Current Status of Xbox Live Servers: Is Everything Running Smoothly?</u></a></li>
-<li><a href="https://fox-that.techidaily.com/complete-instructions-for-booting-ipads-into-recovery-mode-effortlessly/"><u>Complete Instructions for Booting iPads Into Recovery Mode Effortlessly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fix-unauthorized-windows-shared-folder-access/"><u>Fix Unauthorized Windows Shared Folder Access</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-errors-in-windows-discord-query-system/"><u>Fixing Errors in Windows' Discord Query System</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-apple-iphone-12-pro-max-with-7-methods-by-drfone-ios/"><u>How To Change Country on App Store for Apple iPhone 12 Pro Max With 7 Methods</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-hot-40i-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Infinix Hot 40i Phone Without Password?</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-obs-vs-shadowplay-which-recording-tool-takes-the-prize/"><u>In 2024, OBS Vs ShadowPlay Which Recording Tool Takes the Prize?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-10-best-practices-for-boosting-srt-on-pc-and-macos/"><u>[New] 10 Best Practices for Boosting SRT on PC & macOS</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-pixelsnapper-professional-edition/"><u>[New] 2024 Approved PixelSnapper Professional Edition</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-desktop-capture-showdown-select-between-obs-and-shadowplay/"><u>[New] Desktop Capture Showdown Select Between OBS and ShadowPlay</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-replay-xiaomi-11s-best-moments-with-crystal-clarity-for-2024/"><u>[New] Replay Xiaomi 11'S Best Moments with Crystal Clarity for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-rhythm-research-capture-and-review-music-files-for-2024/"><u>[New] Rhythm Research Capture & Review Music Files for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-straightforward-methods-for-recording-iphone-display/"><u>[New] Straightforward Methods for Recording iPhone Display</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-ultimate-guide-recording-your-youtube-livestreams-for-2024/"><u>[New] Ultimate Guide Recording Your YouTube Livestreams for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-unlocking-potential-how-to-maximize-whiteboards-in-zoom-meets-for-2024/"><u>[New] Unlocking Potential How to Maximize Whiteboards in Zoom Meets for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-excellent-ios-tools-the-hottest-choices-for-simulating-psp-games/"><u>[Updated] 2024 Approved Excellent iOS Tools The Hottest Choices for Simulating PSP Games</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-earnings-breakdown-one-million-glances-at-youtube-for-2024/"><u>[Updated] Earnings Breakdown One Million Glances at Youtube for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-depth-strategies-for-organizing-your-windows-mov-collection/"><u>[Updated] In-Depth Strategies for Organizing Your Windows .mov Collection</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-beginning-creators-guide-top-8-free-youtube-tutorials/"><u>2024 Approved Beginning Creator's Guide Top 8 Free YouTube Tutorials</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-youtubers-unite-with-these-17-top-tier-lights/"><u>2024 Approved Youtubers Unite with These 17 Top-Tier Lights</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-tecno-pova-6-pro-5g-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Tecno Pova 6 Pro 5G</u></a></li>
+<li><a href="https://win-special.techidaily.com/exporting-wallet-data-for-crypto-trading-success-with-yls-address-checker-tool-insights-by-yl-software/"><u>Exporting Wallet Data for Crypto Trading Success with YL's Address Checker Tool – Insights by YL Software</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-plus-to-other-iphone-12-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 Plus To Other iPhone 12 devices? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-investment-in-top-tier-hdr-cameras-a-buyers-guide/"><u>In 2024, Investment in Top-Tier HDR Cameras A Buyer's Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-submerge-mastery-top-tips-for-capturing-great-water-videos/"><u>In 2024, Submerge Mastery Top Tips for Capturing Great Water Videos</u></a></li>
 </ul></div>
 

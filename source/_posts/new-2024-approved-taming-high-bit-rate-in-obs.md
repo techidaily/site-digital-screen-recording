@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Taming High-Bit Rate in OBS\""
-date: 2024-12-22T20:33:03.378Z
-updated: 2024-12-24T16:33:46.309Z
+date: 2025-01-03T18:40:06.174Z
+updated: 2025-01-09T18:03:58.892Z
 tags: 
   - screen-recording
   - ai video
@@ -22,7 +22,7 @@ When you are live streaming through OBS Studio, encoding the video takes a lot o
 In layman’s terms, encoding overloading means your hardware is just not running as fast as required to process the video you are streaming or recording. Since you cannot change your hardware configuration overnight, here are the different ways you can fix OBS high encoding when streaming.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Way 1\. Downscale Your Output Resolution
@@ -39,6 +39,14 @@ Step 4: Click on Apply and Ok buttons. Restart your computer and start streaming
 
 ![obs reduce the output resolution](https://images.wondershare.com/filmora/article-images/obs-reduce-the-output-resolution.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Way 2\. Lower Your Frame Rate
 
 The frame rate of a video determines the number of frames captured per second. The higher the frame rate, the greater will be the pressure on GPU to render more number of frames per second. Unless you have a powerful configuration, you will come across OBS high encoding when streaming if the frame rate is high such as 60FPS. Here are the steps to lower the frame rate of your video on OBS.
@@ -52,6 +60,10 @@ Step 3: If it is set to 60, you have to bring it down to 30\. Basically, you hav
 Step 4: Click on Apply and Ok button to save the new setting. Restart your computer and resume your OBS operation.
 
 ![obs click on apply and ok button](https://images.wondershare.com/filmora/article-images/obs-click-on-apply-and-ok-button.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Way 3\. Change Encoder Preset
 
@@ -70,7 +82,7 @@ Step 5: Click on Apply and Ok button. Restart your computer and perform your act
 ![obs change encoder preset](https://images.wondershare.com/filmora/article-images/obs-change-encoder-preset.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Way 4\. Try Hardware Encoding
@@ -90,7 +102,7 @@ Step 5: Click on Apply and Ok to save the settings. Restart your computer and pe
 ![obs restart your computer and perform your operation](https://images.wondershare.com/filmora/article-images/obs-restart-your-computer-and-perform-your-operation.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Way 5\. Change Some Advanced Settings
@@ -110,10 +122,6 @@ Step 5: Change Profile from None to Main.
 Step 6: Click on Apply and Ok button to save the changes. Restart your computer and check if the problem is resolved.
 
 ![obs open and go to settings](https://images.wondershare.com/filmora/article-images/obs-open-and-go-to-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Way 6\. Use OBS Alternative
 
@@ -143,40 +151,6 @@ Step 4: You can edit the recorded video. Thereafter, click on Export button to s
 
 ![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-## Conclusion
-
-OBS high encoding warning or encoding overloaded warning is not uncommon. In fact, you are likely to come across this problem if you do not have a high-end computer. In that case, you have to lower resolution, lower frame rate, change encoder preset, try different encoders as well as tweak advanced settings to fix the problem. If the problem is not solved after trying out all the means available, you can switch to Wondershare Filmora as a better alternative for recording and video editing.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-Step 1: Install Wondershare Filmora on your computer based on your OS. Launch Filmora and click on PC Screen to record your screen.
-
-![pc-screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-Step 2: Select the recording screen size and the audio sources. If you want to capture webcam as well, turn on Record The Camera Stream option.
-
-![set-audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
-
-Step 3: Click on Record button to start recording. Press F9 to stop recording whenever you want.
-
-Step 4: You can edit the recorded video. Thereafter, click on Export button to save it on your hard drive in any desired file format.
-
-![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 OBS high encoding warning or encoding overloaded warning is not uncommon. In fact, you are likely to come across this problem if you do not have a high-end computer. In that case, you have to lower resolution, lower frame rate, change encoder preset, try different encoders as well as tweak advanced settings to fix the problem. If the problem is not solved after trying out all the means available, you can switch to Wondershare Filmora as a better alternative for recording and video editing.
@@ -199,6 +173,10 @@ Step 4: You can edit the recorded video. Thereafter, click on Export button to s
 
 ![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 OBS high encoding warning or encoding overloaded warning is not uncommon. In fact, you are likely to come across this problem if you do not have a high-end computer. In that case, you have to lower resolution, lower frame rate, change encoder preset, try different encoders as well as tweak advanced settings to fix the problem. If the problem is not solved after trying out all the means available, you can switch to Wondershare Filmora as a better alternative for recording and video editing.
@@ -211,9 +189,35 @@ Step 1: Install Wondershare Filmora on your computer based on your OS. Launch Fi
 
 ![pc-screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
+Step 2: Select the recording screen size and the audio sources. If you want to capture webcam as well, turn on Record The Camera Stream option.
+
+![set-audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
+
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Step 3: Click on Record button to start recording. Press F9 to stop recording whenever you want.
+
+Step 4: You can edit the recorded video. Thereafter, click on Export button to save it on your hard drive in any desired file format.
+
+![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Conclusion
+
+OBS high encoding warning or encoding overloaded warning is not uncommon. In fact, you are likely to come across this problem if you do not have a high-end computer. In that case, you have to lower resolution, lower frame rate, change encoder preset, try different encoders as well as tweak advanced settings to fix the problem. If the problem is not solved after trying out all the means available, you can switch to Wondershare Filmora as a better alternative for recording and video editing.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+Step 1: Install Wondershare Filmora on your computer based on your OS. Launch Filmora and click on PC Screen to record your screen.
+
+![pc-screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
 Step 2: Select the recording screen size and the audio sources. If you want to capture webcam as well, turn on Record The Camera Stream option.
 
@@ -224,10 +228,6 @@ Step 3: Click on Record button to start recording. Press F9 to stop recording wh
 Step 4: You can edit the recorded video. Thereafter, click on Export button to save it on your hard drive in any desired file format.
 
 ![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -257,22 +257,19 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-assessing-video-streaming-giants-vs-manycam/"><u>[New] 2024 Approved Assessing Video Streaming Giants Vs. ManyCam</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-best-recorders-for-lecture-recording/"><u>[New] 2024 Approved Best Recorders for Lecture Recording</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-endless-display-recorder-app/"><u>[New] 2024 Approved Endless Display Recorder App</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-from-watchlist-to-documents-a-comprehensible-list-of-six-mac-techniques-for-screenshotting-netflix/"><u>[New] 2024 Approved From Watchlist to Documents - A Comprehensible List of Six Mac Techniques for Screenshotting Netflix</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-quickvision-w11-simple-desktop-capture-tool-for-2024/"><u>[New] QuickVision W11 Simple Desktop Capture Tool for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-maximizing-obs-broadcasts-to-facebook-feed/"><u>[Updated] 2024 Approved Maximizing OBS Broadcasts to Facebook Feed</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-transform-your-videography-effortless-recording-and-editing-via-adobe-connect/"><u>[Updated] 2024 Approved Transform Your Videography Effortless Recording and Editing via Adobe Connect</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-social-media-content-conundrums-finding-elusive-vids-for-2024/"><u>[Updated] Social Media Content Conundrums Finding Elusive Vids for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-turn-your-videos-into-a-revenue-stream-with-these-tips/"><u>[Updated] Turn Your Videos Into a Revenue Stream with These Tips</u></a></li>
-<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-lava-blaze-2-pro-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Lava Blaze 2 Pro? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Oppo Reno 11F 5G? | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/capture-your-screen-on-chromebook-methods-4-you/"><u>Capture Your Screen on Chromebook Methods 4 You</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/delving-into-dilatory-dynamics-of-chatgpt-4-and-35/"><u>Delving Into Dilatory Dynamics of ChatGPT-4 and 3.5</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-y56-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Vivo Y56 5G to New Android? | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-earhearer-live-sound-critique/"><u>In 2024, EarHearer Live Sound Critique</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-effortless-editing-in-obs-studio-with-top-5-hacks/"><u>In 2024, Effortless Editing in OBS Studio with Top 5 Hacks</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/innovative-insights-augmented-reality-and-virtual-wisdom/"><u>Innovative Insights Augmented Reality & Virtual Wisdom</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expertise-boost-for-editors-leveraging-story-remix-within-windows-photos/"><u>[New] Expertise Boost for Editors Leveraging Story Remix Within Windows Photos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-achieve-peak-collaboration-a-complete-guide-to-slack-and-filmora-integration/"><u>[Updated] 2024 Approved Achieve Peak Collaboration A Complete Guide to Slack & Filmora Integration</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-seamlessly-download-igtv-for-iphoneandroid-users/"><u>[Updated] In 2024, Seamlessly Download IGTV for iPhone/Android Users</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-understanding-the-dynamics-of-night-portraits/"><u>[Updated] Understanding the Dynamics of Night Portraits</u></a></li>
+<li><a href="https://win-data.techidaily.com/best-practices-for-migrating-vmware-snapshots-to-a-new-host-machine-securely/"><u>Best Practices for Migrating VMware Snapshots to a New Host Machine Securely</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/vering-8-prime-video-advancement-aids/"><u>Discovering 8 Prime Video Advancement Aids</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/fixing-vss-volume-shadow-copy-service-problems-on-windows-10-7-and-8-comprehensive-guide/"><u>Fixing VSS (Volume Shadow Copy Service) Problems on Windows 10, 7 & 8 - Comprehensive Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-tecno-spark-20-proplus-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Tecno Spark 20 Pro+ without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-free-professional-youtuber-backgrounds/"><u>In 2024, Free Professional YouTuber Backgrounds</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/pro-tips-grab-your-chromebooks-screen-with-these-4-hacks/"><u>Pro Tips Grab Your Chromebook's Screen with These 4 Hacks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quick-fixes-for-4-major-account-restrictions-on-gpt/"><u>Quick Fixes for 4 Major Account Restrictions on GPT</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/spin-swivel-and-shuffle-videos-effortlessly-using-vlc-player-for-2024/"><u>Spin, Swivel, and Shuffle Videos Effortlessly Using VLC Player for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/twin-screens-archive-capture-for-2024/"><u>Twin Screens Archive Capture for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-the-features-and-benefits-a-deep-dive-into-the-usechatgpt-copilot-add-on-for-web-surfers/"><u>Understanding the Features & Benefits: A Deep Dive Into the UseChatGPT Copilot Add-On for Web Surfers</u></a></li>
 </ul></div>
 
