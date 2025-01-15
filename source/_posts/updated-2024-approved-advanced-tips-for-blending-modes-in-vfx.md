@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Advanced Tips for Blending Modes in VFX\""
-date: 2025-01-07T21:20:28.126Z
-updated: 2025-01-09T20:24:48.978Z
+date: 2025-01-11T16:07:22.173Z
+updated: 2025-01-15T16:05:21.208Z
 tags: 
   - screen-recording
   - ai video
@@ -48,14 +48,6 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What are Blending Modes in Filmora?
 
 Combining videos or images into a single frame is an art that is much older than digital pictures, so when trying to understand Blend Modes in Filmora Scrn it is best to try to visualize two pieces of celluloid film, one over another. Two pieces of film are transparent, but the images they contain do not mix with each other, that is why when you are using Blend Modes in Filmora Scrn you are actually merging videos and allowing their pixels to mix.
@@ -67,7 +59,7 @@ The **Normal mode** is a part of the standard set of blending modes in almost al
 ![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-normal-mode.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The **Screen Mode** is best used when you are working with dark monochrome backgrounds because it reduces the dark areas in the video thus enabling you to blend the top layer into the background seamlessly.
@@ -82,6 +74,10 @@ The **Multiply Mode** is also one of the frequently used blending modes that **m
 
 This mode will enable you to create the black background for your video effortlessly, and highlight the subjects in the video clip you intend to use as a top layer. You need to choose carefully which video clips you are going to use and how are they going to look on a dark background if you want to produce visually pleasing videos that captivate the viewer's attention.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to use Blending Modes?
 
 Applying different blending modes and switching between them is easy, and it won't take more than a few minutes of your time, once you get a hold of it. Filmora Scrn features a number of different blending modes, so figuring out what each mode can do may take some time and practice. Let's have a look at how you can add multiple layers to your videos and how to use blending modes.
@@ -92,6 +88,10 @@ In case you've used Filmora Scrn's screen recorder to capture your video, the vi
 
 ![ Filmora Scrn Import Media ](https://images.wondershare.com/filmora/article-images/filmora-scrn-add-files.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Click on the Add Files icon in the Media bin, and select the footage you want to use in your project. Drag the video clip you'd like to use as a background to a track on the timeline and then drag and drop the video or a photo to a timeline above the one on which the background clip is located.
 
 Adjust the duration of the video clips or photos you've placed on the timeline and use the preview window to determine whether or not you should readjust the size and position of the overlaying image.
@@ -99,7 +99,7 @@ Adjust the duration of the video clips or photos you've placed on the timeline a
 ![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-blending-mode-tracks.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Step 2 - Select the Blending mode
@@ -110,6 +110,10 @@ In the Compositing menu, you will be able to see the Blending Mode feature. Clic
 
 ![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-blending-mode-selection.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Changing the Opacity value will enable you to reduce the transparency level of a layer while changing the values in the Transform menu will help you find the perfect position on the background for the overlaying image.
 
 #### Step 3 - Export the video
@@ -117,10 +121,6 @@ Changing the Opacity value will enable you to reduce the transparency level of a
 Click on the Export button if you like the results and choose whether you want to save the file on your hard-disc or upload it to YouTube, Facebook or Vimeo directly from Filmora Scrn.
 
 ![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-blending-mode-export.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -143,18 +143,20 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-videodownloading-made-simple-the-best-5-free-apps/"><u>[New] Videodownloading Made Simple The Best 5 Free Apps</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-income-reconnaissance-unmasking-mr-beasts-fortune/"><u>[Updated] In 2024, Income Reconnaissance Unmasking Mr. Beast's Fortune</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-top-picks-ultimate-gifs-and-images-as-zoomgoogle-meet-backdrops/"><u>2024 Approved Top Picks Ultimate GIFs & Images as Zoom/Google Meet Backdrops</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/apple-collaborates-with-microsoft-on-project-titan-integrating-bing-search-into-siri-for-enhanced-iosipados-experience/"><u>Apple Collaborates with Microsoft on Project Titan: Integrating Bing Search Into Siri for Enhanced iOS/iPadOS Experience</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/economical-pc-playback-devices/"><u>Economical PC Playback Devices</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/1715701263654-exploring-screen-capture-with-apowersoft-no-cost-involved/"><u>Exploring Screen Capture with Apowersoft, No Cost Involved!</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fix-your-windows-n-crashed-dragon-age-origins-game-with-these-proven-tips/"><u>Fix Your Windows N-Crashed Dragon Age: Origins Game with These Proven Tips</u></a></li>
-<li><a href="https://network-issues.techidaily.com/graphics-recovered-after-driver-malfunction-fix/"><u>Graphics Recovered After Driver Malfunction Fix</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-oppo-f25-pro-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Oppo F25 Pro 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-a-quick-dive-into-obs-zoom-fusion-steps/"><u>In 2024, A Quick Dive Into OBS-Zoom Fusion Steps</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-navigating-the-complexities-of-ps4-live-streaming-and-recording/"><u>In 2024, Navigating the Complexities of PS4 Live Streaming and Recording</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/mastering-the-art-of-valheim-gardening/"><u>Mastering the Art of Valheim Gardening</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/online-avi-naar-gif-omzetten-zonder-geld-professioneel-doen-bij-movavi/"><u>Online AVI Naar GIF Omzetten Zonder Geld - Professioneel Doen Bij Movavi</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-celebrity-inspired-glamour-videos/"><u>[New] Celebrity-Inspired Glamour Videos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-screen-recorder-showdown-top-choices-explored/"><u>[New] In 2024, Screen Recorder Showdown Top Choices Explored</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-perfecting-live-video-capture-with-logitech-webcam-technology/"><u>[New] Perfecting Live Video Capture with Logitech Webcam Technology</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-streamlining-your-youtube-video-logging-process/"><u>[New] Streamlining Your YouTube Video Logging Process</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-get-hooked-on-ez-grabber-a-step-by-step-downloading-guide/"><u>[Updated] 2024 Approved Get Hooked on EZ Grabber A Step-by-Step Downloading Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-bringing-people-together-in-real-time-using-whatsapp-desktop-for-laptops-for-2024/"><u>[Updated] Bringing People Together in Real Time Using WhatsApp Desktop for Laptops for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-revolutionizing-remote-work-selecting-the-best-live-streamers-for-2024/"><u>[Updated] Revolutionizing Remote Work Selecting the Best Live Streamers for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Honor X8b? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-apple-iphone-15-pro-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your Apple iPhone 15 Pro Without a Passcode</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-iphone-8-plus-unavailable-issue-with-ease-by-drfone-ios/"><u>In 2024, How To Fix iPhone 8 Plus Unavailable Issue With Ease</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/navigating-legalities-in-skype-call-audio-preservation-for-2024/"><u>Navigating Legalities in Skype Call Audio Preservation for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-the-art-of-precision-modern-methods-to-automatically-align-sound-and-picture/"><u>New In 2024, The Art of Precision Modern Methods to Automatically Align Sound and Picture</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-nokia-c22-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Nokia C22 and Browser | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-to-choosing-the-best-cable-modems/"><u>Ultimate Guide to Choosing the Best Cable Modems</u></a></li>
+<li><a href="https://facebook.techidaily.com/unraveling-the-tension-with-social-media-networks/"><u>Unraveling the Tension with Social Media Networks</u></a></li>
 </ul></div>
 

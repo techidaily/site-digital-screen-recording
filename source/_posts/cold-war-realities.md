@@ -1,7 +1,7 @@
 ---
 title: Cold War Realities
-date: 2025-01-05T19:56:43.029Z
-updated: 2025-01-09T21:08:59.370Z
+date: 2025-01-14T16:10:25.508Z
+updated: 2025-01-15T16:00:21.409Z
 categories:
   - BestProducts
 description: This Article Describes Cold War Realities
@@ -34,6 +34,10 @@ thumbnail: https://www.lifewire.com/thmb/bptkPuLZHhXM0lJcBFRMHvXtAhQ=/400x300/fi
 [Hyper Mega Tech Super Pocket at Walmart  $60](https://www.walmart.com/ip/Hyper-Mega-Tech-Capcom-Super-Pocket-Retro-System/5194946970)
 
 [Jump to Review](https://www.lifewire.com/#toc-easiest-on-the-budget-hyper-mega-tech-super-pocket)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Just Buy This (All Around Best)
 
@@ -78,7 +82,7 @@ thumbnail: https://www.lifewire.com/thmb/bptkPuLZHhXM0lJcBFRMHvXtAhQ=/400x300/fi
 * **What do buyers think?** 90% of buyers on Amazon have rated the Nintendo Switch OLED five stars, with the console having an average score of 4.8 out of 5.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Also Great
@@ -94,7 +98,7 @@ thumbnail: https://www.lifewire.com/thmb/bptkPuLZHhXM0lJcBFRMHvXtAhQ=/400x300/fi
 **TL;DR:** The Steam Deck makes PC gaming truly portable and much simpler than ever before. It’s all within a sleek and easy to hold shell with a great screen whether you go LED or OLED. As with the Switch, you can always dock it, and even install Windows if you want a full portable PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Why We Recommend This
@@ -141,6 +145,10 @@ thumbnail: https://www.lifewire.com/thmb/bptkPuLZHhXM0lJcBFRMHvXtAhQ=/400x300/fi
 
 **TL;DR:** Old enough to remember the Nintendo Game Boy? This is a lot like that with plenty of nostalgic games on-board and more to be purchased separately. It’s perfect for anyone seeking nostalgia and it’s very keenly priced too.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Why We Recommend This
 
  The Hyper Mega Tech Super Pocket approaches the handheld gaming market differently from other consoles. It’s focused squarely on offering great retro gaming experiences.
@@ -170,10 +178,6 @@ thumbnail: https://www.lifewire.com/thmb/bptkPuLZHhXM0lJcBFRMHvXtAhQ=/400x300/fi
 * **Who else recommends it?** TechRadar, GamesRadar, Stuff, and The Guardian have all highly rated the Hyper Mega Tech Super Pocket.
 * **What do buyers think?** Between the two models, the Hyper Mega Tech Super Pocket has an average rating of 4.5 out of 5 on Amazon. 84% of customers have rated the Capcom version 4 or 5 stars, with 90% rating the Taito the same score.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How I Test
 
  I reviewed every handheld gaming console featured here over a number of weeks. The Nintendo Switch OLED, Switch Lite, and Steam Deck were purchased by me, while the Hyper Mega Tech Super Pocket, and Logitech G Cloud were acquired on loan from the manufacturer.
@@ -187,7 +191,7 @@ thumbnail: https://www.lifewire.com/thmb/bptkPuLZHhXM0lJcBFRMHvXtAhQ=/400x300/fi
 ![Logitech G Cloud.](https://www.lifewire.com/thmb/SMW56Oe3oBSahp0Lznq6lQGJiTU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LogitechGCloud1-c2a2bb36b9ff4fa7bf3d6d8e65253de1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Logitech G Cloud.
@@ -195,10 +199,6 @@ Logitech G Cloud.
 Lifewire / Jennifer Allen
 
  The[Logitech G Cloud](https://www.amazon.com/Logitech-Handheld-Long-Battery-Touchscreen-Lightweight-Tablet/dp/B09T9FHZLH?tag=lifewire-onsite-prod-20&ascsubtag=8656300%7Cn828e9c21ba084df1b24d3ffdd45b85b813%7C) is a device that allows you to play games via the cloud with ease. It supports Xbox Game Pass, GeForce Now, and Steam Cloud, effectively working as a custom Android tablet.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What to Look For
 
@@ -241,17 +241,20 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-mastering-screencasts-a-step-by-step-manual/"><u>[New] 2024 Approved Mastering Screencasts A Step-by-Step Manual</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-navigate-through-dynamic-gifs-find-these-best-recorders-in-winos/"><u>[New] 2024 Approved Navigate Through Dynamic GIFs Find These Best Recorders in WinOS</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-navigating-the-world-of-screen-capture-with-bandicam/"><u>[New] 2024 Approved Navigating the World of Screen Capture with Bandicam</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-optimizing-apex-dive-deep-into-single-platform-solitude/"><u>[New] 2024 Approved Optimizing Apex Dive Deep Into Single-Platform Solitude</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/aster-the-art-of-video-editing-with-top-7-sounds-selections/"><u>[New] Master the Art of Video Editing with Top 7 Sounds Selections</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-bringing-vision-to-life-the-art-of-post-color-enhancement/"><u>2024 Approved Bringing Vision to Life The Art of Post-Color Enhancement</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discover-the-thrills-of-yakuza-like-a-dragon-top-recommendation-for-fans-and-newcomers-alike/"><u>Discover the Thrills of Yakuza: Like a Dragon – Top Recommendation for Fans and Newcomers Alike!</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-data-from-realme-gt-5-pro-by-fonelab-android-recover-data/"><u>Easy steps to recover deleted data from Realme GT 5 Pro</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-iphone-13-mini-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On iPhone 13 mini</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-craft-exceptional-videos-on-iphone-pro-tips-from-the-experts-8/"><u>In 2024, Craft Exceptional Videos on iPhone Pro Tips From the Experts (8)</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-vivo-y36i-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Vivo Y36i to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamline-email-management-pin-gmail-to-windows-taskbar/"><u>Streamline Email Management: Pin Gmail to Windows Taskbar</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-achieving-cost-free-online-educational-streaming/"><u>[New] Achieving Cost-Free Online Educational Streaming</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-exploring-screen-recording-with-zdsoft/"><u>[New] Exploring Screen Recording with ZDSoft</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-social-media-strategists-guide-top-10-ig-video-editing-apps/"><u>[New] In 2024, Social Media Strategists' Guide Top 10 IG Video Editing Apps</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-ace-picks-top-ranked-gaming-screens-in-4k/"><u>[Updated] Ace Picks Top-Ranked Gaming Screens in 4K</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-advanced-live-broadcast-setup-from-obs-to-fb-enthusiasts/"><u>[Updated] In 2024, Advanced Live Broadcast Setup From OBS to FB Enthusiasts</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-unlocking-the-secrets-to-flawless-ppt-video-production/"><u>[Updated] Unlocking the Secrets to Flawless PPT Video Production</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-increase-photographic-imagery-keeping-details-intact/"><u>2024 Approved Increase Photographic Imagery, Keeping Details Intact</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-inside-the-headset-comprehensive-vr-gear-analysis/"><u>2024 Approved Inside the Headset Comprehensive VR Gear Analysis</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-unlocking-the-secrets-of-instagram-scheduling/"><u>2024 Approved Unlocking the Secrets of Instagram Scheduling</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/brisk-blueprints-for-scribing-presentations/"><u>Brisk Blueprints for Scribing Presentations</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/ideal-screencasting-tools-for-enhancing-online-learning/"><u>Ideal Screencasting Tools for Enhancing Online Learning</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-boosting-webcam-quality-with-ease-and-precision/"><u>In 2024, Boosting WebCam Quality with Ease and Precision</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-for-restoring-sound-functionality-on-youtube-following-windows-10-update/"><u>Solution for Restoring Sound Functionality on YouTube Following Windows 10 Update</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-fixing-continuous-freezes-in-robocop-rogue-city-for-windows-users/"><u>Troubleshooting Tips: Fixing Continuous Freezes in RoboCop: Rogue City for Windows Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-guide-to-the-finest-touchscreen-laptops-of-the-year-in-depth-expert-evaluations-and-ratings/"><u>Ultimate Guide to the Finest Touchscreen Laptops of the Year: In-Depth Expert Evaluations and Ratings</u></a></li>
 </ul></div>
 

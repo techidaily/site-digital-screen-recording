@@ -1,7 +1,7 @@
 ---
 title: "[New] Cure for Disconnected Channels in OBS"
-date: 2025-01-02T16:25:13.917Z
-updated: 2025-01-09T19:00:19.258Z
+date: 2025-01-13T16:25:13.011Z
+updated: 2025-01-15T16:21:29.142Z
 tags: 
   - screen-recording
   - ai video
@@ -36,7 +36,7 @@ Edit system and microphone audio seperately
 All in all, to record desktop audio with OBS, you have to enter a third-party audio driver. To find out the intricacies of this solution, you may read the solutions as follow:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **1\. Close the OBS and Restart**
@@ -44,6 +44,14 @@ All in all, to record desktop audio with OBS, you have to enter a third-party au
 While using OBS studio, the users might experience the difficulties of OBS not capturing mic audio. This problem arises because the program only captures mic audio, and it doesn't support the desktop audio or system sound. to repair the "OBS no sound" problem on your PC is simply to shut the OBS studio software and thereafter restart it once more.
 
 ![restart](https://images.wondershare.com/filmora/article-images/restart.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **2\. Run it as Administrator**
 
@@ -56,7 +64,7 @@ You can run OBS as an administrator on Windows 10 and Windows 11 effortlessly. B
 ![run it as administrator](https://images.wondershare.com/filmora/article-images/run-it-as-administrator.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **3\. Unmute OBS**
@@ -70,7 +78,7 @@ If OBS Studio is muted in the Volume Mixer, no doubt you won’t hear any deskto
 ![unmute obs](https://images.wondershare.com/filmora/article-images/unmute-obs.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **4\. Check the sound settings**
@@ -83,10 +91,6 @@ Click the Desktop Audio Device drop-down option if the proper device is not chos
 
 ![check the sound settings](https://images.wondershare.com/filmora/article-images/check-the-sound-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **5\. Remove Other Programs for Audio Control**
 
 Try recording with your speakers as the default playback device instead of headphones. To accomplish it, right-click the Speakers system tray icon and choose Open Sound settings.
@@ -98,7 +102,7 @@ Try recording with your speakers as the default playback device instead of headp
 ![audio control](https://images.wondershare.com/filmora/article-images/audio-control.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **6\. Update your audio driver**
@@ -109,10 +113,6 @@ If the Desktop Audio stopped recording after the Windows Driver update, you may 
 * From there, expand the Sound, video, and game controller, then right-click the audio driver and Update.
 
 ![update your audio driver](https://images.wondershare.com/filmora/article-images/update-your-audio-driver.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **7\. Reinstall OBS**
 
@@ -162,24 +162,20 @@ After the above efficient approaches, we have utilized to cure the "OBS No Sound
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-master-racing-must-try-bicycle-titles/"><u>[New] 2024 Approved Master Racing Must-Try Bicycle Titles</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-master-the-art-of-preserving-your-musical-journey/"><u>[New] 2024 Approved Master the Art of Preserving Your Musical Journey</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-masterclass-in-elegance-blurring-borders-for-zoom/"><u>[New] 2024 Approved Masterclass in Elegance Blurring Borders for Zoom</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-mastering-zoom-discussion-essential-tactics-for-virtual-conversations/"><u>[New] 2024 Approved Mastering Zoom Discussion Essential Tactics for Virtual Conversations</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-nintendo-switch-top-hd-game-captures/"><u>[New] 2024 Approved Nintendo Switch Top HD Game Captures</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-odins-fury-new-wrath-unleashed/"><u>[New] 2024 Approved Odin's Fury New Wrath Unleashed</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-overcoming-missed-frames-in-real-time-streaming/"><u>[New] 2024 Approved Overcoming Missed Frames in Real-Time Streaming</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-perfecting-zoom-sound-a-dual-strategy-approach/"><u>[New] 2024 Approved Perfecting Zoom Sound A Dual Strategy Approach</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-chromeos-direct-screens-capture-tool/"><u>[New] ChromeOS Direct Screens Capture Tool</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/omprehensive-list-of-8-prime-youtube-to-avi-tools-for-2024/"><u>[New] Comprehensive List of 8 Prime YouTube-to-AVI Tools for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-learn-to-record-save-and-share-youtube-content-a-cost-free-approach/"><u>[New] Learn to Record, Save, & Share YouTube Content A Cost-Free Approach</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-top-6-minecraft-abodes-for-survivors/"><u>[New] Top 6 Minecraft Abodes for Survivors</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-directing-fundamentals-a-comprehensive-online-course-by-youtube-experts-for-2024/"><u>[Updated] Directing Fundamentals A Comprehensive Online Course by YouTube Experts for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-android-and-iphones-powerful-picklist-boosting-facebook-likeability/"><u>[Updated] In 2024, Android & iPhone's Powerful Picklist Boosting Facebook Likeability</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/explore-the-world-of-secure-private-ai-chat-options-choose-duckduckgo-for-enhanced-security/"><u>Explore the World of Secure, Private AI Chat Options – Choose DuckDuckGo for Enhanced Security</u></a></li>
-<li><a href="https://win-bits.techidaily.com/how-to-diagnose-and-fix-frequent-memory-failures-on-your-windows-system-tips-by-yl-software/"><u>How to Diagnose and Fix Frequent Memory Failures on Your Windows System - Tips by YL Software</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-guide-for-disabling-steam-lag-in-your-windows-11-gaming-setup/"><u>Quick Guide for Disabling Steam Lag in Your Windows 11 Gaming Setup</u></a></li>
-<li><a href="https://win-answers.techidaily.com/state-of-decay-2-continuous-play-guide-for-2amo-players-avoid-the-2024-crashes/"><u>State of Decay 2 Continuous Play Guide for 2Amo Players: Avoid the 2024 Crashes!</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/streamlining-your-presentations-vimeo-video-embedding-in-powerpoint/"><u>Streamlining Your Presentations Vimeo Video Embedding in PowerPoint</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-navigating-the-world-of-youtube-content-creation-with-flair/"><u>[New] 2024 Approved Navigating the World of YouTube Content Creation with Flair</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-ace-trackers-our-top-five-games/"><u>[New] In 2024, Ace Trackers Our Top Five Games</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-innovative-approaches-to-capturing-moments-with-zooms-snaps/"><u>[New] Innovative Approaches to Capturing Moments with Zoom's Snaps</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-pinterest-vids-at-a-seconds-notice-free-online-downloader-top-5/"><u>[New] Pinterest Vids at a Second's Notice – Free Online Downloader Top 5</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-unveiling-the-most-shared-stock-photos-and-backstories/"><u>[New] Unveiling the Most Shared Stock Photos & Backstories</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-evaluating-av1s-edge-over-vp9-technology/"><u>[Updated] 2024 Approved Evaluating AV1's Edge Over VP9 Technology</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-optimizing-video-output-the-adobe-presenter-way/"><u>[Updated] In 2024, Optimizing Video Output The Adobe Presenter Way</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-ultimate-guide-to-navigating-steam-with-switch-pro-for-2024/"><u>[Updated] The Ultimate Guide to Navigating Steam with Switch Pro for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-becoming-a-zoom-pro-the-comprehensive-tutorial-for-professional-audio-recordings/"><u>2024 Approved Becoming a Zoom Pro The Comprehensive Tutorial for Professional Audio Recordings</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/all-in-one-app-analysis-tool-az-screen-capturer/"><u>All-in-One App Analysis Tool AZ Screen Capturer</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/creating-conversation-a-guide-for-active-youtubers-for-2024/"><u>Creating Conversation A Guide for Active YouTubers for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dragons-dogma-2-optimization-tips-overcoming-fps-lags-and-smoothing-out-hitches/"><u>Dragon's Dogma 2 Optimization Tips: Overcoming FPS Lags & Smoothing Out Hitches</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/ghostly-snapsnapping-stealthy-techniques-for-photo-taking-on-snapchat-for-2024/"><u>Ghostly SnapSnapping Stealthy Techniques for Photo-Taking on Snapchat for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-quality-free-dvd-to-mp3-converter-apps-of-2023-compatible-with-windows-and-mac/"><u>Top-Quality Free DVD to MP3 Converter Apps of 2023: Compatible with Windows & Mac</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/unlocking-viral-potential-through-strategic-fb-videos/"><u>Unlocking Viral Potential Through Strategic FB Videos</u></a></li>
 </ul></div>
 

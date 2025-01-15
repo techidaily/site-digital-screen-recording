@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Muting Unwanted Noise  OBS Audio Solution\""
-date: 2025-01-07T21:52:33.895Z
-updated: 2025-01-09T21:40:54.617Z
+date: 2025-01-12T16:46:03.175Z
+updated: 2025-01-15T16:43:20.257Z
 tags: 
   - screen-recording
   - ai video
@@ -36,7 +36,7 @@ Edit system and microphone audio seperately
 All in all, to record desktop audio with OBS, you have to enter a third-party audio driver. To find out the intricacies of this solution, you may read the solutions as follow:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **1\. Close the OBS and Restart**
@@ -46,7 +46,7 @@ While using OBS studio, the users might experience the difficulties of OBS not c
 ![restart](https://images.wondershare.com/filmora/article-images/restart.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **2\. Run it as Administrator**
@@ -60,7 +60,7 @@ You can run OBS as an administrator on Windows 10 and Windows 11 effortlessly. B
 ![run it as administrator](https://images.wondershare.com/filmora/article-images/run-it-as-administrator.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **3\. Unmute OBS**
@@ -73,10 +73,6 @@ If OBS Studio is muted in the Volume Mixer, no doubt you won’t hear any deskto
 
 ![unmute obs](https://images.wondershare.com/filmora/article-images/unmute-obs.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **4\. Check the sound settings**
 
 Click the Desktop Audio Device drop-down option if the proper device is not chosen there. Then choose the correct desktop audio device.
@@ -86,6 +82,10 @@ Click the Desktop Audio Device drop-down option if the proper device is not chos
 * Press the Apply button, then click OK to exit the window.
 
 ![check the sound settings](https://images.wondershare.com/filmora/article-images/check-the-sound-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **5\. Remove Other Programs for Audio Control**
 
@@ -107,7 +107,7 @@ If the Desktop Audio stopped recording after the Windows Driver update, you may 
 ![update your audio driver](https://images.wondershare.com/filmora/article-images/update-your-audio-driver.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **7\. Reinstall OBS**
@@ -137,7 +137,7 @@ After the above efficient approaches, we have utilized to cure the "OBS No Sound
 ![record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Features Why You Should Go for Filmora:**
@@ -162,18 +162,19 @@ After the above efficient approaches, we have utilized to cure the "OBS No Sound
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-aural-adventures-discovering-the-top-15-instructional-music-videos/"><u>[New] 2024 Approved Aural Adventures Discovering the Top 15 Instructional Music Videos</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ow-to-rotate-youtube-videos-by-any-angle-2023-guide-andeditors-for-2024/"><u>[New] How to Rotate YouTube Videos by Any Angle [2023 Guide &Editors] for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-crafting-emotional-impact-in-personal-youtube-content/"><u>[Updated] 2024 Approved Crafting Emotional Impact in Personal YouTube Content</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-engaging-with-notable-figures-on-snapchat/"><u>[Updated] 2024 Approved Engaging with Notable Figures on Snapchat</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-video-on-ios-top-10-applications-to-watch/"><u>2024 Approved Mastering Video on iOS Top 10 Applications to Watch</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-proven-methods-for-capturing-ipad-content/"><u>2024 Approved Proven Methods for Capturing iPad Content</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/direct-comparison-evaluating-obs-against-twitch-hubs-for-2024/"><u>Direct Comparison Evaluating OBS Against Twitch Hubs for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/discover-the-most-effective-5-screen-capturing-tools-for-chromebook/"><u>Discover the Most Effective 5 Screen Capturing Tools for Chromebook</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/how-to-record-youtube-videos-for-2024/"><u>How to Record YouTube Videos for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-secure-your-screen-content-mastering-the-ezvide-technique/"><u>In 2024, Secure Your Screen Content - Mastering the EZvide Technique</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-top-5-tactics-to-record-gameplay-in-minecraft-via-macos/"><u>In 2024, Top 5 Tactics to Record Gameplay in Minecraft via MacOS</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/transforming-accounts-payable-how-iguras-integration-with-abbyy-enhances-efficiency-for-businesses/"><u>Transforming Accounts Payable: How Igura's Integration with ABBYY Enhances Efficiency for Businesses</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/your-personalized-playlist-blueprint-for-youtube-for-2024/"><u>Your Personalized Playlist Blueprint for YouTube for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-fast-tracking-visual-storytelling-with-google-collages/"><u>[New] Fast-Tracking Visual Storytelling with Google Collages</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-real-vs-fake-quick-ways-to-audit-your-insta-circle/"><u>[New] In 2024, Real Vs. Fake Quick Ways to Audit Your Insta Circle</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-quality-improvement-for-skype-video-calls/"><u>[New] Quality Improvement for Skype Video Calls</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-complete-examination-unboxing-logitechs-ultimate-4k-webcam/"><u>[Updated] 2024 Approved Complete Examination Unboxing Logitech’s Ultimate 4K Webcam</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-ultimate-mac-list-of-non-bandicamp-video-capture-tools-for-2024/"><u>[Updated] The Ultimate Mac List of Non-Bandicamp Video Capture Tools for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-virtual-reality-archivists-handbook-for-game-recordings/"><u>[Updated] The Virtual Reality Archivist's Handbook for Game Recordings</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-static-shots-to-time-lapse-video-tapestry/"><u>2024 Approved From Static Shots to Time-Lapse Video Tapestry</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-innovative-methods-to-enhance-your-twitch-stream/"><u>2024 Approved Innovative Methods to Enhance Your Twitch Stream</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-mastering-instagrams-podcast-post-and-story-distribution/"><u>2024 Approved Mastering Instagram's Podcast Post & Story Distribution</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-professional-photography-hacks-top-cinematic-tips/"><u>2024 Approved Professional Photography Hacks Top Cinematic Tips</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/directscreencapture-simple-and-swift-recordings/"><u>DirectScreenCapture Simple & Swift Recordings</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/free-online-oggm4a-movavi/"><u>Free Online OGG到M4A音頻格式转换 - 利用Movavi工具</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/say-goodbye-to-spammy-texts-iphone-users-ultimate-method-for-silencing-unwanted-communication/"><u>Say Goodbye to Spammy Texts: IPhone User's Ultimate Method for Silencing Unwanted Communication</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Quick Snapshots on Xbox One  A User's Manual\""
-date: 2025-01-06T17:59:45.996Z
-updated: 2025-01-09T18:52:29.751Z
+date: 2025-01-08T16:26:01.014Z
+updated: 2025-01-15T16:49:20.340Z
 tags: 
   - screen-recording
   - ai video
@@ -35,10 +35,6 @@ Let's have a look at how you can take screenshots in video games you play on you
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -56,15 +52,19 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Capturing Screenshots on Xbox One Using the Controller
 
 There is nothing complicated about taking a screenshot of your favorite game on Xbox One using the device's controller. All you have to do is double-click on the Xbox button and the screenshot will be captured. A sidebar will appear on the screen asking you if you want to take a screenshot or record the last 30 seconds of the gameplay. Just hit the Y button to save the screenshot. A dialog box will appear on the screen informing you that the screenshot has been saved successfully.
 
 ![Xbox Screenshot ](https://images.wondershare.com/filmora/article-images/xbox-screenshot.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 An increasing number of video games for Xbox One can be played in 4K resolution, but in order to play a game in a 4K resolution, you must have a 4K TV set. Moreover, the 4K and HDR capabilities your TV must be enabled before you start playing an Xbox One game in 4K. Taking a 4K screenshot on Xbox One requires you to adjust the capturing settings.
 
@@ -73,12 +73,16 @@ Press the Xbox button on the controller, and locate the System menu. Select the 
 Keep in mind that 4K screenshots are significantly larger in size than those in HD or any other resolution so if you would like to share a screenshot on social media you'll first have to download it to your Windows 10 PC and resize it. What's more taking screenshots or [recording videos](https://tools.techidaily.com/wondershare/filmora/download/) on Xbox One is only possible after you launch a game.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Capture Screenshots on Xbox One Using Voice Commands
 
 ![Xbox Screenshot ](https://images.wondershare.com/filmora/article-images/xbox-voice-screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Older versions of Xbox One feature the Kinect motion sensor, while the more recent versions have the Microsoft's Cortana sensor. Both of them enable you to take screenshots using voice commands. If your Xbox One has the Kinect motion sensor, you should issue the 'Xbox take a screenshot' command. Viewing the screenshot immediately after it was taken, requires you to say 'Xbox open that' and the screenshot will pop up on the screen or you can just push and hold the Xbox button on the controller.
 
@@ -87,7 +91,7 @@ You can say ' Hey _Cortana, take a screenshot'_ if your Xbox One features a Cort
 It is important to say the command clearly so the AI can understand what you are trying to do, and for that reason, you should try to avoid capturing screenshots or recording videos via voice commands in noisy rooms.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Manage and Share Screenshots on Xbox One?
@@ -99,10 +103,6 @@ Capturing screenshots of the epic moments in an Xbox One video game and sharing 
 The console you're using features the Upload app, so in order to access it, you should simply tap on the right bumper on the controller while you are in the Xbox One's home screen. Repeat this action until you are able to see the content feed your friends shared with you. Locate the screenshot you'd like to share and press the Menu button on the controller. A new window will emerge on the screen and you should simply select the Share option and then proceed to choose whether you want to send the screenshot as a private message, upload it to OneDrive or post it to Twitter.
 
 ![Xbox Screenshot ](https://images.wondershare.com/filmora/article-images/xbox-screenshot-share.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### 2. Manage and Share Xbox Screenshots via Windows 10 PC
 
@@ -133,20 +133,19 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-dealing-with-mistakes-self-representation-during-online-chats/"><u>[New] Dealing with Mistakes Self-Representation During Online Chats</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-digital-media-seeker-for-2024/"><u>[New] Digital Media Seeker for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-the-ultimate-list-of-serene-pc-gaming/"><u>[New] In 2024, The Ultimate List of Serene PC Gaming</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-streamline-your-workflow-with-aiseesoft-recording-tools-for-2024/"><u>[New] Streamline Your Workflow with Aiseesoft Recording Tools for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-the-finest-11-streaming-sound-recorders-for-2024/"><u>[New] The Finest 11 Streaming Sound Recorders for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-top-5-best-mac-screen-seize-tips-char-limit-156-for-2024/"><u>[New] Top 5 Best Mac Screen Seize Tips (Char Limit 156) for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-unveilingeaseinusingyourwebcamforrecord/"><u>[New] UnveilingEaseInUsingYourWebCamForRecord</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-how-to-record-google-meet-on-phone-for-2024/"><u>[Updated] How to Record Google Meet on Phone for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-apple-iphone-se-2022-passcode-easily-video-inside-by-drfone-ios/"><u>How to Bypass Apple iPhone SE (2022) Passcode Easily Video Inside</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-top-eight-sources-of-graffiti-fonts-online/"><u>In 2024, Top Eight Sources of Graffiti Fonts Online</u></a></li>
-<li><a href="https://techtrends.techidaily.com/recover-lost-msvcrt10dll-effective-tactics-to-solve-the-error-quickly/"><u>Recover Lost Msvcrt10.dll: Effective Tactics to Solve the Error Quickly</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/selecting-the-ideal-imagery-for-remote-meetings/"><u>Selecting the Ideal Imagery for Remote Meetings</u></a></li>
-<li><a href="https://fox-that.techidaily.com/trouble-setting-up-vpn-on-iphone-discover-7-proven-solutions/"><u>Trouble Setting Up VPN on iPhone? Discover 7 Proven Solutions!</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/unlock-your-disabled-iphone-14-pro-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>Unlock Your Disabled iPhone 14 Pro Without iTunes in 5 Ways | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-potential-how-chatgpt-can-refine-your-lifestyle-choices/"><u>Unlocking Potential: How ChatGPT Can Refine Your Lifestyle Choices</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-uninterrupted-snapstreaks-techniques-for-success-for-2024/"><u>[New] Uninterrupted Snapstreaks Techniques for Success for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-direct-viewing-verdict-obs-vs-shadowcast/"><u>[Updated] 2024 Approved Direct Viewing Verdict OBS vs ShadowCast</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-unveiling-the-secrets-detailed-guide-on-capturing-screens-with-zd/"><u>[Updated] In 2024, Unveiling the Secrets Detailed Guide on Capturing Screens with ZD</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-navigating-board-features-across-apple-android-and-windows-for-effective-online-collaboration/"><u>[Updated] Navigating Board Features Across Apple, Android & Windows for Effective Online Collaboration</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-2023-mobile-download-for-fb-videos-cross-platform/"><u>2024 Approved 2023 Mobile Download for FB Videos, Cross-Platform</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-study-of-silliness-the-goofy-narrative-unpacked/"><u>2024 Approved A Study of Silliness The Goofy Narrative Unpacked</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restart-and-fix-a-stalled-hamachi-vpn-service-easily/"><u>How to Restart and Fix a Stalled Hamachi VPN Service Easily</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-cutting-edge-techniques-for-saving-insta-videos/"><u>In 2024, Cutting-Edge Techniques for Saving Insta Videos</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-activation-lock-on-ipod-and-apple-iphone-15-the-right-way-by-drfone-ios/"><u>In 2024, How To Bypass iCloud Activation Lock On iPod and Apple iPhone 15 The Right Way</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/llama-n-installation-tutorial-for-beginners/"><u>Llama N Installation Tutorial for Beginners</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/maximizing-performance-optimal-settings-for-logitech-webcam-for-2024/"><u>Maximizing Performance Optimal Settings for Logitech Webcam for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-free-dvd-playback-on-windows-10-our-top-10-recommendations-for-2024/"><u>New Free DVD Playback on Windows 10 Our Top 10 Recommendations for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-make-amazing-videos-on-your-mac-top-rated-video-editing-tools/"><u>New Make Amazing Videos on Your Mac Top-Rated Video Editing Tools</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/streamers-dilemma-deciding-between-obs-and-shadowplay/"><u>Streamers' Dilemma Deciding Between OBS and ShadowPlay</u></a></li>
 </ul></div>
 
