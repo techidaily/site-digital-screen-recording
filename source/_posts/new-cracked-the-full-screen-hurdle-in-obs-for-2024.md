@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Cracked  The Full Screen Hurdle in OBS for 2024\""
-date: 2025-01-11T16:35:39.267Z
-updated: 2025-01-15T16:36:22.156Z
+date: 2025-01-18T20:58:43.755Z
+updated: 2025-01-21T19:20:53.565Z
 tags: 
   - screen-recording
   - ai video
@@ -32,7 +32,7 @@ Step 2: Click on Settings button.
 ![obs click on settings button](https://images.wondershare.com/filmora/article-images/obs-click-on-settings-button.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 3: Go to Output tab and change Output Mode from Simple to Advanced.
@@ -69,15 +69,15 @@ Step 3: On Task manager, find OBS Studio under Apps. Right-click on it and selec
 
 ![windows task manager properties](https://images.wondershare.com/filmora/article-images/windows-task-manager-properties.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 4: From Properties, copy the file location. Open File Explorer and go to the copied location by pasting on Address Bar.
 
 Step 5: Find OBS Studio Application file and right-click on it and select Properties.
 
 ![found obs studio application file](https://images.wondershare.com/filmora/article-images/found-obs-studio-application-file.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 6: Go to Compatibility tab and turn on “Run This Program In Compatibility Mode For”. Select Windows 8 from the list.
 
@@ -100,7 +100,7 @@ Step 3: Right-click on Display Capture and click on Windowed Projector option.
 ![turn your gameplay to windows mode](https://images.wondershare.com/filmora/article-images/turn-your-gameplay-to-windows-mode.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 4: Click on Start Recording and move to your Windowed game screen. After recording for a few seconds, click on Stop Recording. Check if the recording has been successful.
@@ -117,21 +117,21 @@ Step 2: From the list of installed applications, find OBS Studio and click on Un
 
 ![re install obs uninstall](https://images.wondershare.com/filmora/article-images/re-install-obs-uninstall.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: Once OBS Studio is successfully uninstalled, open your web browser and visit “obsproject.com”.
 
 ![install and launch](https://images.wondershare.com/filmora/article-images/install-and-launch.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 4: Download and install OBS Studio as per your operating system. Give all the necessary permissions during installation.
 
 Step 5: Launch the OBS Studio after installation and check if you can record in full screen mode.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Way 6\. Use OBS alternative
 
@@ -149,16 +149,12 @@ Step 1: Download and install Wondershare Filmora. Launch Filmora and click on PC
 
 ![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2: Select the recording screen size as full screen.
 
 ![set audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 3: Click on Record button when you are ready. You will get a few buffer seconds to switch to your application or game in full screen mode. Thereafter, Filmora will start recording in the background.
@@ -178,16 +174,24 @@ Step 1: Download and install Wondershare Filmora. Launch Filmora and click on PC
 ![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 2: Select the recording screen size as full screen.
 
 ![set audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: Click on Record button when you are ready. You will get a few buffer seconds to switch to your application or game in full screen mode. Thereafter, Filmora will start recording in the background.
 
 Step 4: When you are done, click on Stop button or press the Hotkey you have set to start and stop recording. You can edit the video and click on Export to save it on your hard drive.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -200,10 +204,6 @@ For macOS 10.12 or later
 Step 1: Download and install Wondershare Filmora. Launch Filmora and click on PC Screen option to capture your screen.
 
 ![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 2: Select the recording screen size as full screen.
 
@@ -261,19 +261,15 @@ OBS full screen not working is a common issue that many users have reported on v
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-game-on-the-best-xbox-extra-storage-choices/"><u>[New] 2024 Approved Game On The Best Xbox Extra Storage Choices</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-essential-steps-for-youtube-videos-to-mpeg-format-for-2024/"><u>[New] Essential Steps for YouTube Videos to MPEG Format for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-elitemac-pro-high-definition-visuals-plus-audiophile-recordings/"><u>[New] In 2024, EliteMac Pro High-Definition Visuals + Audiophile Recordings</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-modern-photo-editing-wonders-frame-integration-essentials-2023/"><u>[New] Modern Photo Editing Wonders Frame Integration Essentials, 2023</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-flawless-approach-securing-gotomeeting-recordings/"><u>[Updated] Flawless Approach Securing GoToMeeting Recordings</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-the-art-of-anonymity-in-video-hiding-private-data/"><u>[Updated] The Art of Anonymity in Video Hiding Private Data</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/10-premier-online-systems-for-screen-saving/"><u>10 Premier Online Systems for Screen Saving</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-most-acclaimed-3ip-voice-recorders-on-tablets/"><u>2024 Approved Most Acclaimed 3iP Voice Recorders on Tablets</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-navigating-keyword-optimization-in-podcast-seo/"><u>2024 Approved Navigating Keyword Optimization in Podcast SEO</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/crafting-high-impact-spotify-marketing-plans/"><u>Crafting High-Impact Spotify Marketing Plans</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-outlook-notifications-not-working-on-windows/"><u>How to Fix Outlook Notifications Not Working on Windows</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-strategies-for-monetizing-your-content-without-infringement/"><u>In 2024, Strategies for Monetizing Your Content Without Infringement</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-kobo-clara-color-e-reader-analysis/"><u>In-Depth Kobo Clara Color E-Reader Analysis</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Nokia C12? | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-design-mastery-creating-flawless-3d-structures-in-mc/"><u>[New] Design Mastery Creating Flawless 3D Structures in MC</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-how-to-recover-eyes-only-snaps-a-step-by-step-guide-for-2024/"><u>[New] How to Recover Eyes-Only Snaps A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-the-complete-guide-to-voice-overs-in-multimedia-projects/"><u>[New] The Complete Guide to Voice-Overs in Multimedia Projects</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-win10s-elite-screen-recording-and-capture-software-selection-for-2024/"><u>[New] Win10's Elite Screen Recording & Capture Software Selection for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-premium-virtual-playstation-simulators-for-modern-computers/"><u>[Updated] Premium Virtual PlayStation Simulators for Modern Computers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/clear-video-logger-for-windows-10-systems/"><u>Clear Video Logger for Windows 10 Systems</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-a23-5gwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy A23 5Gwith/without a PC</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/high-quality-sky-images-leading-sites-listed-for-2024/"><u>High-Quality Sky Images Leading Sites Listed for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-laptop-bright-screen-dilemma-a-comprehensive-fix-guide/"><u>Overcoming Laptop Bright Screen Dilemma: A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/pushing-boundaries-of-editing-how-to-erase-image-borders-on-canva-for-2024/"><u>Pushing Boundaries of Editing How to Erase Image Borders on Canva for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Exploring the Mighty Performance Within a Small Form Factor - A Comprehensive Review of Xbox Series S
-date: 2025-01-12T16:02:11.677Z
-updated: 2025-01-15T16:00:31.258Z
+date: 2025-01-15T20:21:22.915Z
+updated: 2025-01-21T17:01:37.292Z
 categories:
   - BestProducts
 description: This Article Describes Exploring the Mighty Performance Within a Small Form Factor - A Comprehensive Review of Xbox Series S
@@ -13,13 +13,13 @@ thumbnail: https://www.lifewire.com/thmb/FGI8xerKt3icyDzp_h8bugBgHPo=/400x300/fi
 
 4
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple iMac 21.5-inch 4K
 
 ![Apple iMac 21.5-inch 4K](https://www.lifewire.com/thmb/dIY3bLJSRioBJmHFFCGQjcgcxbU=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_1LW4045927-1-625cb1ba7a894cc38db8565dd81072b3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Gannon Burgett
 
@@ -40,13 +40,13 @@ Lifewire / Gannon Burgett
 
 4
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple iMac 21.5-inch 4K
 
 ![Apple iMac 21.5-inch 4K](https://www.lifewire.com/thmb/hOzU-Ut_6g-s5JwzT08s3wa0tSo=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_1LW4045927-1-625cb1ba7a894cc38db8565dd81072b3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Lifewire / Gannon Burgett
 
@@ -74,6 +74,10 @@ Lifewire / Gannon Burgett
 
 ![Apple iMac 21.5-inch 4K](https://www.lifewire.com/thmb/TCcSm-nkER9HhHM8YIPMWbaezRA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4045927-4-fa6cf253bfd44ab991c366691b68bdf5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Gannon Burgett
 
 ## **Design: Beautiful, with room for improvements**
@@ -100,6 +104,10 @@ Lifewire / Gannon Burgett
 
  Going through the setup process took us approximately five minutes, which included setting up our iCloud account and getting the various login settings in place. We opted to set this up as a new computer, but there’s also the ability to set it up from an Apple Time Capsule backup or transfer content from a PC via USB. The amount of time those options take will vary depending on the device you’re transferring the information from as well as the amount of data being transferred.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Display: Bright, brilliant, and ready to shine**
 
  With a resolution of 4096 x 2304 pixels, the 4K iMac has more than 9.4 million pixels and features a pixel density of 217 pixels per inch, more than enough to make individual pixels indistinguishable at normal viewing distances. Text was clear across nearly every application and browser and photos just came to life with ridiculous levels of detail.
@@ -112,14 +120,10 @@ Lifewire / Gannon Burgett
 
 ![Apple iMac 21.5-inch 4K](https://www.lifewire.com/thmb/IKZ75jBAosAG3M1Py_-E0ElYAfM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4045927-5-a705ea67b88b4cf694c53e4715a9aceb-f57b3be92a934d8ab579d90728e23fe8.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Lifewire / Gannon Burgett
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Performance: Impressive performance from an all-in-one**
@@ -144,10 +148,6 @@ Lifewire / Gannon Burgett
 
  In our hardwired tests, the iMac maxed out our Gigabit fiber optic internet no problem, with steady download and upload speeds. Wireless connectivity was equally impressive, regardless of whether the iMac was in the same room as the router or a few rooms over. We didn’t notice any drops throughout our tests and both uploading and downloading content was consistent.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Camera: Decent built-in option for basic tasks**
 
  The only camera on the 4K iMac is the integrated webcam, which sits dead center above the display. We would’ve liked to see a 1080p or even 4K webcam included, but the 720p resolution is good enough for basic video messaging.
@@ -164,11 +164,19 @@ Lifewire / Gannon Burgett
 
  Unlike Windows, macOS doesn’t come with any bloatware either. There’s a number of pre-installed apps developed by Apple, including four new ones borrowed from Apple’s mobile operating system, iOS, but most of the pre-installed apps are the standard array of programs you’d expect to see on any modern computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Price: The Apple tax is real**
 
  The 21.5-inch 4K iMac we tested with the aforementioned specifications retails for $1,499\. Compared to other Windows PCs with similar specifications, the iMac is without pricey for the specs it offers. However, this is par for the course with Apple, so much so that the term “Apple tax” has become a commonly-used phrase. What you’re paying for is the entire package, wrapped up in one of the best-looking frames out there.
 
  Could you build a PC with better specs for far less money? Absolutely. But it won’t be running macOS and it certainly won’t be as slim and streamlined as the iMac. If you’re invested in the Apple ecosystem and don’t need to shell out for the more expensive 27-inch 5K iMac, the 21.5-inch 4K iMac is priced much more reasonably and still has plenty to offer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Competition: A unique option in a small market**
 
@@ -188,19 +196,11 @@ Lifewire / Gannon Burgett
 
  The 21.5-inch 4K iMac is a solid all-in-one computer that packs a lot of power into a tiny, well-designed package. It’s not going to blow anyone away on benchmarks and it’s not cheap for the internal components you’re getting, but it has a lot to offer for multimedia and productivity. That’s not to mention the sheer convenience of having everything simply work out of the box.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Similar Products We've Reviewed
 
 * [Microsoft Surface Studio 2](https://www.lifewire.com/microsoft-surface-studio-2-review-4689102)
 * [Alienware Aurora R7](https://www.lifewire.com/alienware-aurora-r7-review-4689097)
 * [Lenovo ThinkCentre M720 Tower](https://www.lifewire.com/lenovo-thinkcentre-m720-tower-review-4776238)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -233,18 +233,20 @@ Lifewire / Gannon Burgett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-overcoming-quietness-fixes-for-silent-obs-streams/"><u>[New] 2024 Approved Overcoming Quietness Fixes for Silent OBS Streams</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-crafting-a-legacy-youtubers-playbook-for-success/"><u>[New] In 2024, Crafting a Legacy YouTuber’s Playbook for Success</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-streamline-your-screens-the-benefits-of-using-showmore/"><u>[New] In 2024, Streamline Your Screens The Benefits of Using ShowMore</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-mastering-ps2-replay-on-android-devices-top-picks/"><u>[New] Mastering PS2 Replay on Android Devices - Top Picks</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-elite-speedy-window-image-reader-tool-for-2024/"><u>[Updated] Elite Speedy Window Image Reader Tool for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-5-ultimate-map-quests-for-precious-in-game-finds/"><u>[Updated] In 2024, 5 Ultimate Map Quests for Precious In-Game Finds</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-capture-clash-comparing-the-latest-gopro-and-virb-models/"><u>2024 Approved Capture Clash Comparing the Latest GoPro and VIRB Models</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/expert-routines-for-flawless-webinar-replays/"><u>Expert Routines for Flawless Webinar Replays</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-realme-c55-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Realme C55 | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-how-to-archive-your-favorite-movies-mac-screenshots-for-netflix/"><u>In 2024, How to Archive Your Favorite Movies Mac Screenshots for Netflix</u></a></li>
-<li><a href="https://some-tips.techidaily.com/labor-day-alert-the-ring-spotlight-cam-pro-exceeds-expectations-now-at-a-discounted-rate/"><u>Labor Day Alert: The Ring Spotlight Cam Pro Exceeds Expectations - Now at a Discounted Rate!</u></a></li>
-<li><a href="https://win-top.techidaily.com/mastering-google-rankings-the-role-of-server-response-time-and-effective-seo-techniques/"><u>Mastering Google Rankings: The Role of Server Response Time & Effective SEO Techniques</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-simple-guide-to-hosting-efficient-zoom-chats/"><u>The Simple Guide to Hosting Efficient Zoom Chats</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-mov-file-preservation-securing-and-organizing-on-windows-systems/"><u>[Updated] In 2024, .mov File Preservation Securing & Organizing on Windows Systems</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-refining-online-discussions-in-google-meet-for-2024/"><u>[Updated] Refining Online Discussions in Google Meet for 2024</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/1-how-to-retrieve-lost-documents-from-selected-directory-quickly/"><u>1. How To Retrieve Lost Documents From Selected Directory Quickly</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-book-trailers-displayed/"><u>2024 Approved Innovative Book Trailers Displayed</u></a></li>
+<li><a href="https://games-able.techidaily.com/dive-into-the-dynamics-eyesight-and-errors-in-pimax-crystal-headset/"><u>Dive Into the Dynamics - Eyesight and Errors in Pimax Crystal Headset</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/efficient-strategies-to-document-your-google-meeting-sessions-for-2024/"><u>Efficient Strategies to Document Your Google Meeting Sessions for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/essential-android-tools-for-video-recording-for-2024/"><u>Essential Android Tools for Video Recording for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-fashion-meets-makeup-brilliance/"><u>In 2024, Fashion Meets Makeup Brilliance</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-leading-tools-for-clear-uncompromised-4k-recordings/"><u>In 2024, Leading Tools for Clear, Uncompromised 4K Recordings</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/inside-look-how-to-identify-and-clean-dust-in-your-computer-case-expert-advice-by-yl-software/"><u>Inside Look: How to Identify and Clean Dust in Your Computer Case - Expert Advice by YL Software</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/step-by-step-guide-to-transferring-high-definition-videos-using-winx-hd-camcorder-video-converter/"><u>Step-by-Step Guide to Transferring High-Definition Videos Using WinX HD Camcorder Video Converter</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/top-12-free-note-taking-apps-compatible-with-windows-11-boost-your-productivity/"><u>Top 12 Free Note-Taking Apps Compatible with Windows 11 - Boost Your Productivity!</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/ultimate-toolkit-capture-windows-11-displays-for-2024/"><u>Ultimate Toolkit Capture Windows 11 Displays for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-true-expenses-of-free-phones-from-telecom-providers-expert-insights-revealed-zdnet/"><u>Unveiling the True Expenses of Free Phones From Telecom Providers - Expert Insights Revealed | ZDNet</u></a></li>
 </ul></div>
 
