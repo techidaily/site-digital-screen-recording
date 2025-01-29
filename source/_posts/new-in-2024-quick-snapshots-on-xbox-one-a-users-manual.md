@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Quick Snapshots on Xbox One  A User's Manual\""
-date: 2025-01-19T17:25:37.584Z
-updated: 2025-01-21T18:50:36.030Z
+date: 2025-01-25T16:58:29.351Z
+updated: 2025-01-28T17:47:13.909Z
 tags: 
   - screen-recording
   - ai video
@@ -36,7 +36,7 @@ Let's have a look at how you can take screenshots in video games you play on you
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The All-in-One Screen Recorder & Video Editor
@@ -56,6 +56,10 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Capturing Screenshots on Xbox One Using the Controller
 
 There is nothing complicated about taking a screenshot of your favorite game on Xbox One using the device's controller. All you have to do is double-click on the Xbox button and the screenshot will be captured. A sidebar will appear on the screen asking you if you want to take a screenshot or record the last 30 seconds of the gameplay. Just hit the Y button to save the screenshot. A dialog box will appear on the screen informing you that the screenshot has been saved successfully.
@@ -63,7 +67,7 @@ There is nothing complicated about taking a screenshot of your favorite game on 
 ![Xbox Screenshot ](https://images.wondershare.com/filmora/article-images/xbox-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 An increasing number of video games for Xbox One can be played in 4K resolution, but in order to play a game in a 4K resolution, you must have a 4K TV set. Moreover, the 4K and HDR capabilities your TV must be enabled before you start playing an Xbox One game in 4K. Taking a 4K screenshot on Xbox One requires you to adjust the capturing settings.
@@ -72,13 +76,13 @@ Press the Xbox button on the controller, and locate the System menu. Select the 
 
 Keep in mind that 4K screenshots are significantly larger in size than those in HD or any other resolution so if you would like to share a screenshot on social media you'll first have to download it to your Windows 10 PC and resize it. What's more taking screenshots or [recording videos](https://tools.techidaily.com/wondershare/filmora/download/) on Xbox One is only possible after you launch a game.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Capture Screenshots on Xbox One Using Voice Commands
 
 ![Xbox Screenshot ](https://images.wondershare.com/filmora/article-images/xbox-voice-screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Older versions of Xbox One feature the Kinect motion sensor, while the more recent versions have the Microsoft's Cortana sensor. Both of them enable you to take screenshots using voice commands. If your Xbox One has the Kinect motion sensor, you should issue the 'Xbox take a screenshot' command. Viewing the screenshot immediately after it was taken, requires you to say 'Xbox open that' and the screenshot will pop up on the screen or you can just push and hold the Xbox button on the controller.
 
@@ -87,7 +91,7 @@ You can say ' Hey _Cortana, take a screenshot'_ if your Xbox One features a Cort
 It is important to say the command clearly so the AI can understand what you are trying to do, and for that reason, you should try to avoid capturing screenshots or recording videos via voice commands in noisy rooms.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Manage and Share Screenshots on Xbox One?
@@ -114,10 +118,6 @@ What is your favorite method of taking screenshots on Xbox One? We're anxious to
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -133,20 +133,17 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-angled-artistry-a-guide-for-social-media-users-to-spin-their-photos-on-the-fly/"><u>[New] Angled Artistry A Guide for Social Media Users to Spin Their Photos on the Fly</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-master-your-photos-the-prime-selection-of-no-cost-editors/"><u>[New] In 2024, Master Your Photos The Prime Selection of No-Cost Editors</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-syncsavvy-experts-opinion-for-2024/"><u>[New] SyncSavvy Experts Opinion for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-depth-look-at-frozen-delight-recording-software/"><u>[Updated] In-Depth Look at Frozen Delight Recording Software</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-pro-tips-for-streaming-and-screening-netflix-on-mac-for-2024/"><u>[Updated] Pro-Tips for Streaming & Screening Netflix on Mac for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-how-to-blur-the-background-in-teams-meeting-desktop-and-mobile/"><u>2024 Approved How to Blur the Background in Teams Meeting? [Desktop & Mobile]</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-how-to-record-video-presentations-using-adobe-presenter/"><u>2024 Approved How to Record Video Presentations Using Adobe Presenter</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-optimize-your-gaming-by-learning-ps3-video-capture-techniques/"><u>2024 Approved Optimize Your Gaming by Learning PS3 Video Capture Techniques</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/a-critical-look-at-the-leading-economically-friendly-lut-sources/"><u>A Critical Look at the Leading, Economically Friendly LUT Sources</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enable-auto-color-customization-for-windows-11-software/"><u>Enable Auto-Color Customization for Windows 11 Software</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Samsung Galaxy M34 | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/lenovo-quick-guide-effortless-screenshots-for-2024/"><u>Lenovo Quick Guide Effortless Screenshots for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-initialization-problems-in-armored-core-vi-game/"><u>Overcoming Initialization Problems in Armored Core VI Game</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-a-damaged-windows-store-cache-issue-fixed/"><u>Troubleshooting Tips for a Damaged Windows Store Cache Issue [FIXED]</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/windows-8-avi-editor-a-simple-way-to-edit-and-enhance-videos/"><u>Windows 8 AVI Editor A Simple Way to Edit and Enhance Videos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-how-to-upload-and-upgrade-your-horizons-in-igtvs-format/"><u>[New] 2024 Approved How to Upload & Upgrade Your Horizons in IGTV's Format</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-indispensable-sandbox-journeys-await/"><u>[New] In 2024, Indispensable Sandbox Journeys Await</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-unleash-the-potential-of-gopro-hero-7-and-8-with-top-sd-cards/"><u>[New] Unleash the Potential of GoPro Hero 7 & 8 with Top SD Cards</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-smooth-video-capture-with-your-laptops-webcam/"><u>[Updated] 2024 Approved Smooth Video Capture with Your Laptop's Webcam</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-quickvideocapture-simple-desktop-app-for-w10/"><u>[Updated] QuickVideoCapture Simple Desktop App for W10</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/1715859689913-2024-approved-best-5-chrome-os-clipping-utilities-ranked/"><u>2024 Approved Best 5 Chrome OS Clipping Utilities, Ranked!</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-honor-x9a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/avoiding-crashes-on-your-assassins-creed-valhalla-adventure-top-fixes-players/"><u>Avoiding Crashes on Your Assassin's Creed Valhalla Adventure: Top Fixes Players</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-look-at-motorola-edgeplus-beyond-just-flagship-features/"><u>In-Depth Look at Motorola Edge+: Beyond Just Flagship Features</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/photo-fusion-made-simple-the-picshot-experience/"><u>Photo Fusion Made Simple - The Picshot Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-bad-image-errors-a-guide-to-correcting-side-by-side-configuration-issues-on-windows-10/"><u>Resolving ‘Bad Image’ Errors: A Guide to Correcting Side-By-Side Configuration Issues on Windows 10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-12-complimentary-keyboard-skills-courses-ideal-for-learners-at-any-age/"><u>Top 12 Complimentary Keyboard Skills Courses: Ideal for Learners at Any Age</u></a></li>
 </ul></div>
 

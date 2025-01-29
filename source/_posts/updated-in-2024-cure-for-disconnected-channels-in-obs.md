@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Cure for Disconnected Channels in OBS"
-date: 2025-01-19T16:11:24.203Z
-updated: 2025-01-21T18:50:56.029Z
+date: 2025-01-25T08:30:09.714Z
+updated: 2025-01-29T08:58:12.294Z
 tags: 
   - screen-recording
   - ai video
@@ -32,7 +32,7 @@ Edit system and microphone audio seperately
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solutions to Fix OBS Not Recording Audio
@@ -44,10 +44,6 @@ All in all, to record desktop audio with OBS, you have to enter a third-party au
 While using OBS studio, the users might experience the difficulties of OBS not capturing mic audio. This problem arises because the program only captures mic audio, and it doesn't support the desktop audio or system sound. to repair the "OBS no sound" problem on your PC is simply to shut the OBS studio software and thereafter restart it once more.
 
 ![restart](https://images.wondershare.com/filmora/article-images/restart.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **2\. Run it as Administrator**
 
@@ -83,6 +79,14 @@ Click the Desktop Audio Device drop-down option if the proper device is not chos
 
 ![check the sound settings](https://images.wondershare.com/filmora/article-images/check-the-sound-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **5\. Remove Other Programs for Audio Control**
 
 Try recording with your speakers as the default playback device instead of headphones. To accomplish it, right-click the Speakers system tray icon and choose Open Sound settings.
@@ -94,7 +98,7 @@ Try recording with your speakers as the default playback device instead of headp
 ![audio control](https://images.wondershare.com/filmora/article-images/audio-control.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **6\. Update your audio driver**
@@ -107,7 +111,7 @@ If the Desktop Audio stopped recording after the Windows Driver update, you may 
 ![update your audio driver](https://images.wondershare.com/filmora/article-images/update-your-audio-driver.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **7\. Reinstall OBS**
@@ -136,10 +140,6 @@ After the above efficient approaches, we have utilized to cure the "OBS No Sound
 
 ![record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Features Why You Should Go for Filmora:**
 
 * It has both the versions for Windows and Mac
@@ -162,24 +162,16 @@ After the above efficient approaches, we have utilized to cure the "OBS No Sound
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-whispered-words-web-hidden-voice-recorders-for-smartphones/"><u>[New] In 2024, Whispered Words Web Hidden Voice Recorders for Smartphones</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-mastering-the-art-of-speech-to-text-with-google-ai-for-2024/"><u>[New] Mastering the Art of Speech-to-Text with Google AI for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-minecraft-homestead-essentials-6-10-for-2024/"><u>[New] Minecraft Homestead Essentials #6-10 for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-mastering-visual-storytelling-on-instagram/"><u>[Updated] 2024 Approved Mastering Visual Storytelling on Instagram</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-the-great-video-editing-tools-debate-bandicam-vs-camtasia/"><u>[Updated] 2024 Approved The Great Video Editing Tools Debate Bandicam Vs Camtasia</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-a-comprehensive-list-of-frames-to-upgrade-your-photos-on-instagram/"><u>[Updated] A Comprehensive List of Frames to Upgrade Your Photos on Instagram</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-essential-android-gb-advance-emulator-list/"><u>[Updated] Essential Android GB Advance Emulator List</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-exploring-essential-screen-recording-software-for-educators/"><u>[Updated] In 2024, Exploring Essential Screen Recording Software for Educators</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-minicam-snapshot-review-and-substitutes/"><u>[Updated] In 2024, MiniCam Snapshot Review and Substitutes</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-mastering-visual-narratives-essential-snapchat-video-editors/"><u>[Updated] Mastering Visual Narratives Essential Snapchat Video Editors</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/best-practices-for-designing-an-engaging-youtube-teaser/"><u>Best Practices for Designing an Engaging YouTube Teaser</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-samsung-galaxy-m34-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Samsung Galaxy M34 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-dive-deep-into-stardews-heart-with-our-guide-to-ginger-isle/"><u>In 2024, Dive Deep Into Stardew's Heart with Our Guide to Ginger Isle</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-zte-nubia-z60-ultra-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on ZTE Nubia Z60 Ultra</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-invert-colors-in-digital-photos/"><u>In 2024, How to Invert Colors in Digital Photos?</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ring-adsense-on-youtube-a-beginners-guide/"><u>Mastering AdSense on YouTube A Beginner's Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-preventing-f1-202n-from-freezing-during-your-race/"><u>Solved! Preventing F1 202N From Freezing During Your Race</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/top-12-screen-recorder-no-time-limits/"><u>Top 12 Screen Recorder No Time Limits</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-essential-linux-software-best-choices-for-snaps-and-shots/"><u>[New] 2024 Approved Essential Linux Software Best Choices for Snaps & Shots</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-screenflow-mastery-for-mac-users-a-critical-look/"><u>[New] 2024 Approved ScreenFlow Mastery for Mac Users – A Critical Look</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-virtual-speedway-selection-top-5-picks-revealed-for-2024/"><u>[New] Virtual Speedway Selection Top 5 Picks Revealed for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-secure-social-screen-avoid-facebook-vids/"><u>[Updated] 2024 Approved Secure Social Screen Avoid Facebook Vids</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/clonage-dssd-parfait-pour-windows-11-10-8-and-7-solutions-logicielles-optimales-de-crucial/"><u>Clonage D'SSD Parfait Pour Windows 11, 10, 8 & 7 : Solutions Logicielles Optimales De Crucial</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/diagnosing-video-load-failures/"><u>Diagnosing Video Load Failures</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/essential-tips-for-attending-tiktok-live-events-for-2024/"><u>Essential Tips for Attending TikTok Live Events for 2024</u></a></li>
+<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-15-data-completely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone 15 Data Completely | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-get-smart-capturing-your-screen-in-minutes/"><u>In 2024, Get Smart Capturing Your Screen in Minutes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-more-silence-fixing-the-voice-chat-glitches-on-call-of-dutys-latest-game/"><u>No More Silence: Fixing the Voice Chat Glitches on Call of Duty's Latest Game</u></a></li>
+<li><a href="https://win11.techidaily.com/tailoring-screen-settings-for-programs-on-win11/"><u>Tailoring Screen Settings for Programs on Win11</u></a></li>
 </ul></div>
 
