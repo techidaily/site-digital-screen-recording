@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Alter Default Location for Mac Captured Images"
-date: 2025-01-24T17:55:10.990Z
-updated: 2025-01-28T16:41:34.646Z
+date: 2025-02-05T18:27:47.527Z
+updated: 2025-02-09T16:53:59.807Z
 tags: 
   - screen-recording
   - ai video
@@ -31,6 +31,10 @@ Here's how you can change the location where the screenshots you take using the 
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -48,14 +52,6 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
 
 Changing the folder where you store your screenshots is not an irreversible process, which means that you can reset the destination where the files are saved to Desktop at any point. Do not delete the new folder, because your Mac may not be able to take screenshots, afterward. The process described below is the only way you can delete a folder or add a new destination for your screenshots, and failing to comply with it may cause your Mac to malfunction.
@@ -63,7 +59,7 @@ Changing the folder where you store your screenshots is not an irreversible proc
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
@@ -73,6 +69,10 @@ Create a new folder on the desired location on your hard drive, and then launch 
 Then enter a space at the end after 'location'.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
 
@@ -85,7 +85,7 @@ To execute the command you have to press Enter. After Terminal finishes running 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
@@ -101,7 +101,7 @@ Don't forget that deleting the folder you use as a default location for storing 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Max Wales
@@ -119,21 +119,20 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-broadcast-your-xbox-adventures-online/"><u>[New] 2024 Approved Broadcast Your Xbox Adventures Online</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-delve-deep-into-powerdirector-comprehensive-review-and-tutorial/"><u>[New] In 2024, Delve Deep Into PowerDirector - Comprehensive Review & Tutorial</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-mastering-inshot-pc-editing-made-easy/"><u>[New] Mastering Inshot PC Editing Made Easy</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-simplified-methods-capturing-powerpoint-talks/"><u>[New] Simplified Methods Capturing PowerPoint Talks</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-the-essential-guide-to-speedy-windows-inspecting-for-2024/"><u>[New] The Essential Guide to Speedy Windows Inspecting for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-easy-guide-to-entering-google-meet-on-devices/"><u>[Updated] 2024 Approved Easy Guide to Entering Google Meet on Devices</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-tips-for-incorporating-songs-into-social-media-video-content/"><u>[Updated] 2024 Approved Tips for Incorporating Songs Into Social Media Video Content</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-effective-strategies-to-document-competitive-play/"><u>[Updated] In 2024, Effective Strategies to Document Competitive Play</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-leading-hd-video-capture-technology/"><u>[Updated] In 2024, Leading HD Video Capture Technology</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-mp3-to-video-stream-mp3-to-youtube-in-3-easy-steps/"><u>[Updated] MP3 to Video Stream MP3 to YouTube in 3 Easy Steps</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-the-complete-guide-to-selecting-and-raising-valheim-crops/"><u>[Updated] The Complete Guide to Selecting & Raising Valheim Crops</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/is-higher-frame-rate-better-weighing-30-vs-60fps-in-video/"><u>Is Higher Frame Rate Better? Weighing 30 Vs. 60Fps in Video</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/optimizing-screen-recording-on-iphoneipad/"><u>Optimizing Screen Recording on iPhone/iPad</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-13-mini-data-from-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 13 mini Data From iTunes Backup | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/revolutionizing-technology-how-apple-is-advancing-its-artificial-intelligence-capabilities-discover-the-power-of-their-latest-innovations-tech-news/"><u>Revolutionizing Technology: How Apple Is Advancing Its Artificial Intelligence Capabilities - Discover the Power of Their Latest Innovations | Tech News</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-picks-explore-the-best-new-windows-10-apps-and-games/"><u>Top Picks Explore the Best New Windows 10 Apps and Games</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-secure-survival-housing-in-minecraft/"><u>[New] Secure Survival Housing in Minecraft</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-the-comprehensive-look-at-apeaksofts-recording-software/"><u>[New] The Comprehensive Look at Apeaksoft’s Recording Software</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-unmatched-warfare-discovering-the-prime-7-total-war-battles/"><u>[New] Unmatched Warfare Discovering the Prime 7 Total War Battles</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-essential-tips-for-successful-hulu-capturing-on-various-platforms/"><u>[Updated] Essential Tips for Successful Hulu Capturing on Various Platforms</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-hashtag-hacks-for-amplifying-gamer-content/"><u>[Updated] In 2024, Hashtag Hacks for Amplifying Gamer Content</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-step-by-step-guide-cut-off-youtube-shorts-link/"><u>[Updated] In 2024, Step-by-Step Guide Cut Off YouTube Shorts Link</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-premier-nintendo-switch-brawlers-list-max-156/"><u>[Updated] Premier Nintendo Switch Brawlers List (Max 156)</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-retrospective-graphics-radeons-reprise/"><u>[Updated] Retrospective Graphics Radeon's Reprise</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-newest-hp-deskjet-3755-inkjet-all-in-one-printer-driver-compatible-with-windows-10-8-and-ebx/"><u>Download the Newest HP DeskJet 3755 Inkjet All-In-One Printer Driver Compatible with Windows 10, 8 & Ebx</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-aerial-imaging-face-off-dji-fpv-vs-gopro-max-x/"><u>In 2024, Aerial Imaging Face-Off DJi FPV vs GoPro Max X</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/secure-recording-of-conversations-what-you-need-to-know-about-whatsapp-for-2024/"><u>Secure Recording of Conversations What You Need to Know About WhatsApp for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/tech-titans-select-top-10-video-capture-apps-for-2024/"><u>Tech Titans Select Top 10 Video Capture Apps for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/the-top-10-webinar-platforms-ranked/"><u>The Top 10 Webinar Platforms Ranked</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/the-ultimate-checklist-for-transferring-snaps-to-photos-folder/"><u>The Ultimate Checklist for Transferring Snaps to Photos Folder</u></a></li>
 </ul></div>
 
