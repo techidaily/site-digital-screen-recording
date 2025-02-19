@@ -1,7 +1,7 @@
 ---
 title: "Onboard Recorder Use in Huawei Mate and P Series (Mate 10, Mate 20; P20, P10)"
-date: 2025-02-02T16:19:02.341Z
-updated: 2025-02-09T16:08:59.875Z
+date: 2025-02-15T19:35:45.178Z
+updated: 2025-02-19T20:35:32.032Z
 tags: 
   - screen-recording
   - ai video
@@ -30,7 +30,7 @@ Capturing a screen of Huawei's Mate 10, 20 P20, or [P10](https://tools.techidail
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The All-in-One Screen Recorder & Video Editor
@@ -50,17 +50,9 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 In case you were looking for a way to record a screen on a Huawei Smartphone, you've come to the right place because in this article we are going to take you through the process of capturing a screen on your Huawei Android phone.
 
 ![Record Screen on Huawei](https://images.wondershare.com/filmora/article-images/record-screen-on-huawei.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Capture Screen on a Huawei Smartphone
 
@@ -73,7 +65,7 @@ Pull-down notification panel from the top, find the Screen Recorder shortcut ico
 ![Huawei Smartphone screen recorder](https://images.wondershare.com/filmora/article-images/huawei-screen-recorder-shortcut.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 2. Pressing Buttons to Record Huawei Screen
@@ -97,18 +89,26 @@ If you want to record the screen video, just knock the screen with two knuckles 
 The maximum duration of the screen recording you can make can't exceed the five-minute limit. If you would like to capture longer videos of your screen, you can do so by using free third-party [screen recording apps for Android](https://tools.techidaily.com/wondershare/filmora/download/), such as AZ Recorder. But if you are using the built-in screen recording feature on Huawei smartphone, the recording function of the third-party apps will be disabled.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Where to Find the Recorded Videos
 
 All screen recordings you create will be displayed in the phone's **Gallery** app. Locate the Screenshots or Screen Recordings folder on the Albums tab and then tap on the Share icon if you would like to post the recording on social media or send it to a friend. Hit the Delete button to remove the recording from your phone. Follow the on-screen instructions to complete either of these two processes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Conclusion
 
 Capturing your phone's screen can help you entertain your friends and followers on social media or to share valuable information with your business associates. Huawei's Smartphones enable you to accomplish both of these tasks in just a few simple steps. However, the built-in Screen Recorder on Huawei's Mate 10, 20 P20 or P10 Android devices doesn't allow you to specify the region of the screen you want to capture or select the frame rate, so if you want to gain access to more powerful screen recording tools you should install an app such as AZ Screen Recorder or DU Recorder from the Google Play Store, but you can also record the screen on the computer with some desktop screen recorders. Let's know how you [record your screen on Android](https://tools.techidaily.com/wondershare/filmora/download/) in the comments below.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -125,24 +125,16 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-ultimate-mac-device-visuals-and-acoustics-in-one/"><u>[New] 2024 Approved Ultimate Mac Device Visuals & Acoustics in One</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-decoding-the-app-culture-the-battle-of-innovation-between-tiktok-and-snap-for-2024/"><u>[New] Decoding the App Culture The Battle of Innovation Between TikTok & Snap for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-from-scenes-to-screens-sims-4-video-capturing/"><u>[New] From Scenes to Screens Sims 4 Video Capturing</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-expert-guide-to-perfectly-shaped-objects-minecraft-circles-and-spheres/"><u>[Updated] 2024 Approved Expert Guide to Perfectly Shaped Objects Minecraft Circles & Spheres</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-download-premium-facebook-hd-content-anywhere/"><u>[Updated] Download Premium Facebook HD Content Anywhere</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-from-beginner-to-star-top-25-vlogging-ideas/"><u>[Updated] From Beginner to Star Top 25 Vlogging Ideas</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-guardians-of-the-screen-the-best-webcam-cover-options-for-2024/"><u>[Updated] Guardians of the Screen - The Best Webcam Cover Options for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-correcting-obs-darkness-during-live-streams/"><u>[Updated] In 2024, Correcting OBS Darkness During Live Streams</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-cutting-edge-techniques-to-elevate-your-screen-recordings-in-adobe-captive/"><u>[Updated] In 2024, Cutting-Edge Techniques to Elevate Your Screen Recordings in Adobe Captive</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-skype-record-simplified-techniques-for-dual-os-recording/"><u>[Updated] In 2024, Skype Record Simplified Techniques for Dual OS Recording</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-uncomplicatedscreensave-free-recording-software/"><u>[Updated] In 2024, UncomplicatedScreenSave Free Recording Software</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-perfecting-the-fisheye-lens-for-immersive-views/"><u>[Updated] Perfecting the Fisheye Lens for Immersive Views</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-how-to-record-the-screen-with-adobe-captive/"><u>2024 Approved How To Record The Screen With Adobe Captive</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723003963315-battlefield-5-pc-issues-discover-the-top-tips-to-eliminate-in-game-crashes-and-enjoy-seamless-play/"><u>Battlefield 5 PC Issues? Discover the Top Tips to Eliminate In-Game Crashes and Enjoy Seamless Play</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/before-you-invest-the-essential-5-checkpoints-for-pre-owned-laptop-purchases/"><u>Before You Invest: The Essential 5 Checkpoints for Pre-Owned LAPTOP Purchases</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210698983-9798886441932-epiphany-through-songs/"><u>Epiphany Through Songs | Free Book</u></a></li>
-<li><a href="https://win-unique.techidaily.com/expert-tips-from-yl-software-for-troubleshooting-and-fixing-your-computer-display-problems/"><u>Expert Tips From YL Software for Troubleshooting and Fixing Your Computer Display Problems</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-m6-pro-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on M6 Pro 5G</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-your-tablets-touchscreen-top-8-solutions/"><u>Troubleshooting Your Tablet's Touchscreen: Top 8 Solutions</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-ace-your-edits-in-depth-guide-to-high-quality-youtube-videos-for-2024/"><u>[New] Ace Your Edits In-Depth Guide to High-Quality YouTube Videos for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-timing-techniques-enhancing-narratives-with-on-screen-labels/"><u>[New] In 2024, Timing Techniques Enhancing Narratives With On-Screen Labels</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-mastering-the-art-of-tagging-instas-top-25-must-use-tags/"><u>[Updated] 2024 Approved Mastering the Art of Tagging Insta's Top 25 Must-Use Tags</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-easy-insights-into-effective-use-of-showmore-screen-recorder/"><u>[Updated] In 2024, Easy Insights Into Effective Use of ShowMore Screen Recorder</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/basic-approach-adjust-sea-creature-tones-in-windows-os/"><u>Basic Approach Adjust Sea Creature Tones in Windows OS</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/first-steps-in-gamified-editing-software-selection/"><u>First Steps in Gamified Editing Software Selection</u></a></li>
+<li><a href="https://article-files.techidaily.com/high-dynamic-range-luminances-impact-review-for-2024/"><u>High Dynamic Range Luminance's Impact Review for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-undercover-audio-gems-top-6-non-public-mobile-voice-capturers/"><u>In 2024, Undercover Audio Gems Top 6 Non-Public Mobile Voice Capturers</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209981294-9781401958084-the-hidden-power-of-emotions/"><u>The Hidden Power of Emotions | Free Book</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-boost-your-image-detail-and-sharpness-for-2n4-top-5-techniques/"><u>The Ultimate Guide: Boost Your Image Detail & Sharpness for 2N4 (Top 5 Techniques)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-repairing-your-stuck-cd-dvd-and-blu-ray-drives/"><u>Ultimate Guide: Repairing Your Stuck CD, DVD, and Blu-Ray Drives</u></a></li>
 </ul></div>
 

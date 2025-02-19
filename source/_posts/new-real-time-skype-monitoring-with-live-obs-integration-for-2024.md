@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Real-Time Skype Monitoring with Live OBS Integration for 2024\""
-date: 2025-02-08T16:06:53.094Z
-updated: 2025-02-09T16:50:36.116Z
+date: 2025-02-18T16:12:38.205Z
+updated: 2025-02-19T20:13:54.840Z
 tags: 
   - screen-recording
   - ai video
@@ -43,35 +43,39 @@ To setup NDI plugin you have to visit <https://github.com/Palakis/obs-ndi/releas
 
 ![obc ndi plugin visit](https://images.wondershare.com/filmora/article-images/obc-ndi-plugin-visit.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 And after addition of plug in you would want to click on ‘+’ again and select NDI plugin and you can select the source video which is going to be the received video.
 
 ![obs additon of plug in](https://images.wondershare.com/filmora/article-images/obs-additon-of-plug-in.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 And clicking on it will open a new window where you have to select the guest feed, which will be possible once the call has begun. The call connected will appear on the NDI plugin window.
 
 ![obs new window select the guest feed](https://images.wondershare.com/filmora/article-images/obs-new-window-select-the-guest-feed.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 As you receive the call from the reciever you will see the incoming feed of him as shown in the figure.
 
 ![obs receive the call](https://images.wondershare.com/filmora/article-images/obs-receive-the-call.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 So you can just resize it similarly as you did yours earlier and pressing the lock icon will stop you from mistakenly modify or change the video screen settings. Now to record the video you have to click on record button and your desktop starts recording.
 
 ![obs resize it similarly](https://images.wondershare.com/filmora/article-images/obs-resize-it-similarly.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: OBS Alternative to Record Skype
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Filmora
 
@@ -147,18 +151,18 @@ For macOS 10.12 or later
 
 ![filmora regard screen size](https://images.wondershare.com/filmora/guide/recording-04.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * This window is to configure all the audio and video devices. So you can get audio from any device and similarly video devices can also be configured.
 
 ![filmora configure all the audio devices](https://images.wondershare.com/filmora/guide/recording-05.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * After the configuration, you can click on the big red button to start the recording.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQs Regarding Skype Recording
@@ -203,12 +207,16 @@ For macOS 10.12 or later
 ![filmra record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * This window gives you options regarding screen size, resolution and devices which will record your audio and videos.
 
 ![filmora regard screen size](https://images.wondershare.com/filmora/guide/recording-04.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * This window is to configure all the audio and video devices. So you can get audio from any device and similarly video devices can also be configured.
 
@@ -261,22 +269,14 @@ For macOS 10.12 or later
 
 ![filmora regard screen size](https://images.wondershare.com/filmora/guide/recording-04.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * This window is to configure all the audio and video devices. So you can get audio from any device and similarly video devices can also be configured.
 
 ![filmora configure all the audio devices](https://images.wondershare.com/filmora/guide/recording-05.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * After the configuration, you can click on the big red button to start the recording.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQs Regarding Skype Recording
@@ -334,18 +334,19 @@ So form the above discussion it can be concluded that OBS for screen recording c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-streamlining-movie-capture-with-multiple-technology-systems/"><u>[New] 2024 Approved Streamlining Movie Capture with Multiple Technology Systems</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-free-screenshot-and-recording-made-simple-for-android-users-for-2024/"><u>[New] Free Screenshot & Recording Made Simple for Android Users for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-x-professional-audio-toolkit-personal-computing/"><u>[New] In 2024, X-Professional Audio Toolkit, Personal Computing</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-premier-cycling-titles-to-try-out-for-2024/"><u>[New] Premier Cycling Titles to Try Out for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-essential-skills-for-efficient-zoom-podcasting/"><u>[Updated] 2024 Approved Essential Skills for Efficient Zoom Podcasting</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-pro-video-guide-crafting-engaging-screencasts/"><u>[Updated] In 2024, Pro Video Guide Crafting Engaging Screencasts</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-perfect-your-preview-fullscreen-mastery-with-premiere-pro/"><u>2024 Approved Perfect Your Preview Fullscreen Mastery with Premiere Pro</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-windows-screencast-champions-revealed/"><u>2024 Approved Windows Screencast Champions Revealed</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/extract-and-save-fb-videos-the-cutting-edge-of-top-5/"><u>Extract and Save FB Videos The Cutting Edge of Top 5</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hassle-free-downloading-and-implementation-of-intel-dual-band-wireless-ac-7260-driver/"><u>Hassle-Free Downloading and Implementation of Intel Dual Band Wireless AC 7260 Driver</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Vivo Y78t | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-the-transition-installing-windows-11-onto-a-new-drive/"><u>Mastering the Transition: Installing Windows 11 Onto a New Drive</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/selecting-fps-for-videos-why-not-both-30-or-60/"><u>Selecting FPS for Videos Why Not Both, 30 or 60?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-discover-why-av1-is-a-game-changer-for-youtube-viewers/"><u>[New] 2024 Approved Discover Why AV1 Is a Game Changer for YouTube Viewers</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-break-free-from-the-norms-crafting-your-own-streamer-identity/"><u>[Updated] Break Free From The Norms Crafting Your Own Streamer Identity</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-audacity-mastery-for-mac-users-audio-recording-essentials/"><u>[Updated] In 2024, Audacity Mastery for Mac Users Audio Recording Essentials</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-breaking-down-the-hype-around-recordcast/"><u>[Updated] In 2024, Breaking Down the Hype Around RecordCast</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-beginner-friendly-approach-to-iphone-screen-casts/"><u>2024 Approved Beginner-Friendly Approach to Iphone Screen Casts</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-strategies-for-succeeding-with-facebook-video-marketing-and-revenue/"><u>2024 Approved Strategies for Succeeding with Facebook Video Marketing and Revenue</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/crafted-perfection-ranking-the-best-7-stardew-mods-7/"><u>Crafted Perfection Ranking the Best 7 Stardew Mods (#7)</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-watch-avchd-mts-video-on-moto-e13-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to watch AVCHD MTS video on Moto E13?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/ideal-choice-best-free-reliable-mac-screenshot-tools/"><u>Ideal Choice Best Free, Reliable Mac Screenshot Tools</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-extraordinary-12-tools-for-endless-screen-capture/"><u>In 2024, Extraordinary 12 Tools for Endless Screen Capture</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-windows-security-fault-in-1011-edition/"><u>Resolving Windows Security Fault in 10/11 Edition</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-the-netatmo-weather-station-perfect-choice-for-mobile-app-users/"><u>The Ultimate Guide to the Netatmo Weather Station: Perfect Choice for Mobile App Users</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-apps-and-online-tools-to-track-poco-m6-pro-5g-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Poco M6 Pro 5G Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/1728470294699-windows-11/"><u>Windows 11 バックアップ問題に対する最終的な解決法</u></a></li>
 </ul></div>
 

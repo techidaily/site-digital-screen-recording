@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Luminous Landscapes  Mastering Nightscape Portraits with Precision\""
-date: 2025-02-08T17:42:27.454Z
-updated: 2025-02-09T16:00:53.757Z
+date: 2025-02-13T17:14:26.875Z
+updated: 2025-02-19T20:04:09.673Z
 tags: 
   - screen-recording
   - ai video
@@ -23,6 +23,10 @@ Well, **night-mode portraits** can be such an opportunity. However, it can be a 
 
 ![night potraits](https://images.wondershare.com/filmora/article-images/2022/11/night-potraits.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Must-Dos in Night Portraits
 
 Let's start this discussion by exploring the major dos related to **night portraits** photoshoots. Some dos that you should consider are:
@@ -33,15 +37,15 @@ One of the most difficult repercussions of **night mode portraits** is that ever
 
 This will also allow you to take advantage of clicking pictures during special hour lighting. Besides, it will also help you to know how changing list settings can affect the scene. Another important thing to consider here is styling your subject. You need to make sure that your subjects look professional and choose the right type of clothing. So, try to understand the purpose of your **night mode portraits.**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Lighting your Subject
 
 While shooting **night portraits,** based on the location, you may not get sufficient natural light to light up the subject. This is where you need to use some types of artificial lighting. Without this, you may not be able to capture the details of your subject. Your shots will look very blurry and underexposed. Well, artificial lighting need not be a flash. The source of artificial lighting can be anything.
 
 ![pexels matheus bertelli 573298](https://images.wondershare.com/filmora/article-images/2022/11/pexels-matheus-bertelli-573298.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 For example, it can be a car light, a phone flashlight, a billboard light and anything that can light up the subject, offering a decent amount of illumination to your camera. Make sure that the light is accessible. Experts suggest using off-camera flashlights for **night portraits** as it offers better flexibility. Based on your requirements, you can adjust the direction and brightness. Using a light stand can also be very helpful here.
 
@@ -67,20 +71,20 @@ For better results, you can use a camera stabilizer. A camera stabilizer will of
 Experts suggest using a sturdy camera tripod, and it will be better to get a remote release. With this, you can trigger the camera without touching the shutter button, and it will reduce the movement of the camera.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: Don't-Dos in Night Portraits
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Don't dress in dark
 
 When it comes to wearing black for night portraits, experts suggest avoiding it unless you have proper light settings and you have your make-up done by an expert who can correct the color for shadows. Sometimes, dark clothes may create an aging effect on the subject. Besides, if the lighting condition is not good, the photos will become much darker due to your dark dress. So, wear light-colored dresses. Besides, don't use shirts that have visible text, brand names or logos.
 
 ![pexels nikolai ulltang 572463](https://images.wondershare.com/filmora/article-images/2022/11/pexels-nikolai-ulltang-572463.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Don't do a capture shoot
 
@@ -95,7 +99,7 @@ When you overuse the light, it can affect the scene's depth of field. Besides, t
 Talking about the shutter speed, for stationary subjects, you can go for 1/160s. If it is a moving subject, then 1/500s or above can work for you. Now, coming to the ISO, the default ISO value, i.e., ISO 100, is good for taking the highest-quality photos. If you think your portraits are overexposed, then increase the shutter speed to control the light.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Don't forget about white balance and Adjust It Before Shooting
@@ -104,19 +108,15 @@ Speaking about white balance, it is a setting to make sure the colors in the pho
 
 ![pexels simon robben 473107](https://images.wondershare.com/filmora/article-images/2022/11/pexels-simon-robben-473107.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 For example, in city areas, a lower setting, i.e., 3400 to 3900k, can work great. On the other hand, for darker skies, white balance settings of 4000k and above will offer you the best results. Begin with the above suggestion and click some test photos while increasing 100k after every shot to find the right white balance settings.
 
 However, you can also preset the white balance in your camera or edit the photos during post-processing to adjust the white balance. For example, you can use color correction to fix colors. Using this, you can make the photos look brighter or darker to make them appear natural and realistic. Always use a vector scope to make sure that your colors are accurate.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQs
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How To Capture Good Portraits at Night?
 
@@ -160,22 +160,21 @@ You should use your camera in manual mode. Besides, utilizing long camera shutte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-streamlining-webcam-recording-on-macbook-pro/"><u>[New] 2024 Approved Streamlining Webcam Recording on MacBook Pro</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-the-screencast-guide-to-flawless-presentations-and-demos/"><u>[New] 2024 Approved The Screencast Guide to Flawless Presentations and Demos</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-laying-the-foundation-of-zoom-room-use/"><u>[New] Laying the Foundation of Zoom Room Use</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-optimize-your-watch-habits-the-ultimate-guide-for-constructing-youtube-saved-lists/"><u>[New] Optimize Your Watch Habits The Ultimate Guide for Constructing YouTube Saved Lists</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-techniques-to-recover-from-obs-fullscreen-lockout-for-2024/"><u>[New] Techniques to Recover From OBS Fullscreen Lockout for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-ranking-the-leading-audio-modifying-mobile-apps-for-2024/"><u>[Updated] Ranking the Leading Audio-Modifying Mobile Apps for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-step-by-step-instructions-for-googles-automatic-transcription-service-for-2024/"><u>[Updated] Step-by-Step Instructions for Google's Automatic Transcription Service for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-tips-for-clearer-audio-in-home-based-podcasts-for-2024/"><u>[Updated] Tips for Clearer Audio in Home-Based Podcasts for 2024</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/elevate-every-event-get-subscribed-to-dj-tymes-extended-karaoke-library-enjoy-plus60-fresh-tracks-from-42123-updates/"><u>Elevate Every Event: Get Subscribed to DJ Tyme's Extended Karaoke Library – Enjoy +60 Fresh Tracks From 4/21/23 Updates</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-tecno-camon-20-pro-5g-to-mac-drfone-by-drfone-android/"><u>How to Mirror Tecno Camon 20 Pro 5G to Mac? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-tecno-spark-20-proplus-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Tecno Spark 20 Pro+ Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-infinix-smart-7-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Infinix Smart 7?</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-dominance-digest-the-ultimate-battle-royale-list/"><u>In 2024, Dominance Digest The Ultimate Battle Royale List</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/straightforward-screen-capture-app-win10-edition/"><u>Straightforward Screen Capture App, Win10 Edition</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/switching-back-from-macos-sierra-to-older-os-x/"><u>Switching Back From MacOS Sierra To Older OS X</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-nokia-130-music-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Nokia 130 Music Bricked Devices | Dr.fone</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/unlock-solutions-how-to-fix-a-black-screen-on-your-monitor-tips-from-yl-computing/"><u>Unlock Solutions: How To Fix A Black Screen on Your Monitor - Tips From YL Computing</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-revisiting-radeon-review-and-restore-for-2024/"><u>[New] Revisiting Radeon Review and Restore for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-tune-into-music-top-free-apps-for-youtube-songs-on-android-phones/"><u>[New] Tune Into Music Top Free Apps for YouTube Songs on Android Phones</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-5-simple-ways-to-save-your-youtube-content/"><u>[Updated] 2024 Approved 5 Simple Ways to Save Your YouTube Content</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-livestreaming-titan-face-off/"><u>[Updated] 2024 Approved LiveStreaming Titan Face-Off</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-leading-8-linux-programs-for-screenshots/"><u>[Updated] The Leading 8 Linux Programs for Screenshots</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-affordable-mcb-theme-images-for-channels/"><u>2024 Approved Affordable MCB Theme Images for Channels</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-quick-scan-recorder-for-chrome-devices/"><u>2024 Approved Quick Scan Recorder for Chrome Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-perplexing-case-of-unexpected-video-aspects-in-instagram/"><u>2024 Approved The Perplexing Case of Unexpected Video Aspects in Instagram</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-logitech-g-pro-controller-on-pc-download-compatible-with-windows-11-10-8-and-7/"><u>Get Your Logitech G PRO Controller on PC - Download Compatible with Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-itel-s23plus-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Itel S23+ Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-14-pro-max-to-samsung-galaxy-s20-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone 14 Pro Max to Samsung Galaxy S20? | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-navigating-digital-discussions-with-ease-essential-advice-for-successful-zoom-meetings/"><u>In 2024, Navigating Digital Discussions with Ease Essential Advice for Successful Zoom Meetings</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-rapid-recording-audio-in-action/"><u>In 2024, Rapid Recording Audio in Action</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-7-strategies-suggested-by-apple-for-optimizing-user-interface-on-visionos-explored-by-zdnet/"><u>Top 7 Strategies Suggested by Apple for Optimizing User Interface on VisionOS - Explored by ZDNet</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/uncharted-visual-narrative-evaluation-and-parallel-proposals/"><u>Uncharted Visual Narrative Evaluation & Parallel Proposals</u></a></li>
+<li><a href="https://some-tips.techidaily.com/what-to-expect-with-apples-airpods-pro-and-max-unveiling-key-features-and-enhancements/"><u>What to Expect with Apple's AirPods Pro & Max? Unveiling Key Features and Enhancements</u></a></li>
 </ul></div>
 
